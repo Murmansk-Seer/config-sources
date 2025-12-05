@@ -527,7 +527,8 @@
     <Fragment ID="2400527" show="1" Name="重装·派鲁基达因子" MonsterID="4834" Rarity="3" PetLimit="1" PetConsume="540" NewSeIdx="6326" effectId="2024" NewseConsume="270" MoveID="38151" MovesConsume="108" NeedmonID="0" NewMsglogId="2511130800" SeMsglog="2511130801" EffectMsglog="2511130802"/>
 	<Fragment ID="2400528" show="1" Name="笛科特因子" MonsterID="4838" Rarity="2" PetLimit="1" PetConsume="400" NewSeIdx="6330" effectId="2029" NewseConsume="200" MoveID="38157" MovesConsume="100" NeedmonID="0" NewMsglogId="2511200400" SeMsglog="2511200401" EffectMsglog="2511200402"/>
     <Fragment ID="2400529" show="1" Name="麦迪亚因子" MonsterID="4839" Rarity="2" PetLimit="1" PetConsume="400" NewSeIdx="6333" effectId="2032" NewseConsume="200" MoveID="38160" MovesConsume="100" NeedmonID="0" NewMsglogId="2511270600" SeMsglog="2511270601" EffectMsglog="2511270602"/>
-   
+    <Fragment ID="2400530" show="1" Name="沙弑·吉拉因子" MonsterID="4844" Rarity="2" PetLimit="1" PetConsume="400" NewSeIdx="6336" effectId="2035" NewseConsume="200" MoveID="38177" MovesConsume="100" NeedmonID="0" NewMsglogId="2512040500" SeMsglog="2512040501" EffectMsglog="2512040502"/>
+
 	
 	
 </Root>

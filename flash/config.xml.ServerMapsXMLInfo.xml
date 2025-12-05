@@ -1449,7 +1449,7 @@ eg:
 		</GameTriggerGrp>
 		<Bosses>
 			<Boss AppearTime="0 23" BossVisible="0" Name="艾文">
-				<BossMon MonID="5037" Hp="0" Lv="0" LvHpMatchUser="2"/>
+				<BossMon MonID="15037" Hp="0" Lv="0" LvHpMatchUser="2"/>
 			</Boss>
 		</Bosses>
 	</Map>
@@ -1551,9 +1551,9 @@ eg:
 				<BossMon MonID="96" Hp="800" Lv="60" NewSeIdxs="13 70"/>
 			</Boss>
 			<Boss Id="1" AppearTime="0 23" BossVisible="0" Name="">
-				<BossMon MonID="5035" LvHpMatchUser="2" Hp="0" Lv="0"/> <!--卡洛斯-->
+				<BossMon MonID="15035" LvHpMatchUser="2" Hp="0" Lv="0"/> <!--卡洛斯-->
 				<BossMon MonID="56" LvHpMatchUser="2" Hp="0" Lv="0"/> <!--奇洛-->
-				<BossMon MonID="5036" LvHpMatchUser="2" Hp="0" Lv="0" /> <!--威斯克-->
+				<BossMon MonID="15036" LvHpMatchUser="2" Hp="0" Lv="0" /> <!--威斯克-->
 			</Boss>
 			<Boss Id="2" TaskID="331" AppearTime="0 23" BossVisible="0" Name="SPT斯宾塞" SptLevel="1">
 				<BossMon MonID="945" Hp="2500" Lv="80" NewSeIdxs="1 58 79 110 226 227 228 212" />
@@ -1796,13 +1796,13 @@ eg:
 				<BossMon MonID="701" Hp="55" Lv="20" />
 			</Boss>
 			<Boss TaskID="327" AppearTime="0 23" Name="SPT克莱芬难度1" SptLevel="1">
-				<BossMon MonID="5029" Hp="800" Lv="55" NewSeIdxs="7 116"/>
+				<BossMon MonID="15029" Hp="800" Lv="55" NewSeIdxs="7 116"/>
             </Boss>
             <Boss TaskID="328" AppearTime="0 23" Name="SPT克莱芬难度2" SptLevel="1">
-				<BossMon MonID="5029" Hp="5000" Lv="80" NewSeIdxs="7 116 113 1 2 58 173"/>
+				<BossMon MonID="15029" Hp="5000" Lv="80" NewSeIdxs="7 116 113 1 2 58 173"/>
             </Boss>
             <Boss TaskID="2027" AppearTime="0 23" Name="S级SPT克莱芬难度2" SptLevel="2">
-				<BossMon MonID="5029" Hp="10000" Lv="100" NewSeIdxs="7 116 113 1 2 58 173"/>
+				<BossMon MonID="15029" Hp="10000" Lv="100" NewSeIdxs="7 116 113 1 2 58 173"/>
             </Boss>
 		</Bosses>
 	</Map>
@@ -1870,7 +1870,7 @@ eg:
 	<Map ID="58" Name="尼古尔峭壁" InitX="379" InitY="438" StarExplorationID="12">
 		<Bosses>
 			<Boss AppearTime="0 23" Name="20111103威斯克" >
-				<BossMon MonID="5036" LvHpMatchUser="2" Hp="0" Lv="0"/>
+				<BossMon MonID="15036" LvHpMatchUser="2" Hp="0" Lv="0"/>
 			</Boss>
 			<Boss TaskID="785" AppearTime="0 23" BossVisible="0" Name="SPT阿克奥斯">
 				<BossMon MonID="974" Hp="5000" Lv="80" NewSeIdxs="113 175 2 1 79 9 173 138" />
@@ -2025,7 +2025,7 @@ eg:
 		</Monsters>
 		<Bosses>
 			<Boss AppearTime="0 23" BossVisible="0" Name="威斯克">
-				<BossMon MonID="5036" Hp="0" Lv="0" LvHpMatchUser="2"/>
+				<BossMon MonID="15036" Hp="0" Lv="0" LvHpMatchUser="2"/>
 			</Boss>
 		</Bosses>
 	</Map>
@@ -3525,12 +3525,12 @@ eg:
 				<BossMon MonID="804" Hp="8000" Lv="100" NewSeIdxs="132 1 79 58 110"/>
 			</Boss>
 			<Boss Symbol="25" BossVisible="0" AppearTime="0 23" Name="小凤凰连战" >
-				<BossMon MonID="5030" Hp="1000" Lv="105" NewSeIdxs="213 72 55 1 110"/>
-				<BossMon MonID="5031" Hp="1000" Lv="105" NewSeIdxs="80 53 212 1 79 110"/>
-				<BossMon MonID="5032" Hp="1000" Lv="105" NewSeIdxs="120 109 1 9 79 110"/>
+				<BossMon MonID="15030" Hp="1000" Lv="105" NewSeIdxs="213 72 55 1 110"/>
+				<BossMon MonID="15031" Hp="1000" Lv="105" NewSeIdxs="80 53 212 1 79 110"/>
+				<BossMon MonID="15032" Hp="1000" Lv="105" NewSeIdxs="120 109 1 9 79 110"/>
 			</Boss>
 			<Boss TaskID="148" BossVisible="0" AppearTime="0 23" Name="朱雀" >
-				<BossMon MonID="5033" Hp="25000" Lv="105" NewSeIdxs="113 79 2 58 1 55 99"/>
+				<BossMon MonID="15033" Hp="25000" Lv="105" NewSeIdxs="113 79 2 58 1 55 99"/>
 			</Boss>
 		</Bosses>
     </Map>
@@ -3646,7 +3646,7 @@ eg:
 	<Map ID="326" Name="暮色之城" InitX="230" InitY="435" StarExplorationID="14">
 		<Bosses>
 			<Boss BossVisible="0" AppearTime="0 23" Name="瑞尔斯" >
-				<BossMon MonID="5039" Hp="10000" Lv="100" NewSeIdxs="84 58" />
+				<BossMon MonID="15039" Hp="10000" Lv="100" NewSeIdxs="84 58" />
 			</Boss>
 		</Bosses>
 		<Monsters>
@@ -4062,10 +4062,10 @@ eg:
 	<Map ID="357" Name="邪灵密室" InitX="855" InitY="290" >
 		<Bosses>
 			<Boss AppearTime="0 23" Name="邪灵战士" >
-				<BossMon MonID="5027" LvHpMatchUser="2" Hp="0" Lv="0" />
+				<BossMon MonID="15027" LvHpMatchUser="2" Hp="0" Lv="0" />
 			</Boss>
 			<Boss AppearTime="0 23" Name="威斯克" >
-				<BossMon MonID="5036" LvHpMatchUser="2" Hp="0" Lv="0" />
+				<BossMon MonID="15036" LvHpMatchUser="2" Hp="0" Lv="0" />
 			</Boss>
 		</Bosses>
 	</Map>
@@ -4746,7 +4746,7 @@ eg:
         </Monsters>
 		<Bosses>
 			<Boss AppearTime="0 23" Name="邪灵战士" >
-				<BossMon MonID="5027" LvHpMatchUser="2" Hp="0" Lv="0" />
+				<BossMon MonID="15027" LvHpMatchUser="2" Hp="0" Lv="0" />
 			</Boss>
 		</Bosses>
 	</Map>
@@ -5041,7 +5041,7 @@ eg:
 				<BossMon MonID="824" LvHpMatchUser="2" Hp="0" Lv="0" />
 			</Boss>
 			<Boss AppearTime="0 23" Name="20110909英雄联盟" >
-				<BossMon MonID="5027" LvHpMatchUser="2" Hp="0" Lv="0" />
+				<BossMon MonID="15027" LvHpMatchUser="2" Hp="0" Lv="0" />
 				<BossMon MonID="56" LvHpMatchUser="2" Hp="0" Lv="0" />
 			</Boss>
 		</Bosses>
@@ -5080,7 +5080,7 @@ eg:
         </Monsters>
 		<Bosses>
 			<Boss Id="0" AppearTime="0 23" Name="邪灵战士" >
-				<BossMon MonID="5027" LvHpMatchUser="2" Hp="0" Lv="0" />
+				<BossMon MonID="15027" LvHpMatchUser="2" Hp="0" Lv="0" />
 			</Boss>
 			<Boss Id="1" AppearTime="0 23" Name="托瑞斯" >
 				<BossMon MonID="843" LvHpMatchUser="2" Hp="0" Lv="0" />
@@ -5482,7 +5482,7 @@ eg:
 	<Map ID="479" Name="魔窟" InitX="316" InitY="404" >
 		<Bosses>
 			<Boss BossVisible="0" AppearTime="0 23" Name="卡洛斯" >
-				<BossMon MonID="5035" LvHpMatchUser="2" Hp="0" Lv="0" />
+				<BossMon MonID="15035" LvHpMatchUser="2" Hp="0" Lv="0" />
 			</Boss>
 			<Boss TaskID="332" AppearTime="0 23" BossVisible="0" Name="SPT米诺斯" SptLevel="1">
 				<BossMon MonID="957" Hp="4000" Lv="80" NewSeIdxs="1 2 58 79 230 231"/>
@@ -5819,10 +5819,10 @@ eg:
                 <BossMon MonID="673" Hp="45" Lv="18" />
             </Boss>
 			<Boss TaskID="324" BossVisible="0" AppearTime="0 23" Name="SPT斯普林特" SptLevel="1">
-				<BossMon MonID="5022" Hp="2000" Lv="80" NewSeIdxs="1 2 79 58"/>
+				<BossMon MonID="15022" Hp="2000" Lv="80" NewSeIdxs="1 2 79 58"/>
             </Boss>
 			<Boss TaskID="2024" BossVisible="0" AppearTime="0 23" Name="SPT斯普林特" SptLevel="2">
-				<BossMon MonID="5022" Hp="8000" Lv="100" NewSeIdxs="1533 58 1497 1501 183 104 132"/>
+				<BossMon MonID="15022" Hp="8000" Lv="100" NewSeIdxs="1533 58 1497 1501 183 104 132"/>
             </Boss>
         </Bosses>
     </Map>
@@ -6722,7 +6722,7 @@ eg:
 	<Map ID="688" Name="推特星" InitX="66" InitY="350" PrimaryScene="2">
 		<Bosses>
 			<Boss BossVisible="0" AppearTime="0 23" Name="瑞尔斯" >
-				<BossMon MonID="5039" Hp="100000" Lv="100" NewSeIdxs="84 58" />
+				<BossMon MonID="15039" Hp="100000" Lv="100" NewSeIdxs="84 58" />
 			</Boss>
 			<Boss TaskID="335" AppearTime="0 23" BossVisible="0" Name="SPT瑞尔斯" PkFlag="1" SptLevel="1">
 				<BossMon MonID="1045" Hp="2000" Lv="80" NewSeIdxs="2 58 79 110 104 249" />
@@ -6783,8 +6783,8 @@ eg:
 	<Map ID="690" Name="伯利兹广场" InitX="50" InitY="300" >
 		<Bosses>
 			<Boss BossVisible="0" AppearTime="0 23" Name="卡洛斯-艾文" >
-				<BossMon MonID="5035" LvHpMatchUser="2" Hp="0" Lv="0"/>
-				<BossMon MonID="5037" LvHpMatchUser="2" Hp="0" Lv="0"/>
+				<BossMon MonID="15035" LvHpMatchUser="2" Hp="0" Lv="0"/>
+				<BossMon MonID="15037" LvHpMatchUser="2" Hp="0" Lv="0"/>
 			</Boss>
 			<Boss BossVisible="0" AppearTime="0 23" Name="佐格-艾利逊的海盗精灵" >
 				<BossMon MonID="56" LvHpMatchUser="2" Hp="0" Lv="0"/>
@@ -6930,7 +6930,7 @@ eg:
         </Monsters>
 		<Bosses>
 			<Boss BossVisible="0" AppearTime="0 23" Name="艾文" >
-				<BossMon MonID="5037" LvHpMatchUser="2" Hp="0" Lv="0"/>
+				<BossMon MonID="15037" LvHpMatchUser="2" Hp="0" Lv="0"/>
 			</Boss>
 		</Bosses>
     </Map>
@@ -16370,7 +16370,7 @@ eg:
 		</GameTriggerGrp>
 		<Bosses>
 			<Boss AppearTime="0 23" BossVisible="0" Name="艾文">
-				<BossMon MonID="5037" Hp="0" Lv="0" LvHpMatchUser="2"/>
+				<BossMon MonID="15037" Hp="0" Lv="0" LvHpMatchUser="2"/>
 			</Boss>
 		</Bosses>
 	</Map>
@@ -16488,13 +16488,13 @@ eg:
 				<BossMon MonID="701" Hp="55" Lv="20" />
 			</Boss>
 			<Boss TaskID="327" AppearTime="0 23" Name="SPT克莱芬难度1" SptLevel="1">
-				<BossMon MonID="5029" Hp="800" Lv="55" NewSeIdxs="7 116"/>
+				<BossMon MonID="15029" Hp="800" Lv="55" NewSeIdxs="7 116"/>
             </Boss>
             <Boss TaskID="328" AppearTime="0 23" Name="SPT克莱芬难度2" SptLevel="1">
-				<BossMon MonID="5029" Hp="5000" Lv="80" NewSeIdxs="7 116 113 1 2 58 173"/>
+				<BossMon MonID="15029" Hp="5000" Lv="80" NewSeIdxs="7 116 113 1 2 58 173"/>
             </Boss>
             <Boss TaskID="2027" AppearTime="0 23" Name="S级SPT克莱芬难度2" SptLevel="2">
-				<BossMon MonID="5029" Hp="10000" Lv="100" NewSeIdxs="7 116 113 1 2 58 173"/>
+				<BossMon MonID="15029" Hp="10000" Lv="100" NewSeIdxs="7 116 113 1 2 58 173"/>
             </Boss>
 			<!-- Unity场景野怪-交互5触发-露尼亚 参数9-->
 			<Boss BossCatchable="1" AppearTime="0 23" Name="露尼亚" >
@@ -16791,7 +16791,7 @@ eg:
 	<Map ID="3101" Name="尼古尔峭壁" InitX="379" InitY="438" StarExplorationID="12">
 		<Bosses>
 			<Boss AppearTime="0 23" Name="20111103威斯克" >
-				<BossMon MonID="5036" LvHpMatchUser="2" Hp="0" Lv="0"/>
+				<BossMon MonID="15036" LvHpMatchUser="2" Hp="0" Lv="0"/>
 			</Boss>
 			<Boss TaskID="785" AppearTime="0 23" BossVisible="0" Name="SPT阿克奥斯">
 				<BossMon MonID="974" Hp="5000" Lv="80" NewSeIdxs="113 175 2 1 79 9 173 138" />
@@ -16955,7 +16955,7 @@ eg:
 	<Map ID="3110" Name="暮色之城" InitX="230" InitY="435" StarExplorationID="14">
 		<Bosses>
 			<Boss BossVisible="0" AppearTime="0 23" Name="瑞尔斯" >
-				<BossMon MonID="5039" Hp="10000" Lv="100" NewSeIdxs="84 58" />
+				<BossMon MonID="15039" Hp="10000" Lv="100" NewSeIdxs="84 58" />
 			</Boss>
 		</Bosses>
 		<Monsters>
@@ -17166,7 +17166,7 @@ eg:
         </Monsters>
 		<Bosses>
 			<Boss BossVisible="0" AppearTime="0 23" Name="艾文" >
-				<BossMon MonID="5037" LvHpMatchUser="2" Hp="0" Lv="0"/>
+				<BossMon MonID="15037" LvHpMatchUser="2" Hp="0" Lv="0"/>
 			</Boss>
 		</Bosses>
     </Map>
@@ -18494,6 +18494,6 @@ eg:
 		<DefaultMap ID="3" RandMaps="1224" Desc="新手登录场景"/>
 	</DefaultMaps>
 	<VersionNumber>
-		<Version ID="20251128" Desc="每次发版需同步更新版本号"/>
+		<Version ID="20251205" Desc="每次发版需同步更新版本号"/>
 	</VersionNumber>
 </Maps>

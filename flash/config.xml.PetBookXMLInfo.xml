@@ -213,11 +213,11 @@ Desc:    刻印信息  tips的获得途径文字
 
 <Hotspot><!-- 本周热点 -->
 <item intro="全新精灵上线，快来看看吧！">
-      <place type= "0" ID="4839" ImageID= "4839" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
-	  <place type= "0" ID="4840" ImageID= "4840" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
-	  <place type= "0" ID="4841" ImageID= "4841" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
-	  <place type= "0" ID="4842" ImageID= "4842" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
-	  <place type= "0" ID="4843" ImageID= "4843" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
+      <place type= "0" ID="4844" ImageID= "4844" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
+	  <!-- <place type= "0" ID="4840" ImageID= "4840" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
+	  <!-- <place type= "0" ID="4841" ImageID= "4841" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
+	  <!-- <place type= "0" ID="4842" ImageID= "4842" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
+	  <!-- <place type= "0" ID="4843" ImageID= "4843" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "0" ID="4806" ImageID= "4806" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "0" ID="4804" ImageID= "4804" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "0" ID="4805" ImageID= "4805" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
@@ -255,9 +255,9 @@ Desc:    刻印信息  tips的获得途径文字
       <place type= "0" ID="4641" ImageID= "4641" Label= "0"  Redirect="map|module" Go="1679;app/ValleyExpeditionHatchMainPanel"/>-->
 
 
-      <place type= "1" ID="778" monID="3896" ImageID= "1400778" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
-      <place type= "1" ID="779" monID="4840" ImageID= "1400779" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
-	  <place type= "1" ID="780" monID="4840" ImageID= "1400780" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
+      <place type= "1" ID="781" monID="4542" ImageID= "1400781" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
+      <place type= "1" ID="782" monID="4706" ImageID= "1400782" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
+	  <!-- <place type= "1" ID="780" monID="4840" ImageID= "1400780" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "1" ID="769" monID="4822" ImageID= "1400769" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
       <!-- <place type= "1" ID="749" monID="4805" ImageID= "1400749" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "1" ID="750" monID="4069" ImageID= "1400750" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
@@ -4242,7 +4242,7 @@ Desc:    刻印信息  tips的获得途径文字
 	<Monster ID="3938" DefName="圣骑·赫里斯" Type="光" Height="195" Weight="85" Features="俯仰山涧其息可止，沐浴林雾焕然新生。跃马驭弓圣箭制裁，荣誉之名圣骑之光。" mapID="1398"/>
 	<Monster ID="3939" DefName="贝瑶" Type="冰 火" Height="170" Weight="46" Features="联赛圣战月度更新，主场精灵再度。专属神宠贝瑶登场，激情不断，火力全开！"/>
 	<Monster ID="3940" DefName="鬼神无双·吕布" Type="次元" Height="190" Weight="80" Features="挺立战场虓虎之姿，鬼怪神力何惧何患。孑绝冷傲一身孤勇，惊天泣地冠绝无双。鬼神无双•吕布震撼降临！" mapID="103"/>
-	<Monster ID="3941" DefName="混沌暗王霍德尔" Type="混沌 暗影" Height="185" Weight="75" Features="幽夜雾霭威压阵阵，灵眸冷峻厉魂凄凄。冥凌浃行夺魄嗤嗤，离魂绝愁永夜未央。混沌霍德尔霸气登场！" mapID="1399"/>
+	<Monster ID="3941" DefName="混沌暗王霍德尔" Type="混沌 暗影" Height="185" Weight="75" Features="幽夜雾霭威压阵阵，灵眸冷峻厉魂凄凄。冥凌浃行夺魄嗤嗤，离魂绝愁永夜未央。混沌霍德尔霸气登场！" mapID="1399" Target="150097"/>
 	<Monster ID="3942" DefName="丽娜菲" Type="水" Height="167" Weight="44" Features="水系神宠以歌为伴，琴瑟之间满是破坏的旋律！作为敌人的噩梦，却也是队友最坚实的伙伴！" mapID="103"/>
 	<Monster ID="3943" DefName="沐沐" Type="草" Height="160" Weight="41" Features="长相甜美可爱，战力却出奇的强悍；敢小瞧她，你绝对会被打的落花流水！" mapID="1399"/>
 	<Monster ID="3944" DefName="翊" Type="飞行 暗影" Height="446" Weight="323" Features="嗜血扑咬骇人可畏，凄厉嘶鸣山林震颤。全新包月精灵登场，上古十二荒兽—翊！" mapID="103" Target="111500"/>
@@ -4287,7 +4287,7 @@ Desc:    刻印信息  tips的获得途径文字
 	<Monster ID="3983" DefName="灵·辰坤星魂" Type="圣灵 地面" Height="198" Weight="88" Features="高深莫测的神秘人物，现在以灵体形式存在，似乎与蜜雪儿有联系。" mapID="1413" Redirect="map|module" Go="1413;app/S12StarSoulOfChenKun" Target="190000"/>
 	<Monster ID="3984" DefName="弥尔" Type="邪灵 神秘" Height="900" Weight="30" Features="被邪灵侵蚀的悲悯灵魂，力量的蛊惑让他一点点丧失了自我......" Redirect="alarm" Go="仅限H5端SPT活动获得"/>
 	<Monster ID="3985" DefName="弥萨尔" Type="邪灵 神秘" Height="900" Weight="30" Features="弥尔的进化形态，手中的法杖内汲存了众多的亡灵怨怒之力！" Redirect="alarm" Go="仅限H5端SPT活动获得"/>
-	<Monster ID="3986" DefName="启灵元神" Type="神灵" Height="180" Weight="55" Features="2020年年费精灵，查理星系的现任守护者，异世界的信仰之神，承载着人们最后的希望！" mapID="1414" Target="111500"/>
+	<Monster ID="3986" DefName="启灵元神" Type="神灵" Height="180" Weight="55" Features="2020年年费精灵，查理星系的现任守护者，异世界的信仰之神，承载着人们最后的希望！" mapID="1414" Target="111700"/>
 	<Monster ID="3987" DefName="混沌·阿内斯" Type="混沌 次元" Height="900" Weight="30" Features="堕入混沌的阿内斯，体内可供支配的能力变得愈发强大......" mapID="1415" Redirect="map|module" Go="1415;app/S13ANeiSiBlackening"/>
 	<Monster ID="3988" DefName="腊梅·花信" Type="冰 神秘" Height="900" Weight="30" Features="1月包月精灵，纷纷飞雪中的梅花之灵。" mapID="0" Target="111500"/>
 	<Monster ID="3989" DefName="洛琦" Type="光 暗影" Height="900" Weight="30" Features="一月巅峰圣战精灵，吸纳光辉圣能的同时，掌握了暗夜之力，实力异常恐怖！"/>
@@ -4469,7 +4469,7 @@ Desc:    刻印信息  tips的获得途径文字
 	<Monster ID="4166" DefName="滢心" Type="冰 神秘" Height="160" Weight="40" Features="一月巅峰圣战精灵，冬天是滢心最爱的季节，她已经穿上了自己的棉袄准备出门打雪仗了！"/>
 	<Monster ID="4167" DefName="查梅洛尼达" Type="超能" Height="200" Weight="100" Features="查梅洛的进化形态，绝境之中挣扎，体内的抗争之魂觉醒，为了逝去的灵魂战斗！" Redirect="map|module" Go="1472;app/S69ChameiluoEvoMainPanel"/>
 	<Monster ID="4168" DefName="蒙图拉" Type="暗影 火" Height="190" Weight="95" Features="一月包月精灵，十二影卫之一，隐藏在阴森的鬼火面具后面的是更深层的阴森！" Target="111500"/>
-	<Monster ID="4169" DefName="弑序神罗" Type="虚空 混沌" Height="184" Weight="73" Features="2021年年费精灵，莱达宇宙的黑夜之神，长夜无尽，黎明未觉，生命不朽，枷锁不灭！" Redirect="map" Go="1471" Target="111500"/>
+	<Monster ID="4169" DefName="弑序神罗" Type="虚空 混沌" Height="184" Weight="73" Features="2021年年费精灵，莱达宇宙的黑夜之神，长夜无尽，黎明未觉，生命不朽，枷锁不灭！" Redirect="map" Go="1471" Target="111700"/>
 	<Monster ID="4170" DefName="埃格尔斯" Type="飞行" Height="190" Weight="100" Features="埃格被佩特菲德注入灵魂力量后所化身的战斗天使形态，灵魂之力与生物智慧的完美结合令人十分棘手！" Redirect="map|module" Go="1473;app/S70AigeersiMainPanel"/>
 	<Monster ID="4171" DefName="温泉贝贝" Type="水 超能" Height="50" Weight="20" Features="蓝露温泉馆的新员工，最喜欢的事是泡温泉，但是由于缺乏经验，总是控制不好水温..." Redirect="map|module" Go="1;app/HotSpringHelperMainPanel"/>
 	<Monster ID="4172" DefName="雪莉" Type="冰 神秘" Height="175" Weight="50" Features="遥远雪国的仕女，于冰域中成长，以冰蝶为利器！" Redirect="map|module" Go="103;app/ExchangeDiamondMain2019Panel"/>
@@ -4621,7 +4621,7 @@ Desc:    刻印信息  tips的获得途径文字
 	<Monster ID="4318" DefName="布蕾里克" Type="冰 超能" Height="173" Weight="53" Features="萨特的手下之一，人前冷漠但却充满爱心，善用融合了寒冰魔法的枪械攻击，射术十分精准！" Redirect="map|module" Go="1530;app/S102BuLeiLiKeMainPanel"/>
 	<Monster ID="4319" DefName="露露" Type="远古 地面" Height="156" Weight="49" Features="2022年1月巅峰圣战精灵，露露是一个性格活泼的小女孩，松鼠榛榛是她最好的朋友！"/>
 	<Monster ID="4320" DefName="泰小斯" Type="电 龙" Height="95" Weight="45" Features="泰普斯的幼年体，遭受沙暴侵袭后的泰普斯一族已经濒临灭绝，在凌风孤潮或许偶尔能见到泰小斯的影子..." Redirect="map" Go="1530"/>
-	<Monster ID="4321" DefName="至序圣华" Type="圣灵 轮回" Height="182" Weight="58" Features="2022年年费精灵，莱达宇宙的光明之神，光耀涤世，斩破暗夜，圣华神临，唯序至上！" Redirect="map" Go="1529" Target="111500"/>
+	<Monster ID="4321" DefName="至序圣华" Type="圣灵 轮回" Height="182" Weight="58" Features="2022年年费精灵，莱达宇宙的光明之神，光耀涤世，斩破暗夜，圣华神临，唯序至上！" Redirect="map" Go="1529" Target="111700"/>
 	<Monster ID="4322" DefName="西莉斯特" Type="飞行" Height="183" Weight="61" Features="2022年1月包月精灵，十二冠灵之一，负责掌控天空，长箭破穹，风华圣冕！" Target="111500"/>
 	<Monster ID="4323" DefName="绿棘巨魔" Type="草 暗影" Height="344" Weight="482" Features="由无数绿棘球合体变成的巨大魔物，苏醒后开始四处破坏，拥有着可怕的战斗力！" Redirect="map|module" Go="1531;app/SpetLvJiJuMoPanel" jumptarget="151/58" Target="153201/58"/>
 	<Monster ID="4324" DefName="卡托娜" Type="圣灵 地面" Height="167" Weight="48" Features="卡卡托斯一族的圣女，是古索迪尔的老朋友，娇小可爱的身体内蕴藏着不可小觑的能量！" Redirect="map|module" Go="1532;app/SpetKaTuoNaPanel" jumptarget="151/59" Target="153201/59"/>
@@ -4748,7 +4748,7 @@ Desc:    刻印信息  tips的获得途径文字
 	<Monster ID="4447" DefName="岭妃" Type="混沌 地面" Height="169" Weight="48" Features="2022年12月巅峰圣战精灵，能够利用掩埋在大地之下的尸骨，封住对手的行动！"/>
 	<Monster ID="4448" DefName="流荧·雪" Type="自然 冰" Height="167" Weight="47" Features="「灰爵」的成员之一，年纪虽小却有着不俗的战斗实力，使用随身携带的玲珑球就可以在附近降下鹅毛大雪。" Redirect="map|module" Go="1583;app/SpetLYXMainPanel" jumptarget="151/102" Target="153201/102"/>
 	<Monster ID="4449" DefName="禅老" Type="神秘 战斗" Height="179" Weight="65" Features="隐居在修缘谷的神秘仙人，对战斗技艺有着独到的理解，没有人知道他已经存活了多久，他只想着在山水之下过安静的生活。" Redirect="map|module" Go="1584;app/SpetChanLaoMainPanel" jumptarget="151/107" Target="153201/107"/>
-	<Monster ID="4450" DefName="逐界苍星" Type="机械 神秘" Height="178" Weight="54" Features="2023年年费精灵，代号索拉里斯，来自异域的苍穹，终末遨游的孤星，手中的魔盒·苍星之理承载着来自未来的记忆和力量，为阻止命定的轮回前往星之所向。" Redirect="map" Go="1588" Target="111500"/>
+	<Monster ID="4450" DefName="逐界苍星" Type="机械 神秘" Height="178" Weight="54" Features="2023年年费精灵，代号索拉里斯，来自异域的苍穹，终末遨游的孤星，手中的魔盒·苍星之理承载着来自未来的记忆和力量，为阻止命定的轮回前往星之所向。" Redirect="map" Go="1588" Target="111700"/>
 	<Monster ID="4451" DefName="普达" Type="光" Height="63" Weight="30" Features="生活在修缘谷的小精灵，灵巧活泼，专门负责禅老的起居，干起活来丝毫不马虎。" Redirect="map" Go="1584"/>
 	<Monster ID="4452" DefName="兔兔警探" Type="自然 战斗" Height="112" Weight="38" Features="兔兔警探从小就对推理故事很感兴趣，立志要成为一名伟大的警探，守护世界的和平！在和赛尔摩斯组成了搭档后，她已经成功侦破了城市里大大小小的谜案。" Redirect="map|module" Go="1590;app/SpringFestivalActivityGoToMainPanel"/>
 	<Monster ID="4453" DefName="朵特" Type="冰 光" Height="76" Weight="34" Features="诞生于圣诞水晶球中的小精灵，十分渴望触摸外面的世界！" Redirect="map" Go="1"/>
@@ -5137,9 +5137,10 @@ Desc:    刻印信息  tips的获得途径文字
 	<Monster ID="4837" DefName="保姆派派" Type="草 机械" Height="119" Weight="33" Features="由派特博士改款的保姆派派，加装了针对苏摩保育工作的功能与装备。" Redirect="module" Go="app/FinalActivityPanel" Target="114004"/>
 	<Monster ID="4838" DefName="笛科特" Type="机械 超能" Height="146" Weight="74" Features="由派特博士为庆典专门改款的音乐解码机械精灵，可爱的造型下似乎还隐藏着不为人知的额外功能。" Redirect="module" Go="app/FinalActivityPanel" Target="153201/342"/>
 	<Monster ID="4839" DefName="麦迪亚" Type="地面" Height="186" Weight="84" Features="纳提姆的守备团的十夫长。虽然看起来不易亲近，但那只是他过于认真罢了。" Redirect="module" Go="app/FinalActivityPanel" Target="153201/343"/>
-	<Monster ID="4840" DefName="霞冠·星礼" Type="自然 战斗" Height="146" Weight="74" Features="星礼的全新形态，外表可爱但实力不容小觑。" Redirect="module" Go="app/FinalActivityPanel" Target="114018"/>
+	<Monster ID="4840" DefName="霞冠·星礼" Type="自然 战斗" Height="161" Weight="50" Features="星礼的全新形态，外表可爱但实力不容小觑。" Redirect="module" Go="app/FinalActivityPanel" Target="114018"/>
 	<Monster ID="4841" DefName="凯莫兽" Type="远古 地面" Height="178" Weight="105" Features="维茨洛奇坦星的本地生物，是当地人民生活中的好帮手。" Redirect="module" Go="app/FinalActivityPanel" Target="400015"/>
 	<Monster ID="4842" DefName="雷漠克怪" Type="地面 暗影" Height="180" Weight="107" Features="凯莫兽月化后的形态，在被能量侵蚀后已经失去了理智。" Redirect="module" Go="app/FinalActivityPanel" Target="400015"/>
 	<Monster ID="4843" DefName="辛德拉缇" Type="次元 龙" Height="167" Weight="47" Features="2025包月精灵，赫星童话之《灰姑娘与悖论》，故事讲述的是来自另一个时空的灰姑娘辛德拉缇，与时空悖论造就的恶龙王子战斗的故事。" Redirect="module" Go="app/FinalActivityPanel" Target="120000"/>
+	<Monster ID="4844" DefName="沙弑·吉拉" Type="暗影 神秘" Height="165" Weight="45" Features="来自涅达洛的神秘女刺客，能够扬起沙尘隐遁其中。她会是谁的终结者呢？" Redirect="module" Go="app/FinalActivityPanel" Target="153201/347"/>
 
 </root>

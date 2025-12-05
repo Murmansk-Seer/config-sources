@@ -175,10 +175,12 @@ sort标记展示序列 1为自己给自己的效果 2为队友给自己的效果
 	<item id="138" dec="和平对抗" tips="和平对抗" className="*" sort="5" isShowNum="1" NumDes="剩余回合" Des="己方在场精灵免疫受到的异常状态，免疫成功时回合数-1，最多减少至1"/>
 	<item id="139" dec="金祖之龍" tips="金祖之龍" className="*" sort="4" isShowNum="0" NumDes="" frame="0_0 1_0 2_2" Des="" spDes="1_己方受到臣服的回合免疫受到的异常状态；乔特鲁德受到致死伤害时若伤害高于其登场可获得的护盾则自身死亡以保留其20%的体力 2_灵魂回归乔特鲁德；乔特鲁德受到臣服的回合免疫受到的异常状态；减少乔特鲁德20%的所受非真实伤害" showmonster="4186"/>
 	<item id="140" dec="玄源之㡣" tips="玄源之㡣" className="*" sort="4" isShowNum="0" NumDes="" frame="0_0 1_0 2_2" Des="" spDes="1_己方受到疲惫的回合免疫受到的异常状态；乔特鲁德造成非致死伤害时若其最大体力的20%高于对手的体力则自身死亡以消耗对手全部体力 2_灵魂回归乔特鲁德；乔特鲁德受到疲惫的回合免疫受到的异常状态；增加乔特鲁德20%的体力上限" showmonster="4186"/>
+	<item id="141" dec="墨菲斯托1" tips="墨菲斯托1" className="*" sort="4" isShowNum="1" NumDes="" Des="" spDes="" showmonster="4186"/>
+	<item id="142" dec="墨菲斯托2" tips="墨菲斯托2" className="*" sort="4" isShowNum="1" NumDes="" Des="" spDes="" showmonster="4186"/>
 
 
 
-
+<!--个-->
 	<item id="1000" dec="折叠icon" tips="【点击查看详情】" className="SignBuffView_1000" sort="100"/>
 
 </config>

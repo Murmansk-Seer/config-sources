@@ -36,6 +36,7 @@
 	<Move ID="13" monster="0" damage="1" CritRate="1" skin="0:184:222:510" anm="add1:add1:add1:add1" cover="0" reportname="瀚宇星皇:瀚宇星皇:瀚宇星皇:瀚宇星皇" reportskill="亘古圣辰决:亘古圣辰决:亘古圣辰决:亘古圣辰决" reporttxt="封印了对手的力量:封印了对手的力量:封印了对手的力量:封印了对手的力量" />
 	<Move ID="14" monster="0" damage="1" CritRate="1" skin="0:184:222:510" anm="add1:add1:add1:add1" cover="0" reportname="瀚宇星皇:瀚宇星皇:瀚宇星皇:瀚宇星皇" reportskill="万皇宗魄决:万皇宗魄决:万皇宗魄决:万皇宗魄决" reporttxt="贯彻了皇帝的意志:贯彻了皇帝的意志:贯彻了皇帝的意志:贯彻了皇帝的意志" />
 	<Move ID="15" monster="0" damage="1" CritRate="1" skin="0:538" anm="sa:sa" cover="0" reportname="魂帝·天循道:魂帝·天循道" reportskill="咒骸魂契:咒骸魂契" reporttxt="解放了萃取的元素:解放了萃取的元素" />
+	<Move ID="16" monster="0" damage="1" CritRate="0" skin="0" anm="sa" cover="0" reportname="魂" reportskill="魂" reporttxt="魂" />
 
 
 

@@ -187,4 +187,13 @@
 	<item id="292" activityid="15" activityname="1128日月模拟战" describe="通过第9关" tasksubtype="2" value="1" time="0" timelimit="1" timestart="1764295200" timeend="1765504800" rewardinfo="1_2500003_1;1_1706926_1" userinfo="125729" userbitbuf="9389" />
 	<item id="293" activityid="15" activityname="1128日月模拟战" describe="通过第10关" tasksubtype="2" value="1" time="0" timelimit="1" timestart="1764295200" timeend="1765504800" rewardinfo="1_2500003_1;1_1706926_1" userinfo="125730" userbitbuf="9390" />
 	<item id="294" activityid="15" activityname="1128日月模拟战" describe="在第11关中至少获得3000分" tasksubtype="2" value="1" time="0" timelimit="1" timestart="1764295200" timeend="1765504800" rewardinfo="1_2500003_2" userinfo="125731" userbitbuf="9391" />
+	<item id="300" activityid="16" activityname="1219日蚀边缘" describe="通关一次关卡1" value="1" time="0" timelimit="1" timestart="1766109600" timeend="1768528800" rewardinfo="1_2500005_1" userinfo="140214" userbitbuf="11028" />
+	<item id="301" activityid="16" activityname="1219日蚀边缘" describe="通关一次关卡2" value="1" time="0" timelimit="1" timestart="1766109600" timeend="1768528800" rewardinfo="1_2500005_2" userinfo="140215" userbitbuf="11029" />
+	<item id="302" activityid="16" activityname="1219日蚀边缘" describe="通关一次关卡3" value="1" time="0" timelimit="1" timestart="1766109600" timeend="1768528800" rewardinfo="1_2500005_3" userinfo="140216" userbitbuf="11030" />
+	<item id="303" activityid="16" activityname="1219日蚀边缘" describe="累计通关任意关卡3次（不包括引导关卡）" value="3" time="0" timelimit="1" timestart="1766109600" timeend="1768528800" rewardinfo="1_2500005_4" userinfo="140217" userbitbuf="11031" />
+	<item id="304" activityid="16" activityname="1219日蚀边缘" describe="累计通关任意关卡5次（不包括引导关卡）" value="5" time="0" timelimit="1" timestart="1766109600" timeend="1768528800" rewardinfo="1_2500005_5" userinfo="140217" userbitbuf="11032" />
+	<item id="305" activityid="16" activityname="1219日蚀边缘" describe="累计通关任意关卡7次（不包括引导关卡）" value="7" time="0" timelimit="1" timestart="1766109600" timeend="1768528800" rewardinfo="1_2500005_6" userinfo="140217" userbitbuf="11033" />
+	<item id="306" activityid="16" activityname="1219日蚀边缘" describe="累计游玩游戏3天" value="3" time="0" timelimit="1" timestart="1766109600" timeend="1768528800" rewardinfo="1_2500005_7" userinfo="140218" userbitbuf="11034" />
+	<item id="307" activityid="16" activityname="1219日蚀边缘" describe="累计游玩游戏5天" value="5" time="0" timelimit="1" timestart="1766109600" timeend="1768528800" rewardinfo="1_2500005_8" userinfo="140218" userbitbuf="11035" />
+	<item id="308" activityid="16" activityname="1219日蚀边缘" describe="累计游玩游戏7天" value="7" time="0" timelimit="1" timestart="1766109600" timeend="1768528800" rewardinfo="1_2500005_9" userinfo="140218" userbitbuf="11036" />
 </root>
