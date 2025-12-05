@@ -13628,8 +13628,8 @@
         "type": 3
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "光阴十年·西塔伦",
         "skin_kind": [
           {
@@ -13646,8 +13646,8 @@
         "type": 3
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "索比斯",
         "skin_kind": [
           {
@@ -13664,8 +13664,8 @@
         "type": 0
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "永恒圣拳",
         "skin_kind": [
           {
@@ -13754,8 +13754,8 @@
         "type": 15
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "卡布达",
         "skin_kind": [
           {
@@ -13772,8 +13772,8 @@
         "type": 0
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "归来·蜻蜓队长",
         "skin_kind": [
           {
@@ -13790,8 +13790,8 @@
         "type": 3
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "卡布达巨人",
         "skin_kind": [
           {
@@ -13808,8 +13808,8 @@
         "type": 18
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "里奥斯",
         "skin_kind": [
           {
@@ -13826,8 +13826,8 @@
         "type": 0
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "鲨鱼辣椒",
         "skin_kind": [
           {
@@ -13844,8 +13844,8 @@
         "type": 0
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "鲨鱼巨人",
         "skin_kind": [
           {
@@ -13862,8 +13862,8 @@
         "type": 18
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "秋日印象·克洛托",
         "skin_kind": [
           {
@@ -13934,8 +13934,8 @@
         "type": 19
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "霍德尔",
         "skin_kind": [
           {
@@ -13947,13 +13947,13 @@
           }
         ],
         "id": 776,
-        "jump_target": 2,
+        "jump_target": 0,
         "mon_id": 3941,
         "type": 0
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "皑雪·辰坤星魂",
         "skin_kind": [
           {
@@ -13965,13 +13965,13 @@
           }
         ],
         "id": 777,
-        "jump_target": 114017,
+        "jump_target": 0,
         "mon_id": 3983,
         "type": 2
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "寒焰之骸·伽玛星魂",
         "skin_kind": [
           {
@@ -13983,7 +13983,7 @@
           }
         ],
         "id": 778,
-        "jump_target": 114020,
+        "jump_target": 0,
         "mon_id": 3896,
         "type": 3
       },
@@ -14022,6 +14022,42 @@
         "jump_target": 114018,
         "mon_id": 4840,
         "type": 3
+      },
+      {
+        "go": "app/FinalActivityPanel",
+        "go_type": "module",
+        "name": "星空解析·明德里奇",
+        "skin_kind": [
+          {
+            "id": 1,
+            "life_time": 0,
+            "skin_type": 0,
+            "type": 2,
+            "year": 0
+          }
+        ],
+        "id": 781,
+        "jump_target": 2,
+        "mon_id": 4542,
+        "type": 3
+      },
+      {
+        "go": "app/FinalActivityPanel",
+        "go_type": "module",
+        "name": "拂晓·奥菲利娅",
+        "skin_kind": [
+          {
+            "id": 1,
+            "life_time": 0,
+            "skin_type": 0,
+            "type": 2,
+            "year": 0
+          }
+        ],
+        "id": 782,
+        "jump_target": 114021,
+        "mon_id": 4706,
+        "type": 2
       }
     ]
   }

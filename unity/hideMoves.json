@@ -12752,6 +12752,12 @@
         "pet_id": 4843
       },
       {
+        "move_id": 38177,
+        "move_name1": "飞刃",
+        "move_name2": "断魂袭",
+        "pet_id": 4844
+      },
+      {
         "move_id": 31143,
         "move_name1": "神灵",
         "move_name2": "救世光",
