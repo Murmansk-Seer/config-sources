@@ -104,6 +104,11 @@
 	<SpMoves id="91" monster="4354" monstername="狂沙之主·萨特" moves="38118" movesname="枯骨遗沙镇" item="1727491" itemname="弥尘骨" itemnumber="1" itemtips="使用后可为狂沙之主·萨特开启全新技能：枯骨遗沙镇" movetype="2"/>
 	<SpMoves id="92" monster="3586" monstername="战之狂热·英卡洛斯" moves="38119" movesname="虐饕伏苍斩" item="1727492" itemname="鏖战双镰" itemnumber="1" itemtips="使用后可为战之狂热·英卡洛斯开启全新技能：虐饕伏苍斩" movetype="2"/>
 	<SpMoves id="93" monster="3983" monstername="灵·辰坤星魂" moves="29193" movesname="蜃阙余尘" item="1727568" itemname="记忆铭刻" itemnumber="1" itemtips="使用后可为灵·辰坤星魂开启全新技能：蜃阙余尘" movetype="2"/>
+	<SpMoves id="96" monster="3739" monstername="玛洛迪斯" moves="29211" movesname="浩域森罗" item="1727598" itemname="苍茫元心" itemnumber="1" itemtips="使用后可为玛洛迪斯开启全新技能：浩域森罗" movetype="2"/>
+	<SpMoves id="94" monster="3999" monstername="飒雷孤影·喵佐" moves="29212" movesname="呪誓绝途" item="1727599" itemname="残缺辰星" itemnumber="1" itemtips="使用后可为飒雷孤影·喵佐开启全新技能：呪誓绝途" movetype="2"/>
+	<SpMoves id="95" monster="3685" monstername="孙权" moves="29213" movesname="圣质持恒" item="1727601" itemname="白虹" itemnumber="1" itemtips="使用后可为孙权开启全新技能：圣质持恒" movetype="2"/>
+	<SpMoves id="97" monster="3554" monstername="风殇影翼·飞镰" moves="38186" movesname="诉与孤风" item="1727600" itemname="风杀利羽" itemnumber="1" itemtips="使用后可为风殇影翼·飞镰开启全新技能：诉与孤风" movetype="2"/>
+	<SpMoves id="98" monster="3830" monstername="魂王·无烬梦" moves="38187" movesname="兰烬蘧栩" item="1727602" itemname="蝶身心" itemnumber="1" itemtips="使用后可为魂王·无烬梦开启全新技能：兰烬蘧栩" movetype="2"/>
 
 
 

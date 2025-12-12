@@ -23448,4 +23448,12 @@
 	<item icon="" itemID="1727595" price="30" vip="1" type="0" productType="-1" malldiscount="0" productID="262063" name="付费扫荡困难关卡（沙弑·吉拉）"></item>
 	<item icon="" itemID="1727596" price="40" vip="1" type="0" productType="-1" malldiscount="0" productID="262064" name="付费扫荡地狱关卡（沙弑·吉拉）"></item>
 	<item icon="" itemID="1727597" price="2" vip="1" type="0" productType="-1" malldiscount="0" productID="262065" name="购买获得沙弑·吉拉因子"></item>
+	<item icon="" itemID="1727603" price="10" vip="1" type="0" productType="-1" malldiscount="0" productID="262066" name="获取雪球叠叠乐游戏次数"></item>
+	<item icon="" itemID="1727604" price="598" vip="1" type="0" productType="-1" malldiscount="0" productID="262067" name="至尊获得精灵【白图泰】"></item>
+	<item icon="" itemID="1727605" price="30" vip="1" type="0" productType="-1" malldiscount="0" productID="262068" name="购买每日挑战次数（白图泰）"></item>
+	<item icon="" itemID="1727606" price="20" vip="1" type="0" productType="-1" malldiscount="0" productID="262069" name="付费扫荡简单关卡（白图泰）"></item>
+	<item icon="" itemID="1727607" price="30" vip="1" type="0" productType="-1" malldiscount="0" productID="262070" name="付费扫荡困难关卡（白图泰）"></item>
+	<item icon="" itemID="1727608" price="40" vip="1" type="0" productType="-1" malldiscount="0" productID="262071" name="付费扫荡地狱关卡（白图泰）"></item>
+	<item icon="" itemID="1727609" price="2" vip="1" type="0" productType="-1" malldiscount="0" productID="262072" name="购买获得白图泰因子"></item>
+	<item icon="" itemID="1727610" price="298" vip="1" type="0" productType="-1" malldiscount="0" productID="262073" name="预约2026年费VIP专属礼包"></item>
 </root>

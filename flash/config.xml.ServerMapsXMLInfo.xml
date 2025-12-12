@@ -2395,30 +2395,30 @@ eg:
 	<Map ID="73" Name="麒麟空间" InitX="300" InitY="450" >
 		<Bosses>
 			<Boss Id="0" BossVisible="0" AppearTime="0 23" Name="麒麟" >
-				<BossMon MonID="5055" Hp="20000" Lv="100" NewSeIdxs="58 300 311 1494 1495 1496"/>
+				<BossMon MonID="15055" Hp="20000" Lv="100" NewSeIdxs="58 300 311 1494 1495 1496"/>
 			</Boss>
 			<Boss Id="1" BossVisible="0" AppearTime="0 23" Name="麒麟" >
-				<BossMon MonID="5055" Hp="15000" Lv="100" NewSeIdxs="58 311 1534 1486 1535 300 1501 1536"/>
+				<BossMon MonID="15055" Hp="15000" Lv="100" NewSeIdxs="58 311 1534 1486 1535 300 1501 1536"/>
 			</Boss>
 			<Boss Id="2" TaskID="1530" BossVisible="0" AppearTime="0 23" Name="麒麟" >
-				<BossMon MonID="5055" Hp="15000" Lv="100" Atk="500" Def="300" Spatk="350" Spdef="300" Spd="300" NewSeIdxs="58 79 311 1534 1552 1553 300 1501"/>
+				<BossMon MonID="15055" Hp="15000" Lv="100" Atk="500" Def="300" Spatk="350" Spdef="300" Spd="300" NewSeIdxs="58 79 311 1534 1552 1553 300 1501"/>
 			</Boss>
 			<Boss Id="3" TaskID="1613" BossVisible="0" AppearTime="0 23" Name="麒麟" >
-				<BossMon MonID="5055" Hp="10000" Lv="100" NewSeIdxs="58 1533 1485 1534 1508 1497 1501 1565"/>
+				<BossMon MonID="15055" Hp="10000" Lv="100" NewSeIdxs="58 1533 1485 1534 1508 1497 1501 1565"/>
 			</Boss>
 			<Boss Id="4" TaskID="1709" BossVisible="0" AppearTime="0 23" Name="麒麟" >
-				<BossMon MonID="5055" Hp="20000" Lv="100" NewSeIdxs="58 1497 1501 1533 104 1534 55 1572"/>
+				<BossMon MonID="15055" Hp="20000" Lv="100" NewSeIdxs="58 1497 1501 1533 104 1534 55 1572"/>
 			</Boss>
 			<Boss Id="5" TaskID="1784" BossVisible="0" AppearTime="0 23" Name="麒麟" >
-				<BossMon MonID="5055" Hp="15000" Lv="100" NewSeIdxs="1533 58 1497 1501 55 11 1584 1585"/>
+				<BossMon MonID="15055" Hp="15000" Lv="100" NewSeIdxs="1533 58 1497 1501 55 11 1584 1585"/>
 			</Boss>
 			<Boss Id="6" TaskID="1785" BossVisible="0" AppearTime="0 23" Name="麒麟真身" >
-				<BossMon MonID="5055" Hp="8000" Lv="100" NewSeIdxs="1533 58 1497 1501 53 1589 1510"/>
-				<BossMon MonID="5055" Hp="15000" Lv="100" NewSeIdxs="1533 58 1497 1501 1565 11 1589"/>
-				<BossMon MonID="5055" Hp="15000" Lv="100" NewSeIdxs="1533 58 1497 1501 1552 1593 1589"/>
-				<BossMon MonID="5055" Hp="10000" Lv="100" NewSeIdxs="1533 58 1497 1501 293 1593 1589"/>
-				<BossMon MonID="5055" Hp="8000" Lv="100" NewSeIdxs="1533 58 1497 1501 1536 1593 1589"/>
-				<BossMon MonID="5055" Hp="50000" Lv="100" NewSeIdxs="1533 58 1497 1501 1589 1588 1586 1587"/>
+				<BossMon MonID="15055" Hp="8000" Lv="100" NewSeIdxs="1533 58 1497 1501 53 1589 1510"/>
+				<BossMon MonID="15055" Hp="15000" Lv="100" NewSeIdxs="1533 58 1497 1501 1565 11 1589"/>
+				<BossMon MonID="15055" Hp="15000" Lv="100" NewSeIdxs="1533 58 1497 1501 1552 1593 1589"/>
+				<BossMon MonID="15055" Hp="10000" Lv="100" NewSeIdxs="1533 58 1497 1501 293 1593 1589"/>
+				<BossMon MonID="15055" Hp="8000" Lv="100" NewSeIdxs="1533 58 1497 1501 1536 1593 1589"/>
+				<BossMon MonID="15055" Hp="50000" Lv="100" NewSeIdxs="1533 58 1497 1501 1589 1588 1586 1587"/>
 			</Boss>
 		</Bosses>
 	</Map>
@@ -2727,28 +2727,28 @@ eg:
 	<Map ID="82" Name="试炼之域"  InitX = "480" InitY ="450">
 		<Bosses>
 			<Boss Id="0" AppearTime="0 23" BossVisible="0" Name="缪斯-雷伊">
-				<BossMon MonID="5056" Hp="15000" Lv="100" NewSeIdxs="1527 1529 58 1533 1532 177 300 1501"/>
+				<BossMon MonID="15056" Hp="15000" Lv="100" NewSeIdxs="1527 1529 58 1533 1532 177 300 1501"/>
 			</Boss>
 			<Boss AppearTime="0 23" BossVisible="0" Name="缪斯-盖亚">
-				<BossMon MonID="5056" Hp="15000" Lv="100" NewSeIdxs="1527 1530 58 1533 1532 177 300 1501"/>
+				<BossMon MonID="15056" Hp="15000" Lv="100" NewSeIdxs="1527 1530 58 1533 1532 177 300 1501"/>
 			</Boss>
 			<Boss AppearTime="0 23" BossVisible="0" Name="缪斯-卡修斯">
-				<BossMon MonID="5056" Hp="15000" Lv="100" NewSeIdxs="1527 1531 58 1533 1532 177 300 1501"/>
+				<BossMon MonID="15056" Hp="15000" Lv="100" NewSeIdxs="1527 1531 58 1533 1532 177 300 1501"/>
 			</Boss>
 			<Boss AppearTime="0 23" BossVisible="0" Name="缪斯-布莱克">
-				<BossMon MonID="5056" Hp="15000" Lv="100" NewSeIdxs="1527 1528 58 1533 1532 177 300 1501"/>
+				<BossMon MonID="15056" Hp="15000" Lv="100" NewSeIdxs="1527 1528 58 1533 1532 177 300 1501"/>
 			</Boss>
 			<Boss AppearTime="0 23" BossVisible="0" Name="缪斯-雷伊 许愿树弱化">
-				<BossMon MonID="5056" Hp="8000" Lv="100" NewSeIdxs="1527 1529 58 1533 115 177 300 1501"/>
+				<BossMon MonID="15056" Hp="8000" Lv="100" NewSeIdxs="1527 1529 58 1533 115 177 300 1501"/>
 			</Boss>
 			<Boss AppearTime="0 23" BossVisible="0" Name="缪斯-盖亚 许愿树弱化">
-				<BossMon MonID="5056" Hp="8000" Lv="100" NewSeIdxs="1527 1530 58 1533 115 177 300 1501"/>
+				<BossMon MonID="15056" Hp="8000" Lv="100" NewSeIdxs="1527 1530 58 1533 115 177 300 1501"/>
 			</Boss>
 			<Boss AppearTime="0 23" BossVisible="0" Name="缪斯-卡修斯 许愿树弱化">
-				<BossMon MonID="5056" Hp="8000" Lv="100" NewSeIdxs="1527 1531 58 1533 115 177 300 1501"/>
+				<BossMon MonID="15056" Hp="8000" Lv="100" NewSeIdxs="1527 1531 58 1533 115 177 300 1501"/>
 			</Boss>
 			<Boss AppearTime="0 23" BossVisible="0" Name="缪斯-布莱克 许愿树弱化">
-				<BossMon MonID="5056" Hp="8000" Lv="100" NewSeIdxs="1527 1528 58 1533 115 177 300 1501"/>
+				<BossMon MonID="15056" Hp="8000" Lv="100" NewSeIdxs="1527 1528 58 1533 115 177 300 1501"/>
 			</Boss>
 
 		</Bosses>
@@ -3149,7 +3149,7 @@ eg:
 		</GameTriggerGrp>
 		<Bosses>
 			<Boss Id="0" BossVisible="0" AppearTime="0 23" PkFlag="1" >
-				<BossMon MonID="5053" LvHpMatchUser="7" Hp="0" Lv="0" NewSeIdxs="58 79 1 2 110" />
+				<BossMon MonID="15053" LvHpMatchUser="7" Hp="0" Lv="0" NewSeIdxs="58 79 1 2 110" />
 			</Boss>
 			<!--20121221邮件建议在瞭望露台可以直接对战-->
 			<Boss Id="1" BossCatchable="0" AppearTime="0 23" BossVisible="0" Name="鱼龙王" >
@@ -4505,7 +4505,7 @@ eg:
 			</Boss>
 
 			<Boss Id="20" AppearTime="0 23" BossVisible="0" Name="SPT盖亚" PkFlag="1">
-				<BossMon MonID="5069" Hp="2000" Lv="70" NewSeIdxs="2 55 58 69 222 100 102 103"/>
+				<BossMon MonID="15069" Hp="2000" Lv="70" NewSeIdxs="2 55 58 69 222 100 102 103"/>
 			</Boss>
 		</Bosses>
 		<Monsters>
@@ -7744,13 +7744,13 @@ eg:
 			</Boss>
 
 			<Boss Id="7" AppearTime="0 23" BossVisible="0" PkFlag="1" Name="剧情：狂暴的诺狄拉">
-				<BossMon MonID="5065" Hp="10000" Lv="100" NewSeIdxs="58 111 1533 1546 1551"/>
+				<BossMon MonID="15065" Hp="10000" Lv="100" NewSeIdxs="58 111 1533 1546 1551"/>
 			</Boss>
 			<Boss Id="8" AppearTime="0 23" BossVisible="0" PkFlag="1" Name="剧情：狂暴的诺克斯">
-				<BossMon MonID="5066" Hp="10000" Lv="100" NewSeIdxs="58 111 1533 1546 1551"/>
+				<BossMon MonID="15066" Hp="10000" Lv="100" NewSeIdxs="58 111 1533 1546 1551"/>
 			</Boss>
 			<Boss Id="9" AppearTime="0 23" BossVisible="0" PkFlag="1" Name="剧情：狂暴的诺凯尔">
-				<BossMon MonID="5067" Hp="10000" Lv="100" NewSeIdxs="58 111 1533 1546 1551"/>
+				<BossMon MonID="15067" Hp="10000" Lv="100" NewSeIdxs="58 111 1533 1546 1551"/>
 			</Boss>
 		</Bosses>
 	</Map>
@@ -8621,7 +8621,7 @@ eg:
 	<Map ID="774" Name="圣战废墟" InitX="450" InitY="475" InstanceID="18">
 		<Bosses>
 			<Boss TaskID="99" AppearTime="0 23" BossVisible="0" Name="SPT盖亚" PkFlag="1">
-				<BossMon MonID="5069" Hp="2000" Lv="70" NewSeIdxs="2 55 58 69 222 100 102 103"/>
+				<BossMon MonID="15069" Hp="2000" Lv="70" NewSeIdxs="2 55 58 69 222 100 102 103"/>
 			</Boss>
 			<Boss TaskID="325" BossVisible="0" AppearTime="0 23" Name="SPT卡修斯 许愿树弱化" >
 				<BossMon MonID="798" Hp="3500" Lv="70" NewSeIdxs="1 2 54 221 116 201 58 90" />
@@ -10270,28 +10270,28 @@ eg:
 		</Monsters>
 		<Bosses>
 			<Boss Id="0"  TaskID="359" AppearTime="0 23" BossVisible="0" Name="布兰登">
-				<BossMon MonID="5057" Hp="5000" Lv="90" NewSeIdxs="311 300 58 1479 5 55 79 1563"/>
+				<BossMon MonID="15057" Hp="5000" Lv="90" NewSeIdxs="311 300 58 1479 5 55 79 1563"/>
 			</Boss>
 			<Boss Id="1"  TaskID="359" AppearTime="0 23" BossVisible="0" Name="布兰登">
-				<BossMon MonID="5058" Hp="5000" Lv="90" NewSeIdxs="311 300 58 1479 5 55 79 1563"/>
+				<BossMon MonID="15058" Hp="5000" Lv="90" NewSeIdxs="311 300 58 1479 5 55 79 1563"/>
 			</Boss>
 			<Boss Id="2"  TaskID="359" AppearTime="0 23" BossVisible="0" Name="布兰登">
-				<BossMon MonID="5059" Hp="5000" Lv="90" NewSeIdxs="311 300 58 1479 5 55 79 1563"/>
+				<BossMon MonID="15059" Hp="5000" Lv="90" NewSeIdxs="311 300 58 1479 5 55 79 1563"/>
 			</Boss>
 			<Boss Id="3"  TaskID="359" AppearTime="0 23" BossVisible="0" Name="布兰登">
-				<BossMon MonID="5061" Hp="5000" Lv="90" NewSeIdxs="311 300 58 1479 5 55 79 1563"/>
+				<BossMon MonID="15061" Hp="5000" Lv="90" NewSeIdxs="311 300 58 1479 5 55 79 1563"/>
 			</Boss>
 			<Boss Id="4"  TaskID="359" AppearTime="0 23" BossVisible="0" Name="布兰登">
-				<BossMon MonID="5063" Hp="5000" Lv="90" NewSeIdxs="311 300 58 1479 5 55 79 1563"/>
+				<BossMon MonID="15063" Hp="5000" Lv="90" NewSeIdxs="311 300 58 1479 5 55 79 1563"/>
 			</Boss>
 			<Boss Id="5"  TaskID="359" AppearTime="0 23" BossVisible="0" Name="布兰登">
-				<BossMon MonID="5060" Hp="5000" Lv="90" NewSeIdxs="311 300 58 1479 5 55 79 1563"/>
+				<BossMon MonID="15060" Hp="5000" Lv="90" NewSeIdxs="311 300 58 1479 5 55 79 1563"/>
 			</Boss>
 			<Boss Id="6"  TaskID="359" AppearTime="0 23" BossVisible="0" Name="布兰登">
-				<BossMon MonID="5064" Hp="5000" Lv="90" NewSeIdxs="311 300 58 1479 5 55 79 1563"/>
+				<BossMon MonID="15064" Hp="5000" Lv="90" NewSeIdxs="311 300 58 1479 5 55 79 1563"/>
 			</Boss>
 			<Boss Id="7"  TaskID="359" AppearTime="0 23" BossVisible="0" Name="布兰登">
-				<BossMon MonID="5062" Hp="5000" Lv="90" NewSeIdxs="311 300 58 1479 5 55 79 1563"/>
+				<BossMon MonID="15062" Hp="5000" Lv="90" NewSeIdxs="311 300 58 1479 5 55 79 1563"/>
 			</Boss>
 		</Bosses>
 	</Map>
@@ -11066,7 +11066,7 @@ eg:
 				<BossMon MonID="2039" Hp="800" Lv="80" NewSeIdxs="1 2 58 79"/>
 			</Boss>
 			<Boss Id="2" AppearTime="0 23" BossVisible="0" Name="阿沙文的幻影" PkFlag="1">
-				<BossMon MonID="5068" Hp="700" Lv="60" />
+				<BossMon MonID="15068" Hp="700" Lv="60" />
 			</Boss>
 			<Boss Id="3" AppearTime="0 23" BossVisible="0" Name="莱科宁普通" PkFlag="1">
 				<BossMon MonID="2074" Hp="700" Lv="60" NewSeIdxs="58 241"/>-
@@ -16571,44 +16571,17 @@ eg:
 		<GameTriggerGrp GameID="14" >
 			<TriggerPt ID="4" />
 		</GameTriggerGrp>
-		<Bosses>
-			<!--赛尔总动员驱逐海盗Boss-->
-			<!--<Boss AppearTime="0 23" BossVisible="0" Name="">-->
-			<!--<BossMon MonID="188" LvHpMatchUser="1" Hp="0" Lv="0"/>-->
-			<!--</Boss>-->
-			<Boss BossCatchable="1" AppearTime="0 23" BossVisible="0" >
-                <BossMon MonID="38" Hp="35" Lv="15" />
-            </Boss>
-			<Boss BossCatchable="1" AppearTime="0 23" BossVisible="0" >
-                <BossMon MonID="35" Hp="35" Lv="15" />
-            </Boss>
-			<Boss BossCatchable="1" AppearTime="0 23" BossVisible="0" >
-                <BossMon MonID="133" Hp="35" Lv="15" />
-            </Boss>
-			<Boss BossCatchable="1" AppearTime="0 23" BossVisible="0" >
-                <BossMon MonID="951" Hp="35" Lv="15" />
-            </Boss>
-			<Boss BossCatchable="1" AppearTime="0 23" BossVisible="0" >
-                <BossMon MonID="335" Hp="35" Lv="15" />
-            </Boss>
-			<Boss BossCatchable="1" AppearTime="0 23" BossVisible="0" >
-                <BossMon MonID="208" Hp="35" Lv="15" />
-            </Boss>
-			<Boss BossCatchable="1" AppearTime="0 23" Name="20111223圣诞红袜子精灵" >
-				<BossMon MonID="1042" Hp="40" Lv="15" NewSeIdxs="235"/>
-			</Boss>
-		</Bosses>
-
 		<Monsters>
-			<Monster ID="0" Lv="15 16"/>
-			<Monster ID="0" Lv="15 16"/>
-			<Monster ID="0" Lv="15 16"/>
-			<Monster ID="0" Lv="15 16"/>
-			<Monster ID="0" Lv="15 16"/>
-			<Monster ID="385 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0" Lv="21 22"/>
-			<Monster ID="0" Lv="15 16"/>
-			<Monster ID="0" Lv="15 16"/>
-			<Monster ID="385 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0" Lv="21 22"/>
+			<Monster ID="385 0 0 0 0 0 0" Lv="21 22"/>
+			<Monster ID="385 0 0 0 0 0 0" Lv="21 22"/>
+			<Monster ID="385 0 0 0 0 0 0" Lv="21 22"/>
+			<Monster ID="385 0 0 0 0 0 0" Lv="21 22"/>
+			<Monster ID="385 0 0 0 0 0 0" Lv="21 22"/>
+			<Monster ID="385 0 0 0 0 0 0" Lv="21 22"/>
+			<Monster ID="385 0 0 0 0 0 0" Lv="21 22"/>
+			<Monster ID="385 0 0 0 0 0 0" Lv="21 22"/>
+			<Monster ID="4847 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0" Lv="51 61"/>
+			<Monster ID="4847 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0" Lv="51 61"/>
 		</Monsters>
 	</Map>
 
@@ -16632,14 +16605,14 @@ eg:
 	<Map ID="3040" Name="斯诺秘洞" InitX="175" InitY="360" ShapeshiftMons="1">
 		<Monsters>
             <Monster ID="1020" Lv="15 18"/>
+            <Monster ID="1032 0 0 0 0 0 " Lv="15 18"/>
+            <Monster ID="1034 0 0 0 0 0 " Lv="15 18"/>
+            <Monster ID="1036 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0" Lv="15 18"/>
+			<Monster ID="1038 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0" Lv="15 18"/>
+			<Monster ID="1040 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0" Lv="27 30"/>
             <Monster ID="1020" Lv="15 18"/>
             <Monster ID="1020" Lv="15 18"/>
-            <Monster ID="1021" Lv="27 30"/>
-			<Monster ID="1021" Lv="27 30"/>
-			<Monster ID="1021" Lv="27 30"/>
-			<Monster ID="1021" Lv="27 30"/>
-			<Monster ID="1021" Lv="27 30"/>
-			<Monster ID="1021" Lv="27 30"/>
+            <Monster ID="1020" Lv="15 18"/>			
         </Monsters>
 		<Bosses>
             <Boss BossCatchable="1" BossVisible="0" AppearTime="0 23" >
@@ -18494,6 +18467,6 @@ eg:
 		<DefaultMap ID="3" RandMaps="1224" Desc="新手登录场景"/>
 	</DefaultMaps>
 	<VersionNumber>
-		<Version ID="20251205" Desc="每次发版需同步更新版本号"/>
+		<Version ID="20251212" Desc="每次发版需同步更新版本号"/>
 	</VersionNumber>
 </Maps>

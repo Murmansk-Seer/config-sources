@@ -213,9 +213,9 @@ Desc:    刻印信息  tips的获得途径文字
 
 <Hotspot><!-- 本周热点 -->
 <item intro="全新精灵上线，快来看看吧！">
-      <place type= "0" ID="4844" ImageID= "4844" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
-	  <!-- <place type= "0" ID="4840" ImageID= "4840" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
-	  <!-- <place type= "0" ID="4841" ImageID= "4841" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
+      <place type= "0" ID="4845" ImageID= "4845" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
+	  <place type= "0" ID="4846" ImageID= "4846" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
+	  <place type= "0" ID="4847" ImageID= "4847" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
 	  <!-- <place type= "0" ID="4842" ImageID= "4842" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "0" ID="4843" ImageID= "4843" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "0" ID="4806" ImageID= "4806" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
@@ -255,8 +255,8 @@ Desc:    刻印信息  tips的获得途径文字
       <place type= "0" ID="4641" ImageID= "4641" Label= "0"  Redirect="map|module" Go="1679;app/ValleyExpeditionHatchMainPanel"/>-->
 
 
-      <place type= "1" ID="781" monID="4542" ImageID= "1400781" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
-      <place type= "1" ID="782" monID="4706" ImageID= "1400782" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
+      <!-- <place type= "1" ID="781" monID="4542" ImageID= "1400781" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
+      <!-- <place type= "1" ID="782" monID="4706" ImageID= "1400782" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "1" ID="780" monID="4840" ImageID= "1400780" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "1" ID="769" monID="4822" ImageID= "1400769" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
       <!-- <place type= "1" ID="749" monID="4805" ImageID= "1400749" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
@@ -2258,7 +2258,7 @@ Desc:    刻印信息  tips的获得途径文字
 	<Monster ID="1928" hasSound="1" DefName="奥托" Type="火 超能" Height="76" Weight="27" Features="三把上古神兵的传承者之一，青龙偃月刀的传承者——小武尊奥托，自从获得了这传承之力以来就认真的修炼着自己的心神，希望自己能成为像神兵原有主人一样的英雄豪杰。" mapID="103"/>
 	<Monster ID="1929" hasSound="1" DefName="奥托斯" Type="火 超能" Height="131" Weight="49" Features="奥托斯继承了青龙偃月刀拥有者的一切优点，忠义、神勇、正直并凭借他的高超武艺让所有的精灵和赛尔们都对他十分的敬佩。" mapID="103"/>
 	<Monster ID="1930" hasSound="1" DefName="法里奥" Type="草 超能" Height="45" Weight="17" Features="玛法里奥的第一形态，他在得到某种神秘的力量之前只是一只很普通的精灵，这种力量从何而来，没有人知道。" mapID="1269"/>
-	<Monster ID="1931" hasSound="1" DefName="玛法里奥" Type="草 超能" Height="156" Weight="56" Features="逆界之门的创造者，玛法里奥。曾经的他差点就要击败麒麟成为第五星系的守护神，但由于心智的差别败给了麒麟，后为了追求力量，创造了逆界之门，让现在的宇宙陷入了危机之中。" mapID="1269"/>
+	<Monster ID="1931" hasSound="1" DefName="玛法里奥" Type="草 超能" Height="156" Weight="56" Features="逆界之门的创造者，玛法里奥。曾经的他差点就要击败麒麟成为第五星系的守护神，但由于心智的差别败给了麒麟，后为了追求力量，创造了逆界之门，让现在的宇宙陷入了危机之中。" mapID="1269" Target="150098"/>
 	<Monster ID="1932" hasSound="1" DefName="斯维尔" Type="冰 光" Height="43" Weight="21" Features="斯维拉的第一形态，冰与光的结合体，是大自然的恩赐，具有着冰的寒冷和光的温暖，本身这一生命的存在就是一个奇迹。" mapID="946"/>
 	<Monster ID="1933" hasSound="1" DefName="斯维拉" Type="冰 光" Height="78" Weight="32" Features="斯维拉是一只拥有超能力的精灵。能够通晓世间前后之事。他知道这个世界上许许多多的秘密，只是因为天性喜爱过隐居生活不愿被卷入凡尘俗世中去，所以并没有被世人所认知。" mapID="946"/>
 	<Monster ID="1934" hasSound="1" DefName="比莫克" Type="冰" Height="81" Weight="61" Features="比莫拉的超进化形态，拥有千臂将军名号的他在超进化之后，所有的能力都有了质的飞跃。随着时间的流逝，恶灵兽的销声匿迹，比莫拉并没有见风使舵投靠新一代的恶灵首领骷髅法师。" mapID="791"/>
@@ -3841,7 +3841,7 @@ Desc:    刻印信息  tips的获得途径文字
 	<Monster ID="3531" DefName="塔拉加姆" Type="飞行 暗影" Height="200" Weight="80" Features="棱石星地牢的看守者，常年待在阴暗的角落，使他的身影也隐入了黑夜之中，经常神出鬼没。" mapID="1268" jumptarget="56/3_6" Target="140001"/>
 	<Monster ID="3532" DefName="堕落泰坦" Type="混沌 远古" Height="400" Weight="240" Features="第六星系的守护神，因为逝者巨樽强大的力量而被吞噬了！神兽之殇，星系大危机！" mapID="1269"/>
 	<Monster ID="3533" DefName="风凌雪" Type="自然 冰" Height="170" Weight="55" Features="冰花中绽放的精灵，体内蕴藏着巨大的冰雪源力，实力不容小觑！" mapID="1"/>
-	<Monster ID="3534" DefName="玛洛恩" Type="远古 草" Height="190" Weight="80" Features="玛法里奥的超进化形态，长久的修行中他领悟了新的力量，是苍茫之森的长者，上古时期的英雄！" mapID="1269"/>
+	<Monster ID="3534" DefName="玛洛恩" Type="远古 草" Height="190" Weight="80" Features="玛法里奥的超进化形态，长久的修行中他领悟了新的力量，是苍茫之森的长者，上古时期的英雄！" mapID="1269" Target="150099"/>
 	<Monster ID="3535" DefName="塔兰度斯" Type="冰 神秘" Height="150" Weight="60" Features="来自神秘雪域的驯鹿，给大家带来了很多丰厚的礼物哦~" mapID="1267"/>
 	<Monster ID="3536" DefName="暗之龙裔·索兰特" Type="暗影 龙" Height="290" Weight="180" Features="索兰特的完全体形态，他是布莱克最忠诚的挚友，总是在危难关头帮助布莱克！" mapID="1270" jumptarget="56/3_6" Target="140001"/>
 	<Monster ID="3537" DefName="奥兹" Type="普通" Height="150" Weight="60" Features="奥兹是一个萌萌哒的小朋友，不要对他发火哦，他还只是个孩子~~" mapID="1"/>
@@ -4040,7 +4040,7 @@ Desc:    刻印信息  tips的获得途径文字
 	<Monster ID="3736" DefName="夜语花" Type="邪灵" Height="165" Weight="49" Features="夜语花诞生于一个被诅咒的家族，但她绝不是邪恶之辈，相反她内心善良，尤其喜爱花草。" mapID="1320"/>
 	<Monster ID="3737" DefName="加列韦" Type="火 暗影" Height="185" Weight="75" Features="幽幽冥火在指尖跳跃，亡者之魂尽情燃烧，黑暗将至，冥火已燃！加列韦邪恶现身！" Redirect="map|module" Go="1147;app/PveRewardMallMainPanel" jumptarget="18/4_5" Target="164510"/>
 	<Monster ID="3738" DefName="卡珀莉可" Type="神秘 暗影" Height="170" Weight="55" Features="天启十二宫之摩羯守护，善于用自己真诚的外表来隐藏内心的真实想法和目的！" mapID="103" Target="111500"/>
-	<Monster ID="3739" DefName="玛洛迪斯" Type="远古 草" Height="200" Weight="90" Features="玛法里奥完全体形态，心中的信念将永垂不朽，满腔的希望将永恒不息！" mapID="1322"/>
+	<Monster ID="3739" DefName="玛洛迪斯" Type="远古 草" Height="200" Weight="90" Features="玛法里奥完全体形态，心中的信念将永垂不朽，满腔的希望将永恒不息！" mapID="1322" Target="150100"/>
 	<Monster ID="3740" DefName="怒涛·沧岚" Type="水" Height="170" Weight="58" Features="柔而有骨，无谓前路纷杂。善利万物，亦可白浪滔天。源泉之力神圣爆发，怒涛·沧岚，王者归来！" mapID="1321" Label="1,2" Target="150084" />
 	<Monster ID="3741" DefName="上古魔尊·库贝萨" Type="远古" Height="500" Weight="480" Features="库贝萨完全体形态，浓厚而强大的力量，自远古凝聚至今，魔尊之息，威震天下！" mapID="103"/>
 	<Monster ID="3742" DefName="业冰" Type="冰" Height="170" Weight="50" Features="业冰来自神秘的极寒领域，掌握着极为强大的寒冰之力，至于她为何被封印，已经很少有人得知了..."/>
@@ -5142,5 +5142,8 @@ Desc:    刻印信息  tips的获得途径文字
 	<Monster ID="4842" DefName="雷漠克怪" Type="地面 暗影" Height="180" Weight="107" Features="凯莫兽月化后的形态，在被能量侵蚀后已经失去了理智。" Redirect="module" Go="app/FinalActivityPanel" Target="400015"/>
 	<Monster ID="4843" DefName="辛德拉缇" Type="次元 龙" Height="167" Weight="47" Features="2025包月精灵，赫星童话之《灰姑娘与悖论》，故事讲述的是来自另一个时空的灰姑娘辛德拉缇，与时空悖论造就的恶龙王子战斗的故事。" Redirect="module" Go="app/FinalActivityPanel" Target="120000"/>
 	<Monster ID="4844" DefName="沙弑·吉拉" Type="暗影 神秘" Height="165" Weight="45" Features="来自涅达洛的神秘女刺客，能够扬起沙尘隐遁其中。她会是谁的终结者呢？" Redirect="module" Go="app/FinalActivityPanel" Target="153201/347"/>
+	<Monster ID="4845" DefName="白图泰" Type="光 超能" Height="175" Weight="49" Features="涅达洛王家哲学院的祭司。比起更加注重经院哲学的同僚们，他更喜欢在实践中探索真理。" Redirect="module" Go="app/FinalActivityPanel" Target="153201/348"/>
+	<Monster ID="4846" DefName="米鲁妹妹" Type="冰" Height="46" Weight="14" Features="米鲁族的小不点，有一位双胞胎哥哥。父母曾被赛尔所救，而今她决定收拾行囊，跟随赛尔远行。" Redirect="module" Go="app/FinalActivityPanel" Target="400016"/>
+	<Monster ID="4847" DefName="蘑蘑蜗" Type="草" Height="38" Weight="10" Features="蘑蘑树中诞出的神奇生命，钙化的花苞外壳内，由真菌织成的身体涌动着不俗的智慧。" Redirect="module" Go="app/FinalActivityPanel" Target="400016"/>
 
 </root>

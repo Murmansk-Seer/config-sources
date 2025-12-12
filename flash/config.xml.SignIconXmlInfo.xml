@@ -173,10 +173,11 @@ sort标记展示序列 1为自己给自己的效果 2为队友给自己的效果
 	<item id="136" dec="武诛" tips="武诛" className="*" sort="5" isShowNum="1" NumDes="剩余回合" Des="对手为无极圣武时所有技能先制-2；自身体力高于1/2时受到的攻击伤害额外提升50%，低于1/2时造成的攻击伤害额外减少50%"/>
 	<item id="137" dec="英雄之诫" tips="英雄之诫" className="*" sort="5" isShowNum="0" NumDes="" Des="所有能力值提升65点；自身专属特性中概率高于50%的效果概率提升至100%，不高于50%的效果减少至0%；自身概率最高的异常抗性必定触发"/>
 	<item id="138" dec="和平对抗" tips="和平对抗" className="*" sort="5" isShowNum="1" NumDes="剩余回合" Des="己方在场精灵免疫受到的异常状态，免疫成功时回合数-1，最多减少至1"/>
-	<item id="139" dec="金祖之龍" tips="金祖之龍" className="*" sort="4" isShowNum="0" NumDes="" frame="0_0 1_0 2_2" Des="" spDes="1_己方受到臣服的回合免疫受到的异常状态；乔特鲁德受到致死伤害时若伤害高于其登场可获得的护盾则自身死亡以保留其20%的体力 2_灵魂回归乔特鲁德；乔特鲁德受到臣服的回合免疫受到的异常状态；减少乔特鲁德20%的所受非真实伤害" showmonster="4186"/>
-	<item id="140" dec="玄源之㡣" tips="玄源之㡣" className="*" sort="4" isShowNum="0" NumDes="" frame="0_0 1_0 2_2" Des="" spDes="1_己方受到疲惫的回合免疫受到的异常状态；乔特鲁德造成非致死伤害时若其最大体力的20%高于对手的体力则自身死亡以消耗对手全部体力 2_灵魂回归乔特鲁德；乔特鲁德受到疲惫的回合免疫受到的异常状态；增加乔特鲁德20%的体力上限" showmonster="4186"/>
-	<item id="141" dec="墨菲斯托1" tips="墨菲斯托1" className="*" sort="4" isShowNum="1" NumDes="" Des="" spDes="" showmonster="4186"/>
-	<item id="142" dec="墨菲斯托2" tips="墨菲斯托2" className="*" sort="4" isShowNum="1" NumDes="" Des="" spDes="" showmonster="4186"/>
+	<item id="139" dec="金祖之龍" tips="金祖之龍" className="*" sort="5" isShowNum="0" NumDes="" frame="0_0 1_0 2_2" Des="" spDes="1_己方受到臣服的回合免疫受到的异常状态；乔特鲁德受到致死伤害时若伤害高于其登场可获得的护盾则自身死亡以保留其20%的体力 2_灵魂回归乔特鲁德；乔特鲁德受到臣服的回合免疫受到的异常状态；减少乔特鲁德20%的所受非真实伤害" showmonster="4186"/>
+	<item id="140" dec="玄源之㡣" tips="玄源之㡣" className="*" sort="5" isShowNum="0" NumDes="" frame="0_0 1_0 2_2" Des="" spDes="1_己方受到疲惫的回合免疫受到的异常状态；乔特鲁德造成非致死伤害时若其最大体力的20%高于对手的体力则自身死亡以消耗对手全部体力 2_灵魂回归乔特鲁德；乔特鲁德受到疲惫的回合免疫受到的异常状态；增加乔特鲁德20%的体力上限" showmonster="4186"/>
+	<item id="141" dec="曝" tips="曝" className="*" sort="4" isShowNum="0" NumDes="" Des="" spDes=""/>
+	<item id="142" dec="唱词" tips="唱词" className="*" sort="4" isShowNum="1" NumDes="" Des="" spDes=""/>
+	<item id="143" dec="苍茫树海" tips="苍茫树海" className="*" sort="5" isShowNum="1" NumDes="当前生命力" Des="苍茫树海的生命力等同于玛洛迪斯的临时体力上限，每回合结束后若玛洛迪斯的临时体力上限中没有体力值则苍茫树海消失；己方在场精灵每次受到真实伤害后，消除对手回合类效果与能力提升状态；对方精灵使用技能后，己方的玛洛迪斯受到等同于威力值的真实伤害且苍茫树海每有210点生命力替在场精灵触发1次苍茫之森；回合结束时，己方玛洛迪斯恢复所有技能2点PP值且苍茫树海每有210点生命力替在场精灵触发1次灵魂指引" spDes=""/>
 
 
 
