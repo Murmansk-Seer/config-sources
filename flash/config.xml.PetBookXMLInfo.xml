@@ -213,9 +213,9 @@ Desc:    刻印信息  tips的获得途径文字
 
 <Hotspot><!-- 本周热点 -->
 <item intro="全新精灵上线，快来看看吧！">
-      <place type= "0" ID="4845" ImageID= "4845" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
-	  <place type= "0" ID="4846" ImageID= "4846" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
-	  <place type= "0" ID="4847" ImageID= "4847" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
+      <place type= "0" ID="4848" ImageID= "4848" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
+	  <place type= "0" ID="4849" ImageID= "4849" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
+	  <!-- <place type= "0" ID="4847" ImageID= "4847" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "0" ID="4842" ImageID= "4842" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "0" ID="4843" ImageID= "4843" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "0" ID="4806" ImageID= "4806" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
@@ -255,9 +255,9 @@ Desc:    刻印信息  tips的获得途径文字
       <place type= "0" ID="4641" ImageID= "4641" Label= "0"  Redirect="map|module" Go="1679;app/ValleyExpeditionHatchMainPanel"/>-->
 
 
-      <!-- <place type= "1" ID="781" monID="4542" ImageID= "1400781" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
-      <!-- <place type= "1" ID="782" monID="4706" ImageID= "1400782" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
-	  <!-- <place type= "1" ID="780" monID="4840" ImageID= "1400780" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
+      <place type= "1" ID="783" monID="3954" ImageID= "1400783" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
+      <place type= "1" ID="784" monID="3739" ImageID= "1400784" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
+	  <place type= "1" ID="785" monID="3637" ImageID= "1400785" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
 	  <!-- <place type= "1" ID="769" monID="4822" ImageID= "1400769" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
       <!-- <place type= "1" ID="749" monID="4805" ImageID= "1400749" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "1" ID="750" monID="4069" ImageID= "1400750" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
@@ -3542,7 +3542,7 @@ Desc:    刻印信息  tips的获得途径文字
 	<Monster ID="3231" DefName="阿兰" Type="战斗" Height="144" Weight="51" Features="战斗系精灵王阿尔斯兰的小形态，虽然个头不大，但是战斗的能力已经初步体现出来了！" mapID="1151" jumptarget="18/4_1/2" Target="164120"/>
 	<Monster ID="3232" DefName="阿斯兰" Type="战斗" Height="170" Weight="66" Features="战斗系精灵王阿尔斯兰的中形态，已经领悟了战斗的真谛，战斗的技巧已经越来越熟练了！" mapID="1151"/>
 	<Monster ID="3233" DefName="飞镰" Type="飞行 神秘" Height="180" Weight="80" Features="风之一族千年难得一遇的天才，却因为误会导致它背叛族群。拥有解开泰坦神器的神秘力量！" mapID="1197"/>
-	<Monster ID="3234" DefName="风翼飞镰" Type="飞行 神秘" Height="180" Weight="80" Features="飞镰的超进化形态，为了向泰坦复仇加入大暗黑天的飞镰被天邪龙皇赐予了极为强大的力量！" mapID="1197"/>
+	<Monster ID="3234" DefName="风翼飞镰" Type="飞行 神秘" Height="180" Weight="80" Features="飞镰的超进化形态，为了向泰坦复仇加入大暗黑天的飞镰被天邪龙皇赐予了极为强大的力量！" mapID="1197" Target="150101"/>
 	<Monster ID="3235" DefName="兰利斯特" Type="地面 战斗" Height="180" Weight="80" Features="兰斯特的超进化形态，吸收了大地的力量，成为了苍地战王，战斗能力大大的提升了！" mapID="1" jumptarget="56/3_1"/>
 	<Monster ID="3236" DefName="塞纳留斯" Type="自然" Height="180" Weight="80" Features="泰坦星域黑暗议会的长老，同时是泰坦星域的引路人，一个神秘莫测，亦正亦邪的精灵！" mapID="1"/>
 	<Monster ID="3237" DefName="大威势明王" Type="远古 神秘" Height="180" Weight="80" Features="是不动明王的超进化形态，深研佛法密门，能够更为强力的诛尽邪恶！" mapID="103" Label="1,6"/>
@@ -3861,7 +3861,7 @@ Desc:    刻印信息  tips的获得途径文字
 	<Monster ID="3551" DefName="无妙" Type="战斗" Height="180" Features="帝天战佛座下弟子之一，罗汉神威拳当诛杀一切邪恶！" mapID="103"/>
 	<Monster ID="3552" DefName="烟罗" Type="火 超能" Height="170" Weight="60" Features="来自遥远国度的神秘精灵，善于运用火焰的力量制造幻阵来迷惑敌人！"/>
 	<Monster ID="3553" DefName="嫦娥" Type="光" Height="170" Weight="50" Features="广寒宫上的孤芳自赏，月光之下的盛世芳华，月之仙子翩翩起舞，露娜超进化降临！" mapID="1"/>
-	<Monster ID="3554" DefName="风殇影翼·飞镰" Type="飞行 神秘" Height="140" Weight="60" Features="风翼飞镰的完全体形态，曾经风之一族的天之骄子，如今已沦为大暗黑天的成员之一！但是我们依然记得，那缕孤独的风，那个风中的少年..." mapID="1275"/>
+	<Monster ID="3554" DefName="风殇影翼·飞镰" Type="飞行 神秘" Height="140" Weight="60" Features="风翼飞镰的完全体形态，曾经风之一族的天之骄子，如今已沦为大暗黑天的成员之一！但是我们依然记得，那缕孤独的风，那个风中的少年..." mapID="1275" Target="150101"/>
 	<Monster ID="3555" DefName="雷欧克" Type="光 战斗" Height="190" Weight="80" Features="他曾是上古大战的幸存者，见证了无数的杀伐征战！圣衣骑士雷欧克，仗剑而来！" mapID="1275"/>
 	<Monster ID="3556" DefName="马洛斯" Type="飞行 火" Height="50" Weight="30" Features="马洛斯是飞镰的空袭军团刚刚加入的新兵，小小的身体却有大大的力量！" mapID="1275" Target="140001"/>
 	<Monster ID="3557" DefName="马洛古斯" Type="飞行 火" Height="180" Weight="80" Features="马洛斯的进化形态，凭借威力惊人的爆破以及心意相通的坐骑，成为了飞镰空袭军中最为出色的猛将！" mapID="1275" Target="140001"/>
@@ -5145,5 +5145,7 @@ Desc:    刻印信息  tips的获得途径文字
 	<Monster ID="4845" DefName="白图泰" Type="光 超能" Height="175" Weight="49" Features="涅达洛王家哲学院的祭司。比起更加注重经院哲学的同僚们，他更喜欢在实践中探索真理。" Redirect="module" Go="app/FinalActivityPanel" Target="153201/348"/>
 	<Monster ID="4846" DefName="米鲁妹妹" Type="冰" Height="46" Weight="14" Features="米鲁族的小不点，有一位双胞胎哥哥。父母曾被赛尔所救，而今她决定收拾行囊，跟随赛尔远行。" Redirect="module" Go="app/FinalActivityPanel" Target="400016"/>
 	<Monster ID="4847" DefName="蘑蘑蜗" Type="草" Height="38" Weight="10" Features="蘑蘑树中诞出的神奇生命，钙化的花苞外壳内，由真菌织成的身体涌动着不俗的智慧。" Redirect="module" Go="app/FinalActivityPanel" Target="400016"/>
+	<Monster ID="4848" DefName="谜之英雄" Type="光 神秘" Height="167" Weight="47" Features="突然降世并自称【太阳神】的谜之英雄。她能战胜月王·纳尔迈，带领我们渡过难关吗？" Redirect="module" Go="app/FinalActivityPanel" Target="153201/354"/>
+	<Monster ID="4849" DefName="暖冬小貂" Type="冰 飞行" Height="38" Weight="10" Features="要留意出现在你身边的白色身影哦，说不定下一份礼物就是小貂为你准备的！" Redirect="module" Go="app/FinalActivityPanel" Target="114027"/>
 
 </root>

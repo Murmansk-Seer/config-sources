@@ -2116,7 +2116,7 @@
 		<item moveId="38140" petId="4831" moveName1="蝎子" moveName2="回力标"/>
 		<item moveId="38143" petId="4832" moveName1="破隐" moveName2="缭乱刺"/>
 		<item moveId="38146" petId="4833" moveName1="眼镜" moveName2="蛇鞭打"/>
-		<item moveId="38151" petId="4834" moveName1="神风" moveName2="烈冲踢"/>
+		<item moveId="38151" petId="4834" moveName1="神风" moveName2="烈冲击"/>
 		<item moveId="38152" petId="4835" moveName1="礼炮" moveName2="大合奏"/>
 		<item moveId="38153" petId="4836" moveName1="空与幻" moveName2="之辉"/>
 		<item moveId="38154" petId="4837" moveName1="派派" moveName2="大扫除"/>
@@ -2128,6 +2128,8 @@
 		<item moveId="38180" petId="4845" moveName1="分智" moveName2="离魂决"/>
 		<item moveId="38183" petId="4846" moveName1="碎冰" moveName2="冲击波"/>
 		<item moveId="29214" petId="4999" moveName1="合奏" moveName2="常昼大诰"/>
+		<item moveId="38190" petId="4848" moveName1="寄予无名" moveName2="之枪"/>
+		<item moveId="38193" petId="4849" moveName1="终极" moveName2="大礼"/>
 
 
 

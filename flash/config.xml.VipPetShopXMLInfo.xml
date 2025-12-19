@@ -127,10 +127,14 @@
 <!-- <Pet PetId="4009" Price="198" productID="261985" MiditemId="1727479" LimitLv="5" TimeId="1001" TimeSubId="19" IsExtra="1" NewSe="5535" MintmarkId="41770" Turn="0" desc="" JudgeType="1" ForeverKey="0" ForeverHalfPos="0" /> -->
 
 	<!--20251114第20期-->
-<Pet PetId="3479" Price="198" productID="262019" MiditemId="1727540" LimitLv="5" TimeId="1001" TimeSubId="20" IsExtra="1" NewSe="2714" MintmarkId="41072" Turn="0" desc="" JudgeType="1" ForeverKey="0" ForeverHalfPos="0" />
-<Pet PetId="3352" Price="398" productID="262020" MiditemId="1727541" LimitLv="5" TimeId="1001" TimeSubId="20" IsExtra="1" NewSe="2577" MintmarkId="40899" Turn="0" desc="" JudgeType="1" ForeverKey="0" ForeverHalfPos="0" />
-<Pet PetId="3300" Price="198" productID="262021" MiditemId="1727542" LimitLv="5" TimeId="1001" TimeSubId="20" IsExtra="1" NewSe="2518" MintmarkId="40839" Turn="0" desc="" JudgeType="1" ForeverKey="0" ForeverHalfPos="0" />
+<!-- <Pet PetId="3479" Price="198" productID="262019" MiditemId="1727540" LimitLv="5" TimeId="1001" TimeSubId="20" IsExtra="1" NewSe="2714" MintmarkId="41072" Turn="0" desc="" JudgeType="1" ForeverKey="0" ForeverHalfPos="0" /> -->
+<!-- <Pet PetId="3352" Price="398" productID="262020" MiditemId="1727541" LimitLv="5" TimeId="1001" TimeSubId="20" IsExtra="1" NewSe="2577" MintmarkId="40899" Turn="0" desc="" JudgeType="1" ForeverKey="0" ForeverHalfPos="0" /> -->
+<!-- <Pet PetId="3300" Price="198" productID="262021" MiditemId="1727542" LimitLv="5" TimeId="1001" TimeSubId="20" IsExtra="1" NewSe="2518" MintmarkId="40839" Turn="0" desc="" JudgeType="1" ForeverKey="0" ForeverHalfPos="0" /> -->
 
+	<!--20251219第21期-->
+<Pet PetId="3782" Price="198" productID="262086" MiditemId="1727624" LimitLv="5" TimeId="1001" TimeSubId="21" IsExtra="1" NewSe="3064" MintmarkId="41457" Turn="0" desc="" JudgeType="1" ForeverKey="0" ForeverHalfPos="0" NewMsglogId="2512180800"/>
+<Pet PetId="3756" Price="198" productID="262087" MiditemId="1727625" LimitLv="5" TimeId="1001" TimeSubId="21" IsExtra="1" NewSe="3028" MintmarkId="41423" Turn="0" desc="" JudgeType="1" ForeverKey="0" ForeverHalfPos="0" NewMsglogId="2512180801"/>
+<Pet PetId="3758" Price="198" productID="262088" MiditemId="1727626" LimitLv="5" TimeId="1001" TimeSubId="21" IsExtra="1" NewSe="3033" MintmarkId="41425" Turn="0" desc="" JudgeType="1" ForeverKey="0" ForeverHalfPos="0" NewMsglogId="2512180802"/>
 
 </root>
 

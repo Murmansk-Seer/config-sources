@@ -529,6 +529,7 @@
     <Fragment ID="2400529" show="1" Name="麦迪亚因子" MonsterID="4839" Rarity="2" PetLimit="1" PetConsume="400" NewSeIdx="6333" effectId="2032" NewseConsume="200" MoveID="38160" MovesConsume="100" NeedmonID="0" NewMsglogId="2511270600" SeMsglog="2511270601" EffectMsglog="2511270602"/>
     <Fragment ID="2400530" show="1" Name="沙弑·吉拉因子" MonsterID="4844" Rarity="2" PetLimit="1" PetConsume="400" NewSeIdx="6336" effectId="2035" NewseConsume="200" MoveID="38177" MovesConsume="100" NeedmonID="0" NewMsglogId="2512040500" SeMsglog="2512040501" EffectMsglog="2512040502"/>
     <Fragment ID="2400531" show="1" Name="白图泰因子" MonsterID="4845" Rarity="2" PetLimit="1" PetConsume="400" NewSeIdx="6338" effectId="2036" NewseConsume="200" MoveID="38180" MovesConsume="100" NeedmonID="0" NewMsglogId="2512110700" SeMsglog="2512110701" EffectMsglog="2512110702"/>
+    <Fragment ID="2400532" show="1" Name="谜之英雄因子" MonsterID="4848" Rarity="2" PetLimit="1" PetConsume="400" NewSeIdx="6340" effectId="2039" NewseConsume="200" MoveID="38190" MovesConsume="100" NeedmonID="0" NewMsglogId="2512180400" SeMsglog="2512180401" EffectMsglog="2512180402"/>
 
 	
 	

@@ -2601,15 +2601,15 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 	
-	<Skin ID="779" MonID="4840" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="游明星空·星礼" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114018">
+	<Skin ID="779" MonID="4840" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="游明星空·星礼" >
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 	
-	<Skin ID="780" MonID="4840" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="碧意良宵·星礼" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114018">
+	<Skin ID="780" MonID="4840" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="碧意良宵·星礼" >
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 	
-	<Skin ID="781" MonID="4542" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="星空解析·明德里奇" Go="app/FinalActivityPanel" GoType="module" Jumptarget="2">
+	<Skin ID="781" MonID="4542" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="星空解析·明德里奇" >
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 	
@@ -2617,7 +2617,17 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 
+	<Skin ID="783" MonID="3954" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="8" Name="冬日礼颂·枫眠" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114026">
+		<SkinKind ID="1" Type="2" LifeTime="0"/>
+	</Skin>
 
+	<Skin ID="784" MonID="3739" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="8" Name="雪境牧礼使·玛洛迪斯" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114026">
+		<SkinKind ID="1" Type="2" LifeTime="0"/>
+	</Skin>
+	
+	<Skin ID="785" MonID="3637" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Name="萨瑞卡" Go="app/FinalActivityPanel" GoType="module" Jumptarget="2">
+		<SkinKind ID="1" Type="2" LifeTime="0"/>
+	</Skin>	
 
 
 
