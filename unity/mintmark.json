@@ -121261,6 +121261,42 @@
         "type": 3
       },
       {
+        "des": "梅赫维特专属全能刻印",
+        "effect_des": "防御2/25,特攻5/55,特防2/25,速度4/40,体力9/90",
+        "arg": [],
+        "base_attri_value": [
+          0,
+          2,
+          5,
+          2,
+          4,
+          9
+        ],
+        "extra_attri_value": [],
+        "max_attri_value": [
+          0,
+          25,
+          55,
+          25,
+          40,
+          90
+        ],
+        "monster_id": [
+          4853
+        ],
+        "move_id": [],
+        "grade": 5,
+        "id": 42615,
+        "level": 100,
+        "max": 99,
+        "mintmark_class": 0,
+        "quality": 5,
+        "rare": 1,
+        "rarity": 0,
+        "total_consume": 0,
+        "type": 3
+      },
+      {
         "des": "小碎片",
         "effect_des": "",
         "arg": [],

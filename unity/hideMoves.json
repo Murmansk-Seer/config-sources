@@ -12770,10 +12770,10 @@
         "pet_id": 4846
       },
       {
-        "move_id": 29214,
+        "move_id": 38173,
         "move_name1": "合奏",
         "move_name2": "常昼大诰",
-        "pet_id": 4999
+        "pet_id": 4853
       },
       {
         "move_id": 38190,
@@ -12786,6 +12786,30 @@
         "move_name1": "终极",
         "move_name2": "大礼",
         "pet_id": 4849
+      },
+      {
+        "move_id": 38196,
+        "move_name1": "破军",
+        "move_name2": "灭魂袭",
+        "pet_id": 4850
+      },
+      {
+        "move_id": 38199,
+        "move_name1": "白翼",
+        "move_name2": "害灭",
+        "pet_id": 4851
+      },
+      {
+        "move_id": 38202,
+        "move_name1": "梦续",
+        "move_name2": "涟光",
+        "pet_id": 4852
+      },
+      {
+        "move_id": 38205,
+        "move_name1": "草绿",
+        "move_name2": "唤春来",
+        "pet_id": 4854
       },
       {
         "move_id": 31143,

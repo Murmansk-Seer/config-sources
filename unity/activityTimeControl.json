@@ -1617,9 +1617,9 @@
         "start_time": "20211022"
       },
       {
-        "end_time": "20251231",
+        "end_time": "*",
         "id": 323,
-        "start_time": "20241227"
+        "start_time": "20251226"
       },
       {
         "end_time": "20221006",

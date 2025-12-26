@@ -2352,6 +2352,20 @@
                     "id": 21,
                     "proicon": 1447,
                     "spe_name_bonus": 558
+                  },
+                  {
+                    "abtext": "",
+                    "ach_name": "天人之证",
+                    "desc": "完成主线【行于沙海】获得",
+                    "threshold": "22",
+                    "title": "天人之证",
+                    "title_color": "0xFFFFFF",
+                    "ability_title": 0,
+                    "achievement_point": 10,
+                    "hide": 0,
+                    "id": 22,
+                    "proicon": 1456,
+                    "spe_name_bonus": 565
                   }
                 ],
                 "id": 161,
@@ -8302,6 +8316,20 @@
                     "id": 2,
                     "proicon": 1448,
                     "spe_name_bonus": 559
+                  },
+                  {
+                    "abtext": "",
+                    "ach_name": "征服者塞拉赫",
+                    "desc": "通关S-通关S-图特摩斯【地狱难度】关卡获得",
+                    "threshold": "3",
+                    "title": "征服者塞拉赫",
+                    "title_color": "0xFFFFFF",
+                    "ability_title": 0,
+                    "achievement_point": 10,
+                    "hide": 0,
+                    "id": 3,
+                    "proicon": 1457,
+                    "spe_name_bonus": 566
                   }
                 ],
                 "id": 172,
@@ -17767,6 +17795,20 @@
                     "id": 26,
                     "proicon": 1454,
                     "spe_name_bonus": 0
+                  },
+                  {
+                    "abtext": "攻击+30、特攻+30、防御+30、特防+30、体力+50",
+                    "ach_name": "敌月神",
+                    "desc": "成为2026年费VIP",
+                    "threshold": "27",
+                    "title": "敌月神",
+                    "title_color": "0xFFFFFF",
+                    "ability_title": 1,
+                    "achievement_point": 10,
+                    "hide": 0,
+                    "id": 27,
+                    "proicon": 1455,
+                    "spe_name_bonus": 564
                   }
                 ],
                 "id": 166,
@@ -17929,6 +17971,20 @@
                     "hide": 0,
                     "id": 11,
                     "proicon": 1441,
+                    "spe_name_bonus": 0
+                  },
+                  {
+                    "abtext": "",
+                    "ach_name": "圣诞礼遇",
+                    "desc": "达成圣诞礼遇系列皮肤收集进度",
+                    "threshold": "12",
+                    "title": "",
+                    "title_color": "",
+                    "ability_title": 0,
+                    "achievement_point": 10,
+                    "hide": 0,
+                    "id": 12,
+                    "proicon": 1458,
                     "spe_name_bonus": 0
                   }
                 ],
