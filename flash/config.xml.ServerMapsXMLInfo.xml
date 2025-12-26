@@ -18468,6 +18468,6 @@ eg:
 		<DefaultMap ID="3" RandMaps="1224" Desc="新手登录场景"/>
 	</DefaultMaps>
 	<VersionNumber>
-		<Version ID="20251219" Desc="每次发版需同步更新版本号"/>
+		<Version ID="20251226" Desc="每次发版需同步更新版本号"/>
 	</VersionNumber>
 </Maps>

@@ -297,6 +297,7 @@
 				<Rule ID="19" Threshold="19" AchievementPoint="10" icon="1" achName="想要让你知道" proicon="1438" SpeNameBonus="554" title="真心翡翠" Desc="完成主线【想要让你知道】获得" titleColor="0xFFFFFF"/>
 				<Rule ID="20" Threshold="20" AchievementPoint="10" icon="1" achName="俯瞰星穹" proicon="1440" SpeNameBonus="556" title="俯瞰星穹" Desc="完成支线【俯仰星尘】获得" titleColor="0xFFFFFF"/>
 				<Rule ID="21" Threshold="21" AchievementPoint="10" icon="1" achName="卡布达与朋友" proicon="1447" SpeNameBonus="558" title="卡布达与朋友" Desc="完成剧情【和平星争霸赛】获得" titleColor="0xFFFFFF" />
+				<Rule ID="22" Threshold="22" AchievementPoint="10" icon="1" achName="天人之证" proicon="1456" SpeNameBonus="565" title="天人之证" Desc="完成主线【行于沙海】获得" titleColor="0xFFFFFF" />
 			</Branch>
 
 		</Branches>
@@ -880,6 +881,7 @@
 			<Branch ID="172" Desc="新因子关卡2" >
 				<Rule ID="1" Threshold="1" AchievementPoint="10" icon="1" achName="永恒烈焰" proicon="1446" SpeNameBonus="557" title="永恒烈焰" Desc="通关S-星光·里奥斯【地狱难度】关卡获得" titleColor="0xFFFFFF"/>
 				<Rule ID="2" Threshold="2" AchievementPoint="10" icon="1" achName="钢铁意志" proicon="1448" SpeNameBonus="559" title="钢铁意志" Desc="通关S-重装·派鲁基达【地狱难度】关卡获得" titleColor="0xFFFFFF"/>
+				<Rule ID="3" Threshold="3" AchievementPoint="10" icon="1" achName="征服者塞拉赫" proicon="1457" SpeNameBonus="566" title="征服者塞拉赫" Desc="通关S-通关S-图特摩斯【地狱难度】关卡获得" titleColor="0xFFFFFF"/>
 			</Branch>
 			
 			<Branch ID="169" Desc="高难挑战系列" > 
@@ -1797,7 +1799,7 @@
 				<Rule ID="24" Threshold="24" AchievementPoint="10" icon="1" achName="六千昼夜" proicon="1451" SpeNameBonus="562" title="六千昼夜" Desc="参与活动【航行橱窗】获取" titleColor="0xFFFFFF" />
 				<Rule ID="25" Threshold="25" AchievementPoint="5" icon="1" achName="寂夜曼陀罗" proicon="1453"  Desc="屡次见证于寂夜绽放的诅咒之花" titleColor="0xFFFFFF" />
 				<Rule ID="26" Threshold="26" AchievementPoint="5" icon="1" achName="破月勇者" proicon="1454" Desc="成为雷漠克怪杀手" titleColor="0xFFFFFF" />
-				
+				<Rule ID="27" Threshold="27" AchievementPoint="10" icon="1" achName="敌月神" proicon="1455" SpeNameBonus="564" title="敌月神" Desc="成为2026年费VIP" titleColor="0xFFFFFF" AbilityTitle="1" abtext="攻击+30、特攻+30、防御+30、特防+30、体力+50"/>
 				
 			</Branch>
 
@@ -1813,6 +1815,7 @@
 				<Rule ID="9" Threshold="9" AchievementPoint="10" achName="2024巅峰时装收集" Desc="达成2024巅峰圣战专属精灵皮肤收集进度" proicon="1436" icon="1" />
 				<Rule ID="10" Threshold="10" AchievementPoint="10" achName="2025巅峰时装收集" Desc="达成2025巅峰圣战专属精灵皮肤收集进度" proicon="1437" icon="1" />
 				<Rule ID="11" Threshold="11" AchievementPoint="10" achName="新时代" Desc="达成时代轨迹系列皮肤收集进度" proicon="1441" icon="1" />
+			    <Rule ID="12" Threshold="12" AchievementPoint="10" achName="圣诞礼遇" Desc="达成圣诞礼遇系列皮肤收集进度" proicon="1458" icon="1" />
 
 			</Branch>
 

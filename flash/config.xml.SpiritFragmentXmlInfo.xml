@@ -521,7 +521,6 @@
 	<Fragment ID="2400522" show="1" Name="星光·里奥斯因子" MonsterID="4822" Rarity="3" PetLimit="1" PetConsume="540" NewSeIdx="6314" effectId="2013" NewseConsume="270" MoveID="38111" MovesConsume="108" NeedmonID="0" NewMsglogId="2510160600" SeMsglog="2510160601" EffectMsglog="2510160602"/>
 	<Fragment ID="2400523" show="1" Name="鬼神无双·吕布因子" MonsterID="3940" Rarity="4" PetLimit="0" PetConsume="1000" NewSeIdx="3319" effectId="1203" NewseConsume="500" MoveID="33694" MovesConsume="200" NeedmonID="0" NewMsglogId="" SeMsglog="" EffectMsglog=""/>
 	<Fragment ID="2400524" show="1" Name="燃魂巨兽因子" MonsterID="3584" Rarity="4" PetLimit="0" PetConsume="1000" NewSeIdx="2816" effectId="885" NewseConsume="500" MoveID="31887" MovesConsume="200" NeedmonID="0" NewMsglogId="" SeMsglog="" EffectMsglog=""/>
-	
 	<Fragment ID="2400525" show="1" Name="辛西娅娜因子" MonsterID="3946" Rarity="2" PetLimit="1" PetConsume="400" NewSeIdx="3326" effectId="1210" NewseConsume="200" MoveID="33720" MovesConsume="100" NeedmonID="0" NewMsglogId="" SeMsglog="" EffectMsglog=""/>
     <Fragment ID="2400526" show="1" Name="茉茉子因子" MonsterID="4234" Rarity="2" PetLimit="1" PetConsume="400" NewSeIdx="5726" effectId="1455" NewseConsume="200" MoveID="35152" MovesConsume="100" NeedmonID="0" NewMsglogId="" SeMsglog="" EffectMsglog=""/>
     <Fragment ID="2400527" show="1" Name="重装·派鲁基达因子" MonsterID="4834" Rarity="3" PetLimit="1" PetConsume="540" NewSeIdx="6326" effectId="2024" NewseConsume="270" MoveID="38151" MovesConsume="108" NeedmonID="0" NewMsglogId="2511130800" SeMsglog="2511130801" EffectMsglog="2511130802"/>
@@ -530,7 +529,19 @@
     <Fragment ID="2400530" show="1" Name="沙弑·吉拉因子" MonsterID="4844" Rarity="2" PetLimit="1" PetConsume="400" NewSeIdx="6336" effectId="2035" NewseConsume="200" MoveID="38177" MovesConsume="100" NeedmonID="0" NewMsglogId="2512040500" SeMsglog="2512040501" EffectMsglog="2512040502"/>
     <Fragment ID="2400531" show="1" Name="白图泰因子" MonsterID="4845" Rarity="2" PetLimit="1" PetConsume="400" NewSeIdx="6338" effectId="2036" NewseConsume="200" MoveID="38180" MovesConsume="100" NeedmonID="0" NewMsglogId="2512110700" SeMsglog="2512110701" EffectMsglog="2512110702"/>
     <Fragment ID="2400532" show="1" Name="谜之英雄因子" MonsterID="4848" Rarity="2" PetLimit="1" PetConsume="400" NewSeIdx="6340" effectId="2039" NewseConsume="200" MoveID="38190" MovesConsume="100" NeedmonID="0" NewMsglogId="2512180400" SeMsglog="2512180401" EffectMsglog="2512180402"/>
+    <Fragment ID="2400533" show="1" Name="图特摩斯因子" MonsterID="4850" Rarity="3" PetLimit="1" PetConsume="540" NewSeIdx="6341" effectId="2040" NewseConsume="270" MoveID="38196" MovesConsume="108" NeedmonID="0" NewMsglogId="2512250500" SeMsglog="2512250501" EffectMsglog="2512250502"/>
+	<Fragment ID="2400534" show="1" Name="西忒蕾妃因子" MonsterID="4854" Rarity="2" PetLimit="1" PetConsume="400" NewSeIdx="6344" effectId="2043" NewseConsume="200" MoveID="38205" MovesConsume="100" NeedmonID="0" NewMsglogId="2601010600" SeMsglog="2601010601" EffectMsglog="2601010602"/>
 
+	<Fragment ID="2400535" show="1" Name="鬼蚀豹尊因子" MonsterID="3679" Rarity="3" PetLimit="1" PetConsume="540" NewSeIdx="2929" effectId="965" NewseConsume="270" MoveID="32375" MovesConsume="108" NeedmonID="0" NewMsglogId="" SeMsglog="" EffectMsglog=""/>
+	<Fragment ID="2400536" show="1" Name="恶灵兽因子" MonsterID="1534" Rarity="1" PetLimit="1" PetConsume="200" NewSeIdx="0" MoveID="16100" MovesConsume="50" NeedmonID="0" NewMsglogId="" SeMsglog="" EffectMsglog=""/>
+	<Fragment ID="2400537" show="1" Name="邪冥兽因子" MonsterID="2620" Rarity="2" PetLimit="1" PetConsume="400" NewSeIdx="1818" effectId="84" NewseConsume="200" MoveID="16744" MovesConsume="100" NeedmonID="1534" NewMsglogId="" SeMsglog="" EffectMsglog=""/>
+    <Fragment ID="2400538" show="1" Name="魅·夜翼因子" MonsterID="4057" Rarity="2" PetLimit="1" PetConsume="400" NewSeIdx="5575" effectId="1304" NewseConsume="200" MoveID="34243" MovesConsume="100" NeedmonID="0" NewMsglogId="" SeMsglog="" EffectMsglog=""/>
+    <Fragment ID="2400539" show="1" Name="焰·绯云因子" MonsterID="4101" Rarity="2" PetLimit="1" PetConsume="400" NewSeIdx="5609" effectId="1338" NewseConsume="200" MoveID="34464" MovesConsume="100" NeedmonID="0" NewMsglogId="" SeMsglog="" EffectMsglog=""/>
+    <Fragment ID="2400540" show="1" Name="冰·寒凌因子" MonsterID="4084" Rarity="2" PetLimit="1" PetConsume="400" NewSeIdx="5597" effectId="1326" NewseConsume="200" MoveID="34380" MovesConsume="100" NeedmonID="0" NewMsglogId="" SeMsglog="" EffectMsglog=""/>
+    <Fragment ID="2400541" show="1" Name="清·炫羽因子" MonsterID="4064" Rarity="2" PetLimit="1" PetConsume="400" NewSeIdx="5578" effectId="1310" NewseConsume="200" MoveID="34276" MovesConsume="100" NeedmonID="0" NewMsglogId="" SeMsglog="" EffectMsglog=""/>
+    <Fragment ID="2400542" show="1" Name="灵兽·萨尔蒙因子" MonsterID="3303" Rarity="2" PetLimit="1" PetConsume="400" NewSeIdx="2522" effectId="627" NewseConsume="200" MoveID="30433" MovesConsume="100" NeedmonID="0" NewMsglogId="" SeMsglog="" EffectMsglog=""/>
+    <Fragment ID="2400543" show="1" Name="灵宫圣威·萨尔蒙因子" MonsterID="3304" Rarity="3" PetLimit="1" PetConsume="540" NewSeIdx="2526" effectId="633" NewseConsume="270" MoveID="30438" MovesConsume="108" NeedmonID="3303" NewMsglogId="" SeMsglog="" EffectMsglog=""/>
+    <Fragment ID="2400544" show="1" Name="萌芽之薇因子" MonsterID="4852" Rarity="1" PetLimit="1" PetConsume="200" NewSeIdx="6342" effectId="2042" NewseConsume="100" MoveID="38202" MovesConsume="50" NeedmonID="0" NewMsglogId="" SeMsglog="" EffectMsglog=""/>
 	
 	
 </Root>

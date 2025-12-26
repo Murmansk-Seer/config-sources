@@ -623,8 +623,9 @@
     <object name="yearVip2022Eq" tip="2022年费精灵至序圣华" type="map|module">1529;app/Yearvip2022MainPanel</object>
     <object name="yearVip2023Eq" tip="2023年费精灵逐界苍星" type="map|module">1588;app/Yearvip2023MainPanel</object>
     <object name="yearVip2024Eq" tip="2024年费精灵空元行者" type="map|module">1652;app/Yearvip2024MainPanel</object>
-	<object name="yearVip2025Eq" tip="2025年费精灵奥菲利娅" type="map|module">1652;app/Yearvip2025MainPanel</object>
+	  <object name="yearVip2025Eq" tip="2025年费精灵奥菲利娅" type="map|module">1652;app/Yearvip2025MainPanel</object>
     <object name="peak2024Eq" tip="巅峰战令" type="module">app/PeakJihad2023WarOrdePanel</object>
+     <object name="yearVip2026Eq" tip="2026年费精灵" type="module">app/FinalActivityPanel</object>
   </allobjects>
   <mapconfig>
     <map id="1">
@@ -717,7 +718,7 @@
       <object name="dien" des="萨格罗斯的试炼" x="367" y="283" isFlipHorizontally="0" time="* * 30 9 * 2015,* * 1-8 10 * 2015" scale="1"/>
     </map>
     <map id="103">
-      <object name="yearVip2025Eq" x="530" y="259" isFlipHorizontally="0" scale="1" time="" countID=""/>
+      <object name="yearVip2026Eq" x="530" y="259" isFlipHorizontally="0" scale="1" time="" countID=""/>
       <object name="fireWorks" des="" x="191" y="253" isFlipHorizontally="0" scale="1.5" time="* * 1-7 2 * 2019" countID="0x05213E34"/>
       <object name="denEn103_Eq" x="159" y="252" isFlipHorizontally="0" scale="1" time="* * * * * *" countID=""/>
       <object name="map_103_ad_2" x="616" y="61" isFlipHorizontally="0" scale="1" time="" countID=""/>
@@ -727,7 +728,7 @@
       <object name="vipSuit" x="218" y="282" isFlipHorizontally="0" scale="1" time="" countID=""/>
       <object name="vipServant" x="325" y="477" isFlipHorizontally="0" scale="1" time="" countID=""/>
           <!--<object name="vippackage" x="757" y="406" isFlipHorizontally="0" scale="1" time="" countID=""/>-->
-      <object name="yearVip2025Eq" x="479" y="312" isFlipHorizontally="0" scale="1" time="" countID=""/>
+      <object name="yearVip2026Eq" x="479" y="312" isFlipHorizontally="0" scale="1" time="" countID=""/>
       <object name="map_107_ad_1" x="317" y="38" isFlipHorizontally="0" scale="1" time="" countID=""/>
     </map>
     <map id="110">
@@ -1225,9 +1226,9 @@
     <map id="795">
       <object name="LightPegasusEvoBtn" x="724" y="337" isFlipHorizontally="0" scale="1.2" time="" countID=""/>
     </map>
-	<!-- 游戏内没有装置显示且未配有活动面板，yxliu20240827注释 
-    <map id="451"> 
-      <object name="TorukSign" x="400" y="306" isFlipHorizontally="0" scale="1.4" time="" countID=""/> 
+	<!-- 游戏内没有装置显示且未配有活动面板，yxliu20240827注释
+    <map id="451">
+      <object name="TorukSign" x="400" y="306" isFlipHorizontally="0" scale="1.4" time="" countID=""/>
     </map> -->
     <map id="709"/>
     <map id="507">

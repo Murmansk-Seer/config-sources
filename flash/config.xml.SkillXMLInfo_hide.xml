@@ -2127,9 +2127,13 @@
 		<item moveId="38177" petId="4844" moveName1="飞刃" moveName2="断魂袭"/>
 		<item moveId="38180" petId="4845" moveName1="分智" moveName2="离魂决"/>
 		<item moveId="38183" petId="4846" moveName1="碎冰" moveName2="冲击波"/>
-		<item moveId="29214" petId="4999" moveName1="合奏" moveName2="常昼大诰"/>
+		<item moveId="38173" petId="4853" moveName1="合奏" moveName2="常昼大诰"/>
 		<item moveId="38190" petId="4848" moveName1="寄予无名" moveName2="之枪"/>
 		<item moveId="38193" petId="4849" moveName1="终极" moveName2="大礼"/>
+		<item moveId="38196" petId="4850" moveName1="破军" moveName2="灭魂袭"/>
+		<item moveId="38199" petId="4851" moveName1="白翼" moveName2="害灭"/>
+		<item moveId="38202" petId="4852" moveName1="梦续" moveName2="涟光"/>
+		<item moveId="38205" petId="4854" moveName1="草绿" moveName2="唤春来"/>
 
 
 

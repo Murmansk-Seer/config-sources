@@ -35,7 +35,7 @@
 
     <icon direction="left_side" shownewseer="0" priority="1" exMapList="50000" ui="lotteryIcon" tips="精灵强化" initfunc="" mouseClickFunc="app:TreasureHuntPanel"/>
 	<icon direction="left_bar" shownewseer="0" priority="1" exMapList="50000" ui="shopcenter_icon" tips="最新礼包" initfunc="" mouseClickFunc="app:NewGiftMainPanel"/>
-	<icon direction="left_bar" shownewseer="0" priority="2" exMapList="50000" ui="yearvip_icon" tips="2025年费" initfunc="com.robot.app2.systems.iconLevel.IconFuncManager:initVip2016" mouseClickFunc="app:Yearvip2025MainPanel"/>
+	<icon direction="left_bar" shownewseer="0" priority="2" exMapList="50000" ui="yearvip_icon" tips="2026年费" initfunc="com.robot.app2.systems.iconLevel.IconFuncManager:initVip2016" mouseClickFunc="app:FinalActivityPanel"/>
 
 	<!-- <icon direction="right_bar" shownewseer="0" priority="3" exMapList="50000" ui="PiShenJiangLin_icon" tips="皮洛斯星的旅途" mouseClickFunc="app:PiLuoSiXingGoToThreeMapPanel"/> -->
 	<!-- <icon direction="left_bar" shownewseer="0" priority="3" exMapList="50000" ui="15xinyuan_icon" tips="15周年心愿单" initfunc="" mouseClickFunc="com.robot.app2.systems.iconLevel.IconFuncManager:clickEnterSubPanel"/> -->
