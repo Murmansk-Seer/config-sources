@@ -213,9 +213,9 @@ Desc:    刻印信息  tips的获得途径文字
 
 <Hotspot><!-- 本周热点 -->
 <item intro="全新精灵上线，快来看看吧！">
-      <place type= "0" ID="4857" ImageID= "4857" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
-	  <place type= "0" ID="4858" ImageID= "4858" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
-	  <place type= "0" ID="4859" ImageID= "4859" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
+      <place type= "0" ID="4860" ImageID= "4860" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
+	  <place type= "0" ID="4861" ImageID= "4861" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
+	  <place type= "0" ID="4862" ImageID= "4862" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
 	  <!-- <place type= "0" ID="4853" ImageID= "4853" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "0" ID="4843" ImageID= "4843" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "0" ID="4806" ImageID= "4806" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
@@ -255,9 +255,9 @@ Desc:    刻印信息  tips的获得途径文字
       <place type= "0" ID="4641" ImageID= "4641" Label= "0"  Redirect="map|module" Go="1679;app/ValleyExpeditionHatchMainPanel"/>-->
 
 
-      <place type= "1" ID="787" monID="4797" ImageID= "1400787" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
-      <place type= "1" ID="788" monID="3171" ImageID= "1400788" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
-	  <!-- <place type= "1" ID="785" monID="3637" ImageID= "1400785" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
+      <place type= "1" ID="789" monID="4861" ImageID= "1400789" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
+      <place type= "1" ID="790" monID="4376" ImageID= "1400790" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
+	  <place type= "1" ID="791" monID="4510" ImageID= "1400791" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
 	  <!-- <place type= "1" ID="769" monID="4822" ImageID= "1400769" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
       <!-- <place type= "1" ID="749" monID="4805" ImageID= "1400749" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "1" ID="750" monID="4069" ImageID= "1400750" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
@@ -3993,7 +3993,7 @@ Desc:    刻印信息  tips的获得途径文字
 	<Monster ID="3683" DefName="混沌魔尊" Type="混沌 暗影" Height="200" Weight="90" Features="混沌魔使的超进化形态，是魔君索伦森最忠诚的仆从，代表索伦森以混沌之名与各方势力进行谈判交涉。" mapID="1309"/>
 	<Monster ID="3684" DefName="闪光艾丝可玲" Type="自然 冰" Height="100" Weight="30" Features="闪光艾丝可玲可是极其稀有的精灵，传言中她是照耀了寒月之光才变成了这幅模样！" mapID="1"/>
 	<Monster ID="3685" DefName="孙权" Type="圣灵 次元" Height="190" Weight="85" Features="龙虎盘踞霸江东，神武雄才孙仲谋！" mapID="103"/>
-	<Monster ID="3686" DefName="妖族元皇·兰蒂斯" Type="邪灵 龙" Height="220" Weight="95" Features="万邪妖皇极致突破，兰蒂斯吸收了魂珠的力量变得更为强大，他能否带领妖族走向繁荣，我们还不得而知..." mapID="1309"/>
+	<Monster ID="3686" DefName="妖族元皇·兰蒂斯" Type="邪灵 龙" Height="220" Weight="95" Features="万邪妖皇极致突破，兰蒂斯吸收了魂珠的力量变得更为强大，他能否带领妖族走向繁荣，我们还不得而知..." mapID="1309" Target="150103"/>
 	<Monster ID="3693" DefName="米迦勒" Type="火 电" Height="170" Weight="65" Features="他是正义的使者，身披金色之羽，手握神圣之光。行过之处，是满腔的傲气凛然！" mapID="1"/>
 	<Monster ID="3694" DefName="魔镰武神" Type="暗影 战斗" Height="170" Weight="55" Features="来自深渊地狱的魔镰武神，可以操纵怨灵去毁灭眼前的一切！" mapID="1"/>
 	<Monster ID="3695" DefName="重盾·杰西卡" Type="地面 战斗" Height="180" Weight="95" Features="杰西卡重盾形态，渴望为正义而战，拥有着无比坚硬的防护体系！" mapID="1310" jumptarget="56/3_6" Target="140001"/>
@@ -4807,13 +4807,13 @@ Desc:    刻印信息  tips的获得途径文字
 	<Monster ID="4507" DefName="拉托奥" Type="机械" Height="172" Weight="92" Features="拉托奥是夕阳驿站的负责人，年事已高的他习惯坐在自己的机甲上进行工作。随着夕阳驿站的乘客越来越少，他也开始把时间花在捣鼓自己的机械设计上。" Redirect="map|module" Go="1614;app/SpetLaTuoAoMainPanel" jumptarget="151/152" Target="153201/152"/>
 	<Monster ID="4508" DefName="巨爵·克雷特" Type="远古 邪灵" Height="184" Weight="76" Features="2023年6月包月精灵，十二星芒之一，巨爵擎天，星汉黯空！" Target="295008"/>
 	<Monster ID="4509" DefName="梅林" Type="超能" Height="166" Weight="48" Features="2023年6月巅峰圣战精灵，传说中的大魔法师，对于魔法的掌控已经出神入化，可以自由改变自己的性别与年龄。“你们两个小姑娘是来拜师的嘛？我是魔法祖师梅林，很高兴认识你们！”"/>
-	<Monster ID="4510" DefName="卫岳" Type="水 超能" Height="168" Weight="52" Features="南荒卫氏家族中的长女，在帝国征召开拓舰舰长的选拔中脱颖而出，却在启航后看到了未曾预料的身影。"/>
+	<Monster ID="4510" DefName="卫岳" Type="水 超能" Height="168" Weight="52" Features="南荒卫氏家族中的长女，在帝国征召开拓舰舰长的选拔中脱颖而出，却在启航后看到了未曾预料的身影。" Target="111800"/>
 	<Monster ID="4511" DefName="不破帝·南霜" Type="冰 暗影" Height="174" Weight="58" Features="风雪乱山深，苍茫远归人。曦见凌天城，迟暮又相逢。无尽飘零的霜，从未倒下的王，将永远守护这片天地。" Redirect="map|module" Go="1615;app/SpetBPDNanShuangMainPanel" jumptarget="151/154" Target="153201/154"/>
-	<Monster ID="4500" DefName="武心婵" Type="圣灵 自然" Height="166" Weight="46" Features="瓏帝国当今皇帝最年幼得宠的女儿，如今悄然走出宫门，登上了即将启航的开拓舰。"/>
+	<Monster ID="4500" DefName="武心婵" Type="圣灵 自然" Height="166" Weight="46" Features="瓏帝国当今皇帝最年幼得宠的女儿，如今悄然走出宫门，登上了即将启航的开拓舰。" Target="111800"/>
 	<Monster ID="4512" DefName="采云" Type="光" Height="134" Weight="33" Features="在梦星阁帮忙的婢女，武心婵的起居生活都要依靠她们，虽然她们个子很小，但有能力可以应付各种大小事务。"/>
 	<Monster ID="4513" DefName="采霞" Type="光 神秘" Height="136" Weight="34" Features="武心婵最信任的婢女，虽然被武帝责令不能继续侍奉公主，但还是会偶尔在梦星阁出现。"/>
 	<Monster ID="4514" DefName="灼云" Type="火 飞行" Height="173" Weight="60" Features="灼云是南霜大人的右护法，擅长操纵并融合云雾与火焰进行攻击，异于常人的肺活量让她能够长时间地对敌人进行压制。" Redirect="map|module" Go="1616;app/SpetZhuoYunMainPanel" jumptarget="151/156" Target="153201/156"/>
-	<Monster ID="4515" DefName="霍光" Type="水 神秘" Height="186" Weight="77" Features="北冥霍氏家族新晋家主，曾率北冥卫平定数次叛乱立下卓著功勋。作为当今皇帝心腹，接下重任，追逐痕迹来到了赛尔号所处的宇宙。"/>
+	<Monster ID="4515" DefName="霍光" Type="水 神秘" Height="186" Weight="77" Features="北冥霍氏家族新晋家主，曾率北冥卫平定数次叛乱立下卓著功勋。作为当今皇帝心腹，接下重任，追逐痕迹来到了赛尔号所处的宇宙。" Target="111800"/>
 	<Monster ID="4516" DefName="帕妮丝" Type="冰 光" Height="145" Weight="34" Features="帕妮丝是一位活泼可爱的猫族学者，她从小就对古龙有着很大的兴趣。她常常会溜进凌天图书馆翻阅古籍，挖掘并学习古龙相关的知识。" Redirect="map|module" Go="1617;app/SpetPaNiSiMainPanel" jumptarget="151/157" Target="153201/157"/>
 	<Monster ID="4517" DefName="铃熙" Type="火 战斗" Height="175" Weight="56" Features="2023年7月巅峰圣战精灵，右臂异化而成的长刀锋利无比，每当妖铃响起，就意味着又要有人焚陨于她的利刃之下。"/>
 	<Monster ID="4518" DefName="小熊·俄萨梅" Type="光 超能" Height="153" Weight="43" Features="2023年7月包月精灵，十二星芒之一，小熊拥抱，星汉软绒！" Target="295008"/>
@@ -5120,7 +5120,7 @@ Desc:    刻印信息  tips的获得途径文字
 	<Monster ID="4820" DefName="贝尔恩克" Type="火 暗影" Height="127" Weight="65" Features="火山星上出现的未知生物，在它的身上能够提取出贝尔鲁斯和沙恩克的基因，似乎是由死黑能量强行融合而诞生的怪物。" Redirect="module" Go="app/FinalActivityPanel" Target="153201/323"/>
 	<Monster ID="4821" DefName="巴姆" Type="火" Height="42" Weight="8" Features="在火山星深处新发现的神奇精灵，其性格与习性均与巴多类似，初步认定为巴多的亚种。但不知受什么影响，似乎失去了进化能力。" Redirect="module" Go="app/FinalActivityPanel" Target="400012"/>
 	<Monster ID="4822" DefName="星光·里奥斯" Type="火" Height="237" Weight="98" Features="火炎巨鹿·里奥斯的星光进化形态。面临危机时，里奥斯心中的意志与星球深处的能量产生共鸣，这位火山星的守护者再度迎来了新生。" Redirect="module" Go="app/FinalActivityPanel" Target="153201/326"/>
-	<Monster ID="4823" DefName="雪璞" Type="自然 冰" Height="162" Weight="47" Features="巅峰S8赛季【曜日】开启！日光将融化一切风雪，赤日凌空，希望永存！" Redirect="module" Go="app/FinalActivityPanel" Target="200000"/>
+	<Monster ID="4823" DefName="雪璞" Type="自然 冰" Height="162" Weight="47" Features="巅峰S8赛季【曜日】开启！日光将融化一切风雪，赤日凌空，希望永存！" />
 	<Monster ID="4824" DefName="茸炘兔" Type="火 超能" Height="43" Weight="21" Features="茸炘兔常年生活在火山星地核区域。在毛茸茸的可爱外表下，有着极为成熟稳重的性格。" Redirect="module" Go="app/FinalActivityPanel" Target="400014"/>
 	<Monster ID="4825" DefName="卡布达" Type="电 战斗" Height="153" Weight="78" Features="卡布达是B系列最初制作的1号机器人，性格热血充满正义，而“卡布”是他的口头禅。" />
 	<Monster ID="4826" DefName="鲨鱼辣椒" Type="神秘 战斗" Height="183" Weight="72" Features="鲨鱼辣椒是B系列中的9号机，他拥有强大的破坏力，性格狂妄自大、做事也不择手段。"/>
@@ -5157,5 +5157,8 @@ Desc:    刻印信息  tips的获得途径文字
 	<Monster ID="4857" DefName="戟决先锋" Type="冰 暗影" Height="290" Weight="398" Features="戟决先锋是虫族中最忠诚、最为强大的战士。它犹如一座移动堡垒，能够轻松碾碎阻碍它行进的敌对目标。" Redirect="module" Go="app/FinalActivityPanel" Target="153201/820"/>
 	<Monster ID="4858" DefName="灯蛾" Type="冰 光" Height="32" Weight="11" Features="灯蛾是虫族中的旁系个体，它的绒羽能够帮助它们抵御严寒，腹部的发光体也能帮助它们识别周围的环境。" Redirect="module" Go="app/FinalActivityPanel" Target="400018"/>
 	<Monster ID="4859" DefName="闪光灯蛾" Type="冰 光" Height="32" Weight="11" Features="闪光灯蛾是灯蛾族群中的稀有个体，你可以在族群中轻易发现闪闪发光的它。" Redirect="module" Go="app/FinalActivityPanel" Target="400018"/>
+	<Monster ID="4860" DefName="希尔瑟拉" Type="远古 邪灵" Height="165" Weight="43" Features="希尔瑟拉是一位勇敢的侦察战士，她秘密潜伏在虫族之中，将收集到的情报传递回后方，用另一种方式帮助大家对抗敌人。" Redirect="module" Go="app/FinalActivityPanel" Target="153201/827"/>
+	<Monster ID="4861" DefName="涂蝶" Type="神秘 超能" Height="169" Weight="49" Features="雨巷中偶然的擦肩，她看见了“色彩”。再后来，庸人无法理解她对纯黑的狂热，也无法察觉他们眼中的漆黑，却在她眼中斑斓。" Redirect="module" Go="app/FinalActivityPanel" Target="200000"/>
+	<Monster ID="4862" DefName="纷争之薇" Type="冰" Height="156" Weight="38" Features="在犹尔尼斯星再度现身的神秘幽灵，相比此前，她似乎长得更成熟了一些。但同样再次朝小梅发出了警告……" Redirect="module" Go="app/FinalActivityPanel" Target="170000"/>
 
 </root>

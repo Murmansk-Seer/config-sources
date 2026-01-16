@@ -542,8 +542,10 @@
     <Fragment ID="2400543" show="1" Name="灵宫圣威·萨尔蒙因子" MonsterID="3304" Rarity="3" PetLimit="1" PetConsume="540" NewSeIdx="2526" effectId="633" NewseConsume="270" MoveID="30438" MovesConsume="108" NeedmonID="3303" NewMsglogId="" SeMsglog="" EffectMsglog=""/>
     <Fragment ID="2400544" show="1" Name="萌芽之薇因子" MonsterID="4852" Rarity="1" PetLimit="1" PetConsume="200" NewSeIdx="6342" effectId="2042" NewseConsume="100" MoveID="38202" MovesConsume="50" NeedmonID="0" NewMsglogId="" SeMsglog="" EffectMsglog=""/>
 	<Fragment ID="2400545" show="1" Name="戟决先锋因子" MonsterID="4857" Rarity="2" PetLimit="1" PetConsume="400" NewSeIdx="6345" effectId="2044" NewseConsume="200" MoveID="38218" MovesConsume="100" NeedmonID="0" NewMsglogId="2601080600" SeMsglog="2601080601" EffectMsglog="2601080602"/>
-    
-	<Fragment ID="2400546" show="1" Name="鬼面幽蝶因子" MonsterID="3623" Rarity="3" PetLimit="1" PetConsume="540" NewSeIdx="2856" effectId="917" NewseConsume="270" MoveID="32102" MovesConsume="108" NeedmonID="0" NewMsglogId="" SeMsglog="" EffectMsglog=""/>
+    <Fragment ID="2400546" show="1" Name="鬼面幽蝶因子" MonsterID="3623" Rarity="3" PetLimit="1" PetConsume="540" NewSeIdx="2856" effectId="917" NewseConsume="270" MoveID="32102" MovesConsume="108" NeedmonID="0" NewMsglogId="" SeMsglog="" EffectMsglog=""/>
 	<Fragment ID="2400547" show="1" Name="银月狼王因子" MonsterID="3171" Rarity="2" PetLimit="1" PetConsume="400" NewSeIdx="2361" effectId="500" NewseConsume="200" MoveID="19847" MovesConsume="100" NeedmonID="0" NewMsglogId="" SeMsglog="" EffectMsglog=""/>
     
+	<Fragment ID="2400548" show="1" Name="希尔瑟拉因子" MonsterID="4860" Rarity="2" PetLimit="1" PetConsume="400" NewSeIdx="6346" effectId="2045" NewseConsume="200" MoveID="38224" MovesConsume="100" NeedmonID="0" NewMsglogId="2601150500" SeMsglog="2601150501" EffectMsglog="2601150502"/>
+    <Fragment ID="2400549" show="1" Name="纷争之薇因子" MonsterID="4862" Rarity="1" PetLimit="1" PetConsume="200" NewSeIdx="6347" effectId="2047" NewseConsume="100" MoveID="38231" MovesConsume="50" NeedmonID="0" NewMsglogId="" SeMsglog="" EffectMsglog=""/>
+	
 </Root>

@@ -487,7 +487,7 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 	<Skin ID="156" MonID="2999" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="2" Name="炽灵夜皇·千夜死神" Go="app/SkinShopMainPanel" GoType="module">
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
-	<Skin ID="157" MonID="2987" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="2" Name="莲华·重生之翼">
+	<Skin ID="157" MonID="2987" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="2" Name="莲华·重生之翼" Jumptarget="295000">
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 	<Skin ID="158" MonID="3118" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="翡翠之灵·索比斯">
@@ -529,7 +529,7 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 	<Skin ID="170" MonID="3194" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="上古灾魔·咤克斯">
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
-	<Skin ID="171" MonID="2987" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="千古龙帝·重生之翼">
+	<Skin ID="171" MonID="2987" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="千古龙帝·重生之翼" Jumptarget="295000">
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 	<Skin ID="172" MonID="3288" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="天蔚圣女·绝暗">
@@ -568,7 +568,7 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 	<Skin ID="183" MonID="3253" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="2" Name="紫晶冰翼·弥卡尔" Go="app/SkinShopMainPanel" GoType="module">
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
-	<Skin ID="184" MonID="3291" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="暴虐帝皇·瀚宇星皇">
+	<Skin ID="184" MonID="3291" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="暴虐帝皇·瀚宇星皇" Jumptarget="295002">
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 	<Skin ID="185" MonID="3142" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="帝王之羽·雷伊">
@@ -586,7 +586,7 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 	<Skin ID="189" MonID="3190" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="暗夜幽魔·布莱克">
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
-	<Skin ID="190" MonID="3311" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="科学家·圣光灵神" Go="app/TempleHeroAltarPrePanel" GoType="module">
+	<Skin ID="190" MonID="3311" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="科学家·圣光灵神" Go="app/TempleHeroAltarPrePanel" GoType="module" Jumptarget="295001">
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 	<Skin ID="191" MonID="3322" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Name="小茉" Go="app/SkinShopMainPanel" GoType="module">
@@ -682,7 +682,7 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
     <Skin ID="221" MonID="3525" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="神使颂歌·天羽">
 		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="1" Year="2017"/>
 	</Skin>
-	<Skin ID="222" MonID="3291" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="2" Name="烈阳·瀚宇星皇">
+	<Skin ID="222" MonID="3291" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="2" Name="烈阳·瀚宇星皇" Jumptarget="295002">
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 	<Skin ID="223" MonID="3437" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="魔血·艾欧丽娅" Jumptarget="136500">
@@ -853,7 +853,7 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 	<Skin ID="278" MonID="3776" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="真龙圣女·苏亦">
 		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="1" Year="2018"/>
 	</Skin>	
-	<Skin ID="279" MonID="3550" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="2" Name="暮渊·天启帝君">
+	<Skin ID="279" MonID="3550" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="2" Name="暮渊·天启帝君" Jumptarget="295003">
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 	<Skin ID="280" MonID="3699" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="古堡魅影·阿克希亚">
@@ -901,7 +901,7 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 	<Skin ID="294" MonID="3592" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="幽冥伯爵·修罗">
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
-	<Skin ID="295" MonID="3550" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="狂蟒之灾·天启帝君">
+	<Skin ID="295" MonID="3550" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="狂蟒之灾·天启帝君" Jumptarget="295003">
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 	<Skin ID="296" MonID="3858" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="蔚蓝神枪·黛西">
@@ -1039,7 +1039,7 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 	<Skin ID="340" MonID="4003" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="璃剑之灵·丽芙">
 		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="1" Year="2020"/>
 	</Skin>
-	<Skin ID="341" MonID="3986" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="2" Name="朝晖·启灵元神">
+	<Skin ID="341" MonID="3986" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="2" Name="朝晖·启灵元神" Jumptarget="295005">
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 	<Skin ID="342" MonID="4016" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="银白月痕·千单">
@@ -1063,13 +1063,13 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 	<Skin ID="348" MonID="3567" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="梦烙·魔钰">
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
-	<Skin ID="349" MonID="3986" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="踏春絮语·启灵元神">
+	<Skin ID="349" MonID="3986" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="踏春絮语·启灵元神" Jumptarget="295005">
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 	<Skin ID="350" MonID="4053" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="青碧魅影·蒂娜">
 		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="1" Year="2020"/>
 	</Skin>
-	<Skin ID="351" MonID="3986" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="4" Name="未来战姬·启灵元神">
+	<Skin ID="351" MonID="3986" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="4" Name="未来战姬·启灵元神" Jumptarget="295005">
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 	<Skin ID="352" MonID="4065" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="紫玉冰晶·笆拉">
@@ -1093,7 +1093,7 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 	<Skin ID="358" MonID="3512" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="太阳女神·帝皇之御">
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
-	<Skin ID="359" MonID="3311" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="2" Name="湮灭·圣光灵神" Go="app/TempleHeroAltarPrePanel" GoType="module">
+	<Skin ID="359" MonID="3311" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="2" Name="湮灭·圣光灵神" Go="app/TempleHeroAltarPrePanel" GoType="module" Jumptarget="295001">
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 	<Skin ID="360" MonID="4093" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="橙黄之影·塞娅">
@@ -1132,7 +1132,7 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 	<Skin ID="371" MonID="3894" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="枫火·千裳"  >
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
-	<Skin ID="372" MonID="3986" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="秋露星河·启灵元神"  >
+	<Skin ID="372" MonID="3986" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="秋露星河·启灵元神"  Jumptarget="295005">
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 	<Skin ID="373" MonID="4152" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="命运占卜·涵双">
@@ -1204,7 +1204,7 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 	<Skin ID="395" MonID="3022" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="异能觉醒·王之哈莫" >
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
-	<Skin ID="396" MonID="3986" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="夏日风情·启灵元神" >
+	<Skin ID="396" MonID="3986" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="夏日风情·启灵元神"  Jumptarget="295005">
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 	<Skin ID="397" MonID="4247" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="惰落女巫·森娅">
@@ -1297,7 +1297,7 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 	<Skin ID="426" MonID="4304" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Name="桑特诺娃" Go="app/ExchangeDiamondMain2019Panel" GoType="module">
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
-	<Skin ID="427" MonID="3986" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="冬雪感召·启灵元神" Go="app/QiLingYuanShenWinterSkinMainPanel" GoType="module">
+	<Skin ID="427" MonID="3986" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="冬雪感召·启灵元神"  Jumptarget="295005">
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 	<Skin ID="428" MonID="3022" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Name="哈莫" Go="app/FindMemoryOfXiaKeMainPanel" GoType="module">
@@ -1432,16 +1432,16 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 	<Skin ID="471" MonID="4219" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="12" Name="烈阳盛夏·安卡">
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
-	<Skin ID="472" MonID="4377" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="百鬼签算·蒂小朵">
+	<Skin ID="472" MonID="4377" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="百鬼签算·蒂小朵" Jumptarget="111800">
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
-	<Skin ID="473" MonID="4377" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="剖玄析微·蒂小朵">
+	<Skin ID="473" MonID="4377" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="剖玄析微·蒂小朵" Jumptarget="111800">
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
-	<Skin ID="474" MonID="4377" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="喵萌冲击·蒂小朵">
+	<Skin ID="474" MonID="4377" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="喵萌冲击·蒂小朵" Jumptarget="111800">
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
-	<Skin ID="475" MonID="4386" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="4" Name="夏梦咏叹调·缔笙">
+	<Skin ID="475" MonID="4386" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="4" Name="夏梦咏叹调·缔笙" Jumptarget="111800">
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 	<Skin ID="476" MonID="3631" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Name="兰斯洛特" >
@@ -1453,7 +1453,7 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 	<Skin ID="478" MonID="3823" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="英魂据江·孙策" >
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
-	<Skin ID="479" MonID="4321" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="异度裁决·至序圣华" >
+	<Skin ID="479" MonID="4321" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="异度裁决·至序圣华" Jumptarget="295007">
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 	<Skin ID="480" MonID="4007" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Name="蜜雪儿" >
@@ -1537,7 +1537,7 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 	<Skin ID="506" MonID="3361" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Name="炎龙圣皇" >
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
-	<Skin ID="507" MonID="4321" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="2" Name="天冕·至序圣华" >
+	<Skin ID="507" MonID="4321" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="2" Name="天冕·至序圣华" Jumptarget="295007">
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 	<Skin ID="508" MonID="3311" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="13" Name="超星审判·圣光灵神" >
@@ -1564,7 +1564,7 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 	<Skin ID="515" MonID="3328" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Name="王·萨格罗斯" >
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
-	<Skin ID="516" MonID="4450" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="2" Name="凌日·逐界苍星">
+	<Skin ID="516" MonID="4450" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="2" Name="凌日·逐界苍星" Jumptarget="295008">
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 	<Skin ID="517" MonID="3665" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="上古灾魔·咤克斯" >
@@ -1625,7 +1625,7 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 	<Skin ID="534" MonID="3724" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="争执之心·哈肯萨">
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
-	<Skin ID="535" MonID="4450" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="纯白音律·逐界苍星" >
+	<Skin ID="535" MonID="4450" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="纯白音律·逐界苍星" Jumptarget="295008">
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 	<Skin ID="536" MonID="4333" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="单程旅行·拉伯克" >
@@ -1648,11 +1648,11 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 
-	<Skin ID="541" MonID="4510" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="水中花·卫岳">
+	<Skin ID="541" MonID="4510" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="水中花·卫岳" Jumptarget="111800">
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 
-	<Skin ID="542" MonID="4169" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="2" Name="幻昼·弑序神罗">
+	<Skin ID="542" MonID="4169" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="2" Name="幻昼·弑序神罗" Jumptarget="295006">
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 
@@ -1688,11 +1688,11 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 
-	<Skin ID="551" MonID="4515" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="北冥之怒·霍光">
+	<Skin ID="551" MonID="4515" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="北冥之怒·霍光" Jumptarget="111800">
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 	
-	<Skin ID="552" MonID="4500" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="涂鸦大师·武小婵">
+	<Skin ID="552" MonID="4500" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="涂鸦大师·武小婵" Jumptarget="111800">
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 	
@@ -1760,7 +1760,7 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 
-	<Skin ID="569" MonID="4377" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="遥望光年·蒂朵">
+	<Skin ID="569" MonID="4377" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="遥望光年·蒂朵" Jumptarget="111800">
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 	
@@ -1836,7 +1836,7 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="1" Year="2024"/>
 	</Skin>
 
-	<Skin ID="588" MonID="3673" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="15" Name="天蛇一梦·艾夏拉">
+	<Skin ID="588" MonID="3673" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="15" Name="天蛇一梦·艾夏拉" Go="app/FinalActivityPanel" GoType="module" Jumptarget="410000">
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 
@@ -1912,7 +1912,7 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="1" Year="2024"/>
 	</Skin>
 
-	<Skin ID="607" MonID="3514" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="15" Name="玉龙猎手">
+	<Skin ID="607" MonID="3514" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="15" Name="玉龙猎手" Go="app/FinalActivityPanel" GoType="module" Jumptarget="410000">
 		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="5"/>
 	</Skin>
 
@@ -2028,7 +2028,7 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="1" Year="2024"/>
 	</Skin>
 
-	<Skin ID="636" MonID="4001" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="15" Name="穷极之扉·万魔天尊" >
+	<Skin ID="636" MonID="4001" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="15" Name="穷极之扉·万魔天尊" Go="app/FinalActivityPanel" GoType="module" Jumptarget="410000">
 		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="12"/>
 	</Skin>
 
@@ -2132,7 +2132,7 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="1" Year="2024"/>
 	</Skin>
 
-	<Skin ID="662" MonID="3670" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="15" Name="星云幻想·黄金天马" >
+	<Skin ID="662" MonID="3670" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="15" Name="星云幻想·黄金天马" Go="app/FinalActivityPanel" GoType="module" Jumptarget="410000">
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 
@@ -2228,7 +2228,7 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="1" Year="2025"/>
 	</Skin>
 
-	<Skin ID="686" MonID="4484" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="森野之息·卡莎" >
+	<Skin ID="686" MonID="4484" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="森野之息·卡莎" Go="app/FinalActivityPanel" GoType="module" Jumptarget="410000">
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 
@@ -2333,7 +2333,7 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="1" Year="2025"/>
 	</Skin>
 	
-	<Skin ID="712" MonID="3705" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs=""  Type="3" Name="风雷之翼·艾里克">
+	<Skin ID="712" MonID="3705" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs=""  Type="3" Name="风雷之翼·艾里克" Go="app/FinalActivityPanel" GoType="module" Jumptarget="410000">
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 	
@@ -2453,7 +2453,7 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="1" Year="2025"/>
 	</Skin>	
 
-	<Skin ID="742" MonID="4462" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs=""   Type="3" Name="梦色仲夏·月华"  >
+	<Skin ID="742" MonID="4462" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs=""   Type="3" Name="梦色仲夏·月华"  Go="app/FinalActivityPanel" GoType="module" Jumptarget="410000">
 		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="3"/>
 	</Skin>	
 	
@@ -2537,7 +2537,7 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>	
 
-    <Skin ID="763" MonID="4823" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="冬日礼装·雪璞" Go="app/FinalActivityPanel" GoType="module" Jumptarget="202000">
+    <Skin ID="763" MonID="4823" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="冬日礼装·雪璞" >
 		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="1" Year="2025"/>
 	</Skin>	
 
@@ -2638,6 +2638,18 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 	</Skin>
 
 	<Skin ID="788" MonID="3171" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="雪域祖灵·银月狼王" Go="app/FinalActivityPanel" GoType="module" Jumptarget="2">
+		<SkinKind ID="1" Type="2" LifeTime="0"/>
+	</Skin>
+
+	<Skin ID="789" MonID="4861" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="四色黑雨·涂蝶" Go="app/FinalActivityPanel" GoType="module" Jumptarget="202000">
+		<SkinKind ID="1" Type="2" LifeTime="0"/>
+	</Skin>
+
+	<Skin ID="790" MonID="4376" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="15" Name="天域圣诫·岚" Go="app/FinalActivityPanel" GoType="module" Jumptarget="204000">
+		<SkinKind ID="1" Type="2" LifeTime="0"/>
+	</Skin>
+
+	<Skin ID="791" MonID="4510" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="霜穹巡弋·卫岳" Go="app/FinalActivityPanel" GoType="module" Jumptarget="410000">
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 

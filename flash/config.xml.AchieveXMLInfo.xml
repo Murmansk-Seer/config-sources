@@ -881,7 +881,7 @@
 			<Branch ID="172" Desc="新因子关卡2" >
 				<Rule ID="1" Threshold="1" AchievementPoint="10" icon="1" achName="永恒烈焰" proicon="1446" SpeNameBonus="557" title="永恒烈焰" Desc="通关S-星光·里奥斯【地狱难度】关卡获得" titleColor="0xFFFFFF"/>
 				<Rule ID="2" Threshold="2" AchievementPoint="10" icon="1" achName="钢铁意志" proicon="1448" SpeNameBonus="559" title="钢铁意志" Desc="通关S-重装·派鲁基达【地狱难度】关卡获得" titleColor="0xFFFFFF"/>
-				<Rule ID="3" Threshold="3" AchievementPoint="10" icon="1" achName="征服者塞拉赫" proicon="1457" SpeNameBonus="566" title="征服者塞拉赫" Desc="通关S-通关S-图特摩斯【地狱难度】关卡获得" titleColor="0xFFFFFF"/>
+				<Rule ID="3" Threshold="3" AchievementPoint="10" icon="1" achName="征服者塞拉赫" proicon="1457" SpeNameBonus="566" title="征服者塞拉赫" Desc="通关S-图特摩斯【地狱难度】关卡获得" titleColor="0xFFFFFF"/>
 			</Branch>
 			
 			<Branch ID="169" Desc="高难挑战系列" > 
@@ -1322,6 +1322,20 @@
 				<Rule ID="30" Threshold="30" AchievementPoint="0" achName="S8赛季天骄" Desc="S8赛季竞技/狂野模式中首次达到天骄段位时获得" proicon="1443" icon="1" />
 				<Rule ID="31" Threshold="31" AchievementPoint="0" achName="S8赛季王者" Desc="S8赛季竞技/狂野模式中首次达到王者段位时获得" proicon="1444" icon="1" />
 				<Rule ID="32" Threshold="32" AchievementPoint="0" achName="S8赛季圣皇" Desc="S8赛季竞技/狂野模式中首次达到圣皇段位时获得" proicon="1445" icon="1" />
+
+				<Rule ID="33" Threshold="33" AchievementPoint="0" achName="S9赛季猛将" Desc="S9赛季竞技/狂野模式中首次达到猛将段位时获得" proicon="1460" icon="1" />
+				<Rule ID="34" Threshold="34" AchievementPoint="0" achName="S9赛季天骄" Desc="S9赛季竞技/狂野模式中首次达到天骄段位时获得" proicon="1461" icon="1" />
+				<Rule ID="35" Threshold="35" AchievementPoint="0" achName="S9赛季王者" Desc="S9赛季竞技/狂野模式中首次达到王者段位时获得" proicon="1462" icon="1" />
+				<Rule ID="36" Threshold="36" AchievementPoint="0" achName="S9赛季圣皇" Desc="S9赛季竞技/狂野模式中首次达到圣皇段位时获得" proicon="1463" icon="1" />
+
+
+
+			</Branch>
+			<Branch ID="174" Desc="赛季成就2" introl="" proicon=""  type="2" isShowPro="0">
+				<Rule ID="1" Threshold="1" AchievementPoint="0" achName="S9赛季猛将" Desc="S9赛季竞技/狂野模式中首次达到猛将段位时获得" proicon="1460" icon="1" />
+				<Rule ID="2" Threshold="2" AchievementPoint="0" achName="S9赛季天骄" Desc="S9赛季竞技/狂野模式中首次达到天骄段位时获得" proicon="1461" icon="1" />
+				<Rule ID="3" Threshold="3" AchievementPoint="0" achName="S9赛季王者" Desc="S9赛季竞技/狂野模式中首次达到王者段位时获得" proicon="1462" icon="1" />
+				<Rule ID="4" Threshold="4" AchievementPoint="0" achName="S9赛季圣皇" Desc="S9赛季竞技/狂野模式中首次达到圣皇段位时获得" proicon="1463" icon="1" />
 
 
 

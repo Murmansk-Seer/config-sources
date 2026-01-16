@@ -219,4 +219,12 @@
 	<item id="337" activityid="18" activityname="109突袭虫族防线" describe="通关活动关卡8" value="8" time="0" timelimit="1" timestart="1767924000" timeend="1768528800" rewardinfo="1_300066_1" userinfo="152003" userbitbuf2="152002_8" />
 	<item id="338" activityid="18" activityname="109突袭虫族防线" describe="通关活动关卡9" value="9" time="0" timelimit="1" timestart="1767924000" timeend="1768528800" rewardinfo="1_1706928_50" userinfo="152003" userbitbuf2="152002_9" />
 	<item id="339" activityid="18" activityname="109突袭虫族防线" describe="通关活动关卡10" value="10" time="0" timelimit="1" timestart="1767924000" timeend="1768528800" rewardinfo="1_1706928_100" userinfo="152003" userbitbuf2="152002_10" />
+	<item id="350" activityid="19" activityname="0116裂隙微光" describe="首次通关第一层" value="1" time="0" timelimit="1" timestart="1768528800" timeend="1769133600" rewardinfo="1_2500003_1" />
+	<item id="351" activityid="19" activityname="0116裂隙微光" describe="首次通关第二层" value="1" time="0" timelimit="1" timestart="1768528800" timeend="1769133600" rewardinfo="1_1723855_4000" />
+	<item id="352" activityid="19" activityname="0116裂隙微光" describe="首次通关第三层" value="1" time="0" timelimit="1" timestart="1768528800" timeend="1769133600" rewardinfo="1_1723855_4000" />
+	<item id="353" activityid="19" activityname="0116裂隙微光" describe="累计参与游戏1天（至少通关第一层）" value="1" time="0" timelimit="1" timestart="1768528800" timeend="1769133600" rewardinfo="1_2500003_1" />
+	<item id="354" activityid="19" activityname="0116裂隙微光" describe="累计参与游戏2天（至少通关第一层）" value="2" time="0" timelimit="1" timestart="1768528800" timeend="1769133600" rewardinfo="1_2500003_1" />
+	<item id="355" activityid="19" activityname="0116裂隙微光" describe="累计参与游戏3天（至少通关第一层）" value="3" time="0" timelimit="1" timestart="1768528800" timeend="1769133600" rewardinfo="1_2500003_2" />
+	<item id="356" activityid="19" activityname="0116裂隙微光" describe="累计参与游戏4天（至少通关第一层）" value="4" time="0" timelimit="1" timestart="1768528800" timeend="1769133600" rewardinfo="1_1706926_5" />
+	<item id="357" activityid="19" activityname="0116裂隙微光" describe="累计参与游戏5天（至少通关第一层）" value="5" time="0" timelimit="1" timestart="1768528800" timeend="1769133600" rewardinfo="1_2500005_20" />
 </root>

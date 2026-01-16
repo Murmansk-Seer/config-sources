@@ -110,6 +110,11 @@
 	<SpMoves id="97" monster="3554" monstername="风殇影翼·飞镰" moves="38186" movesname="诉与孤风" item="1727600" itemname="风杀利羽" itemnumber="1" itemtips="使用后可为风殇影翼·飞镰开启全新技能：诉与孤风" movetype="2"/>
 	<SpMoves id="98" monster="3830" monstername="魂王·无烬梦" moves="38187" movesname="兰烬蘧栩" item="1727602" itemname="蝶身心" itemnumber="1" itemtips="使用后可为魂王·无烬梦开启全新技能：兰烬蘧栩" movetype="2"/>
 
+	<SpMoves id="99" monster="3686" monstername="妖族元皇·兰蒂斯" moves="38232" movesname="逝面真唁" item="1727668" itemname="堕妖面" itemnumber="1" itemtips="使用后可为妖族元皇·兰蒂斯开启全新技能：万妖挽" movetype="2"/>
+	<SpMoves id="100" monster="3867" monstername="暗岩·格莱奥丹" moves="38233" movesname="千峰化泥" item="1727669" itemname="黑岩壁" itemnumber="1" itemtips="使用后可为暗岩·格莱奥丹开启全新技能：千峰化泥" movetype="2"/>
+	<SpMoves id="101" monster="4001" monstername="无上·万魔天尊" moves="29245" movesname="噬古魔怀" item="1727670" itemname="无上魔轮" itemnumber="1" itemtips="使用后可为无上·万魔天尊开启全新技能：噬古魔怀" movetype="2"/>
+	<SpMoves id="102" monster="3875" monstername="暗战·艾辛格斯" moves="38234" movesname="暗·贯日解天" item="1727671" itemname="真武天" itemnumber="1" itemtips="使用后可为暗战·艾辛格斯开启全新第五技能：暗·贯日解天" movetype="1"/>
+	<SpMoves id="103" monster="3741" monstername="上古魔尊·库贝萨" moves="29246" movesname="荒予咒缚" item="1727672" itemname="荒古锁" itemnumber="1" itemtips="使用后可为上古魔尊·库贝萨开启全新技能：荒予咒缚" movetype="2"/>
 
 
 
