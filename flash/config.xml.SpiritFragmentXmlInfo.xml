@@ -548,6 +548,7 @@
     <Fragment ID="2400549" show="1" Name="纷争之薇因子" MonsterID="4862" Rarity="1" PetLimit="1" PetConsume="200" NewSeIdx="6347" effectId="2047" NewseConsume="100" MoveID="38231" MovesConsume="50" NeedmonID="0" NewMsglogId="" SeMsglog="" EffectMsglog=""/>
 	<Fragment ID="2400550" show="1" Name="艾莉安娜因子" MonsterID="4863" Rarity="3" PetLimit="1" PetConsume="540" NewSeIdx="6352" effectId="2048" NewseConsume="270" MoveID="38240" MovesConsume="108" NeedmonID="0" NewMsglogId="2601220600" SeMsglog="2601220601" EffectMsglog="2601220602"/>
 	<Fragment ID="2400551" show="1" Name="格拉西恩因子" MonsterID="4864" Rarity="2" PetLimit="1" PetConsume="400" NewSeIdx="6349" effectId="2049" NewseConsume="200" MoveID="38243" MovesConsume="100" NeedmonID="0" NewMsglogId="" SeMsglog="" EffectMsglog=""/>
+	<Fragment ID="2400552" show="1" Name="埃斯宾诺因子" MonsterID="4866" Rarity="3" PetLimit="1" PetConsume="540" NewSeIdx="6355" effectId="2052" NewseConsume="270" MoveID="38252" MovesConsume="108" NeedmonID="0" NewMsglogId="2601290800" SeMsglog="2601290801" EffectMsglog="2601290802"/>
 	
 	
 </Root>

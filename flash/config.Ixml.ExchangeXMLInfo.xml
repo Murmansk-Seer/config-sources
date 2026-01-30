@@ -609,4 +609,6 @@
 	<item id="791" realid="2400244" type="1" Subtag="20" batch="918" shopid="5" cointype="43" coinid="1727037" price="21" POPID="933" />
 	<item id="792" realid="2400546" type="1" Subtag="20" batch="918" shopid="5" cointype="43" coinid="1727037" price="21" POPID="934" />
 	<item id="793" realid="2400547" type="1" Subtag="20" batch="700" shopid="5" cointype="43" coinid="1727037" price="18" POPID="935" />
+	<item id="794" realid="1727740" type="1" Subtag="22" batch="9999" shopid="6" cointype="44" coinid="1727739" price="280" Limittype="2" LimitCnt="2" POPID="936" />
+	<item id="795" realid="1727741" type="1" Subtag="22" batch="9999" shopid="6" cointype="44" coinid="1727739" price="300" Limittype="2" LimitCnt="2" POPID="937" />
 </root>

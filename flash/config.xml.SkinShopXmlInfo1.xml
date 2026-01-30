@@ -154,6 +154,7 @@ activity id: 961 & 963:因为是复用,只要截止时间正确即可, 若延长
     </Activity>
     <Activity ID="981" Name="2026 包月精灵(当前包月精灵领取)">
         <TimeLimit TID="1" Type="1" StartTime="2025-12-26 10:00:00" EndTime="2026-01-30 10:00:00"/>
+		<TimeLimit TID="2" Type="1" StartTime="2026-01-30 10:00:00" EndTime="2026-03-06 10:00:00"/>
 
         
     </Activity>

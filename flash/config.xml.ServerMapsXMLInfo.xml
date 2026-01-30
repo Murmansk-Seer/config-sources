@@ -15481,6 +15481,9 @@ eg:
 
 	<Map ID="2166" Name="太阳神殿" InitX="580" InitY="440">
     </Map>
+	
+	<Map ID="2167" Name="虫巢" InitX="580" InitY="440">
+    </Map>
 
 
 	<!--以下号段为H5场景专用) -->
@@ -18493,6 +18496,6 @@ eg:
 		<DefaultMap ID="3" RandMaps="1224" Desc="新手登录场景"/>
 	</DefaultMaps>
 	<VersionNumber>
-		<Version ID="20250123" Desc="每次发版需同步更新版本号"/>
+		<Version ID="20250130" Desc="每次发版需同步更新版本号"/>
 	</VersionNumber>
 </Maps>

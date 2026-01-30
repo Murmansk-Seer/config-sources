@@ -234,4 +234,35 @@
 	<item id="362" activityid="20" activityname="0123洞窟穿梭" describe="累计游玩15次" value="15" time="0" timelimit="1" timestart="1769133600" timeend="1769738400" rewardinfo="1_2500005_3" userinfo="125777" userbitbuf2="125778_5" />
 	<item id="363" activityid="20" activityname="0123洞窟穿梭" describe="累计游玩18次" value="18" time="0" timelimit="1" timestart="1769133600" timeend="1769738400" rewardinfo="1_2500005_3" userinfo="125777" userbitbuf2="125778_6" />
 	<item id="364" activityid="20" activityname="0123洞窟穿梭" describe="累计游玩21次" value="21" time="0" timelimit="1" timestart="1769133600" timeend="1769738400" rewardinfo="1_2500005_4" userinfo="125777" userbitbuf2="125778_7" />
+	<item id="370" activityid="21" activityname="0130能量共鸣" describe="通关活动关卡1" value="1" time="0" timelimit="1" timestart="1769738400" timeend="1770343200" rewardinfo="1_2500004_1" userinfo="152007" userbitbuf2="152006_1" />
+	<item id="371" activityid="21" activityname="0130能量共鸣" describe="通关活动关卡2" value="2" time="0" timelimit="1" timestart="1769738400" timeend="1770343200" rewardinfo="1_1727737_1" userinfo="152007" userbitbuf2="152006_2" />
+	<item id="372" activityid="21" activityname="0130能量共鸣" describe="通关活动关卡3" value="3" time="0" timelimit="1" timestart="1769738400" timeend="1770343200" rewardinfo="1_2500005_5" userinfo="152007" userbitbuf2="152006_3" />
+	<item id="373" activityid="21" activityname="0130能量共鸣" describe="通关活动关卡4" value="4" time="0" timelimit="1" timestart="1769738400" timeend="1770343200" rewardinfo="1_2500004_1" userinfo="152007" userbitbuf2="152006_4" />
+	<item id="374" activityid="21" activityname="0130能量共鸣" describe="通关活动关卡5" value="5" time="0" timelimit="1" timestart="1769738400" timeend="1770343200" rewardinfo="1_1726992_50" userinfo="152007" userbitbuf2="152006_5" />
+	<item id="375" activityid="21" activityname="0130能量共鸣" describe="通关活动关卡6" value="6" time="0" timelimit="1" timestart="1769738400" timeend="1770343200" rewardinfo="1_2500004_1" userinfo="152007" userbitbuf2="152006_6" />
+	<item id="376" activityid="21" activityname="0130能量共鸣" describe="通关活动关卡7" value="7" time="0" timelimit="1" timestart="1769738400" timeend="1770343200" rewardinfo="1_2500004_1" userinfo="152007" userbitbuf2="152006_7" />
+	<item id="377" activityid="21" activityname="0130能量共鸣" describe="通关活动关卡8" value="8" time="0" timelimit="1" timestart="1769738400" timeend="1770343200" rewardinfo="1_2500004_1" userinfo="152007" userbitbuf2="152006_8" />
+	<item id="378" activityid="21" activityname="0130能量共鸣" describe="通关活动关卡9" value="9" time="0" timelimit="1" timestart="1769738400" timeend="1770343200" rewardinfo="1_2500005_5" userinfo="152007" userbitbuf2="152006_9" />
+	<item id="379" activityid="22" activityname="限时激励" describe="LV5" value="5" time="0" timelimit="1" timestart="1770343200" timeend="1776355200" rewardinfo="1_1727738_70" />
+	<item id="380" activityid="22" activityname="限时激励" describe="LV10" value="10" time="0" timelimit="1" timestart="1770343200" timeend="1776355200" rewardinfo="1_1727738_70;1_1727739_120" />
+	<item id="381" activityid="22" activityname="限时激励" describe="LV15" value="15" time="0" timelimit="1" timestart="1770343200" timeend="1776355200" rewardinfo="1_1727738_70" />
+	<item id="382" activityid="22" activityname="限时激励" describe="LV20" value="20" time="0" timelimit="1" timestart="1770343200" timeend="1776355200" rewardinfo="1_1727738_70;1_1727739_120" />
+	<item id="383" activityid="22" activityname="限时激励" describe="LV25" value="25" time="0" timelimit="1" timestart="1770343200" timeend="1776355200" rewardinfo="1_1727738_70" />
+	<item id="384" activityid="22" activityname="限时激励" describe="LV30" value="30" time="0" timelimit="1" timestart="1770343200" timeend="1776355200" rewardinfo="1_1727738_70;1_1727739_120" />
+	<item id="385" activityid="22" activityname="限时激励" describe="LV40" value="40" time="0" timelimit="1" timestart="1770343200" timeend="1776355200" rewardinfo="1_1727738_70" />
+	<item id="386" activityid="22" activityname="限时激励" describe="LV50" value="50" time="0" timelimit="1" timestart="1770343200" timeend="1776355200" rewardinfo="1_1727738_70;1_1727739_120" />
+	<item id="387" activityid="22" activityname="限时激励" describe="LV60" value="60" time="0" timelimit="1" timestart="1770343200" timeend="1776355200" rewardinfo="1_1727738_70" />
+	<item id="388" activityid="22" activityname="限时激励" describe="LV70" value="70" time="0" timelimit="1" timestart="1770343200" timeend="1776355200" rewardinfo="1_1727738_70;1_1727739_120" />
+	<item id="389" activityid="22" activityname="限时激励" describe="LV80" value="80" time="0" timelimit="1" timestart="1770343200" timeend="1776355200" rewardinfo="1_1727738_70;1_1727739_120" />
+	<item id="390" activityid="23" activityname="龙船探秘" describe="完成第1关" value="1" time="0" timelimit="1" timestart="1770343200" timeend="1770948000" rewardinfo="1_2500005_3" />
+	<item id="391" activityid="23" activityname="龙船探秘" describe="完成第2关" value="2" time="0" timelimit="1" timestart="1770343200" timeend="1770948000" rewardinfo="1_2500005_3" />
+	<item id="392" activityid="23" activityname="龙船探秘" describe="完成第3关" value="3" time="0" timelimit="1" timestart="1770343200" timeend="1770948000" rewardinfo="1_2500004_1" />
+	<item id="393" activityid="23" activityname="龙船探秘" describe="完成第4关" value="4" time="0" timelimit="1" timestart="1770343200" timeend="1770948000" rewardinfo="1_2500005_5" />
+	<item id="394" activityid="23" activityname="龙船探秘" describe="完成第5关" value="5" time="0" timelimit="1" timestart="1770343200" timeend="1770948000" rewardinfo="1_2500004_1" />
+	<item id="395" activityid="23" activityname="龙船探秘" describe="完成第6关" value="6" time="0" timelimit="1" timestart="1770343200" timeend="1770948000" rewardinfo="1_1723855_50000;1_300070_3" />
+	<item id="396" activityid="23" activityname="龙船探秘" describe="完成第7关" value="7" time="0" timelimit="1" timestart="1770343200" timeend="1770948000" rewardinfo="1_2500004_1" />
+	<item id="397" activityid="23" activityname="龙船探秘" describe="完成第8关" value="8" time="0" timelimit="1" timestart="1770343200" timeend="1770948000" rewardinfo="1_2500005_5" />
+	<item id="398" activityid="23" activityname="龙船探秘" describe="完成第9关" value="9" time="0" timelimit="1" timestart="1770343200" timeend="1770948000" rewardinfo="1_2500004_1" />
+	<item id="399" activityid="23" activityname="龙船探秘" describe="完成第10关" value="10" time="0" timelimit="1" timestart="1770343200" timeend="1770948000" rewardinfo="1_2500005_5" />
+	<item id="400" activityid="23" activityname="龙船探秘" describe="完成第11关" value="11" time="0" timelimit="1" timestart="1770343200" timeend="1770948000" rewardinfo="1_1723855_50000;1_300070_3" />
 </root>

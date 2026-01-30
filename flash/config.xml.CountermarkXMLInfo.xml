@@ -3717,6 +3717,7 @@
     <MintMark ID="42614" Type="3" Rare="3" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="0 2 4 2 2 9" MaxAttriValue="0 27 46 27 27 93" Level="100" Max="99" MintmarkClass="32" Des="好朋友徽章" EffectDes="体力9/93,防御2/27,特攻4/46,特防2/27,速度2/27"/>
 	<MintMark ID="42615" Type="3" Rare="1" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="0 2 5 2 4 9" MaxAttriValue="0 25 55 25 40 90" MonsterID="4853" Level="100" Max="99" Des="梅赫维特专属全能刻印" EffectDes="防御2/25,特攻5/55,特防2/25,速度4/40,体力9/90"/>
     <MintMark ID="42618" Type="3" Rare="1" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="0 3 4 3 4 8" MaxAttriValue="0 32 42 32 40 84" MonsterID="4865" Level="100" Max="99" Des="超维·瑞泽专属全能刻印" EffectDes="防御3/32,特攻4/42,特防3/32,速度4/40,体力8/84"/>
+    <MintMark ID="42619" Type="3" Rare="1" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="0 3 4 3 4 8" MaxAttriValue="0 31 40 31 33 80" MonsterID="4867" Level="100" Max="99" Des="西格恩专属全能刻印" EffectDes="防御3/32,特攻4/42,特防3/32,速度4/40,体力8/84"/>
 
 
 	<!--刻印铸造碎片-->

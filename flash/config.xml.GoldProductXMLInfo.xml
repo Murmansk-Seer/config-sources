@@ -12703,7 +12703,7 @@
 	<item productID="251291" icon="" itemID="1714185" price="5" type="0" vip="1" productType="-1" malldiscount="0" name="花费钻石一键购买圣灵之敌游戏次数"></item>
 	<item productID="251292" icon="" itemID="1714186" price="58" type="0" vip="1" productType="-1" malldiscount="0" name="花费钻石一键通过圣灵之敌关卡"></item>
 	<item productID="251293" icon="" itemID="1714187" price="18" type="0" vip="1" productType="-1" malldiscount="0" name="花费钻石一键击败魔君恩宠boss"></item>
-	<item productID="251294" icon="" itemID="1714188" price="5" type="0" vip="1" productType="-1" malldiscount="0" name="花费准时一键购买魔君恩宠游戏次数"></item>
+	<item productID="251294" icon="" itemID="1714188" price="5" type="0" vip="1" productType="-1" malldiscount="0" name="花费钻石一键购买魔君恩宠游戏次数"></item>
 	<item productID="251295" icon="" itemID="1714189" price="58" type="0" vip="1" productType="-1" malldiscount="0" name="花费钻石一键通过魔君恩宠关卡"></item>
 	<item productID="251296" icon="" itemID="1714190" price="3" type="0" vip="1" productType="-1" malldiscount="0" name="花费钻石一键击败圣灵之魂迈尔斯"></item>
 	<item productID="251297" icon="" itemID="1714191" price="6" type="0" vip="1" productType="-1" malldiscount="0" name="花费钻石一键击败圣灵守护奥斯卡"></item>
@@ -18283,9 +18283,9 @@
 	<item productID="256885" icon="" itemID="1721276" price="248" type="0" vip="1" productType="-1" malldiscount="0" name="快速证明魔神能力"></item>
 	<item productID="256886" icon="" itemID="1721277" price="598" type="0" vip="1" productType="-1" malldiscount="0" name="快速通过魔战八方关卡"></item>
 	<item productID="256887" icon="" itemID="1721278" price="298" type="0" vip="1" productType="-1" malldiscount="0" name="一键极品无上·万魔天尊"></item>
-	<item productID="256888" icon="" itemID="1721279" price="58" type="0" vip="1" productType="-1" malldiscount="0" name="快速获得无上·万魔天尊专属刻印"></item>
-	<item productID="256889" icon="" itemID="1721280" price="78" type="0" vip="1" productType="-1" malldiscount="0" name="快速获得无上·万魔天尊第五技能"></item>
-	<item productID="256890" icon="" itemID="1721281" price="98" type="0" vip="1" productType="-1" malldiscount="0" name="快速获得无上·万魔天尊专属特性"></item>
+	<item productID="256888" icon="" itemID="1721279" price="58" type="0" vip="1" productType="-1" malldiscount="0" name="快速激活无上·万魔天尊专属刻印"></item>
+	<item productID="256889" icon="" itemID="1721280" price="78" type="0" vip="1" productType="-1" malldiscount="0" name="快速激活无上·万魔天尊第五技能"></item>
+	<item productID="256890" icon="" itemID="1721281" price="98" type="0" vip="1" productType="-1" malldiscount="0" name="快速激活无上·万魔天尊专属特性"></item>
 	<item productID="256891" icon="" itemID="1721282" price="10" type="0" vip="1" productType="-1" malldiscount="0" name="快速获得能力提升关卡次数"></item>
 	<item productID="256892" icon="" itemID="1721283" price="998" type="0" vip="1" productType="-1" malldiscount="0" name="快速获得御象灵尊普通礼包"></item>
 	<item productID="256893" icon="" itemID="1721284" price="1668" type="0" vip="1" productType="-1" malldiscount="0" name="快速获得御象灵尊至尊礼包"></item>
@@ -23545,4 +23545,19 @@
 	<item productID="262160" icon="" itemID="1727718" price="2" type="0" vip="1" productType="-1" malldiscount="0" name="购买获得艾莉安娜因子"></item>
 	<item productID="262161" icon="" itemID="1727719" price="40" type="0" vip="1" productType="-1" malldiscount="0" name="凶魄石"></item>
 	<item productID="262162" icon="" itemID="1727723" price="198" type="0" vip="1" productType="-1" malldiscount="0" name="VIP限时返场特拉维斯"></item>
+	<item productID="262163" icon="" itemID="1727725" price="798" type="0" vip="1" productType="-1" malldiscount="0" name="至尊获得精灵【埃斯宾诺】"></item>
+	<item productID="262164" icon="" itemID="1727726" price="30" type="0" vip="1" productType="-1" malldiscount="0" name="购买每日挑战次数（埃斯宾诺）"></item>
+	<item productID="262165" icon="" itemID="1727727" price="20" type="0" vip="1" productType="-1" malldiscount="0" name="付费扫荡简单关卡（埃斯宾诺）"></item>
+	<item productID="262166" icon="" itemID="1727728" price="30" type="0" vip="1" productType="-1" malldiscount="0" name="付费扫荡困难关卡（埃斯宾诺）"></item>
+	<item productID="262167" icon="" itemID="1727729" price="40" type="0" vip="1" productType="-1" malldiscount="0" name="付费扫荡地狱关卡（埃斯宾诺）"></item>
+	<item productID="262168" icon="" itemID="1727730" price="2" type="0" vip="1" productType="-1" malldiscount="0" name="购买获得埃斯宾诺因子"></item>
+	<item productID="262169" icon="" itemID="1727731" price="168" type="0" vip="1" productType="-1" malldiscount="0" name="解锁温暖回想·艾莉安娜"></item>
+	<item productID="262170" icon="" itemID="1727732" price="1" type="0" vip="1" productType="-1" malldiscount="0" name="购买精灵【西格恩】单价"></item>
+	<item productID="262171" icon="" itemID="1727733" price="398" type="0" vip="1" productType="-1" malldiscount="0" name="原价购买群虫俯首·埃斯宾诺"></item>
+	<item productID="262172" icon="" itemID="1727734" price="298" type="0" vip="1" productType="-1" malldiscount="0" name="优惠购买群虫俯首·埃斯宾诺"></item>
+	<item productID="262173" icon="" itemID="1727735" price="10" type="0" vip="1" productType="-1" malldiscount="0" name="购买【虫巢建设计划】游戏次数"></item>
+	<item productID="262174" icon="" itemID="1727736" price="5" type="0" vip="1" productType="-1" malldiscount="0" name="快速加固虫巢"></item>
+	<item productID="262175" icon="" itemID="1727747" price="66" type="0" vip="1" productType="-1" malldiscount="0" name="0213占位商品16"></item>
+	<item productID="262176" icon="" itemID="1727748" price="660" type="0" vip="1" productType="-1" malldiscount="0" name="0213占位商品17"></item>
+	<item productID="262177" icon="" itemID="1727749" price="66" type="0" vip="1" productType="-1" malldiscount="0" name="0213占位商品18"></item>
 </root>

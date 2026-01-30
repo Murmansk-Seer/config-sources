@@ -2241,6 +2241,8 @@
 	<Effect id="2403" argsNum="3" info="{0}%令对手{1}，触发成功则{2}回合内对手切换精灵出战时再次执行此效果" analyze="[sprite name=iconHit]{0}%令对手[color=#57c975]{1}[/color]，触发成功则{2}回合内对手切换精灵[color=#57c975]出战时[/color]再次[color=#52a5f2]执行[/color]此效果" param="1,1,1"/>
 	<Effect id="2404" argsNum="2" info="若对手的体力高于最大体力的{0}%则技能威力提升{1}%" analyze="[sprite name=iconHit]若对手的体力高于最大体力的{0}%则技能[color=#52a5f2]威力[/color]提升{1}%"/>
 	<Effect id="2405" argsNum="4" info="令对手全属性-{0}，未触发则对方下只精灵登场时{1}%{2}、{3}" analyze="[sprite name=iconHit]令对手[color=#52a5f2]全属性[/color]-{0}，[color=#52a5f2]未触发[/color]则对方下只精灵[color=#52a5f2]登场[/color]时{1}%[color=#57c975]{2}[/color]、[color=#57c975]{3}[/color]" param="1,2,2|1,3,3"/>
+	<Effect id="2406" argsNum="2" info="令对手全属性-{0}，未触发则令对手所有技能PP值-{1}" analyze="[sprite name=iconHit]令对手全属性-{0}，未触发则令对手所有技能PP值-{1}"/>
+	<Effect id="2407" argsNum="2" info="自身技能PP值之和每比对手少{0}点附加{1}点固定伤害" analyze="[sprite name=iconHit]自身技能PP值之和每比对手少{0}点附加{1}点[color=#52a5f2]固定伤害[/color]"/>
 
 
  </root>

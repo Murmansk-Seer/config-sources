@@ -883,6 +883,7 @@
 				<Rule ID="2" Threshold="2" AchievementPoint="10" icon="1" achName="钢铁意志" proicon="1448" SpeNameBonus="559" title="钢铁意志" Desc="通关S-重装·派鲁基达【地狱难度】关卡获得" titleColor="0xFFFFFF"/>
 				<Rule ID="3" Threshold="3" AchievementPoint="10" icon="1" achName="征服者塞拉赫" proicon="1457" SpeNameBonus="566" title="征服者塞拉赫" Desc="通关S-图特摩斯【地狱难度】关卡获得" titleColor="0xFFFFFF"/>
 				<Rule ID="4" Threshold="4" AchievementPoint="10" icon="1" achName="群虫荣光" proicon="1464" SpeNameBonus="568" title="群虫荣光" Desc="通关S-艾莉安娜【地狱难度】关卡获得" titleColor="0xFFFFFF"/>
+				<Rule ID="5" Threshold="5" AchievementPoint="10" icon="1" achName="理性之化身" proicon="1465" SpeNameBonus="569" title="理性之化身" Desc="通关S-埃斯宾诺【地狱难度】关卡获得" titleColor="0xFFFFFF"/>
 			</Branch>
 			
 			<Branch ID="169" Desc="高难挑战系列" > 

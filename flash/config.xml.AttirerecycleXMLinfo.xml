@@ -1555,4 +1555,57 @@
 	<Attirerecycle ID="184" ItemID="1721423" ItemName="耀蓝星石" OutputNum="20"/>
 	<Attirerecycle ID="185" ItemID="1721424" ItemName="圣金星石" OutputNum="20"/>
 
+
+<!-- 20260130第二十五期 -->
+	<Attirerecycle ID="186" ItemID="1718868" ItemName="圣诞摇摇券" OutputNum="20"/>
+	<Attirerecycle ID="187" ItemID="1718873" ItemName="麋鹿的治疗包" OutputNum="20"/>
+	<Attirerecycle ID="188" ItemID="1718874" ItemName="麋鹿的胡萝卜" OutputNum="20"/>
+	<Attirerecycle ID="189" ItemID="1718875" ItemName="麋鹿的糖豆" OutputNum="20"/>
+	<Attirerecycle ID="190" ItemID="1718876" ItemName="麋鹿的神秘物质" OutputNum="20"/>
+	<Attirerecycle ID="191" ItemID="1723324" ItemName="元宵花球" OutputNum="20"/>
+	<Attirerecycle ID="192" ItemID="1723574" ItemName="神秘矿石" OutputNum="20"/>
+	<Attirerecycle ID="193" ItemID="1723696" ItemName="12周年纪念币" OutputNum="20"/>
+	<Attirerecycle ID="194" ItemID="1723732" ItemName="皮肤心愿单" OutputNum="20"/>
+	<Attirerecycle ID="195" ItemID="1723734" ItemName="装扮心愿单" OutputNum="20"/>
+	<Attirerecycle ID="196" ItemID="1723823" ItemName="乾古之钥" OutputNum="20"/>
+	<Attirerecycle ID="197" ItemID="1723894" ItemName="仲夏节的金币" OutputNum="20"/>
+	<Attirerecycle ID="198" ItemID="1723895" ItemName="仲夏节的食材" OutputNum="20"/>
+	<Attirerecycle ID="199" ItemID="1723896" ItemName="仲夏节的木柴" OutputNum="20"/>
+	<Attirerecycle ID="200" ItemID="1723897" ItemName="仲夏节的刀叉" OutputNum="20"/>
+	<Attirerecycle ID="201" ItemID="1723898" ItemName="仲夏节的火种" OutputNum="20"/>
+	<Attirerecycle ID="202" ItemID="1723995" ItemName="仲夏节的美食" OutputNum="20"/>
+	<Attirerecycle ID="203" ItemID="1724053" ItemName="皎洁月华" OutputNum="20"/>
+	<Attirerecycle ID="204" ItemID="1724170" ItemName="言灵符咒" OutputNum="20"/>
+	<Attirerecycle ID="205" ItemID="1724190" ItemName="金色超能晶体" OutputNum="20"/>
+	<Attirerecycle ID="206" ItemID="1724319" ItemName="幻形之珀·紫" OutputNum="20"/>
+	<Attirerecycle ID="207" ItemID="1724320" ItemName="幻形之珀·蓝" OutputNum="20"/>
+	<Attirerecycle ID="208" ItemID="1724332" ItemName="祈愿的星光" OutputNum="20"/>
+	<Attirerecycle ID="209" ItemID="1724333" ItemName="精灵们的心愿" OutputNum="20"/>
+	<Attirerecycle ID="210" ItemID="1724334" ItemName="神火之辉" OutputNum="20"/>
+	<Attirerecycle ID="211" ItemID="1724349" ItemName="虎年金币" OutputNum="20"/>
+	<Attirerecycle ID="212" ItemID="1724370" ItemName="爆炸果果" OutputNum="20"/>
+	<Attirerecycle ID="213" ItemID="1724371" ItemName="红红火火花" OutputNum="20"/>
+	<Attirerecycle ID="214" ItemID="1724372" ItemName="冰蓝草" OutputNum="20"/>
+	<Attirerecycle ID="215" ItemID="1724373" ItemName="荷绿莲" OutputNum="20"/>
+	<Attirerecycle ID="216" ItemID="1724374" ItemName="烟花星火" OutputNum="20"/>
+	<Attirerecycle ID="217" ItemID="1724401" ItemName="鸿福元宵" OutputNum="20"/>
+	<Attirerecycle ID="218" ItemID="1724411" ItemName="「未来封锁·舞」30钻石优惠券" OutputNum="20"/>
+	<Attirerecycle ID="219" ItemID="1724491" ItemName="雨殇泪" OutputNum="20"/>
+	<Attirerecycle ID="220" ItemID="1724492" ItemName="海鸢花" OutputNum="20"/>
+	<Attirerecycle ID="221" ItemID="1724522" ItemName="好城主徽章" OutputNum="20"/>
+	<Attirerecycle ID="222" ItemID="1724529" ItemName="食客券" OutputNum="20"/>
+	<Attirerecycle ID="223" ItemID="1724530" ItemName="花语芯" OutputNum="20"/>
+	<Attirerecycle ID="224" ItemID="1724562" ItemName="精灵心愿单" OutputNum="20"/>
+	<Attirerecycle ID="225" ItemID="1724565" ItemName="【夏日】系列皮肤优惠券" OutputNum="20"/>
+	<Attirerecycle ID="226" ItemID="1724567" ItemName="【K.I.S.S.】系列皮肤优惠券" OutputNum="20"/>
+	<Attirerecycle ID="227" ItemID="1724566" ItemName="【星璨】系列刻印优惠券" OutputNum="20"/>
+	<Attirerecycle ID="228" ItemID="1724664" ItemName="K13系列刻印优惠券" OutputNum="20"/>
+	<Attirerecycle ID="229" ItemID="1724731" ItemName="宝藏之锚" OutputNum="20"/>
+	<Attirerecycle ID="230" ItemID="1724754" ItemName="魔法石" OutputNum="20"/>
+	<Attirerecycle ID="231" ItemID="1724788" ItemName="龙胆之契" OutputNum="20"/>
+	<Attirerecycle ID="232" ItemID="1724796" ItemName="四叶草金币" OutputNum="20"/>
+	<Attirerecycle ID="233" ItemID="1724879" ItemName="皮肤100钻优惠券" OutputNum="20"/>
+	<Attirerecycle ID="234" ItemID="1724889" ItemName="湮灭逸能" OutputNum="20"/>
+	<Attirerecycle ID="235" ItemID="1724950" ItemName="神秘的麋鹿包裹" OutputNum="20"/>
+
 </Attirerecycles>

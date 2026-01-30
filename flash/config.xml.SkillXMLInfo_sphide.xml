@@ -115,6 +115,7 @@
 	<SpMoves id="101" monster="4001" monstername="无上·万魔天尊" moves="29245" movesname="噬古魔怀" item="1727670" itemname="无上魔轮" itemnumber="1" itemtips="使用后可为无上·万魔天尊开启全新技能：噬古魔怀" movetype="2"/>
 	<SpMoves id="102" monster="3875" monstername="暗战·艾辛格斯" moves="38234" movesname="暗·贯日解天" item="1727671" itemname="真武天" itemnumber="1" itemtips="使用后可为暗战·艾辛格斯开启全新第五技能：暗·贯日解天" movetype="1"/>
 	<SpMoves id="103" monster="3741" monstername="上古魔尊·库贝萨" moves="29246" movesname="荒予咒缚" item="1727672" itemname="荒古锁" itemnumber="1" itemtips="使用后可为上古魔尊·库贝萨开启全新技能：荒予咒缚" movetype="2"/>
+	<SpMoves id="104" monster="4863" monstername="艾莉安娜" moves="38261" movesname="螟息·万籁归寂" item="1727724" itemname="虫巢之誓" itemnumber="1" itemtips="使用后可为艾莉安娜开启全新技能：螟息·万籁归寂" movetype="1"/>
 
 
 
