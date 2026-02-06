@@ -2366,6 +2366,20 @@
                     "id": 22,
                     "proicon": 1456,
                     "spe_name_bonus": 565
+                  },
+                  {
+                    "abtext": "",
+                    "ach_name": "白皑迷踪",
+                    "desc": "完成主线【白皑迷踪】获得",
+                    "threshold": "23",
+                    "title": "白皑迷踪",
+                    "title_color": "0xFFFFFF",
+                    "ability_title": 0,
+                    "achievement_point": 10,
+                    "hide": 0,
+                    "id": 23,
+                    "proicon": 1466,
+                    "spe_name_bonus": 570
                   }
                 ],
                 "id": 161,
@@ -8358,6 +8372,20 @@
                     "id": 5,
                     "proicon": 1465,
                     "spe_name_bonus": 569
+                  },
+                  {
+                    "abtext": "",
+                    "ach_name": "感性之化身",
+                    "desc": "通关S-康迪亚克【地狱难度】关卡获得",
+                    "threshold": "6",
+                    "title": "感性之化身",
+                    "title_color": "0xFFFFFF",
+                    "ability_title": 0,
+                    "achievement_point": 10,
+                    "hide": 0,
+                    "id": 6,
+                    "proicon": 1467,
+                    "spe_name_bonus": 571
                   }
                 ],
                 "id": 172,
@@ -18148,6 +18176,20 @@
                     "hide": 0,
                     "id": 12,
                     "proicon": 1458,
+                    "spe_name_bonus": 0
+                  },
+                  {
+                    "abtext": "",
+                    "ach_name": "2026巅峰时装收集",
+                    "desc": "达成2026巅峰圣战专属精灵皮肤收集进度",
+                    "threshold": "13",
+                    "title": "",
+                    "title_color": "",
+                    "ability_title": 0,
+                    "achievement_point": 10,
+                    "hide": 0,
+                    "id": 13,
+                    "proicon": 1468,
                     "spe_name_bonus": 0
                   }
                 ],

@@ -1447,6 +1447,19 @@
       {
         "bean": 0,
         "hide": 0,
+        "id": 540099,
+        "max": 1,
+        "name": "新春聚宝盆",
+        "price": 0,
+        "sort": 16,
+        "vip_only": 0,
+        "cat_id": 5,
+        "purpose": 0,
+        "wd": 1
+      },
+      {
+        "bean": 0,
+        "hide": 0,
         "id": 540098,
         "max": 1,
         "name": "6000天庆典纪念",

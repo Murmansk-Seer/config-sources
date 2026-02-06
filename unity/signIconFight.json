@@ -3937,6 +3937,38 @@
         "sort": 5
       },
       {
+        "class_name": "*",
+        "dec": "bt",
+        "des": "",
+        "frame": [],
+        "num_des": "剩余回合",
+        "sp_des": [],
+        "sp_icon": [],
+        "sp_tips": [],
+        "tips": "bt",
+        "id": 150,
+        "is_show_num": 1,
+        "show_monster": 0,
+        "show_time": 0,
+        "sort": 1
+      },
+      {
+        "class_name": "*",
+        "dec": "t",
+        "des": "",
+        "frame": [],
+        "num_des": "",
+        "sp_des": [],
+        "sp_icon": [],
+        "sp_tips": [],
+        "tips": "t",
+        "id": 151,
+        "is_show_num": 1,
+        "show_monster": 0,
+        "show_time": 0,
+        "sort": 1
+      },
+      {
         "class_name": "SignBuffView_1000",
         "dec": "折叠icon",
         "des": "",
