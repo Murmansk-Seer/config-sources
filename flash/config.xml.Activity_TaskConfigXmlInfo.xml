@@ -265,4 +265,12 @@
 	<item id="398" activityid="23" activityname="龙船探秘" describe="第9关" value="9" time="0" timelimit="1" timestart="1770343200" timeend="1770948000" rewardinfo="1_2500004_1" userinfo="152013" userbitbuf2="152012_9" />
 	<item id="399" activityid="23" activityname="龙船探秘" describe="第10关" value="10" time="0" timelimit="1" timestart="1770343200" timeend="1770948000" rewardinfo="1_2500005_5" userinfo="152013" userbitbuf2="152012_10" />
 	<item id="400" activityid="23" activityname="龙船探秘" describe="第11关" value="11" time="0" timelimit="1" timestart="1770343200" timeend="1770948000" rewardinfo="1_1723855_50000;1_300070_3" userinfo="152013" userbitbuf2="152012_11" />
+	<item id="401" activityid="24" activityname="囚风决" describe="首次获取300分" value="300" time="0" timelimit="1" timestart="1770948000" timeend="1772762400" rewardinfo="1_300063_2" userinfo="140260" userbitbuf="11051" />
+	<item id="402" activityid="24" activityname="囚风决" describe="首次获取500分" value="500" time="0" timelimit="1" timestart="1770948000" timeend="1772762400" rewardinfo="1_300065_5" userinfo="140260" userbitbuf="11052" />
+	<item id="403" activityid="24" activityname="囚风决" describe="首次获取800分" value="800" time="0" timelimit="1" timestart="1770948000" timeend="1772762400" rewardinfo="1_300065_5" userinfo="140260" userbitbuf="11053" />
+	<item id="404" activityid="24" activityname="囚风决" describe="累计参与游戏1天（至少在一局游戏内获取100分）" value="1" time="0" timelimit="1" timestart="1770948000" timeend="1772762400" rewardinfo="1_300063_3" userinfo="140261" userbitbuf="11054" />
+	<item id="405" activityid="24" activityname="囚风决" describe="累计参与游戏2天（至少在一局游戏内获取100分）" value="2" time="0" timelimit="1" timestart="1770948000" timeend="1772762400" rewardinfo="1_700845_1" userinfo="140261" userbitbuf="11055" />
+	<item id="406" activityid="24" activityname="囚风决" describe="累计参与游戏3天（至少在一局游戏内获取100分）" value="3" time="0" timelimit="1" timestart="1770948000" timeend="1772762400" rewardinfo="4_4873_1" userinfo="140261" userbitbuf="11056" />
+	<item id="407" activityid="24" activityname="囚风决" describe="累计参与游戏4天（至少在一局游戏内获取100分）" value="4" time="0" timelimit="1" timestart="1770948000" timeend="1772762400" rewardinfo="1_300063_2" userinfo="140261" userbitbuf="11057" />
+	<item id="408" activityid="24" activityname="囚风决" describe="累计参与游戏5天（至少在一局游戏内获取100分）" value="5" time="0" timelimit="1" timestart="1770948000" timeend="1772762400" rewardinfo="1_300065_5" userinfo="140261" userbitbuf="11058" />
 </root>

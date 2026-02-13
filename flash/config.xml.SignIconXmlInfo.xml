@@ -185,8 +185,10 @@ sort标记展示序列 1为自己给自己的效果 2为队友给自己的效果
 	<item id="147" dec="旧日之晷" tips="旧日之晷" className="*" sort="1" isShowNum="1" NumDes="当前道数" frame="0_0 1_1 2_2 3_3 4_4 5_5" Des="每有1层每次在场限1次，无效对手PP值为1或与之同类型的技能；自身已损失PP值达到12点的回合开始时，恢复自身全部体力值、PP值且可无效次数额外+1；最高5层，下场保留" showmonster="4125"/>
 	<item id="148" dec="宙变之殢" tips="宙变之殢" className="*" sort="5" isShowNum="1" NumDes="当前层数" Des="自身所处异常状态的回合数不会减少；每有1层自身每次在场的前1回合造成的非真实伤害减少一半；最高5层"/>
 	<item id="149" dec="虚饰弧光" tips="虚饰弧光" className="*" sort="5" isShowNum="1" NumDes="当前点数" Des="自身受到攻击伤害时，若体力值低于虚饰弧光，则移除虚饰弧光并消耗自身全部体力"/>
-	<item id="150" dec="bt" tips="bt" className="*" sort="1" isShowNum="1" NumDes="剩余回合" Des=""/>
-	<item id="151" dec="t" tips="t" className="*" sort="1" isShowNum="1" NumDes="" Des=""/>
+	<item id="150" dec="百天浮世络" tips="百天浮世络" className="*" sort="1" isShowNum="1" NumDes="剩余回合" Des=""/>
+	<item id="151" dec="态" tips="态" sptips="2_怀生菩怜态 3_拒赦怒威态" spicon="2_2 3_3" className="*" sort="1" isShowNum="0" NumDes="当前形态" frame="2_2 3_3" SpDes="2_自身使用技能后随机附加1种弱化类异常状态，未触发则己方场下所有精灵恢复99点体力；自身的技能以光系结算攻击伤害 3_自身所有技能先制+1；所有攻击必定打出致命一击且造成伤害提升100%；自身的技能以混沌系结算攻击伤害"/>
+	<item id="152" dec="风龙结" tips="风龙结" className="*" sort="1" isShowNum="1" NumDes="剩余回合" Des="风龙结的数量达到1000时，若自身不为龙系则消耗所有的风龙结，自身恢复全部体力值、PP值，本场战斗自身变更为龙系；自身为龙系时，受到的天敌攻击伤害减少50%；最高1000个"/>
+	<item id="153" dec="神惧劫炎" tips="神惧劫炎" className="*" sort="1" isShowNum="1" NumDes="剩余回合" Des="回合结束后，若自身存在技能已损失PP高于对手对应位置的技能则将其已损失PP调整至与自身相同；自身先出手时效果回合数-1且对手的烧伤回合数+1；自身所有技能先制+2且造成的攻击伤害提升100%；最高8回合"/>
 
 
 

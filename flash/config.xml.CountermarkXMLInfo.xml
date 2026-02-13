@@ -3735,6 +3735,39 @@
 	<MintMark ID="42634" Type="3" Rare="3" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="0 2 6 2 3 8" MaxAttriValue="0 27 64 27 35 82"  MintmarkClass="25" Level="100" Max="99" Des="V8-04[Ⅰ]" EffectDes="防御2/27,特攻6/64,特防2/27,速度3/35,体力8/82"/>
     <MintMark ID="42635" Type="3" Rare="1" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="0 3 4 3 4 8" MaxAttriValue="0 31 40 31 33 80" MonsterID="4867" Level="100" Max="99" Des="西格恩专属全能刻印" EffectDes="防御3/32,特攻4/42,特防3/32,速度4/40,体力8/84"/>
 
+	<MintMark ID="42636" Type="3" Rare="5" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="6 4 0 4 4 9" MaxAttriValue="60 40 0 40 45 95" MintmarkClass="92" Level="100" Max="99" Des="赤洲龙子·囚牛" EffectDes="攻击6/60,防御4/40,特防4/40,速度4/45,体力9/95"/>
+	<MintMark ID="42637" Type="3" Rare="5" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="0 4 6 4 4 9" MaxAttriValue="0 40 60 40 45 95" MintmarkClass="92" Level="100" Max="99" Des="赤洲龙子·睚眦" EffectDes="防御4/40,特攻6/60,特防4/40,速度4/45,体力9/95"/>
+	<MintMark ID="42638" Type="3" Rare="5" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="0 3 7 3 3 9" MaxAttriValue="0 38 75 38 37 92" MintmarkClass="92" Level="100" Max="99" Des="赤洲龙子·嘲风" EffectDes="防御3/38,特攻7/75,特防3/38,速度3/37,体力9/92"/>
+	<MintMark ID="42639" Type="3" Rare="5" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="7 3 0 3 3 9" MaxAttriValue="75 38 0 38 37 92" MintmarkClass="92" Level="100" Max="99" Des="赤洲龙子·蒲牢" EffectDes="攻击7/75,防御3/38,特防3/38,速度3/37,体力9/92"/>
+	<MintMark ID="42640" Type="3" Rare="5" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="0 3 4 3 3 13" MaxAttriValue="0 32 47 32 34 135" MintmarkClass="92" Level="100" Max="99" Des="赤洲龙子·狻猊" EffectDes="防御3/32,特攻4/47,特防3/32,速度3/34,体力13/135"/>
+	<MintMark ID="42641" Type="3" Rare="5" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="4 3 0 3 3 13" MaxAttriValue="47 32 0 32 34 135" MintmarkClass="92" Level="100" Max="99" Des="赤洲龙子·赑屃" EffectDes="攻击4/47,防御3/32,特防3/32,速度3/34,体力13/135"/>
+	<MintMark ID="42642" Type="3" Rare="5" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="0 6 3 6 2 10" MaxAttriValue="0 60 35 60 25 100" MintmarkClass="92" Level="100" Max="99" Des="赤洲龙子·狴犴" EffectDes="防御6/60,特攻3/35,特防6/60,速度2/25,体力10/100"/>
+	<MintMark ID="42643" Type="3" Rare="5" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="3 6 0 6 2 10" MaxAttriValue="35 60 0 60 25 100" MintmarkClass="92" Level="100" Max="99" Des="赤洲龙子·负屃" EffectDes="攻击3/35,防御6/60,特防6/60,速度2/25,体力10/100"/>
+	<MintMark ID="42644" Type="3" Rare="5" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="5 4 5 4 0 12" MaxAttriValue="55 40 55 40 0 120" MintmarkClass="92" Level="100" Max="99" Des="赤洲龙子·螭吻" EffectDes="攻击5/55,防御4/40,特攻5/55,特防4/40,体力12/120"/>
+	<MintMark ID="42645" Type="3" Rare="5" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="6 4 0 4 4 9" MaxAttriValue="60 40 0 40 45 95" MintmarkClass="92" Level="100" Max="99" Des="赤洲龙子·囚牛" EffectDes="攻击6/60,防御4/40,特防4/40,速度4/45,体力9/95" Hide="1" Connect="42636"/>
+	<MintMark ID="42646" Type="3" Rare="5" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="0 4 6 4 4 9" MaxAttriValue="0 40 60 40 45 95" MintmarkClass="92" Level="100" Max="99" Des="赤洲龙子·睚眦" EffectDes="防御4/40,特攻6/60,特防4/40,速度4/45,体力9/95" Hide="1" Connect="42637"/>
+	<MintMark ID="42647" Type="3" Rare="5" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="0 3 7 3 3 9" MaxAttriValue="0 38 75 38 37 92" MintmarkClass="92" Level="100" Max="99" Des="赤洲龙子·嘲风" EffectDes="防御3/38,特攻7/75,特防3/38,速度3/37,体力9/92" Hide="1" Connect="42638"/>
+	<MintMark ID="42648" Type="3" Rare="5" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="7 3 0 3 3 9" MaxAttriValue="75 38 0 38 37 92" MintmarkClass="92" Level="100" Max="99" Des="赤洲龙子·蒲牢" EffectDes="攻击7/75,防御3/38,特防3/38,速度3/37,体力9/92" Hide="1" Connect="42639"/>
+	<MintMark ID="42649" Type="3" Rare="5" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="0 3 4 3 3 13" MaxAttriValue="0 32 47 32 34 135" MintmarkClass="92" Level="100" Max="99" Des="赤洲龙子·狻猊" EffectDes="防御3/32,特攻4/47,特防3/32,速度3/34,体力13/135" Hide="1" Connect="42640"/>
+	<MintMark ID="42650" Type="3" Rare="5" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="4 3 0 3 3 13" MaxAttriValue="47 32 0 32 34 135" MintmarkClass="92" Level="100" Max="99" Des="赤洲龙子·赑屃" EffectDes="攻击4/47,防御3/32,特防3/32,速度3/34,体力13/135" Hide="1" Connect="42641"/>
+	<MintMark ID="42651" Type="3" Rare="5" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="0 6 3 6 2 10" MaxAttriValue="0 60 35 60 25 100" MintmarkClass="92" Level="100" Max="99" Des="赤洲龙子·狴犴" EffectDes="防御6/60,特攻3/35,特防6/60,速度2/25,体力10/100" Hide="1" Connect="42642"/>
+	<MintMark ID="42652" Type="3" Rare="5" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="3 6 0 6 2 10" MaxAttriValue="35 60 0 60 25 100" MintmarkClass="92" Level="100" Max="99" Des="赤洲龙子·负屃" EffectDes="攻击3/35,防御6/60,特防6/60,速度2/25,体力10/100" Hide="1" Connect="42643"/>
+	<MintMark ID="42653" Type="3" Rare="5" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="5 4 5 4 0 12" MaxAttriValue="55 40 55 40 0 120" MintmarkClass="92" Level="100" Max="99" Des="赤洲龙子·螭吻" EffectDes="攻击5/55,防御4/40,特攻5/55,特防4/40,体力12/120" Hide="1" Connect="42644"/>
+	<MintMark ID="42658" Type="3" Rare="4" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="6 3 0 3 3 9" MaxAttriValue="62 30 0 30 38 90" MintmarkClass="61" Level="100" Max="99" Des="邃炎余烬" EffectDes="攻击6/62,防御3/30,特防3/30,速度3/38,体力9/90"/>
+	<MintMark ID="42659" Type="3" Rare="1" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="0 2 4 2 3 9" MaxAttriValue="0 27 44 27 35 97" MonsterID="4872" Level="100" Max="99" Des="妙时天女专属全能刻印" EffectDes="防御2/27,特攻4/44,特防2/27,速度3/35,体力9/97"/>
+	<MintMark ID="42660" Type="3" Rare="1" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="0 2 5 2 4 10" MaxAttriValue="0 29 52 29 40 100" MonsterID="4872" Level="100" Max="99" Des="妙时天女专属全能刻印α" EffectDes="防御2/29,特攻5/52,特防2/29,速度4/40,体力10/110"/>
+	<MintMark ID="42661" Type="3" Rare="2" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="3 2 0 2 2 10" MaxAttriValue="37 25 0 25 28 115" MintmarkClass="57" Level="100" Max="99" Des="骏马·龙马精神" EffectDes="攻击3/37,防御2/25,特防2/25,速度2/28,体力11/115"/>
+	<MintMark ID="42662" Type="3" Rare="2" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="0 2 3 2 2 10" MaxAttriValue="0 25 37 25 28 115" MintmarkClass="57" Level="100" Max="99" Des="骏马·马到成功" EffectDes="防御2/25,特攻3/37,特防2/25,速度2/28,体力11/115"/>
+	<MintMark ID="42663" Type="3" Rare="2" Quality="4" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="0 3 0 3 2 9" MaxAttriValue="0 30 0 30 25 95" MintmarkClass="57" Level="100" Max="99" Des="骏马·合家欢" EffectDes="防御3/30,特防3/30,速度2/25,体力9/95"/>
+	<MintMark ID="42664" Type="3" Rare="2" Quality="4" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="3 0 3 0 3 7" MaxAttriValue="35 0 35 0 35 75" MintmarkClass="57" Level="100" Max="99" Des="骏马·好运到" EffectDes="攻击3/35,特攻3/35,速度3/35,体力7/75"/>
+	<MintMark ID="42665" Type="3" Rare="2" Quality="4" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="5 2 0 2 0 9" MaxAttriValue="50 25 0 25 0 90" MintmarkClass="57" Level="100" Max="99" Des="骏马·步步高" EffectDes="攻击5/50,防御2/25,特防2/25,体力9/90"/>
+	<MintMark ID="42666" Type="3" Rare="2" Quality="4" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="0 2 5 2 0 9" MaxAttriValue="0 25 50 25 0 90" MintmarkClass="57" Level="100" Max="99" Des="骏马·事事顺" EffectDes="防御2/25,特攻5/50,特防2/25,体力9/90"/>
+	<MintMark ID="42667" Type="3" Rare="2" Quality="3" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="5 0 0 0 3 8" MaxAttriValue="50 0 0 0 35 85" MintmarkClass="57" Level="100" Max="99" Des="骏马·祥瑞" EffectDes="攻击5/50,速度3/35,体力8/85"/>
+	<MintMark ID="42668" Type="3" Rare="2" Quality="3" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="0 0 5 0 3 8" MaxAttriValue="0 0 50 0 35 85" MintmarkClass="57" Level="100" Max="99" Des="骏马·洪福" EffectDes="特攻5/50,速度3/35,体力8/85"/>
+	<MintMark ID="42669" Type="3" Rare="2" Quality="3" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="0 3 0 3 0 10" MaxAttriValue="0 35 0 35 0 100" MintmarkClass="57" Level="100" Max="99" Des="骏马·如意" EffectDes="防御3/35,特防3/35,体力10/100"/>
+	<MintMark ID="42670" Type="3" Rare="2" Quality="3" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="3 0 3 0 0 10" MaxAttriValue="35 0 35 0 0 100" MintmarkClass="57" Level="100" Max="99" Des="骏马·富贵" EffectDes="攻击3/35,特攻3/35,体力10/100"/>
+	<MintMark ID="42671" Type="3" Rare="1" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="0 2 4 2 3 10" MaxAttriValue="0 25 45 25 35 100" MonsterID="4871" Level="100" Max="99" Des="嘲风专属全能刻印" EffectDes="防御2/25,特攻4/45,特防2/25,速度3/35,体力10/100"/>
+	<MintMark ID="42672" Type="3" Rare="1" Quality="5" MintmarkLevel="5" Grade="5" BaseHoleNum="1" BaseAttriValue="4 2 0 2 3 10" MaxAttriValue="45 25 0 25 35 100" MonsterID="4875" Level="100" Max="99" Des="永烬劫炎·上古炎兽专属全能刻印" EffectDes="攻击4/45,防御2/25,特防2/25,速度3/35,体力10/100"/>
 
 
 
@@ -3839,7 +3872,7 @@
 	<MintmarkClass ID="89" ClassName="露希欧之梦系列" />
 	<MintmarkClass ID="90" ClassName="自在由心系列" />
 	<MintmarkClass ID="91" ClassName="和平星系列" />
-
+    <MintmarkClass ID="92" ClassName="赤洲龙子系列" />
 
 
 	

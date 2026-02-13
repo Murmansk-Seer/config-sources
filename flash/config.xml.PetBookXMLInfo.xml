@@ -213,8 +213,8 @@ Desc:    刻印信息  tips的获得途径文字
 
 <Hotspot><!-- 本周热点 -->
 <item intro="全新精灵上线，快来看看吧！">
-      <place type= "0" ID="4870" ImageID= "4870" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
-	  <!-- <place type= "0" ID="4867" ImageID= "4867" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
+      <place type= "0" ID="4874" ImageID= "4874" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
+	  <place type= "0" ID="4875" ImageID= "4875" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
 	  <!-- <place type= "0" ID="4868" ImageID= "4868" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "0" ID="4869" ImageID= "4869" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "0" ID="4843" ImageID= "4843" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
@@ -255,8 +255,8 @@ Desc:    刻印信息  tips的获得途径文字
       <place type= "0" ID="4641" ImageID= "4641" Label= "0"  Redirect="map|module" Go="1679;app/ValleyExpeditionHatchMainPanel"/>-->
 
 
-      <place type= "1" ID="796" monID="4361" ImageID= "1400796" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
-      <place type= "1" ID="797" monID="4216" ImageID= "1400797" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
+      <place type= "1" ID="805" monID="4677" ImageID= "1400805" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
+      <!-- <place type= "1" ID="797" monID="4216" ImageID= "1400797" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "1" ID="791" monID="4510" ImageID= "1400791" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "1" ID="769" monID="4822" ImageID= "1400769" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
       <!-- <place type= "1" ID="749" monID="4805" ImageID= "1400749" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
@@ -5168,5 +5168,10 @@ Desc:    刻印信息  tips的获得途径文字
 	<Monster ID="4868" DefName="西塞萝" Type="光 火" Height="175" Weight="42" Features="2026年包月精灵，万象录之《桃李天下之人》。从前，她是为了学生们燃烧自己的老师；如今，他是为了迷途之人照亮道路的烛火。终有一天，她会油尽灯枯，但她不后悔，这是她的责任。" Redirect="module" Go="app/FinalActivityPanel" Target="121000"/>
 	<Monster ID="4869" DefName="颅腹虫" Type="神秘" Height="34" Weight="13" Features="身体构造奇怪的虫族生物，大脑生长在腹腔的它似乎有着比其他虫族更高的智慧。" Redirect="module" Go="app/FinalActivityPanel" Target="400019"/>
 	<Monster ID="4870" DefName="康迪亚克" Type="地面" Height="176" Weight="58" Features="潜藏于犹尔尼斯星的另一位黄金圣徒，康迪亚克毅然站在虫族的对立阵营，为其他族群争取生存的权益。然而，在他的内心深处，却还有另一番别样的盘算……" Redirect="module" Go="app/FinalActivityPanel" Target="153201/845"/>
+	<Monster ID="4871" DefName="嘲风" Type="飞行 火" Height="165" Weight="49" Features="性格急躁，好高骛远的龙之九子第三子，嘲风号船长。热衷于烟花爆竹和大摆宴席，别看她平时吊儿郎当的，但关键时刻值得信任。" Redirect="module" Go="app/FinalActivityPanel" Target="150105"/>
+	<Monster ID="4872" DefName="妙时天女" Type="混沌 光" Height="未知" Weight="未知" Features="来自“东之圈”星球赤洲星的大佛，拥有黑白两面。白面掌管吉时佳节的欢庆，是一位善神，黑面又称“厉世天母”，掌控祭祀与狂欢。" Redirect="module" Go="app/FinalActivityPanel" Target="114042"/>
+	<Monster ID="4873" DefName="宵灵·午驹" Type="飞行" Height="65" Weight="比燕子轻" Features="赤洲星的吉祥物，龙船的领航员，虽然身兼重职，但可惜所有人都把她当小孩子看待。据说每一年都会变换样貌，很是奇妙。" Redirect="module" Go="app/FinalActivityPanel" Target="114044"/>
+	<Monster ID="4874" DefName="瓏首" Type="远古" Height="265" Weight="未知" Features="由古代赤洲方术和各项神秘技术制造的构造体，现作为龙船的大副或龙子的管家活动。其思考方式和行为逻辑类似于人工智能。" Redirect="module" Go="app/FinalActivityPanel" Target="153201/849"/>
+	<Monster ID="4875" DefName="永烬劫炎·上古炎兽" Type="火" Height="2200" Weight="32000" Features="炎魔之王在古老的火焰中淬炼自我，重拾本源的它将永不熄灭！" Redirect="module" Go="app/FinalActivityPanel" Target="114043"/>
 
 </root>

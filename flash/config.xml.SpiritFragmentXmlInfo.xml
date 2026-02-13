@@ -551,6 +551,6 @@
 	<Fragment ID="2400552" show="1" Name="埃斯宾诺因子" MonsterID="4866" Rarity="3" PetLimit="1" PetConsume="540" NewSeIdx="6355" effectId="2052" NewseConsume="270" MoveID="38252" MovesConsume="108" NeedmonID="0" NewMsglogId="2601290800" SeMsglog="2601290801" EffectMsglog="2601290802"/>
 	<Fragment ID="2400553" show="1" Name="康迪亚克因子" MonsterID="4870" Rarity="3" PetLimit="1" PetConsume="540" NewSeIdx="6358" effectId="2057" NewseConsume="270" MoveID="38269" MovesConsume="108" NeedmonID="0" NewMsglogId="2602050800" SeMsglog="2602050801" EffectMsglog="2602050802"/>
 	<Fragment ID="2400554" show="1" Name="拉克希斯因子" MonsterID="4216" Rarity="3" PetLimit="1" PetConsume="540" NewSeIdx="5705" effectId="1434" NewseConsume="270" MoveID="35056" MovesConsume="108" NeedmonID="0" NewMsglogId="" SeMsglog="" EffectMsglog=""/>
-	
-	
+	<Fragment ID="2400555" show="1" Name="瓏首因子" MonsterID="4874" Rarity="2" PetLimit="1" PetConsume="400" NewSeIdx="6363" effectId="2061" NewseConsume="200" MoveID="38281" MovesConsume="100" NeedmonID="0" NewMsglogId="2602190600" SeMsglog="2602190601" EffectMsglog="2602190602"/>
+    
 </Root>

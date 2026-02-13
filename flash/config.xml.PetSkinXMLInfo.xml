@@ -2677,6 +2677,38 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 
+	<Skin ID="798" MonID="4872" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="18" Name="历世天母·妙时天女" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114042">
+		<SkinKind ID="1" Type="2" LifeTime="0"/>
+	</Skin>
+
+	<Skin ID="799" MonID="4586" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="14" Name="噬瞳之夜·空元行者" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114045">
+		<SkinKind ID="1" Type="2" LifeTime="0"/>
+	</Skin>
+
+	<Skin ID="800" MonID="3033" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="7" Name="背嵬骁龙·帝天战佛" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114046">
+		<SkinKind ID="1" Type="2" LifeTime="0"/>
+	</Skin>
+
+	<Skin ID="801" MonID="3237" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="7" Name="寅堂金甲·大威势明王" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114046">
+		<SkinKind ID="1" Type="2" LifeTime="0"/>
+	</Skin>
+
+	<Skin ID="802" MonID="3576" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="7" Name="彩凤玄袍·大轮明王" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114046">
+		<SkinKind ID="1" Type="2" LifeTime="0"/>
+	</Skin>
+
+	<Skin ID="803" MonID="4002" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="7" Name="豫擘天督·御象灵尊" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114046">
+		<SkinKind ID="1" Type="2" LifeTime="0"/>
+	</Skin>
+
+	<Skin ID="804" MonID="4345" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="瑞雪映灯·卡托娜" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114047">
+		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="14"/>
+	</Skin>
+
+	<Skin ID="805" MonID="4677" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="18" Name="群星低语时·天启星魂" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114048">
+		<SkinKind ID="1" Type="2" LifeTime="0"/>
+	</Skin>
+
     <!-- <Skin ID="000" MonID="000" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="复制模版"> -->
 		<!-- <SkinKind ID="1" Type="2" LifeTime="0"/> -->
 	<!-- </Skin>	 -->
