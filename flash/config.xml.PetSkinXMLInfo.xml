@@ -2249,7 +2249,7 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 	</Skin>
 
 	<Skin ID="691" MonID="4450" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="14" Name="岁岁平安·逐界苍星" >
-		<SkinKind ID="1" Type="2" LifeTime="0"/>
+		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="14"/>
 	</Skin>
 
 	<Skin ID="692" MonID="4717" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="18" Name="文明之忏·尤纳斯" >
@@ -2669,15 +2669,15 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 	
-	<Skin ID="796" MonID="4361" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="暗渊之灾·洛基" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114040">
+	<Skin ID="796" MonID="4361" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="暗渊之灾·洛基" >
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 
-	<Skin ID="797" MonID="4216" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="悠然假日·拉克希斯" Go="app/FinalActivityPanel" GoType="module" Jumptarget="2">
+	<Skin ID="797" MonID="4216" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="悠然假日·拉克希斯" >
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 
-	<Skin ID="798" MonID="4872" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="18" Name="历世天母·妙时天女" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114042">
+	<Skin ID="798" MonID="4872" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="18" Name="厉世天母·妙时天女" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114042">
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 
@@ -2706,6 +2706,14 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 	</Skin>
 
 	<Skin ID="805" MonID="4677" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="18" Name="群星低语时·天启星魂" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114048">
+		<SkinKind ID="1" Type="2" LifeTime="0"/>
+	</Skin>
+	
+	<Skin ID="806" MonID="4125" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="7" Name="镇邪纳瑞·列奥尼达" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114049">
+		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="14"/>
+	</Skin>
+
+	<Skin ID="807" MonID="4875" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Name="上古炎兽" Go="app/FinalActivityPanel" GoType="module" Jumptarget="2">
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 

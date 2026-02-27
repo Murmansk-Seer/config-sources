@@ -192,7 +192,7 @@ Rec				是否进推荐：
 		<Skin ID="152" SkinID="1400152" MonID="3226" Type="2" Name="九玄幽焱·古焰" CardPrice="10" Show="2" Des="巅峰姬史诗98" Batch="1"/>
 		<Skin ID="153" SkinID="1400153" MonID="3126" Type="2" Name="幽魔影龙·加洛斯格" CardPrice="16" Show="2" Des="158" Batch="1"/>
 		<Skin ID="154" SkinID="1400154" MonID="3237" Type="2" Name="降魔·大威势明王" CardPrice="20" Show="2" Des="198" Batch="1"/>
-		<Skin ID="155" SkinID="1400155" MonID="3239" Type="3" Name="闪耀之光·神圣龙鹰" CardPrice="15" Show="3_17" Des="298" OriginalPrice="30" Batch="18"/>
+		<Skin ID="155" SkinID="1400155" MonID="3239" Type="3" Name="闪耀之光·神圣龙鹰" CardPrice="15" OriginalPrice="30" Show="3_35" Batch="36" Des="298"/>
 		<Skin ID="156" SkinID="1400156" MonID="2999" Type="2" Name="炽灵夜皇·千夜死神" CardPrice="30" Show="2" Des="298" Batch="1"/>
 		<Skin ID="157" SkinID="1400157" MonID="2987" Type="2" Name="莲华·重生之翼" Show="0" Des="年费"/>
 		<Skin ID="158" SkinID="1400158" MonID="3118" Type="3" Name="翡翠之灵·索比斯" CardPrice="8" Show="3_19" Des="158" OriginalPrice="16" Batch="5"/>
@@ -205,7 +205,7 @@ Rec				是否进推荐：
 		<Skin ID="165" SkinID="1400165" MonID="3064" Type="2" Name="金属狂潮·末日天卫" CardPrice="10" Show="2" Des="98" Batch="1"/>
 		<Skin ID="166" SkinID="1400166" MonID="3121" Type="3" Name="碧水龙女·夜香刀神" CardPrice="10" Show="3_14" Des="98" Batch="15"/>
 		<Skin ID="167" SkinID="1400167" MonID="3227" Type="3" Name="天月翔龙·奇拉美" CardPrice="10" Show="0" Des="198/98" OriginalPrice="20"/>
-		<Skin ID="168" SkinID="1400168" MonID="3164" Type="3" Name="西楚天皇·项羽" CardPrice="10" Show="3_18" Des="项羽258/198" OriginalPrice="20" Batch="19"/>
+		<Skin ID="168" SkinID="1400168" MonID="3164" Type="3" Name="西楚天皇·项羽" CardPrice="15" OriginalPrice="30" Show="3_35" Batch="36" Des="项羽258/198"/>
 		<Skin ID="169" SkinID="1400169" MonID="3033" Type="3" Name="无极乾坤·帝天战佛" CardPrice="20" Show="3_29" Des="198/398" OriginalPrice="40" Batch="30"/>
 		<Skin ID="170" SkinID="1400170" MonID="3194" Type="3" Name="上古灾魔·咤克斯" CardPrice="15" Show="3_1" Des="258" OriginalPrice="30" Batch="2"/>
 		<Skin ID="171" SkinID="1400171" MonID="2987" Type="3" Name="千古龙帝·重生之翼" Show="0" Des="年费"/>
@@ -263,7 +263,7 @@ Rec				是否进推荐：
 		<Skin ID="223" SkinID="1400223" MonID="3437" Type="3" Name="魔血·艾欧丽娅" DiamondPrice="98" ProductId="261916" item_id="1727390" Show="7" Des="直售198" Batch="2"/>
 		<Skin ID="224" SkinID="1400224" MonID="3293" Type="3" Name="古堡魅影·阿克希亚" CardPrice="15" Show="3_11" Des="298" OriginalPrice="30" Batch="12"/>
 		<Skin ID="225" SkinID="1400225" MonID="3552" Type="3" Name="致命嘻哈·烟罗" Show="0" Des="巅峰姬"/>
-		<Skin ID="226" SkinID="1400226" MonID="3564" Type="3" Name="少年豪杰·项羽" CardPrice="10" Show="3_18" Des="项羽198/98" OriginalPrice="20" Batch="19"/>
+		<Skin ID="226" SkinID="1400226" MonID="3564" Type="3" Name="少年豪杰·项羽" CardPrice="15" OriginalPrice="30" Show="3_35" Batch="36" Des="项羽198/98"/>
 		<Skin ID="227" SkinID="1400227" MonID="3575" Type="1" Name="暗夜邪龙" CardPrice="10" Show="1" Des="98" Batch="1"/>
 		<Skin ID="228" SkinID="1400228" MonID="3575" Type="1" Name="天邪龙王" CardPrice="10" Show="1" Des="98" Batch="1"/>
 		<Skin ID="229" SkinID="1400229" MonID="3575" Type="1" Name="天邪龙皇" CardPrice="10" Show="1" Des="98" Batch="1"/>
@@ -320,7 +320,7 @@ Rec				是否进推荐：
 		<Skin ID="280" SkinID="1400280" MonID="3699" Type="3" Name="古堡魅影·阿克希亚" CardPrice="20" Show="3_24" Des="298" OriginalPrice="30" Batch="25"/>
 		<Skin ID="281" SkinID="1400281" MonID="3740" Type="3" Name="沧岚之水" CardPrice="10" Show="0" Des="88精灵王萌皮2阶"/>
 		<Skin ID="282" SkinID="1400282" MonID="3697" Type="3" Name="萌羽飞飞" CardPrice="10" Show="0" Des="88精灵王萌皮2阶"/>
-		<Skin ID="283" SkinID="1400283" MonID="3644" Type="3" Name="凝脂白玉·蓝露" CardPrice="10" Show="3_14" Des="198" OriginalPrice="20" Batch="15"/>
+		<Skin ID="283" SkinID="1400283" MonID="3644" Type="3" Name="凝脂白玉·蓝露" CardPrice="10" OriginalPrice="20" Show="3_35" Batch="36" Des="198"/>
 		<Skin ID="284" SkinID="1400284" MonID="3796" Type="3" Name="净焰光骑·圣曦" Show="0" Des="巅峰姬"/>
 		<Skin ID="285" SkinID="1400285" MonID="3456" Type="3" Name="星月女神" CardPrice="30" Show="0" Des="精灵王298"/>
 		<Skin ID="286" SkinID="1400286" MonID="3711" Type="3" Name="云端少女" CardPrice="30" Show="3_19" Des="精灵王298"/>
@@ -465,7 +465,7 @@ Rec				是否进推荐：
 		<Skin ID="426" SkinID="1400426" MonID="4304" Type="1" Name="桑特诺娃" CardPrice="10" Show="1" Des="新兑钻"/>
 		<Skin ID="427" SkinID="1400427" MonID="3986" Type="3" Name="冬雪感召·启灵元神" Show="0" Des="年费"/>
 		<Skin ID="428" SkinID="1400428" MonID="3022" Type="1" Name="哈莫" CardPrice="10" Show="1" Des="经典"/>
-		<Skin ID="429" SkinID="1400429" MonID="2724" Type="3" Name="破灭之拥·幻影蝶" CardPrice="35" Show="3_19" Des="兑钻" OriginalPrice="50"/>
+		<Skin ID="429" SkinID="1400429" MonID="2724" Type="3" Name="破灭之拥·幻影蝶" CardPrice="35" OriginalPrice="50" Show="3_35" Batch="36" Des="兑钻"/>
 		<Skin ID="430" SkinID="1400430" MonID="4309" Type="3" Name="笔墨纵情·清逸" Show="0" Des="巅峰姬"/>
 		<Skin ID="431" SkinID="1400431" MonID="3665" Type="2" Name="剧毒之触·咤克斯" CardPrice="16" Show="2" Des="158" Batch="12"/>
 		<Skin ID="432" SkinID="1400432" MonID="3813" Type="1" Name="阿萨斯" CardPrice="10" Show="1" Des="98" Batch="12"/>
@@ -474,7 +474,7 @@ Rec				是否进推荐：
 		<Skin ID="435" SkinID="1400435" MonID="4317" Type="2" Name="雪原之主·凯弗" CardPrice="10" Show="2" Des="活动皮肤" Batch="18"/>
 		<Skin ID="436" SkinID="1400436" MonID="3763" Type="8" Name="雪夜礼车·乌瑞娅" CardPrice="35" Show="3_30" Des="冬季限定" OriginalPrice="57" Batch="31"/>
 		<Skin ID="437" SkinID="1400437" MonID="4319" Type="3" Name="拨雪寻春·露露" Show="0" Des="巅峰姬"/>
-		<Skin ID="438" SkinID="1400438" MonID="3577" Type="1" Name="英卡洛斯" Show="0" Des="经典"/>
+		<Skin ID="438" SkinID="1400438" MonID="3577" Type="1" Name="英卡洛斯" CardPrice="20" Show="1" Des="经典" Batch="36"/>
 		<Skin ID="439" SkinID="1400439" MonID="4032" Type="3" Name="殉道者·六界御神" CardPrice="40" Show="3_33" Des="新兑钻" OriginalPrice="50" Batch="34"/>
 		<Skin ID="440" SkinID="1400440" MonID="4219" Type="7" Name="岁寒映绣·安卡" CardPrice="40" Show="3_24" Des="春节限定" OriginalPrice="50" Batch="25"/>
 		<Skin ID="441" SkinID="1400441" MonID="4239" Type="7" Name="千秋绘卷·努恩" CardPrice="40" Show="3_24" Des="春节限定" OriginalPrice="50" Batch="25"/>
@@ -551,7 +551,7 @@ Rec				是否进推荐：
 		<Skin ID="512" SkinID="1400512" MonID="3788" Type="14" Name="时空怪盗·混元天尊" Show="0" Des="神话品质"/>
 		<Skin ID="513" SkinID="1400513" MonID="4350" Type="3" Name="根源探究·哈洛兰特" CardPrice="30" Show="3_28" Des="新兑钻" OriginalPrice="50" Batch="29"/>
 		<Skin ID="514" SkinID="1400514" MonID="4458" Type="3" Name="永驻之心·业凛" Show="0" Des="巅峰姬"/>
-		<Skin ID="515" SkinID="1400515" MonID="3328" Type="1" Name="王·萨格罗斯" Show="0" Des="经典"/>
+		<Skin ID="515" SkinID="1400515" MonID="3328" Type="1" Name="王·萨格罗斯" CardPrice="15" Show="1" Des="经典" Batch="36"/>
 		<Skin ID="516" SkinID="1400516" MonID="4450" Type="2" Name="凌日·逐界苍星" Show="0" Des="年费皮肤198"/>
 		<Skin ID="517" SkinID="1400517" MonID="3665" Type="3" Name="上古灾魔·咤克斯" Show="0" Des="新兑钻"/>
 		<Skin ID="518" SkinID="1400518" MonID="4468" Type="2" Name="睥睨万物·嬴政" CardPrice="30" Show="2" Des="大按条1688礼包" Batch="19"/>
@@ -565,7 +565,7 @@ Rec				是否进推荐：
 		<Skin ID="526" SkinID="1400526" MonID="3907" Type="3" Name="乞怜之海·炼狱魔神" CardPrice="40" Show="3_28" Des="新兑钻" OriginalPrice="50" Batch="29"/>
 		<Skin ID="527" SkinID="1400527" MonID="4482" Type="3" Name="幽色番长·冥霞" Show="0" Des="巅峰姬"/>
 		<Skin ID="528" SkinID="1400528" MonID="4345" Type="3" Name="林间漫游·卡托娜" CardPrice="40" Show="3_33" Des="398" Batch="34"/>
-		<Skin ID="529" SkinID="1400529" MonID="3515" Type="1" Name="奥兰" Show="0" Des="经典"/>
+		<Skin ID="529" SkinID="1400529" MonID="3515" Type="1" Name="奥兰" CardPrice="10" Show="1" Des="经典" Batch="36"/>
 		<Skin ID="530" SkinID="1400530" MonID="4186" Type="3" Name="萌龙少主" Show="0" Des="新兑钻"/>
 		<Skin ID="531" SkinID="1400531" MonID="3355" Type="3" Name="云端少女" Show="0" Des="新兑钻"/>
 		<Skin ID="532" SkinID="1400532" MonID="4490" Type="3" Name="侍之绯鲨·凯丝" Show="0" Des="巅峰姬"/>
@@ -586,7 +586,7 @@ Rec				是否进推荐：
 		<Skin ID="547" SkinID="1400547" MonID="4327" Type="4" Name="破荒龙拳·阿尔斯兰" Show="0" Des="598"/>
 		<Skin ID="548" SkinID="1400548" MonID="3529" Type="4" Name="寒梅缀雪·海瑟薇" Show="0" Des="598"/>
 		<Skin ID="549" SkinID="1400549" MonID="3699" Type="4" Name="烟光墨漾·阿克希亚" Show="0" Des="598"/>
-		<Skin ID="550" SkinID="1400550" MonID="3783" Type="1" Name="波西利亚" Show="0" Des="经典"/>
+		<Skin ID="550" SkinID="1400550" MonID="3783" Type="1" Name="波西利亚" CardPrice="10" Show="1" Des="经典" Batch="36"/>
 		<Skin ID="551" SkinID="1400551" MonID="4515" Type="3" Name="北冥之怒·霍光" Show="0" Des="498"/>
 		<Skin ID="552" SkinID="1400552" MonID="4500" Type="3" Name="涂鸦大师·武小婵" Show="0" Des="萌皮10"/>
 		<Skin ID="553" SkinID="1400553" MonID="3685" Type="3" Name="衡驭天下·孙权" CardPrice="35" Show="3_26" Des="新兑钻" OriginalPrice="50" Batch="27"/>
@@ -601,7 +601,7 @@ Rec				是否进推荐：
 		<Skin ID="562" SkinID="1400562" MonID="3572" Type="3" Name="晨晖神女·四九幻曦" Show="0" Des="4399联动"/>
 		<Skin ID="563" SkinID="1400563" MonID="3813" Type="3" Name="失约之宴·阿洛希尔" CardPrice="40" Show="3_27" Des="新兑钻" OriginalPrice="50" Batch="28"/>
 		<Skin ID="564" SkinID="1400564" MonID="4329" Type="9" Name="蝶梦夜曲·倪克斯" Show="0" Des="398"/>
-		<Skin ID="565" SkinID="1400565" MonID="4532" Type="1" Name="迹" Show="0" Des="经典"/>
+		<Skin ID="565" SkinID="1400565" MonID="4532" Type="1" Name="迹" CardPrice="10" Show="1" Des="经典" Batch="36"/>
 		<Skin ID="566" SkinID="1400566" MonID="4372" Type="3" Name="候月胭脂·苏璃" CardPrice="40" Show="3_28" Des="新兑钻" OriginalPrice="50" Batch="29"/>
 		<Skin ID="567" SkinID="1400567" MonID="4414" Type="3" Name="未来潮流·瓦普特" CardPrice="20" Show="3_28" Des="活动皮肤298" OriginalPrice="30" Batch="29"/>
 		<Skin ID="568" SkinID="1400568" MonID="3289" Type="1" Name="苍魂·青龙" Show="0" Des="经典"/>
@@ -717,7 +717,7 @@ Rec				是否进推荐：
 		<Skin ID="678" SkinID="1400678" MonID="4333" Type="8" Name="暖阳礼遇·拉伯克" Show="0" Des="圣诞限定498"/>
 		<Skin ID="679" SkinID="1400679" MonID="4278" Type="3" Name="时尚悦动·阿特洛波斯" CardPrice="40" OriginalPrice="50" Show="3_33" Batch="34" Des="兑钻"/>
 		<Skin ID="680" SkinID="1400680" MonID="4642" Type="8" Name="雪夜漫步·哀目黑子" Show="0" Des="圣诞限定498"/>
-		<Skin ID="681" SkinID="1400681" MonID="4693" Type="2" Name="冬梦使者·明德里奇" Show="0" Des="免费史诗20"/>
+		<Skin ID="681" SkinID="1400681" MonID="4693" Type="2" Name="冬梦使者·明德里奇" CardPrice="15" Show="2" Des="免费史诗20" Batch="36"/>
 		<Skin ID="682" SkinID="1400682" MonID="4706" Type="3" Name="午后微憩·奥菲利娅" Show="0" Des="直售498（常驻）"/>
 		<Skin ID="683" SkinID="1400683" MonID="4327" Type="1" Name="阿尔斯兰" Show="0" Des="兑钻"/>
 		<Skin ID="684" SkinID="1400684" MonID="4633" Type="3" Name="树灵之唤·克劳里菲" CardPrice="40" Show="3_33" Batch="34" Des="直售398"/>
@@ -734,22 +734,22 @@ Rec				是否进推荐：
 		<Skin ID="695" SkinID="1400695" MonID="4338" Type="3" Name="碧意良宵·星礼" Show="0" Des="免费传说30"/>
 		<Skin ID="696" SkinID="1400696" MonID="3318" Type="1" Name="炽凰·朱雀" Show="0" Des="经典"/>
 		<Skin ID="697" SkinID="1400697" MonID="4627" Type="9" Name="元素支配·赫斯提亚" Show="0" Des="校园限定398"/>
-		<Skin ID="698" SkinID="1400698" MonID="4355" Type="3" Name="创世之子" Show="0" Des="兑钻"/>
+		<Skin ID="698" SkinID="1400698" MonID="4355" Type="3" Name="创世之子" CardPrice="40" OriginalPrice="50" Show="3_35" Batch="36" Des="兑钻"/>
 		<Skin ID="699" SkinID="1400699" MonID="4731" Type="3" Name="七天创世者·皮神" Show="0" Des="直售398"/>
 		<Skin ID="700" SkinID="1400700" MonID="4731" Type="1" Name="皮皮" Show="0" Des="经典"/>
-		<Skin ID="701" SkinID="1400701" MonID="4732" Type="3" Name="七天创世神·闪光皮神" Show="0" Des="直售398"/>
+		<Skin ID="701" SkinID="1400701" MonID="4732" Type="3" Name="七天创世神·闪光皮神" CardPrice="40" Show="3_35" Batch="36" Des="直售398"/>
 		<Skin ID="702" SkinID="1400702" MonID="4732" Type="1" Name="闪光皮皮" Show="0" Des="经典"/>
-		<Skin ID="703" SkinID="1400703" MonID="3740" Type="3" Name="海洋幻想·沧岚" Show="0" Des="直售498"/>
+		<Skin ID="703" SkinID="1400703" MonID="3740" Type="3" Name="海洋幻想·沧岚" CardPrice="50" Show="3_35" Batch="36" Des="直售498"/>
 		<Skin ID="704" SkinID="1400704" MonID="4734" Type="1" Name="巨型仙人掌" Show="0" Des="经典"/>
 		<Skin ID="705" SkinID="1400705" MonID="3554" Type="3" Name="飞翼萌镰" Show="0" Des="萌皮198"/>
 		<Skin ID="706" SkinID="1400706" MonID="3888" Type="3" Name="涟漪织梦" Show="0" Des="兑钻"/>
 		<Skin ID="707" SkinID="1400707" MonID="3507" Type="3" Name="月中霜·苍月影" CardPrice="40" Show="3_34" Batch="35" Des="直售398"/>
-		<Skin ID="708" SkinID="1400708" MonID="4745" Type="3" Name="凛夜狩心·阿尔忒弥斯" Show="0" Des="直售498"/>
+		<Skin ID="708" SkinID="1400708" MonID="4745" Type="3" Name="凛夜狩心·阿尔忒弥斯" CardPrice="45" OriginalPrice="50" Show="3_35" Batch="36" Des="直售498"/>
 		<Skin ID="709" SkinID="1400709" MonID="4535" Type="1" Name="幽美" Show="0" Des="兑钻"/>
 		<Skin ID="710" SkinID="1400710" MonID="4743" Type="1" Name="纳多雷" Show="0" Des="经典"/>
 		<Skin ID="711" SkinID="1400711" MonID="4747" Type="3" Name="光灵之翼·圣颖" Show="0" Des="巅峰姬"/>
 		<Skin ID="712" SkinID="1400712" MonID="3705" Type="3" Name="风雷之翼·艾里克" Show="0" Des="战令限定100级奖励"/>
-		<Skin ID="713" SkinID="1400713" MonID="4568" Type="3" Name="幻境诡术·杰格" Show="0" Des="兑钻"/>
+		<Skin ID="713" SkinID="1400713" MonID="4568" Type="3" Name="幻境诡术·杰格" CardPrice="40" OriginalPrice="50" Show="3_35" Batch="36" Des="兑钻"/>
 		<Skin ID="714" SkinID="1400714" MonID="5000" Type="3" Name="至高真神·谱尼" Show="0" Des="常驻传说（高难挑战）"/>
 		<Skin ID="715" SkinID="1400715" MonID="3577" Type="3" Name="执行者·英卡洛斯" Show="0" Des="抽奖保底72（含水晶）"/>
 		<Skin ID="716" SkinID="1400716" MonID="4750" Type="1" Name="始祖灵兽" Show="0" Des="经典"/>
@@ -790,7 +790,7 @@ Rec				是否进推荐：
 		<Skin ID="751" SkinID="1400751" MonID="4589" Type="17" Name="永曜晶铠·文森特" Show="0" Des="七夕限定498"/>
 		<Skin ID="752" SkinID="1400752" MonID="4603" Type="17" Name="不渝咏叹·贾斯" Show="0" Des="七夕限定498"/>
 		<Skin ID="753" SkinID="1400753" MonID="4798" Type="0" Name="钢牙鲨" Show="0" Des="兑钻"/>
-		<Skin ID="754" SkinID="1400754" MonID="4219" Type="2" Name="汐梦·安卡" Show="0" Des="98史诗"/>
+		<Skin ID="754" SkinID="1400754" MonID="4219" Type="2" Name="汐梦·安卡" CardPrice="20" Show="2" Des="98史诗" Batch="36"/>	
 		<Skin ID="755" SkinID="1400755" MonID="4569" Type="3" Name="极简悖论·罗库" Show="0" Des="兑钻"/>
 		<Skin ID="756" SkinID="1400756" MonID="4636" Type="18" Name="第一宇航员·西塔伦" Show="0" Des="抽奖"/>
 		<Skin ID="757" SkinID="1400757" MonID="4644" Type="3" Name="领衔·克雷弗德" Show="0" Des="498"/>

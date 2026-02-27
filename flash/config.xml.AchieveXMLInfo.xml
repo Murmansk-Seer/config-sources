@@ -887,6 +887,7 @@
 				<Rule ID="4" Threshold="4" AchievementPoint="10" icon="1" achName="群虫荣光" proicon="1464" SpeNameBonus="568" title="群虫荣光" Desc="通关S-艾莉安娜【地狱难度】关卡获得" titleColor="0xFFFFFF"/>
 				<Rule ID="5" Threshold="5" AchievementPoint="10" icon="1" achName="理性之化身" proicon="1465" SpeNameBonus="569" title="理性之化身" Desc="通关S-埃斯宾诺【地狱难度】关卡获得" titleColor="0xFFFFFF"/>
 				<Rule ID="6" Threshold="6" AchievementPoint="10" icon="1" achName="感性之化身" proicon="1467" SpeNameBonus="571" title="感性之化身" Desc="通关S-康迪亚克【地狱难度】关卡获得" titleColor="0xFFFFFF"/>
+				<Rule ID="7" Threshold="7" AchievementPoint="10" icon="1" achName="光佑四方" proicon="1472" SpeNameBonus="575" title="光佑四方" Desc="通关S-方术悠悠【地狱难度】关卡获得" titleColor="0xFFFFFF"/>
 			</Branch>
 			
 			<Branch ID="169" Desc="高难挑战系列" > 

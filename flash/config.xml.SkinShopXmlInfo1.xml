@@ -182,6 +182,7 @@ activity id: 961 & 963:因为是复用,只要截止时间正确即可, 若延长
 		<TimeLimit TID="20" Type="1" StartTime="2025-11-14 10:00:00" EndTime="2025-12-19 10:00:00"/>
 		<TimeLimit TID="21" Type="1" StartTime="2025-12-19 10:00:00" EndTime="2026-01-23 10:00:00"/>
 		<TimeLimit TID="22" Type="1" StartTime="2026-01-23 10:00:00" EndTime="2026-02-27 10:00:00"/>
+		<TimeLimit TID="23" Type="1" StartTime="2026-02-27 10:00:00" EndTime="2026-04-03 10:00:00"/>
 
     </Activity>
 	
@@ -189,7 +190,7 @@ activity id: 961 & 963:因为是复用,只要截止时间正确即可, 若延长
 	
 	
 	<Activity ID="1057" Name="20250214 刻印抽奖机更新">
-        <TimeLimit TID="1" Type="1" StartTime="2026-01-23 10:00:00" EndTime="2026-02-27 10:00:00"/>
+        <TimeLimit TID="1" Type="1" StartTime="2026-02-27 10:00:00" EndTime="2027-02-27 10:00:00"/>
 
     </Activity>
 	
@@ -261,6 +262,7 @@ activity id: 961 & 963:因为是复用,只要截止时间正确即可, 若延长
 		<TimeLimit TID="32" Type="1" StartTime="2025-07-25 00:00:00" EndTime="2025-08-01 10:00:00"/>
 		<TimeLimit TID="33" Type="1" StartTime="2025-09-19 00:00:00" EndTime="2025-09-26 10:00:00"/>
 		<TimeLimit TID="34" Type="1" StartTime="2025-12-12 00:00:00" EndTime="2025-12-26 10:00:00"/>
+		<TimeLimit TID="35" Type="1" StartTime="2026-02-27 00:00:00" EndTime="2026-03-13 10:00:00"/>
 
 
 	</Activity>

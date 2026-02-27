@@ -213,9 +213,9 @@ Desc:    刻印信息  tips的获得途径文字
 
 <Hotspot><!-- 本周热点 -->
 <item intro="全新精灵上线，快来看看吧！">
-      <place type= "0" ID="4874" ImageID= "4874" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
-	  <place type= "0" ID="4875" ImageID= "4875" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
-	  <!-- <place type= "0" ID="4868" ImageID= "4868" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
+      <place type= "0" ID="4876" ImageID= "4876" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
+	  <place type= "0" ID="4877" ImageID= "4877" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
+	  <place type= "0" ID="4878" ImageID= "4878" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
 	  <!-- <place type= "0" ID="4869" ImageID= "4869" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "0" ID="4843" ImageID= "4843" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "0" ID="4806" ImageID= "4806" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
@@ -255,8 +255,8 @@ Desc:    刻印信息  tips的获得途径文字
       <place type= "0" ID="4641" ImageID= "4641" Label= "0"  Redirect="map|module" Go="1679;app/ValleyExpeditionHatchMainPanel"/>-->
 
 
-      <place type= "1" ID="805" monID="4677" ImageID= "1400805" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
-      <!-- <place type= "1" ID="797" monID="4216" ImageID= "1400797" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
+      <place type= "1" ID="806" monID="4125" ImageID= "1400806" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
+      <place type= "1" ID="807" monID="4875" ImageID= "1400807" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
 	  <!-- <place type= "1" ID="791" monID="4510" ImageID= "1400791" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "1" ID="769" monID="4822" ImageID= "1400769" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
       <!-- <place type= "1" ID="749" monID="4805" ImageID= "1400749" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
@@ -2453,7 +2453,7 @@ Desc:    刻印信息  tips的获得途径文字
 	<Monster ID="2123" hasSound="1" DefName="星星" Type="超能" Height="37" Weight="11" Features="星星是星太白的第一形态，腾云驾雾的星星具有强大的超能力，可以使自己的身体随着自己的意念随意四处腾飞。" mapID="0"/>
 	<Monster ID="2124" hasSound="1" DefName="星太白" Type="超能" Height="101" Weight="31" Features="嘻游天团的第三只精灵，星太白是一位慈祥年长的精灵，但是因为年纪太大，它经常会忘记一些东西。" mapID="0" jumptarget="110/3_3/1" Target="111111"/>
 	<Monster ID="2125" hasSound="1" DefName="卡洛特" Type="机械" Height="101" Weight="62" Features="卡希尔的第一形态，机械构造的他拥有最结实的身体，让他在战斗中从未收到过一丝一毫的伤害" mapID="0"/>
-	<Monster ID="2126" hasSound="1" DefName="卡希尔" Type="机械" Height="213" Weight="112" Features="圣甲之灵戈麦斯，在创世六神兵中象征着最强的特防，是创世六神兵中性格憨厚最乐于助人的一位，强大的防守能力使它的躯体从未收到过伤害" mapID="0"/>
+	<Monster ID="2126" hasSound="1" DefName="卡希尔" Type="机械" Height="213" Weight="112" Features="圣甲之灵卡希尔，在创世六神兵中象征着最强的特防，是创世六神兵中性格憨厚最乐于助人的一位，强大的防守能力使它的躯体从未收到过伤害" mapID="0"/>
 	<Monster ID="2127" hasSound="1" DefName="纳达克" Type="战斗 火" Height="79" Weight="27" Features="纳达克和云泽战骑一直都在接受着大自然严酷的考验，凡是能存活下来并练就一身高超能力的战骑都将成为云泽一族最高的骄傲" mapID="0"/>
 	<Monster ID="2128" hasSound="1" DefName="纳达尔" Type="战斗 火" Height="165" Weight="55" Features="火云战骑纳达尔，身为云泽四战骑的成员之一他代表着火焰的力量，强健的肌肉和燃烧着烈焰的盔甲与鬃毛让他在战场上总能成为最耀眼的明星" mapID="0"/>
 	<Monster ID="2129" hasSound="1" DefName="塔克西姆" Type="龙" Height="530" Weight="1120" Features="愤怒的塔克林在霸王龙的激励下超进化成功！因为体重过于巨大而难以直立的塔克林终于站起来了！他就是塔克西姆，塔克林超进化！" mapID="0"/>
@@ -5173,5 +5173,8 @@ Desc:    刻印信息  tips的获得途径文字
 	<Monster ID="4873" DefName="宵灵·午驹" Type="飞行" Height="65" Weight="比燕子轻" Features="赤洲星的吉祥物，龙船的领航员，虽然身兼重职，但可惜所有人都把她当小孩子看待。据说每一年都会变换样貌，很是奇妙。" Redirect="module" Go="app/FinalActivityPanel" Target="114044"/>
 	<Monster ID="4874" DefName="瓏首" Type="远古" Height="265" Weight="未知" Features="由古代赤洲方术和各项神秘技术制造的构造体，现作为龙船的大副或龙子的管家活动。其思考方式和行为逻辑类似于人工智能。" Redirect="module" Go="app/FinalActivityPanel" Target="153201/849"/>
 	<Monster ID="4875" DefName="永烬劫炎·上古炎兽" Type="火" Height="2200" Weight="32000" Features="炎魔之王在古老的火焰中淬炼自我，重拾本源的它将永不熄灭！" Redirect="module" Go="app/FinalActivityPanel" Target="114043"/>
+	<Monster ID="4876" DefName="方术·悠悠" Type="光" Height="100" Weight="15" Features="受囚牛法术点醒而发生变化的悠悠，不知为何获得了强大的方术能力，且说话也有了几分赤洲人的味道，不仅如此，还受到了大佛妙时天女的庇护。" Redirect="module" Go="app/FinalActivityPanel" Target="153201/850"/>
+	<Monster ID="4877" DefName="锢魂铁犀" Type="机械 草" Height="240" Weight="3000" Features="濒死的犀牛被改造了无坚不摧的兵器，失去对自我控制的它对战队总部发起了进攻！" Redirect="module" Go="app/FinalActivityPanel" Target="113037"/>
+	<Monster ID="4878" DefName="灯珑鱼" Type="光 超能" Height="40" Weight="7" Features="出现在元宵节的神秘精灵，据说答对灯谜最多的赛尔可以吸引它的注意力哟！" Redirect="module" Go="app/FinalActivityPanel" Target="420002"/>
 
 </root>

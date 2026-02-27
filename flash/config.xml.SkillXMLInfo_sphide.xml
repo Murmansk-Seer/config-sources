@@ -110,12 +110,17 @@
 	<SpMoves id="97" monster="3554" monstername="风殇影翼·飞镰" moves="38186" movesname="诉与孤风" item="1727600" itemname="风杀利羽" itemnumber="1" itemtips="使用后可为风殇影翼·飞镰开启全新技能：诉与孤风" movetype="2"/>
 	<SpMoves id="98" monster="3830" monstername="魂王·无烬梦" moves="38187" movesname="兰烬蘧栩" item="1727602" itemname="蝶身心" itemnumber="1" itemtips="使用后可为魂王·无烬梦开启全新技能：兰烬蘧栩" movetype="2"/>
 
-	<SpMoves id="99" monster="3686" monstername="妖族元皇·兰蒂斯" moves="38232" movesname="逝面真唁" item="1727668" itemname="堕妖面" itemnumber="1" itemtips="使用后可为妖族元皇·兰蒂斯开启全新技能：万妖挽" movetype="2"/>
+	<SpMoves id="99" monster="3686" monstername="妖族元皇·兰蒂斯" moves="38232" movesname="万妖挽" item="1727668" itemname="堕妖面" itemnumber="1" itemtips="使用后可为妖族元皇·兰蒂斯开启全新技能：万妖挽" movetype="2"/>
 	<SpMoves id="100" monster="3867" monstername="暗岩·格莱奥丹" moves="38233" movesname="千峰化泥" item="1727669" itemname="黑岩壁" itemnumber="1" itemtips="使用后可为暗岩·格莱奥丹开启全新技能：千峰化泥" movetype="2"/>
 	<SpMoves id="101" monster="4001" monstername="无上·万魔天尊" moves="29245" movesname="噬古魔怀" item="1727670" itemname="无上魔轮" itemnumber="1" itemtips="使用后可为无上·万魔天尊开启全新技能：噬古魔怀" movetype="2"/>
 	<SpMoves id="102" monster="3875" monstername="暗战·艾辛格斯" moves="38234" movesname="暗·贯日解天" item="1727671" itemname="真武天" itemnumber="1" itemtips="使用后可为暗战·艾辛格斯开启全新第五技能：暗·贯日解天" movetype="1"/>
 	<SpMoves id="103" monster="3741" monstername="上古魔尊·库贝萨" moves="29246" movesname="荒予咒缚" item="1727672" itemname="荒古锁" itemnumber="1" itemtips="使用后可为上古魔尊·库贝萨开启全新技能：荒予咒缚" movetype="2"/>
 	<SpMoves id="104" monster="4863" monstername="艾莉安娜" moves="38261" movesname="螟息·万籁归寂" item="1727724" itemname="虫巢之誓" itemnumber="1" itemtips="使用后可为艾莉安娜开启全新技能：螟息·万籁归寂" movetype="1"/>
+	<SpMoves id="105" monster="3442" monstername="混沌埃兰" moves="29283" movesname="神威浩荡" item="1727839" itemname="斑驳之骨" itemnumber="1" itemtips="使用后可为混沌埃兰开启全新技能：神威浩荡" movetype="2"/>
+	<SpMoves id="106" monster="3446" monstername="混沌蒂亚斯" moves="29284" movesname="神谕净世" item="1727840" itemname="无面之疚" itemnumber="1" itemtips="使用后可为混沌蒂亚斯开启全新技能：神谕净世" movetype="2"/>
+	<SpMoves id="107" monster="4657" monstername="浮掠双刃·卓尔布" moves="38296" movesname="日月轮·着天" item="1727841" itemname="霜焱之谛" itemnumber="1" itemtips="使用后可为浮掠双刃·卓尔布开启全新第五技能：日月轮·着天" movetype="1"/>
+	<SpMoves id="108" monster="3907" monstername="缚影·炼狱魔神" moves="38295" movesname="炼·死镜冥啼" item="1727842" itemname="死海之锢" itemnumber="1" itemtips="使用后可为缚影·炼狱魔神开启全新第五技能：炼·死镜冥啼" movetype="1"/>
+	<SpMoves id="109" monster="4024" monstername="地葬界神" moves="38294" movesname="苍笼尘井" item="1727843" itemname="地葬神颂" itemnumber="1" itemtips="使用后可为地葬界神开启全新技能：苍笼尘井" movetype="2"/>
 
 
 

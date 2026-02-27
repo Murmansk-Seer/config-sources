@@ -552,5 +552,7 @@
 	<Fragment ID="2400553" show="1" Name="康迪亚克因子" MonsterID="4870" Rarity="3" PetLimit="1" PetConsume="540" NewSeIdx="6358" effectId="2057" NewseConsume="270" MoveID="38269" MovesConsume="108" NeedmonID="0" NewMsglogId="2602050800" SeMsglog="2602050801" EffectMsglog="2602050802"/>
 	<Fragment ID="2400554" show="1" Name="拉克希斯因子" MonsterID="4216" Rarity="3" PetLimit="1" PetConsume="540" NewSeIdx="5705" effectId="1434" NewseConsume="270" MoveID="35056" MovesConsume="108" NeedmonID="0" NewMsglogId="" SeMsglog="" EffectMsglog=""/>
 	<Fragment ID="2400555" show="1" Name="瓏首因子" MonsterID="4874" Rarity="2" PetLimit="1" PetConsume="400" NewSeIdx="6363" effectId="2061" NewseConsume="200" MoveID="38281" MovesConsume="100" NeedmonID="0" NewMsglogId="2602190600" SeMsglog="2602190601" EffectMsglog="2602190602"/>
-    
+    <Fragment ID="2400556" show="1" Name="方术·悠悠因子" MonsterID="4876" Rarity="3" PetLimit="1" PetConsume="540" NewSeIdx="6366" effectId="2063" NewseConsume="270" MoveID="38287" MovesConsume="108" NeedmonID="0" NewMsglogId="2602260800" SeMsglog="2602260801" EffectMsglog="2602260802"/>
+	<Fragment ID="2400557" show="1" Name="锢魂铁犀因子" MonsterID="4877" Rarity="2" PetLimit="1" PetConsume="400" NewSeIdx="6365" effectId="2064" NewseConsume="200" MoveID="38290" MovesConsume="100" NeedmonID="0" NewMsglogId="" SeMsglog="" EffectMsglog=""/>
+	
 </Root>
