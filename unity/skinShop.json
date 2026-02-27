@@ -2320,9 +2320,9 @@
         "name": "闪耀之光·神圣龙鹰",
         "show": [
           3,
-          17
+          35
         ],
-        "batch": 18,
+        "batch": 36,
         "card_price": 15,
         "diamond_price": 0,
         "id": 155,
@@ -2518,14 +2518,14 @@
         "name": "西楚天皇·项羽",
         "show": [
           3,
-          18
+          35
         ],
-        "batch": 19,
-        "card_price": 10,
+        "batch": 36,
+        "card_price": 15,
         "diamond_price": 0,
         "id": 168,
         "mon_id": 3164,
-        "original_price": 20,
+        "original_price": 30,
         "product_id": 0,
         "rec": 0,
         "skin_id": 1400168
@@ -3404,14 +3404,14 @@
         "name": "少年豪杰·项羽",
         "show": [
           3,
-          18
+          35
         ],
-        "batch": 19,
-        "card_price": 10,
+        "batch": 36,
+        "card_price": 15,
         "diamond_price": 0,
         "id": 226,
         "mon_id": 3564,
-        "original_price": 20,
+        "original_price": 30,
         "product_id": 0,
         "rec": 0,
         "skin_id": 1400226
@@ -4273,9 +4273,9 @@
         "name": "凝脂白玉·蓝露",
         "show": [
           3,
-          14
+          35
         ],
-        "batch": 15,
+        "batch": 36,
         "card_price": 10,
         "diamond_price": 0,
         "id": 283,
@@ -6513,9 +6513,9 @@
         "name": "破灭之拥·幻影蝶",
         "show": [
           3,
-          19
+          35
         ],
-        "batch": 0,
+        "batch": 36,
         "card_price": 35,
         "diamond_price": 0,
         "id": 429,
@@ -6649,10 +6649,10 @@
       {
         "name": "英卡洛斯",
         "show": [
-          0
+          1
         ],
-        "batch": 0,
-        "card_price": 0,
+        "batch": 36,
+        "card_price": 20,
         "diamond_price": 0,
         "id": 438,
         "mon_id": 3577,
@@ -7828,10 +7828,10 @@
       {
         "name": "王·萨格罗斯",
         "show": [
-          0
+          1
         ],
-        "batch": 0,
-        "card_price": 0,
+        "batch": 36,
+        "card_price": 15,
         "diamond_price": 0,
         "id": 515,
         "mon_id": 3328,
@@ -8044,10 +8044,10 @@
       {
         "name": "奥兰",
         "show": [
-          0
+          1
         ],
-        "batch": 0,
-        "card_price": 0,
+        "batch": 36,
+        "card_price": 10,
         "diamond_price": 0,
         "id": 529,
         "mon_id": 3515,
@@ -8363,10 +8363,10 @@
       {
         "name": "波西利亚",
         "show": [
-          0
+          1
         ],
-        "batch": 0,
-        "card_price": 0,
+        "batch": 36,
+        "card_price": 10,
         "diamond_price": 0,
         "id": 550,
         "mon_id": 3783,
@@ -8592,10 +8592,10 @@
       {
         "name": "迹",
         "show": [
-          0
+          1
         ],
-        "batch": 0,
-        "card_price": 0,
+        "batch": 36,
+        "card_price": 10,
         "diamond_price": 0,
         "id": 565,
         "mon_id": 4532,
@@ -10365,10 +10365,10 @@
       {
         "name": "冬梦使者·明德里奇",
         "show": [
-          0
+          2
         ],
-        "batch": 0,
-        "card_price": 0,
+        "batch": 36,
+        "card_price": 15,
         "diamond_price": 0,
         "id": 681,
         "mon_id": 4693,
@@ -10623,14 +10623,15 @@
       {
         "name": "创世之子",
         "show": [
-          0
+          3,
+          35
         ],
-        "batch": 0,
-        "card_price": 0,
+        "batch": 36,
+        "card_price": 40,
         "diamond_price": 0,
         "id": 698,
         "mon_id": 4355,
-        "original_price": 0,
+        "original_price": 50,
         "product_id": 0,
         "rec": 0,
         "skin_id": 1400698
@@ -10668,10 +10669,11 @@
       {
         "name": "七天创世神·闪光皮神",
         "show": [
-          0
+          3,
+          35
         ],
-        "batch": 0,
-        "card_price": 0,
+        "batch": 36,
+        "card_price": 40,
         "diamond_price": 0,
         "id": 701,
         "mon_id": 4732,
@@ -10698,10 +10700,11 @@
       {
         "name": "海洋幻想·沧岚",
         "show": [
-          0
+          3,
+          35
         ],
-        "batch": 0,
-        "card_price": 0,
+        "batch": 36,
+        "card_price": 50,
         "diamond_price": 0,
         "id": 703,
         "mon_id": 3740,
@@ -10774,14 +10777,15 @@
       {
         "name": "凛夜狩心·阿尔忒弥斯",
         "show": [
-          0
+          3,
+          35
         ],
-        "batch": 0,
-        "card_price": 0,
+        "batch": 36,
+        "card_price": 45,
         "diamond_price": 0,
         "id": 708,
         "mon_id": 4745,
-        "original_price": 0,
+        "original_price": 50,
         "product_id": 0,
         "rec": 0,
         "skin_id": 1400708
@@ -10849,14 +10853,15 @@
       {
         "name": "幻境诡术·杰格",
         "show": [
-          0
+          3,
+          35
         ],
-        "batch": 0,
-        "card_price": 0,
+        "batch": 36,
+        "card_price": 40,
         "diamond_price": 0,
         "id": 713,
         "mon_id": 4568,
-        "original_price": 0,
+        "original_price": 50,
         "product_id": 0,
         "rec": 0,
         "skin_id": 1400713
@@ -11464,10 +11469,10 @@
       {
         "name": "汐梦·安卡",
         "show": [
-          0
+          2
         ],
-        "batch": 0,
-        "card_price": 0,
+        "batch": 36,
+        "card_price": 20,
         "diamond_price": 0,
         "id": 754,
         "mon_id": 4219,

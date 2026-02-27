@@ -12926,6 +12926,36 @@
         "pet_id": 4875
       },
       {
+        "move_id": 38287,
+        "move_name1": "浩气",
+        "move_name2": "诛邪决",
+        "pet_id": 4876
+      },
+      {
+        "move_id": 38290,
+        "move_name1": "破甲",
+        "move_name2": "角刺",
+        "pet_id": 4877
+      },
+      {
+        "move_id": 38293,
+        "move_name1": "福星",
+        "move_name2": "延年",
+        "pet_id": 4878
+      },
+      {
+        "move_id": 38295,
+        "move_name1": "炼",
+        "move_name2": "死镜冥啼",
+        "pet_id": 3907
+      },
+      {
+        "move_id": 38296,
+        "move_name1": "日月轮",
+        "move_name2": "着天",
+        "pet_id": 4657
+      },
+      {
         "move_id": 31143,
         "move_name1": "神灵",
         "move_name2": "救世光",

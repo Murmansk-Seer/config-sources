@@ -12411,7 +12411,7 @@
           {
             "id": 1,
             "life_time": 0,
-            "skin_type": 0,
+            "skin_type": 14,
             "type": 2,
             "year": 0
           }
@@ -14294,8 +14294,8 @@
         "type": 3
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "暗渊之灾·洛基",
         "skin_kind": [
           {
@@ -14307,13 +14307,13 @@
           }
         ],
         "id": 796,
-        "jump_target": 114040,
+        "jump_target": 0,
         "mon_id": 4361,
         "type": 3
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "悠然假日·拉克希斯",
         "skin_kind": [
           {
@@ -14325,7 +14325,7 @@
           }
         ],
         "id": 797,
-        "jump_target": 2,
+        "jump_target": 0,
         "mon_id": 4216,
         "type": 3
       },
@@ -14472,6 +14472,42 @@
         "jump_target": 114048,
         "mon_id": 4677,
         "type": 18
+      },
+      {
+        "go": "app/FinalActivityPanel",
+        "go_type": "module",
+        "name": "镇邪纳瑞·列奥尼达",
+        "skin_kind": [
+          {
+            "id": 1,
+            "life_time": 0,
+            "skin_type": 14,
+            "type": 2,
+            "year": 0
+          }
+        ],
+        "id": 806,
+        "jump_target": 114049,
+        "mon_id": 4125,
+        "type": 7
+      },
+      {
+        "go": "app/FinalActivityPanel",
+        "go_type": "module",
+        "name": "上古炎兽",
+        "skin_kind": [
+          {
+            "id": 1,
+            "life_time": 0,
+            "skin_type": 0,
+            "type": 2,
+            "year": 0
+          }
+        ],
+        "id": 807,
+        "jump_target": 2,
+        "mon_id": 4875,
+        "type": 0
       }
     ]
   }

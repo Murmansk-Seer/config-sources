@@ -8386,6 +8386,20 @@
                     "id": 6,
                     "proicon": 1467,
                     "spe_name_bonus": 571
+                  },
+                  {
+                    "abtext": "",
+                    "ach_name": "光佑四方",
+                    "desc": "通关S-方术悠悠【地狱难度】关卡获得",
+                    "threshold": "7",
+                    "title": "光佑四方",
+                    "title_color": "0xFFFFFF",
+                    "ability_title": 0,
+                    "achievement_point": 10,
+                    "hide": 0,
+                    "id": 7,
+                    "proicon": 1472,
+                    "spe_name_bonus": 575
                   }
                 ],
                 "id": 172,
