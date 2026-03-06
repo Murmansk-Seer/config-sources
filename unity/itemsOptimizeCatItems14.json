@@ -4,6 +4,18 @@
       {
         "bean": 0,
         "hide": 1,
+        "id": 1400169,
+        "max": 1000,
+        "name": "书签",
+        "rarity": 2,
+        "sort": 31,
+        "cat_id": 14,
+        "purpose": 0,
+        "wd": 1
+      },
+      {
+        "bean": 0,
+        "hide": 1,
         "id": 1400168,
         "max": 999999,
         "name": "金币",

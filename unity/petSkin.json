@@ -14508,6 +14508,42 @@
         "jump_target": 2,
         "mon_id": 4875,
         "type": 0
+      },
+      {
+        "go": "app/FinalActivityPanel",
+        "go_type": "module",
+        "name": "风纪监察·希拓",
+        "skin_kind": [
+          {
+            "id": 1,
+            "life_time": 0,
+            "skin_type": 0,
+            "type": 2,
+            "year": 0
+          }
+        ],
+        "id": 808,
+        "jump_target": 114053,
+        "mon_id": 4622,
+        "type": 9
+      },
+      {
+        "go": "app/FinalActivityPanel",
+        "go_type": "module",
+        "name": "文墨风吟·伊芙",
+        "skin_kind": [
+          {
+            "id": 1,
+            "life_time": 0,
+            "skin_type": 0,
+            "type": 2,
+            "year": 0
+          }
+        ],
+        "id": 809,
+        "jump_target": 114054,
+        "mon_id": 4816,
+        "type": 9
       }
     ]
   }
