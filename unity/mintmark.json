@@ -129206,7 +129206,7 @@
       },
       {
         "des": "西格恩专属全能刻印",
-        "effect_des": "防御3/32,特攻4/42,特防3/32,速度4/40,体力8/84",
+        "effect_des": "防御3/31,特攻4/40,特防3/31,速度4/43,体力8/80",
         "arg": [],
         "base_attri_value": [
           0,
@@ -130427,6 +130427,44 @@
         "move_id": [],
         "grade": 5,
         "id": 42672,
+        "level": 100,
+        "max": 99,
+        "mintmark_class": 0,
+        "quality": 5,
+        "rare": 1,
+        "rarity": 0,
+        "total_consume": 0,
+        "type": 3,
+        "connect": 0,
+        "hide": 0
+      },
+      {
+        "des": "薇奥莱特专属全能刻印",
+        "effect_des": "防御3/30,特攻4/44,特防3/30,速度3/35,体力8/81",
+        "arg": [],
+        "base_attri_value": [
+          0,
+          3,
+          4,
+          3,
+          3,
+          8
+        ],
+        "extra_attri_value": [],
+        "max_attri_value": [
+          0,
+          30,
+          44,
+          30,
+          35,
+          81
+        ],
+        "monster_id": [
+          4883
+        ],
+        "move_id": [],
+        "grade": 5,
+        "id": 42673,
         "level": 100,
         "max": 99,
         "mintmark_class": 0,

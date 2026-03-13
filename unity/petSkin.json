@@ -6921,7 +6921,7 @@
           {
             "id": 1,
             "life_time": 0,
-            "skin_type": 0,
+            "skin_type": 18,
             "type": 2,
             "year": 0
           }
@@ -7407,7 +7407,7 @@
           {
             "id": 1,
             "life_time": 0,
-            "skin_type": 0,
+            "skin_type": 18,
             "type": 2,
             "year": 0
           }
@@ -8721,7 +8721,7 @@
           {
             "id": 1,
             "life_time": 0,
-            "skin_type": 0,
+            "skin_type": 18,
             "type": 2,
             "year": 0
           }
@@ -9315,7 +9315,7 @@
           {
             "id": 1,
             "life_time": 0,
-            "skin_type": 0,
+            "skin_type": 16,
             "type": 2,
             "year": 0
           }
@@ -9387,7 +9387,7 @@
           {
             "id": 1,
             "life_time": 0,
-            "skin_type": 0,
+            "skin_type": 18,
             "type": 2,
             "year": 0
           }
@@ -10125,7 +10125,7 @@
           {
             "id": 1,
             "life_time": 0,
-            "skin_type": 0,
+            "skin_type": 18,
             "type": 2,
             "year": 0
           }
@@ -10593,7 +10593,7 @@
           {
             "id": 1,
             "life_time": 0,
-            "skin_type": 0,
+            "skin_type": 16,
             "type": 2,
             "year": 0
           }
@@ -11457,7 +11457,7 @@
           {
             "id": 1,
             "life_time": 0,
-            "skin_type": 0,
+            "skin_type": 16,
             "type": 2,
             "year": 0
           }
@@ -12519,7 +12519,7 @@
           {
             "id": 1,
             "life_time": 0,
-            "skin_type": 0,
+            "skin_type": 18,
             "type": 2,
             "year": 0
           }
@@ -13995,7 +13995,7 @@
           {
             "id": 1,
             "life_time": 0,
-            "skin_type": 0,
+            "skin_type": 16,
             "type": 2,
             "year": 0
           }
@@ -14211,7 +14211,7 @@
           {
             "id": 1,
             "life_time": 0,
-            "skin_type": 0,
+            "skin_type": 16,
             "type": 2,
             "year": 0
           }
@@ -14330,8 +14330,8 @@
         "type": 3
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "厉世天母·妙时天女",
         "skin_kind": [
           {
@@ -14343,13 +14343,13 @@
           }
         ],
         "id": 798,
-        "jump_target": 114042,
+        "jump_target": 0,
         "mon_id": 4872,
         "type": 18
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "噬瞳之夜·空元行者",
         "skin_kind": [
           {
@@ -14361,85 +14361,85 @@
           }
         ],
         "id": 799,
-        "jump_target": 114045,
+        "jump_target": 0,
         "mon_id": 4586,
         "type": 14
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "背嵬骁龙·帝天战佛",
         "skin_kind": [
           {
             "id": 1,
             "life_time": 0,
-            "skin_type": 0,
+            "skin_type": 17,
             "type": 2,
             "year": 0
           }
         ],
         "id": 800,
-        "jump_target": 114046,
+        "jump_target": 0,
         "mon_id": 3033,
         "type": 7
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "寅堂金甲·大威势明王",
         "skin_kind": [
           {
             "id": 1,
             "life_time": 0,
-            "skin_type": 0,
+            "skin_type": 17,
             "type": 2,
             "year": 0
           }
         ],
         "id": 801,
-        "jump_target": 114046,
+        "jump_target": 0,
         "mon_id": 3237,
         "type": 7
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "彩凤玄袍·大轮明王",
         "skin_kind": [
           {
             "id": 1,
             "life_time": 0,
-            "skin_type": 0,
+            "skin_type": 17,
             "type": 2,
             "year": 0
           }
         ],
         "id": 802,
-        "jump_target": 114046,
+        "jump_target": 0,
         "mon_id": 3576,
         "type": 7
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "豫擘天督·御象灵尊",
         "skin_kind": [
           {
             "id": 1,
             "life_time": 0,
-            "skin_type": 0,
+            "skin_type": 17,
             "type": 2,
             "year": 0
           }
         ],
         "id": 803,
-        "jump_target": 114046,
+        "jump_target": 0,
         "mon_id": 4002,
         "type": 7
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "瑞雪映灯·卡托娜",
         "skin_kind": [
           {
@@ -14451,13 +14451,13 @@
           }
         ],
         "id": 804,
-        "jump_target": 114047,
+        "jump_target": 0,
         "mon_id": 4345,
         "type": 3
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "群星低语时·天启星魂",
         "skin_kind": [
           {
@@ -14469,13 +14469,13 @@
           }
         ],
         "id": 805,
-        "jump_target": 114048,
+        "jump_target": 0,
         "mon_id": 4677,
         "type": 18
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "镇邪纳瑞·列奥尼达",
         "skin_kind": [
           {
@@ -14487,13 +14487,13 @@
           }
         ],
         "id": 806,
-        "jump_target": 114049,
+        "jump_target": 0,
         "mon_id": 4125,
         "type": 7
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "上古炎兽",
         "skin_kind": [
           {
@@ -14505,7 +14505,7 @@
           }
         ],
         "id": 807,
-        "jump_target": 2,
+        "jump_target": 0,
         "mon_id": 4875,
         "type": 0
       },
@@ -14517,7 +14517,7 @@
           {
             "id": 1,
             "life_time": 0,
-            "skin_type": 0,
+            "skin_type": 18,
             "type": 2,
             "year": 0
           }
@@ -14535,7 +14535,7 @@
           {
             "id": 1,
             "life_time": 0,
-            "skin_type": 0,
+            "skin_type": 18,
             "type": 2,
             "year": 0
           }
@@ -14544,6 +14544,42 @@
         "jump_target": 114054,
         "mon_id": 4816,
         "type": 9
+      },
+      {
+        "go": "app/FinalActivityPanel",
+        "go_type": "module",
+        "name": "任性法则·龙琰",
+        "skin_kind": [
+          {
+            "id": 1,
+            "life_time": 0,
+            "skin_type": 18,
+            "type": 2,
+            "year": 0
+          }
+        ],
+        "id": 810,
+        "jump_target": 114056,
+        "mon_id": 4712,
+        "type": 9
+      },
+      {
+        "go": "app/FinalActivityPanel",
+        "go_type": "module",
+        "name": "死神镰刀·该洛西斯",
+        "skin_kind": [
+          {
+            "id": 1,
+            "life_time": 0,
+            "skin_type": 0,
+            "type": 2,
+            "year": 0
+          }
+        ],
+        "id": 811,
+        "jump_target": 2,
+        "mon_id": 3716,
+        "type": 3
       }
     ]
   }

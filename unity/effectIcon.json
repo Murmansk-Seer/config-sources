@@ -53885,7 +53885,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]自身的PP值总和每有对手的1倍，自身受到的[color=#52a5f2]固定伤害[/color]、[color=#52a5f2]百分比伤害[/color]减半1次，每次伤害最多减半8次|[sprite name=dot4]每回合前8次受到[color=#52a5f2]固定伤害[/color]、[color=#52a5f2]百分比伤害[/color]时，若自身的PP值总和高于对手则恢复对手所有技能已损失的PP值且自身所有PP值最高的技能失去等量的PP值，自身技能PP值因此归0时2回合内令对手无法恢复体力，若自身的PP值总和不高于对手则[color=#52a5f2]吸取(464)[/color]对手所有技能1点PP值恢复至自身PP值最低的[color=#52a5f2]首位技能[/color]且自身[color=#52a5f2]吸取[/color]对手240点体力，[color=#52a5f2]然后[/color]若对手的体力未减少则对其相邻精灵造成等量[color=#52a5f2]真实伤害(404)[/color]",
+        "analyze": "[sprite name=dot4]自身的PP值总和每有对手的1倍，自身受到的[color=#52a5f2]固定伤害[/color]、[color=#52a5f2]百分比伤害[/color]减半1次，每次伤害最多减半8次|[sprite name=dot4]每回合前8次受到[color=#52a5f2]固定伤害[/color]、[color=#52a5f2]百分比伤害[/color]时，若自身的PP值总和高于对手则恢复对手所有技能已损失的PP值且自身所有PP值最高的技能失去等量的PP值，自身技能PP值因此归0时2回合内对手无法恢复体力，若自身的PP值总和不高于对手则[color=#52a5f2]吸取(464)[/color]对手所有技能1点PP值恢复至自身PP值最低的[color=#52a5f2]首位技能[/color]且自身[color=#52a5f2]吸取[/color]对手240点体力，[color=#52a5f2]然后[/color]若对手的体力未减少则对其相邻精灵造成等量[color=#52a5f2]真实伤害(404)[/color]",
         "args": "0 1 1",
         "come": "",
         "des": [],
@@ -54249,7 +54249,7 @@
         "type": 0
       },
       {
-        "analyze": "[sprite name=dot4]自身[color=#52a5f2][color=#57c975]登场[/color][/color][color=#52a5f2]当回合[/color][color=#57c975]受到攻击后[/color]将对手的系别变为虫系，对手本次在场累计造成的攻击伤害超过自身体力上限时恢复其系别|[sprite name=dot4]对手使用与其系别相同的攻击技能对自身造成的攻击伤害不超过300点，对手使用与其系别不同的攻击技能对自身造成的伤害高于300时消除对手能力提升状态，低于300时消除对手[color=#52a5f2]回合类效果[/color]",
+        "analyze": "[sprite name=dot4]自身[color=#52a5f2]登场[color=#52a5f2]当回合[/color][color=#57c975]受到攻击后[/color]将对手的系别变为虫系，对手本次在场累计造成的攻击伤害超过自身体力上限时恢复其系别|[sprite name=dot4]对手使用与其系别相同的攻击技能对自身造成的攻击伤害不超过300点，对手使用与其系别不同的攻击技能对自身造成的伤害高于300时消除对手能力提升状态，低于300时消除对手[color=#52a5f2]回合类效果[/color]",
         "args": "1 0",
         "come": "",
         "des": [],
@@ -54318,6 +54318,58 @@
         "effect_id": 2486,
         "icon_id": 2068,
         "id": 2068,
+        "intensify": 0,
+        "is_adv": 0,
+        "label": 0,
+        "limited_type": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4]自身克制对手时，自身攻击技能威力提升20*m点，对手克制自身时，自身攻击技能造成伤害增加40%*n（m=自身对对手的克制倍数，最高为2,n=对手对自身的克制倍数，最高为2；两项均满足时m、n为二者中的最大值）|[sprite name=dot4][color=#57c975]回合开始时[/color]，若自身不处于能力提升状态则自身攻击+1、速度+1",
+        "args": "1 0",
+        "come": "",
+        "des": [],
+        "tag": [],
+        "tips": "自身克制对手时，自身攻击技能威力提升20*m点，对手克制自身时，自身攻击技能造成伤害增加40%*n（m=自身对对手的克制倍数，最高为2；n=对手对自身的克制倍数，最高为2；两项均满足时m、n为二者中的最大值）；回合开始时，若自身不处于能力提升状态则自身攻击+1、速度+1（boss无效）",
+        "kind": [
+          1,
+          11
+        ],
+        "pet_id": [
+          4882
+        ],
+        "specific_id": [],
+        "effect_id": 2490,
+        "icon_id": 2069,
+        "id": 2069,
+        "intensify": 0,
+        "is_adv": 0,
+        "label": 0,
+        "limited_type": 0,
+        "target": 0,
+        "to": 0,
+        "type": 0
+      },
+      {
+        "analyze": "[sprite name=dot4][color=#57c975]回合开始时[/color]，若对手不处于异常状态，自身攻击技能命中时为对手附加随机一种[color=#52a5f2]附属诅咒[/color]|[sprite name=dot4]对手每有一种异常状态，自身攻击技能命中时附加100点[color=#52a5f2]固定伤害[/color]",
+        "args": "1 0",
+        "come": "",
+        "des": [],
+        "tag": [],
+        "tips": "回合开始时，若对手不处于异常状态，自身攻击技能命中时为对手附加随机一种附属诅咒；对手每有一种异常状态，自身攻击技能命中时附加100点固定伤害（boss无效）",
+        "kind": [
+          18,
+          14
+        ],
+        "pet_id": [
+          4883
+        ],
+        "specific_id": [],
+        "effect_id": 2489,
+        "icon_id": 2070,
+        "id": 2070,
         "intensify": 0,
         "is_adv": 0,
         "label": 0,

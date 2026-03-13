@@ -12974,6 +12974,18 @@
         "pet_id": 4881
       },
       {
+        "move_id": 38308,
+        "move_name1": "粉红",
+        "move_name2": "波波拳",
+        "pet_id": 4882
+      },
+      {
+        "move_id": 38311,
+        "move_name1": "恐惧",
+        "move_name2": "收割",
+        "pet_id": 4883
+      },
+      {
         "move_id": 31143,
         "move_name1": "神灵",
         "move_name2": "救世光",

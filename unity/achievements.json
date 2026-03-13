@@ -18056,6 +18056,20 @@
                     "id": 31,
                     "proicon": 1471,
                     "spe_name_bonus": 574
+                  },
+                  {
+                    "abtext": "",
+                    "ach_name": "基因大师",
+                    "desc": "在自在天飞船完成探索解密获得",
+                    "threshold": "32",
+                    "title": "基因大师",
+                    "title_color": "0xFFFFFF",
+                    "ability_title": 0,
+                    "achievement_point": 10,
+                    "hide": 0,
+                    "id": 32,
+                    "proicon": 1473,
+                    "spe_name_bonus": 576
                   }
                 ],
                 "id": 166,
@@ -18246,6 +18260,20 @@
                     "hide": 0,
                     "id": 13,
                     "proicon": 1468,
+                    "spe_name_bonus": 0
+                  },
+                  {
+                    "abtext": "",
+                    "ach_name": "运动无极限",
+                    "desc": "达成运动时光系列皮肤收集进度",
+                    "threshold": "14",
+                    "title": "",
+                    "title_color": "",
+                    "ability_title": 0,
+                    "achievement_point": 10,
+                    "hide": 0,
+                    "id": 14,
+                    "proicon": 1474,
                     "spe_name_bonus": 0
                   }
                 ],

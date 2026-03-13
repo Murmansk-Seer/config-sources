@@ -32646,7 +32646,7 @@
       "formattingAdjustment": "",
       "id": 2396,
       "ifTextItalic": "每次使用后",
-      "info": "每次使用后此技能造成的攻击伤害额外提升30%，最高120%",
+      "info": "每次使用后自身造成的攻击伤害额外提升30%，最高120%",
       "isif": 1,
       "tagA": "增伤",
       "tagAboss": 1,
