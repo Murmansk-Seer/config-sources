@@ -12986,6 +12986,18 @@
         "pet_id": 4883
       },
       {
+        "move_id": 38316,
+        "move_name1": "灰翼",
+        "move_name2": "葬魂斩",
+        "pet_id": 4885
+      },
+      {
+        "move_id": 38319,
+        "move_name1": "王",
+        "move_name2": "圣语空心",
+        "pet_id": 3711
+      },
+      {
         "move_id": 31143,
         "move_name1": "神灵",
         "move_name2": "救世光",
