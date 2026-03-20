@@ -451,7 +451,33 @@
         <Unbindmintinfo MintmarkID="41079" NeedConsumeID="1724169" NeedConsumeNum="218" NewMsglogId=""/>		
         <Unbindmintinfo MintmarkID="41080" NeedConsumeID="1724169" NeedConsumeNum="218" NewMsglogId=""/>		
         <Unbindmintinfo MintmarkID="41462" NeedConsumeID="1724169" NeedConsumeNum="218" NewMsglogId=""/>		
+		
+		
+	    <!--以下为星辉系列-->
+        <Unbindmintinfo MintmarkID="42674" NeedConsumeID="1724169" NeedConsumeNum="128" NewMsglogId=""/>
+        <Unbindmintinfo MintmarkID="42675" NeedConsumeID="1724169" NeedConsumeNum="128" NewMsglogId=""/>
+        <Unbindmintinfo MintmarkID="42676" NeedConsumeID="1724169" NeedConsumeNum="128" NewMsglogId=""/>
+        <Unbindmintinfo MintmarkID="42677" NeedConsumeID="1724169" NeedConsumeNum="128" NewMsglogId=""/>
+        <Unbindmintinfo MintmarkID="42678" NeedConsumeID="1724169" NeedConsumeNum="128" NewMsglogId=""/>
+        <Unbindmintinfo MintmarkID="42679" NeedConsumeID="1724169" NeedConsumeNum="128" NewMsglogId=""/>
+        <Unbindmintinfo MintmarkID="42680" NeedConsumeID="1724169" NeedConsumeNum="128" NewMsglogId=""/>
+        <Unbindmintinfo MintmarkID="42681" NeedConsumeID="1724169" NeedConsumeNum="128" NewMsglogId=""/>
+        <Unbindmintinfo MintmarkID="42682" NeedConsumeID="1724169" NeedConsumeNum="128" NewMsglogId=""/>
+        <Unbindmintinfo MintmarkID="42683" NeedConsumeID="1724169" NeedConsumeNum="128" NewMsglogId=""/>
+        <Unbindmintinfo MintmarkID="42684" NeedConsumeID="1724169" NeedConsumeNum="128" NewMsglogId=""/>
+        <Unbindmintinfo MintmarkID="42685" NeedConsumeID="1724169" NeedConsumeNum="128" NewMsglogId=""/>
 
+	    <!--以下为B级刻印系列
+        <Unbindmintinfo MintmarkID="42661" NeedConsumeID="1724169" NeedConsumeNum="68" NewMsglogId=""/>		
+        <Unbindmintinfo MintmarkID="42662" NeedConsumeID="1724169" NeedConsumeNum="68" NewMsglogId=""/>		
+        <Unbindmintinfo MintmarkID="42663" NeedConsumeID="1724169" NeedConsumeNum="68" NewMsglogId=""/>		
+        <Unbindmintinfo MintmarkID="42664" NeedConsumeID="1724169" NeedConsumeNum="68" NewMsglogId=""/>		
+        <Unbindmintinfo MintmarkID="42665" NeedConsumeID="1724169" NeedConsumeNum="68" NewMsglogId=""/>		
+        <Unbindmintinfo MintmarkID="42666" NeedConsumeID="1724169" NeedConsumeNum="68" NewMsglogId=""/>		
+        <Unbindmintinfo MintmarkID="42667" NeedConsumeID="1724169" NeedConsumeNum="68" NewMsglogId=""/>		
+        <Unbindmintinfo MintmarkID="42668" NeedConsumeID="1724169" NeedConsumeNum="68" NewMsglogId=""/>		
+        <Unbindmintinfo MintmarkID="42669" NeedConsumeID="1724169" NeedConsumeNum="68" NewMsglogId=""/>		
+        <Unbindmintinfo MintmarkID="42670" NeedConsumeID="1724169" NeedConsumeNum="68" NewMsglogId=""/>	-->	
 
 
 

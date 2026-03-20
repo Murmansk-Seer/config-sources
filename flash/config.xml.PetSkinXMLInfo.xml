@@ -1585,7 +1585,7 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 	<Skin ID="522" MonID="4474" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="末世火莲·妤玫">
 		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="1" Year="2023"/>
 	</Skin>
-	<Skin ID="523" MonID="3506" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="9" Name="泳池健将·波塞冬">
+	<Skin ID="523" MonID="3506" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="9" Name="泳池健将·波塞冬" Jumptarget="114059">
 		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="18"/>
 	</Skin>
 	<Skin ID="524" MonID="4401" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Name="特罗斯">
@@ -1740,7 +1740,7 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 
-	<Skin ID="564" MonID="4329" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="9" Name="蝶梦夜曲·倪克斯">
+	<Skin ID="564" MonID="4329" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="9" Name="蝶梦夜曲·倪克斯" Jumptarget="114059">
 		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="18"/>
 	</Skin>
 
@@ -2272,7 +2272,7 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 
-	<Skin ID="697" MonID="4627" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="9" Name="元素支配·赫斯提亚" >
+	<Skin ID="697" MonID="4627" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="9" Name="元素支配·赫斯提亚" Jumptarget="114059">
 		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="18"/>
 	</Skin>
 
@@ -2733,7 +2733,12 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 
-
+    <Skin ID="812" MonID="3437" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="星际领航员·艾欧丽娅" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114057">
+		<SkinKind ID="1" Type="2" LifeTime="0" SkinType="13"/>
+	</Skin>
+    <Skin ID="813" MonID="3711" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="18" Name="燕归青野·莫妮卡" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114058">
+		<SkinKind ID="1" Type="2" LifeTime="0"/>
+	</Skin>
 
 
     <!-- <Skin ID="000" MonID="000" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="复制模版"> -->

@@ -23688,4 +23688,20 @@
 	<item productID="262304" icon="" itemID="1727890" price="249" type="0" vip="1" productType="-1" malldiscount="0" name="VIP天数超过90天用户购买薇奥莱特"></item>
 	<item productID="262305" icon="" itemID="1727891" price="449" type="0" vip="1" productType="-1" malldiscount="0" name="VIP天数超过30天用户购买薇奥莱特"></item>
 	<item productID="262306" icon="" itemID="1727892" price="549" type="0" vip="1" productType="-1" malldiscount="0" name="VIP天数超过1天用户购买薇奥莱特"></item>
+	<item productID="262307" icon="" itemID="1727893" price="798" type="0" vip="1" productType="-1" malldiscount="0" name="至尊获得精灵【灰蛾】"></item>
+	<item productID="262308" icon="" itemID="1727894" price="30" type="0" vip="1" productType="-1" malldiscount="0" name="购买每日挑战次数（灰蛾）"></item>
+	<item productID="262309" icon="" itemID="1727895" price="20" type="0" vip="1" productType="-1" malldiscount="0" name="付费扫荡简单关卡（灰蛾）"></item>
+	<item productID="262310" icon="" itemID="1727896" price="30" type="0" vip="1" productType="-1" malldiscount="0" name="付费扫荡困难关卡（灰蛾）"></item>
+	<item productID="262311" icon="" itemID="1727897" price="40" type="0" vip="1" productType="-1" malldiscount="0" name="付费扫荡地狱关卡（灰蛾）"></item>
+	<item productID="262312" icon="" itemID="1727898" price="2" type="0" vip="1" productType="-1" malldiscount="0" name="购买获得灰蛾因子"></item>
+	<item productID="262313" icon="" itemID="1727899" price="30" type="0" vip="1" productType="-1" malldiscount="0" name="激活圣光莫妮卡皮肤部件"></item>
+	<item productID="262314" icon="" itemID="1727900" price="398" type="0" vip="1" productType="-1" malldiscount="0" name="一键获得蝶梦夜曲·倪克斯"></item>
+	<item productID="262315" icon="" itemID="1727901" price="398" type="0" vip="1" productType="-1" malldiscount="0" name="一键获得泳池健将·波塞冬"></item>
+	<item productID="262316" icon="" itemID="1727902" price="398" type="0" vip="1" productType="-1" malldiscount="0" name="一键获得元素支配·赫斯提亚"></item>
+	<item productID="262317" icon="" itemID="1727903" price="10" type="0" vip="1" productType="-1" malldiscount="0" name="购买游戏次数"></item>
+	<item productID="262318" icon="" itemID="1727904" price="1" type="0" vip="1" productType="-1" malldiscount="0" name="补足所需的星光单价"></item>
+	<item productID="262319" icon="" itemID="1727906" price="10" type="0" vip="1" productType="-1" malldiscount="0" name="0403测试道具"></item>
+	<item productID="262320" icon="" itemID="1727908" price="25" type="0" vip="1" productType="-1" malldiscount="0" name="购买星芒"></item>
+	<item productID="262321" icon="" itemID="1727910" price="1" type="0" vip="1" productType="-1" malldiscount="0" name="购买碧影结晶"></item>
+	<item productID="262322" icon="" itemID="1727911" price="598" type="0" vip="1" productType="-1" malldiscount="0" name="一键觉醒圣光莫妮卡"></item>
 </root>
