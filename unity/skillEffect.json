@@ -1592,11 +1592,11 @@
     },
     {
       "Bosseffective": 0,
-      "argsNum": 0,
+      "argsNum": 2,
       "formattingAdjustment": "",
       "id": 118,
       "ifTextItalic": "",
-      "info": "威力随机，随机范围150~220",
+      "info": "威力随机，随机范围{0}~{1}",
       "isif": 0,
       "tagA": "",
       "tagAboss": 0,

@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "param": "",
+      "param_des": "位于战场上"
+    },
+    {
+      "id": 2,
+      "param": "a",
+      "param_des": "出售卡牌判断"
+    },
+    {
+      "id": 3,
+      "param": "a",
+      "param_des": "购买a类卡牌"
+    },
+    {
+      "id": 4,
+      "param": "",
+      "param_des": "精灵牌打出手牌到场上"
+    },
+    {
+      "id": 5,
+      "param": "",
+      "param_des": "法术牌打出选择精灵牌"
+    },
+    {
+      "id": 6,
+      "param": "",
+      "param_des": "进击（精灵牌攻击前）"
+    },
+    {
+      "id": 7,
+      "param": "",
+      "param_des": "退场（战斗时）"
+    },
+    {
+      "id": 8,
+      "param": "",
+      "param_des": "出售完后其它卡牌判断"
+    },
+    {
+      "id": 9,
+      "param": "",
+      "param_des": "触发入场效果条件点"
+    },
+    {
+      "id": 10,
+      "param": "",
+      "param_des": "触发攻击前效果条件点"
+    },
+    {
+      "id": 11,
+      "param": "",
+      "param_des": "商店结束条件点"
+    },
+    {
+      "id": 12,
+      "param": "",
+      "param_des": "战斗开始条件点"
+    }
+  ]
+}
