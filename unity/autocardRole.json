@@ -382,7 +382,7 @@
     },
     {
       "buff_id": "30026|30027",
-      "buff_param": "1|0_0_10009",
+      "buff_param": "1|0_0_10045",
       "desc": "服役于银翼—Silver Wings部队的士兵，英勇无畏、坚毅不屈。除了强大的战斗技巧，在牌技上也不容小觑。",
       "name": "银翼猎手",
       "skill_name": "银翼之力",
@@ -599,6 +599,26 @@
       "skill_id": 10005,
       "skill_round_limit": 0,
       "skill_type": 0
+    },
+    {
+      "buff_id": "30034",
+      "buff_param": "2",
+      "desc": "新手用",
+      "name": "导航员·爱丽丝",
+      "skill_name": "星空领航",
+      "skill_txt": "随机获得1张比当前商店等级高1级的精灵牌",
+      "skill_upgrade": "",
+      "count_num": 0,
+      "display": 0,
+      "health": 40,
+      "id": 99999,
+      "nature": 0,
+      "pic_id": 8,
+      "skill_cost_num": 1,
+      "skill_game_limit": 0,
+      "skill_id": 8,
+      "skill_round_limit": 1,
+      "skill_type": 1
     }
   ]
 }
