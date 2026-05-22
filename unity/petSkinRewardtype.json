@@ -167,6 +167,14 @@
       "subtype": 0,
       "subtypename": "",
       "type": 21
+    },
+    {
+      "id": 22,
+      "name": "莱卡的守望",
+      "sort": 20,
+      "subtype": 0,
+      "subtypename": "",
+      "type": 22
     }
   ]
 }

@@ -5350,6 +5350,20 @@
       "res_config": []
     },
     {
+      "curr_app_do": 0,
+      "id": 885,
+      "is_full_screen": 0,
+      "module_name": "fifteenyearsignPop",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 886,
+      "is_full_screen": 0,
+      "module_name": "sareikaSkinMega",
+      "res_config": []
+    },
+    {
       "curr_app_do": 1,
       "id": 1021,
       "is_full_screen": 1,
@@ -5476,10 +5490,73 @@
       "res_config": []
     },
     {
+      "curr_app_do": 2,
+      "id": 1039,
+      "is_full_screen": 1,
+      "module_name": "ChaosMagicEyeJerezMainPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1040,
+      "is_full_screen": 1,
+      "module_name": "getmagazinecenterpanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1041,
+      "is_full_screen": 1,
+      "module_name": "storyAnniversary2026",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1042,
+      "is_full_screen": 1,
+      "module_name": "tiaoyinActivity",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1043,
+      "is_full_screen": 1,
+      "module_name": "moneyageActivity",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1044,
+      "is_full_screen": 1,
+      "module_name": "livesharepanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 1045,
+      "is_full_screen": 0,
+      "module_name": "storyAnniversary2026Store",
+      "res_config": []
+    },
+    {
       "curr_app_do": 1,
       "id": 1060,
       "is_full_screen": 1,
       "module_name": "aurumEndgame",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1100,
+      "is_full_screen": 1,
+      "module_name": "QteTimeline",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 1101,
+      "is_full_screen": 0,
+      "module_name": "QteTimelineScene",
       "res_config": []
     }
   ]

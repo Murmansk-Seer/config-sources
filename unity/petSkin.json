@@ -11067,7 +11067,7 @@
           }
         ],
         "id": 616,
-        "jump_target": 0,
+        "jump_target": 111800,
         "mon_id": 4636,
         "type": 2
       },
@@ -13605,7 +13605,7 @@
           }
         ],
         "id": 757,
-        "jump_target": 0,
+        "jump_target": 111800,
         "mon_id": 4644,
         "type": 3
       },
@@ -13623,7 +13623,7 @@
           }
         ],
         "id": 758,
-        "jump_target": 0,
+        "jump_target": 111800,
         "mon_id": 4643,
         "type": 3
       },
@@ -13641,7 +13641,7 @@
           }
         ],
         "id": 759,
-        "jump_target": 0,
+        "jump_target": 111800,
         "mon_id": 4636,
         "type": 3
       },
@@ -14940,6 +14940,60 @@
         "jump_target": 2,
         "mon_id": 4629,
         "type": 3
+      },
+      {
+        "go": "app/FinalActivityPanel",
+        "go_type": "module",
+        "name": "莱卡的守望·潘克多斯",
+        "skin_kind": [
+          {
+            "id": 1,
+            "life_time": 0,
+            "skin_type": 22,
+            "type": 2,
+            "year": 0
+          }
+        ],
+        "id": 832,
+        "jump_target": 114073,
+        "mon_id": 4344,
+        "type": 18
+      },
+      {
+        "go": "app/FinalActivityPanel",
+        "go_type": "module",
+        "name": "莱卡的守望·斯克鲁恩",
+        "skin_kind": [
+          {
+            "id": 1,
+            "life_time": 0,
+            "skin_type": 22,
+            "type": 2,
+            "year": 0
+          }
+        ],
+        "id": 833,
+        "jump_target": 114073,
+        "mon_id": 4463,
+        "type": 18
+      },
+      {
+        "go": "app/FinalActivityPanel",
+        "go_type": "module",
+        "name": "莱卡的守望·加尔鲁特",
+        "skin_kind": [
+          {
+            "id": 1,
+            "life_time": 0,
+            "skin_type": 22,
+            "type": 2,
+            "year": 0
+          }
+        ],
+        "id": 834,
+        "jump_target": 114073,
+        "mon_id": 4606,
+        "type": 18
       }
     ]
   }

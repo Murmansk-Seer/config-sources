@@ -131059,6 +131059,42 @@
         "hide": 0
       },
       {
+        "des": "光年外的重逢",
+        "effect_des": "防御3/30,特攻4/42,特防3/30,速度4/41,体力9/92",
+        "arg": [],
+        "base_attri_value": [
+          0,
+          3,
+          4,
+          3,
+          4,
+          9
+        ],
+        "extra_attri_value": [],
+        "max_attri_value": [
+          0,
+          30,
+          42,
+          30,
+          41,
+          92
+        ],
+        "monster_id": [],
+        "move_id": [],
+        "grade": 5,
+        "id": 42690,
+        "level": 100,
+        "max": 99,
+        "mintmark_class": 28,
+        "quality": 5,
+        "rare": 3,
+        "rarity": 0,
+        "total_consume": 0,
+        "type": 3,
+        "connect": 0,
+        "hide": 0
+      },
+      {
         "des": "小碎片",
         "effect_des": "",
         "arg": [],
@@ -131277,7 +131313,7 @@
         "id": 27
       },
       {
-        "class_name": "星系守护系列",
+        "class_name": "星空守护系列",
         "id": 28
       },
       {

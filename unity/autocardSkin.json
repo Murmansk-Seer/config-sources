@@ -1,11 +1,13 @@
 {
   "data": [
     {
-      "name": "card_50005",
-      "skin_name": "抽象大师",
       "content_id": 41,
+      "get_des": "2026年愚人节活动领取",
       "id": 50005,
+      "jump_id": 0,
+      "name": "card_50005",
       "series": 1,
+      "skin_name": "抽象大师",
       "type": 1
     }
   ]

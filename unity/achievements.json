@@ -18386,6 +18386,20 @@
                     "id": 14,
                     "proicon": 1474,
                     "spe_name_bonus": 0
+                  },
+                  {
+                    "abtext": "",
+                    "ach_name": "莱卡的守望",
+                    "desc": "达成莱卡的守望系列皮肤收集进度",
+                    "threshold": "15",
+                    "title": "",
+                    "title_color": "",
+                    "ability_title": 0,
+                    "achievement_point": 10,
+                    "hide": 0,
+                    "id": 15,
+                    "proicon": 1491,
+                    "spe_name_bonus": 0
                   }
                 ],
                 "id": 171,

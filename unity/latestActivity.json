@@ -1,0 +1,289 @@
+{
+  "item": [
+    {
+      "goto": [
+        "2",
+        "151",
+        "{Design:190}"
+      ],
+      "id": 1,
+      "page": 1,
+      "pic": 1,
+      "showEnd": "",
+      "showStart": "2025_1_24 00:00:00",
+      "tag": 0,
+      "type": 1
+    },
+    {
+      "goto": [
+        "2",
+        "144",
+        "{ panelName:\"MALL\" }"
+      ],
+      "id": 2,
+      "page": 1,
+      "pic": 2,
+      "showEnd": "",
+      "showStart": "2025_1_24 00:00:00",
+      "tag": 0,
+      "type": 1
+    },
+    {
+      "goto": [
+        "2",
+        "110",
+        "{ moduleID:135 }"
+      ],
+      "id": 3,
+      "page": 1,
+      "pic": 4,
+      "showEnd": "",
+      "showStart": "2025_1_24 00:00:00",
+      "tag": 0,
+      "type": 1
+    },
+    {
+      "goto": [
+        "2",
+        "134"
+      ],
+      "id": 4,
+      "page": 1,
+      "pic": 3,
+      "showEnd": "",
+      "showStart": "2025_1_24 00:00:00",
+      "tag": 0,
+      "type": 1
+    },
+    {
+      "goto": [],
+      "id": 5,
+      "page": 0,
+      "pic": 0,
+      "showEnd": "",
+      "showStart": "",
+      "tag": 0,
+      "type": 0
+    },
+    {
+      "goto": [],
+      "id": 6,
+      "page": 0,
+      "pic": 0,
+      "showEnd": "",
+      "showStart": "",
+      "tag": 0,
+      "type": 0
+    },
+    {
+      "goto": [],
+      "id": 7,
+      "page": 0,
+      "pic": 0,
+      "showEnd": "",
+      "showStart": "",
+      "tag": 0,
+      "type": 0
+    },
+    {
+      "goto": [],
+      "id": 8,
+      "page": 0,
+      "pic": 0,
+      "showEnd": "",
+      "showStart": "",
+      "tag": 0,
+      "type": 0
+    },
+    {
+      "goto": [],
+      "id": 9,
+      "page": 0,
+      "pic": 0,
+      "showEnd": "",
+      "showStart": "",
+      "tag": 0,
+      "type": 0
+    },
+    {
+      "goto": [],
+      "id": 10,
+      "page": 0,
+      "pic": 0,
+      "showEnd": "",
+      "showStart": "",
+      "tag": 0,
+      "type": 0
+    },
+    {
+      "goto": [],
+      "id": 11,
+      "page": 0,
+      "pic": 0,
+      "showEnd": "",
+      "showStart": "",
+      "tag": 0,
+      "type": 0
+    },
+    {
+      "goto": [],
+      "id": 12,
+      "page": 0,
+      "pic": 0,
+      "showEnd": "",
+      "showStart": "",
+      "tag": 0,
+      "type": 0
+    },
+    {
+      "goto": [],
+      "id": 13,
+      "page": 0,
+      "pic": 0,
+      "showEnd": "",
+      "showStart": "",
+      "tag": 0,
+      "type": 0
+    },
+    {
+      "goto": [],
+      "id": 14,
+      "page": 0,
+      "pic": 0,
+      "showEnd": "",
+      "showStart": "",
+      "tag": 0,
+      "type": 0
+    },
+    {
+      "goto": [],
+      "id": 15,
+      "page": 0,
+      "pic": 0,
+      "showEnd": "",
+      "showStart": "",
+      "tag": 0,
+      "type": 0
+    },
+    {
+      "goto": [],
+      "id": 16,
+      "page": 0,
+      "pic": 0,
+      "showEnd": "",
+      "showStart": "",
+      "tag": 0,
+      "type": 0
+    },
+    {
+      "goto": [],
+      "id": 17,
+      "page": 0,
+      "pic": 0,
+      "showEnd": "",
+      "showStart": "",
+      "tag": 0,
+      "type": 0
+    },
+    {
+      "goto": [],
+      "id": 18,
+      "page": 0,
+      "pic": 0,
+      "showEnd": "",
+      "showStart": "",
+      "tag": 0,
+      "type": 0
+    },
+    {
+      "goto": [],
+      "id": 19,
+      "page": 0,
+      "pic": 0,
+      "showEnd": "",
+      "showStart": "",
+      "tag": 0,
+      "type": 0
+    },
+    {
+      "goto": [],
+      "id": 20,
+      "page": 0,
+      "pic": 0,
+      "showEnd": "",
+      "showStart": "",
+      "tag": 0,
+      "type": 0
+    },
+    {
+      "goto": [
+        "2",
+        "151",
+        "{Design:190}"
+      ],
+      "id": 21,
+      "page": 0,
+      "pic": 4725,
+      "showEnd": "",
+      "showStart": "",
+      "tag": 1,
+      "type": 2
+    },
+    {
+      "goto": [
+        "2",
+        "151",
+        "{Design:189}"
+      ],
+      "id": 21,
+      "page": 0,
+      "pic": 4713,
+      "showEnd": "",
+      "showStart": "",
+      "tag": 0,
+      "type": 2
+    },
+    {
+      "goto": [
+        "2",
+        "151",
+        "{Design:188}"
+      ],
+      "id": 21,
+      "page": 0,
+      "pic": 4711,
+      "showEnd": "",
+      "showStart": "",
+      "tag": 0,
+      "type": 2
+    },
+    {
+      "goto": [
+        "2",
+        "151",
+        "{Design:187}"
+      ],
+      "id": 22,
+      "page": 0,
+      "pic": 4709,
+      "showEnd": "",
+      "showStart": "",
+      "tag": 0,
+      "type": 2
+    },
+    {
+      "goto": [
+        "2",
+        "151",
+        "{Design:186}"
+      ],
+      "id": 23,
+      "page": 0,
+      "pic": 4707,
+      "showEnd": "",
+      "showStart": "",
+      "tag": 0,
+      "type": 2
+    }
+  ]
+}

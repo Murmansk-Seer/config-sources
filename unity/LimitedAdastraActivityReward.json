@@ -1,0 +1,76 @@
+{
+  "item": [
+    {
+      "condition": 3,
+      "endTime": "1778205600",
+      "id": 1,
+      "reward": "1_1727037_200",
+      "type": 1,
+      "unlockTime": "1777514400"
+    },
+    {
+      "condition": 6,
+      "endTime": "1778205600",
+      "id": 2,
+      "reward": "1_1727037_400",
+      "type": 1,
+      "unlockTime": "1777514400"
+    },
+    {
+      "condition": 9,
+      "endTime": "1778205600",
+      "id": 3,
+      "reward": "1_1727037_600",
+      "type": 1,
+      "unlockTime": "1777514400"
+    },
+    {
+      "condition": 6,
+      "endTime": "1778810400",
+      "id": 4,
+      "reward": "1_1727037_300",
+      "type": 2,
+      "unlockTime": "1778205600"
+    },
+    {
+      "condition": 12,
+      "endTime": "1778810400",
+      "id": 5,
+      "reward": "1_1727037_500",
+      "type": 2,
+      "unlockTime": "1778205600"
+    },
+    {
+      "condition": 18,
+      "endTime": "1778810400",
+      "id": 6,
+      "reward": "1_1727037_800",
+      "type": 2,
+      "unlockTime": "1778205600"
+    },
+    {
+      "condition": 9,
+      "endTime": "1779415200",
+      "id": 7,
+      "reward": "1_1727037_500",
+      "type": 3,
+      "unlockTime": "1778810400"
+    },
+    {
+      "condition": 18,
+      "endTime": "1779415200",
+      "id": 8,
+      "reward": "1_1727037_700",
+      "type": 3,
+      "unlockTime": "1778810400"
+    },
+    {
+      "condition": 27,
+      "endTime": "1779415200",
+      "id": 9,
+      "reward": "1_1727037_1000",
+      "type": 3,
+      "unlockTime": "1778810400"
+    }
+  ]
+}

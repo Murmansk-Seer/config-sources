@@ -1,0 +1,844 @@
+{
+  "item": [
+    {
+      "diamondnum": 680,
+      "exp": 1200,
+      "freereward": "1_300670_15",
+      "id": 1,
+      "paidreward": "1_1726710_2000"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_300021_2",
+      "id": 2,
+      "paidreward": "1_300021_5"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1723855_120000",
+      "id": 3,
+      "paidreward": "1_1723855_250000"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1_600000",
+      "id": 4,
+      "paidreward": "1_1_2500000"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1200444_20",
+      "id": 5,
+      "paidreward": "1_2600035_1;1_1726710_2000"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_300675_2",
+      "id": 6,
+      "paidreward": "1_300675_5"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_300021_2",
+      "id": 7,
+      "paidreward": "1_300021_5"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1723855_120000",
+      "id": 8,
+      "paidreward": "1_1723855_250000"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1_600000",
+      "id": 9,
+      "paidreward": "1_1_2500000"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1726710_1000",
+      "id": 10,
+      "paidreward": "1_2600035_1;1_1726710_2000"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_300676_2",
+      "id": 11,
+      "paidreward": "1_300676_5"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_300617_1",
+      "id": 12,
+      "paidreward": "1_300617_2"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1723855_120000",
+      "id": 13,
+      "paidreward": "1_1723855_250000"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1_600000",
+      "id": 14,
+      "paidreward": "1_1_2500000"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1200445_10",
+      "id": 15,
+      "paidreward": "1_2600034_1;1_1200445_1"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_300679_2",
+      "id": 16,
+      "paidreward": "1_300679_5"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_300617_1",
+      "id": 17,
+      "paidreward": "1_300617_2"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1723855_120000",
+      "id": 18,
+      "paidreward": "1_1723855_250000"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1_600000",
+      "id": 19,
+      "paidreward": "1_1_2500000"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1707149_1",
+      "id": 20,
+      "paidreward": "1_1707149_4;1_1726710_2000"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_300675_2",
+      "id": 21,
+      "paidreward": "1_300675_5"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_300617_1",
+      "id": 22,
+      "paidreward": "1_300617_3"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1723855_120000",
+      "id": 23,
+      "paidreward": "1_1723855_250000"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1_600000",
+      "id": 24,
+      "paidreward": "1_1_2500000"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1707150_1",
+      "id": 25,
+      "paidreward": "1_1707150_2;1_1724952_10"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_300676_2",
+      "id": 26,
+      "paidreward": "1_300676_5"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1723854_500",
+      "id": 27,
+      "paidreward": "1_1723854_12500"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1723855_120000",
+      "id": 28,
+      "paidreward": "1_1723855_250000"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1_600000",
+      "id": 29,
+      "paidreward": "1_1_2500000"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "2_41112_1",
+      "id": 30,
+      "paidreward": "2_42444_1;1_300878_10"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_300679_2",
+      "id": 31,
+      "paidreward": "1_300679_5"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1723854_500",
+      "id": 32,
+      "paidreward": "1_1723854_12500"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1723855_120000",
+      "id": 33,
+      "paidreward": "1_1723855_250000"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1_600000",
+      "id": 34,
+      "paidreward": "1_1_2500000"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "2_41113_1",
+      "id": 35,
+      "paidreward": "2_42445_1;1_1724952_10"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1706928_100",
+      "id": 36,
+      "paidreward": "1_1706928_200"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1723854_500",
+      "id": 37,
+      "paidreward": "1_1723854_12500"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1723855_120000",
+      "id": 38,
+      "paidreward": "1_1723855_250000"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1_600000",
+      "id": 39,
+      "paidreward": "1_1_2500000"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "2_41114_1",
+      "id": 40,
+      "paidreward": "2_42446_1;1_300878_10"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1706927_300",
+      "id": 41,
+      "paidreward": "1_1706927_600"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1723854_500",
+      "id": 42,
+      "paidreward": "1_1723854_12500"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1723855_120000",
+      "id": 43,
+      "paidreward": "1_1723855_250000"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1_600000",
+      "id": 44,
+      "paidreward": "1_1_2500000"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "2_41115_1",
+      "id": 45,
+      "paidreward": "2_42447_1;1_1724952_10"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1706928_100",
+      "id": 46,
+      "paidreward": "1_1706928_200"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1723854_500",
+      "id": 47,
+      "paidreward": "1_1723854_12500"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1723855_120000",
+      "id": 48,
+      "paidreward": "1_1723855_250000"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1_600000",
+      "id": 49,
+      "paidreward": "1_1_2500000"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "2_41116_1",
+      "id": 50,
+      "paidreward": "2_42448_1;1_1726710_2000"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1706927_300",
+      "id": 51,
+      "paidreward": "1_1706927_600"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1723854_500",
+      "id": 52,
+      "paidreward": "1_1723854_12500"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1723855_120000",
+      "id": 53,
+      "paidreward": "1_1723855_250000"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1_600000",
+      "id": 54,
+      "paidreward": "1_1_2500000"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "2_41117_1",
+      "id": 55,
+      "paidreward": "2_42449_1;1_300810_5"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1706928_100",
+      "id": 56,
+      "paidreward": "1_1706928_200"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1723854_500",
+      "id": 57,
+      "paidreward": "1_1723854_12500"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1723855_120000",
+      "id": 58,
+      "paidreward": "1_1723855_250000"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1_600000",
+      "id": 59,
+      "paidreward": "1_1_2500000"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "2_41118_1",
+      "id": 60,
+      "paidreward": "2_42450_1;1_300861_10"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1706927_300",
+      "id": 61,
+      "paidreward": "1_1706927_600"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1723854_500",
+      "id": 62,
+      "paidreward": "1_1723854_12500"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1723855_120000",
+      "id": 63,
+      "paidreward": "1_1723855_250000"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1_600000",
+      "id": 64,
+      "paidreward": "1_1_2500000"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "2_41119_1",
+      "id": 65,
+      "paidreward": "2_42451_1;1_300810_5"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1706928_100",
+      "id": 66,
+      "paidreward": "1_1706928_200"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1723854_500",
+      "id": 67,
+      "paidreward": "1_1723854_12500"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1723855_120000",
+      "id": 68,
+      "paidreward": "1_1723855_250000"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1_600000",
+      "id": 69,
+      "paidreward": "1_1_2500000"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_300063_4",
+      "id": 70,
+      "paidreward": "1_300063_6;1_300066_1"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1726710_1000",
+      "id": 71,
+      "paidreward": "1_300065_10"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1723854_500",
+      "id": 72,
+      "paidreward": "1_1723854_12500"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1723855_120000",
+      "id": 73,
+      "paidreward": "1_1723855_250000"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1_600000",
+      "id": 74,
+      "paidreward": "1_1_2500000"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_300772_1",
+      "id": 75,
+      "paidreward": "1_300772_2;1_1726710_2000"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_300065_10",
+      "id": 76,
+      "paidreward": "1_300065_10"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1723854_500",
+      "id": 77,
+      "paidreward": "1_1723854_12500"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1723855_120000",
+      "id": 78,
+      "paidreward": "1_1723855_250000"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1_600000",
+      "id": 79,
+      "paidreward": "1_1_2500000"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_300878_10",
+      "id": 80,
+      "paidreward": "6_822_1;1_300757_1"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "",
+      "id": 81,
+      "paidreward": ""
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1726710_100",
+      "id": 82,
+      "paidreward": "1_1726710_300"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "",
+      "id": 83,
+      "paidreward": ""
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1726710_100",
+      "id": 84,
+      "paidreward": "1_1726710_300"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "",
+      "id": 85,
+      "paidreward": ""
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1726710_100",
+      "id": 86,
+      "paidreward": "1_1726710_300"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "",
+      "id": 87,
+      "paidreward": ""
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1726710_100",
+      "id": 88,
+      "paidreward": "1_1726710_300"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "",
+      "id": 89,
+      "paidreward": ""
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1726710_100",
+      "id": 90,
+      "paidreward": "1_1726710_300"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "",
+      "id": 91,
+      "paidreward": ""
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1726710_100",
+      "id": 92,
+      "paidreward": "1_1726710_300"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "",
+      "id": 93,
+      "paidreward": ""
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1726710_100",
+      "id": 94,
+      "paidreward": "1_1726710_300"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "",
+      "id": 95,
+      "paidreward": ""
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1726710_100",
+      "id": 96,
+      "paidreward": "1_1726710_300"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "",
+      "id": 97,
+      "paidreward": ""
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1726710_100",
+      "id": 98,
+      "paidreward": "1_1726710_300"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "",
+      "id": 99,
+      "paidreward": ""
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1726710_100",
+      "id": 100,
+      "paidreward": "1_1726710_300"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "",
+      "id": 101,
+      "paidreward": ""
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1726710_100",
+      "id": 102,
+      "paidreward": "1_1726710_300"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "",
+      "id": 103,
+      "paidreward": ""
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1726710_100",
+      "id": 104,
+      "paidreward": "1_1726710_300"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "",
+      "id": 105,
+      "paidreward": ""
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1726710_100",
+      "id": 106,
+      "paidreward": "1_1726710_300"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "",
+      "id": 107,
+      "paidreward": ""
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1726710_100",
+      "id": 108,
+      "paidreward": "1_1726710_300"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "",
+      "id": 109,
+      "paidreward": ""
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1726710_100",
+      "id": 110,
+      "paidreward": "1_1726710_300"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "",
+      "id": 111,
+      "paidreward": ""
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1726710_100",
+      "id": 112,
+      "paidreward": "1_1726710_300"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "",
+      "id": 113,
+      "paidreward": ""
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1726710_100",
+      "id": 114,
+      "paidreward": "1_1726710_300"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "",
+      "id": 115,
+      "paidreward": ""
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1726710_100",
+      "id": 116,
+      "paidreward": "1_1726710_300"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "",
+      "id": 117,
+      "paidreward": ""
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1726710_100",
+      "id": 118,
+      "paidreward": "1_1726710_300"
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "",
+      "id": 119,
+      "paidreward": ""
+    },
+    {
+      "diamondnum": 0,
+      "exp": 1200,
+      "freereward": "1_1726710_100",
+      "id": 120,
+      "paidreward": "1_1726710_300"
+    }
+  ]
+}
