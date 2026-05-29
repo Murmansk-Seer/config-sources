@@ -520,6 +520,36 @@
         "price": 30.0,
         "product_id": 200072,
         "vip": 1
+      },
+      {
+        "name": "购买【普通砸蛋锤】",
+        "item_id": [
+          1728124
+        ],
+        "gold": 1,
+        "price": 10.0,
+        "product_id": 200073,
+        "vip": 1
+      },
+      {
+        "name": "购买【稀有砸蛋锤】",
+        "item_id": [
+          1728125
+        ],
+        "gold": 1,
+        "price": 20.0,
+        "product_id": 200074,
+        "vip": 1
+      },
+      {
+        "name": "购买【珍贵砸蛋锤】",
+        "item_id": [
+          1728126
+        ],
+        "gold": 1,
+        "price": 30.0,
+        "product_id": 200075,
+        "vip": 1
       }
     ]
   }

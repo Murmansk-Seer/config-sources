@@ -13136,6 +13136,30 @@
         "pet_id": 4904
       },
       {
+        "move_id": 38399,
+        "move_name1": "希",
+        "move_name2": "魔盒启封",
+        "pet_id": 4905
+      },
+      {
+        "move_id": 38403,
+        "move_name1": "铭撰",
+        "move_name2": "青史",
+        "pet_id": 4906
+      },
+      {
+        "move_id": 38406,
+        "move_name1": "一心",
+        "move_name2": "永驻",
+        "pet_id": 4907
+      },
+      {
+        "move_id": 38409,
+        "move_name1": "王",
+        "move_name2": "焚罡九虺",
+        "pet_id": 3407
+      },
+      {
         "move_id": 31143,
         "move_name1": "神灵",
         "move_name2": "救世光",

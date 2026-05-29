@@ -275,6 +275,17 @@
         "name": "天邪龙皇",
         "order": 0,
         "type": 1
+      },
+      {
+        "arg_1": 4,
+        "arg_2": "4",
+        "level_lock": "",
+        "data_key": 23,
+        "id": 26,
+        "monsterid": 3932,
+        "name": "墨影星魂",
+        "order": 0,
+        "type": 1
       }
     ]
   }
