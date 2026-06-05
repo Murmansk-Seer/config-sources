@@ -175,6 +175,14 @@
       "subtype": 0,
       "subtypename": "",
       "type": 22
+    },
+    {
+      "id": 23,
+      "name": "至臻典藏",
+      "sort": 21,
+      "subtype": 0,
+      "subtypename": "",
+      "type": 23
     }
   ]
 }

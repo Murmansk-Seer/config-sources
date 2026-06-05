@@ -36,6 +36,24 @@
           "replace_id": 64535620
         },
         "skinid": 645
+      },
+      {
+        "petid": 4000,
+        "skill": {
+          "action": "hidemove",
+          "id": 38423,
+          "replace_id": 38423
+        },
+        "skinid": 0
+      },
+      {
+        "petid": 0,
+        "skill": {
+          "action": "hidemove",
+          "id": 38423,
+          "replace_id": 38423
+        },
+        "skinid": 837
       }
     ]
   }

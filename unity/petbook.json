@@ -1414,8 +1414,8 @@
             "go": "app/FinalActivityPanel",
             "redirect": "module",
             "mintmark": [],
-            "id": 4905,
-            "image_id": 4905,
+            "id": 4000,
+            "image_id": 4000,
             "label": 0,
             "mon_id": 0,
             "type": 0
@@ -1425,8 +1425,8 @@
             "go": "app/FinalActivityPanel",
             "redirect": "module",
             "mintmark": [],
-            "id": 4906,
-            "image_id": 4906,
+            "id": 4908,
+            "image_id": 4908,
             "label": 0,
             "mon_id": 0,
             "type": 0
@@ -1436,8 +1436,8 @@
             "go": "app/FinalActivityPanel",
             "redirect": "module",
             "mintmark": [],
-            "id": 4907,
-            "image_id": 4907,
+            "id": 4909,
+            "image_id": 4909,
             "label": 0,
             "mon_id": 0,
             "type": 0
@@ -1447,10 +1447,32 @@
             "go": "app/FinalActivityPanel",
             "redirect": "module",
             "mintmark": [],
-            "id": 835,
-            "image_id": 1400835,
+            "id": 4910,
+            "image_id": 4910,
             "label": 0,
-            "mon_id": 3637,
+            "mon_id": 0,
+            "type": 0
+          },
+          {
+            "desc": "",
+            "go": "app/FinalActivityPanel",
+            "redirect": "module",
+            "mintmark": [],
+            "id": 4911,
+            "image_id": 4911,
+            "label": 0,
+            "mon_id": 0,
+            "type": 0
+          },
+          {
+            "desc": "",
+            "go": "app/FinalActivityPanel",
+            "redirect": "module",
+            "mintmark": [],
+            "id": 837,
+            "image_id": 1400837,
+            "label": 0,
+            "mon_id": 4000,
             "type": 1
           },
           {
@@ -1458,10 +1480,54 @@
             "go": "app/FinalActivityPanel",
             "redirect": "module",
             "mintmark": [],
-            "id": 836,
-            "image_id": 1400836,
+            "id": 838,
+            "image_id": 1400838,
             "label": 0,
-            "mon_id": 4834,
+            "mon_id": 4853,
+            "type": 1
+          },
+          {
+            "desc": "",
+            "go": "app/FinalActivityPanel",
+            "redirect": "module",
+            "mintmark": [],
+            "id": 839,
+            "image_id": 1400839,
+            "label": 0,
+            "mon_id": 4909,
+            "type": 1
+          },
+          {
+            "desc": "",
+            "go": "app/FinalActivityPanel",
+            "redirect": "module",
+            "mintmark": [],
+            "id": 840,
+            "image_id": 1400840,
+            "label": 0,
+            "mon_id": 4911,
+            "type": 1
+          },
+          {
+            "desc": "",
+            "go": "app/FinalActivityPanel",
+            "redirect": "module",
+            "mintmark": [],
+            "id": 841,
+            "image_id": 1400841,
+            "label": 0,
+            "mon_id": 4760,
+            "type": 1
+          },
+          {
+            "desc": "",
+            "go": "app/FinalActivityPanel",
+            "redirect": "module",
+            "mintmark": [],
+            "id": 842,
+            "image_id": 1400842,
+            "label": 0,
+            "mon_id": 4909,
             "type": 1
           }
         ]
@@ -25271,6 +25337,12 @@
         "id": 3999
       },
       {
+        "def_name": "薇尔诗",
+        "features": "奥朗星系的世界精神，于众生愿望中化形降世的神明。",
+        "target": "114082",
+        "id": 4000
+      },
+      {
         "def_name": "无上·万魔天尊",
         "features": "魔尊的完全体，真正实力的展现，与其为敌将令你不寒而栗！",
         "target": "150104",
@@ -30699,6 +30771,30 @@
         "features": "拥有奇特力量的神秘小精灵，据说接近喜欢交朋友的它后可以短暂改变自己的画风呢！",
         "target": "114075",
         "id": 4907
+      },
+      {
+        "def_name": "蕊沃尔",
+        "features": "来自七人众的蕊沃尔，是一名热血演奏者，她拒绝无聊的规矩，以反抗之心守护众人。",
+        "target": "153201/923",
+        "id": 4908
+      },
+      {
+        "def_name": "钢傀",
+        "features": "失忆的机甲驾驶者钢傀，性直爽敢闯，在旅行中寻回记忆，并同你结成了要好的兄弟。",
+        "target": "114078",
+        "id": 4909
+      },
+      {
+        "def_name": "波动态幽魂",
+        "features": "黄金的波动下，残留在现世的遗愿，昭示着阿派罗尼亚曾经无尽的遗憾。",
+        "target": "400024",
+        "id": 4910
+      },
+      {
+        "def_name": "星光·艾欧丽娅",
+        "features": "艾欧丽娅星光蜕变，凝练冰霜与自然之风，温柔坚定守护挚伴，与你共赴未来星海。",
+        "target": "150128",
+        "id": 4911
       }
     ],
     "rec_mintmark": {

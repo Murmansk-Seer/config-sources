@@ -819,6 +819,13 @@
         "part_item_type": "eye",
         "wishpart_id": 20130,
         "wishrank_id": 25
+      },
+      {
+        "part_item_id": 1301103,
+        "part_item_name": "逆转观测者",
+        "part_item_type": "eye",
+        "wishpart_id": 20131,
+        "wishrank_id": 22
       }
     ]
   }

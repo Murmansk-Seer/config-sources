@@ -5392,6 +5392,27 @@
       "res_config": []
     },
     {
+      "curr_app_do": 0,
+      "id": 891,
+      "is_full_screen": 0,
+      "module_name": "versePetSell",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 892,
+      "is_full_screen": 0,
+      "module_name": "versePetSellPop",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 893,
+      "is_full_screen": 1,
+      "module_name": "SeventeenYearStarLightHint",
+      "res_config": []
+    },
+    {
       "curr_app_do": 1,
       "id": 1021,
       "is_full_screen": 1,
@@ -5582,9 +5603,65 @@
     },
     {
       "curr_app_do": 1,
+      "id": 1048,
+      "is_full_screen": 1,
+      "module_name": "autoCardCollectionBook",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1049,
+      "is_full_screen": 1,
+      "module_name": "AutoCardLvPop",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1050,
+      "is_full_screen": 0,
+      "module_name": "autocardSeasonSettlePop",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
       "id": 1060,
       "is_full_screen": 1,
       "module_name": "aurumEndgame",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1061,
+      "is_full_screen": 0,
+      "module_name": "17thAnniversaryPerksPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1062,
+      "is_full_screen": 0,
+      "module_name": "buySuggerereCompilationActivity",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1063,
+      "is_full_screen": 1,
+      "module_name": "weiSkinActivity",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1064,
+      "is_full_screen": 1,
+      "module_name": "seer17thAnniversaryHelpsGetGift",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1065,
+      "is_full_screen": 1,
+      "module_name": "guntower",
       "res_config": []
     },
     {
@@ -5599,6 +5676,55 @@
       "id": 1101,
       "is_full_screen": 0,
       "module_name": "QteTimelineScene",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 1102,
+      "is_full_screen": 1,
+      "module_name": "staraiouliyaMain",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 1103,
+      "is_full_screen": 1,
+      "module_name": "getgkpanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 1104,
+      "is_full_screen": 1,
+      "module_name": "17thAnniversaryGiftPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 1105,
+      "is_full_screen": 1,
+      "module_name": "ShengpAngleSkinMega",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 1106,
+      "is_full_screen": 1,
+      "module_name": "StarrySky",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 1107,
+      "is_full_screen": 1,
+      "module_name": "AnnivSkinCardMega",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 1108,
+      "is_full_screen": 1,
+      "module_name": "mysteryBoxGameEntry",
       "res_config": []
     }
   ]

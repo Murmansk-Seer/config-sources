@@ -14580,6 +14580,132 @@
         "monster_star": 3,
         "wish_progress": 30,
         "wishpet_id": 42627
+      },
+      {
+        "monster_id": 4719,
+        "monster_star": 3,
+        "wish_progress": 30,
+        "wishpet_id": 42628
+      },
+      {
+        "monster_id": 4722,
+        "monster_star": 2,
+        "wish_progress": 9,
+        "wishpet_id": 42629
+      },
+      {
+        "monster_id": 4727,
+        "monster_star": 3,
+        "wish_progress": 40,
+        "wishpet_id": 42630
+      },
+      {
+        "monster_id": 4735,
+        "monster_star": 3,
+        "wish_progress": 40,
+        "wishpet_id": 42631
+      },
+      {
+        "monster_id": 4742,
+        "monster_star": 3,
+        "wish_progress": 30,
+        "wishpet_id": 42632
+      },
+      {
+        "monster_id": 4745,
+        "monster_star": 6,
+        "wish_progress": 250,
+        "wishpet_id": 42633
+      },
+      {
+        "monster_id": 4750,
+        "monster_star": 6,
+        "wish_progress": 250,
+        "wishpet_id": 42634
+      },
+      {
+        "monster_id": 4754,
+        "monster_star": 3,
+        "wish_progress": 40,
+        "wishpet_id": 42635
+      },
+      {
+        "monster_id": 4764,
+        "monster_star": 3,
+        "wish_progress": 40,
+        "wishpet_id": 42636
+      },
+      {
+        "monster_id": 4788,
+        "monster_star": 3,
+        "wish_progress": 40,
+        "wishpet_id": 42637
+      },
+      {
+        "monster_id": 4800,
+        "monster_star": 6,
+        "wish_progress": 250,
+        "wishpet_id": 42638
+      },
+      {
+        "monster_id": 4806,
+        "monster_star": 3,
+        "wish_progress": 35,
+        "wishpet_id": 42639
+      },
+      {
+        "monster_id": 4808,
+        "monster_star": 5,
+        "wish_progress": 100,
+        "wishpet_id": 42640
+      },
+      {
+        "monster_id": 4812,
+        "monster_star": 3,
+        "wish_progress": 30,
+        "wishpet_id": 42641
+      },
+      {
+        "monster_id": 4813,
+        "monster_star": 3,
+        "wish_progress": 30,
+        "wishpet_id": 42642
+      },
+      {
+        "monster_id": 4815,
+        "monster_star": 3,
+        "wish_progress": 40,
+        "wishpet_id": 42643
+      },
+      {
+        "monster_id": 4819,
+        "monster_star": 2,
+        "wish_progress": 15,
+        "wishpet_id": 42644
+      },
+      {
+        "monster_id": 4840,
+        "monster_star": 5,
+        "wish_progress": 100,
+        "wishpet_id": 42645
+      },
+      {
+        "monster_id": 4849,
+        "monster_star": 2,
+        "wish_progress": 15,
+        "wishpet_id": 42646
+      },
+      {
+        "monster_id": 2516,
+        "monster_star": 3,
+        "wish_progress": 40,
+        "wishpet_id": 42647
+      },
+      {
+        "monster_id": 2524,
+        "monster_star": 3,
+        "wish_progress": 40,
+        "wishpet_id": 42648
       }
     ]
   }

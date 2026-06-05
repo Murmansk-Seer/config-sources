@@ -13160,6 +13160,30 @@
         "pet_id": 3407
       },
       {
+        "move_id": 29364,
+        "move_name1": "反",
+        "move_name2": "塑己焚心",
+        "pet_id": 4908
+      },
+      {
+        "move_id": 38414,
+        "move_name1": "全火力",
+        "move_name2": "覆盖",
+        "pet_id": 4909
+      },
+      {
+        "move_id": 38419,
+        "move_name1": "偕行世界",
+        "move_name2": "的尽头",
+        "pet_id": 4911
+      },
+      {
+        "move_id": 38423,
+        "move_name1": "向未来",
+        "move_name2": "的祈愿",
+        "pet_id": 4000
+      },
+      {
         "move_id": 31143,
         "move_name1": "神灵",
         "move_name2": "救世光",
