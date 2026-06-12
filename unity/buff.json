@@ -33673,6 +33673,46 @@
       ],
       "icontype": 0,
       "id": 4570
+    },
+    {
+      "desc": "{roundnext[0]}所有技能先制+1",
+      "tag": "先制",
+      "desc_tag": "roundnext",
+      "icon": [
+        6
+      ],
+      "icontype": 0,
+      "id": 4571
+    },
+    {
+      "desc": "{0}回合内自身受到的攻击伤害减少50%",
+      "tag": "减伤",
+      "desc_tag": "",
+      "icon": [
+        29
+      ],
+      "icontype": 0,
+      "id": 4572
+    },
+    {
+      "desc": "下{0}次属性技能无效",
+      "tag": "技能无效",
+      "desc_tag": "",
+      "icon": [
+        10
+      ],
+      "icontype": 0,
+      "id": 4573
+    },
+    {
+      "desc": "免疫下{0}次受到的攻击",
+      "tag": "技能无效",
+      "desc_tag": "",
+      "icon": [
+        10
+      ],
+      "icontype": 0,
+      "id": 4574
     }
   ]
 }
