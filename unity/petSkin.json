@@ -12435,7 +12435,7 @@
           }
         ],
         "id": 692,
-        "jump_target": 0,
+        "jump_target": 510007,
         "mon_id": 4717,
         "type": 18
       },
@@ -13155,7 +13155,7 @@
           }
         ],
         "id": 732,
-        "jump_target": 510004,
+        "jump_target": 510007,
         "mon_id": 4717,
         "type": 3
       },
@@ -13443,7 +13443,7 @@
           }
         ],
         "id": 748,
-        "jump_target": 510004,
+        "jump_target": 510007,
         "mon_id": 4421,
         "type": 3
       },
@@ -14649,7 +14649,7 @@
           }
         ],
         "id": 815,
-        "jump_target": 0,
+        "jump_target": 410000,
         "mon_id": 4717,
         "type": 3
       },
@@ -15138,6 +15138,96 @@
         "jump_target": 114078,
         "mon_id": 4909,
         "type": 2
+      },
+      {
+        "go": "app/FinalActivityPanel",
+        "go_type": "module",
+        "name": "傲世飞将·吕布",
+        "skin_kind": [
+          {
+            "id": 1,
+            "life_time": 0,
+            "skin_type": 0,
+            "type": 2,
+            "year": 0
+          }
+        ],
+        "id": 843,
+        "jump_target": 2,
+        "mon_id": 3940,
+        "type": 3
+      },
+      {
+        "go": "app/FinalActivityPanel",
+        "go_type": "module",
+        "name": "无法抵达的梦·灰蛾",
+        "skin_kind": [
+          {
+            "id": 1,
+            "life_time": 0,
+            "skin_type": 0,
+            "type": 2,
+            "year": 0
+          }
+        ],
+        "id": 844,
+        "jump_target": 114092,
+        "mon_id": 4912,
+        "type": 4
+      },
+      {
+        "go": "app/FinalActivityPanel",
+        "go_type": "module",
+        "name": "星冕纱华·艾欧丽娅",
+        "skin_kind": [
+          {
+            "id": 1,
+            "life_time": 0,
+            "skin_type": 0,
+            "type": 2,
+            "year": 0
+          }
+        ],
+        "id": 845,
+        "jump_target": 114093,
+        "mon_id": 4911,
+        "type": 4
+      },
+      {
+        "go": "app/FinalActivityPanel",
+        "go_type": "module",
+        "name": "阿娅",
+        "skin_kind": [
+          {
+            "id": 1,
+            "life_time": 0,
+            "skin_type": 0,
+            "type": 2,
+            "year": 0
+          }
+        ],
+        "id": 846,
+        "jump_target": 114094,
+        "mon_id": 4911,
+        "type": 0
+      },
+      {
+        "go": "app/FinalActivityPanel",
+        "go_type": "module",
+        "name": "艾丽娅",
+        "skin_kind": [
+          {
+            "id": 1,
+            "life_time": 0,
+            "skin_type": 0,
+            "type": 2,
+            "year": 0
+          }
+        ],
+        "id": 847,
+        "jump_target": 114094,
+        "mon_id": 4911,
+        "type": 0
       }
     ]
   }

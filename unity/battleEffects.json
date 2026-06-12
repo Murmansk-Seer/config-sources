@@ -647,6 +647,21 @@
             "unrestriction": 1,
             "unweaken": 1,
             "weaken": 0
+          },
+          {
+            "ctrl": 0,
+            "dependent": 1,
+            "derivation": 0,
+            "efftype": 2,
+            "id": 43,
+            "name": "渐冻",
+            "restriction": 0,
+            "unctrl": 1,
+            "undependent": 0,
+            "underivation": 1,
+            "unrestriction": 1,
+            "unweaken": 1,
+            "weaken": 0
           }
         ],
         "type": 0

@@ -5413,6 +5413,13 @@
       "res_config": []
     },
     {
+      "curr_app_do": 0,
+      "id": 894,
+      "is_full_screen": 0,
+      "module_name": "versePetSell",
+      "res_config": []
+    },
+    {
       "curr_app_do": 1,
       "id": 1021,
       "is_full_screen": 1,
@@ -5624,6 +5631,20 @@
     },
     {
       "curr_app_do": 1,
+      "id": 1051,
+      "is_full_screen": 0,
+      "module_name": "autocardFriend",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1052,
+      "is_full_screen": 0,
+      "module_name": "autoCardActivitycanglan",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
       "id": 1060,
       "is_full_screen": 1,
       "module_name": "aurumEndgame",
@@ -5725,6 +5746,34 @@
       "id": 1108,
       "is_full_screen": 1,
       "module_name": "mysteryBoxGameEntry",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 1109,
+      "is_full_screen": 1,
+      "module_name": "theFifthBuddhaRuturn",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 2,
+      "id": 1110,
+      "is_full_screen": 1,
+      "module_name": "aolyTrial",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1111,
+      "is_full_screen": 1,
+      "module_name": "getszyhecenter",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1112,
+      "is_full_screen": 1,
+      "module_name": "UnreachableDreamSkinMegaPanel",
       "res_config": []
     }
   ]

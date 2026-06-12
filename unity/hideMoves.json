@@ -13184,6 +13184,12 @@
         "pet_id": 4000
       },
       {
+        "move_id": 38426,
+        "move_name1": "告天堂的",
+        "move_name2": "残灰",
+        "pet_id": 4912
+      },
+      {
         "move_id": 31143,
         "move_name1": "神灵",
         "move_name2": "救世光",

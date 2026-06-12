@@ -1414,8 +1414,8 @@
             "go": "app/FinalActivityPanel",
             "redirect": "module",
             "mintmark": [],
-            "id": 4000,
-            "image_id": 4000,
+            "id": 4912,
+            "image_id": 4912,
             "label": 0,
             "mon_id": 0,
             "type": 0
@@ -1425,8 +1425,8 @@
             "go": "app/FinalActivityPanel",
             "redirect": "module",
             "mintmark": [],
-            "id": 4908,
-            "image_id": 4908,
+            "id": 4913,
+            "image_id": 4913,
             "label": 0,
             "mon_id": 0,
             "type": 0
@@ -1436,8 +1436,8 @@
             "go": "app/FinalActivityPanel",
             "redirect": "module",
             "mintmark": [],
-            "id": 4909,
-            "image_id": 4909,
+            "id": 4914,
+            "image_id": 4914,
             "label": 0,
             "mon_id": 0,
             "type": 0
@@ -1447,32 +1447,10 @@
             "go": "app/FinalActivityPanel",
             "redirect": "module",
             "mintmark": [],
-            "id": 4910,
-            "image_id": 4910,
+            "id": 843,
+            "image_id": 1400843,
             "label": 0,
-            "mon_id": 0,
-            "type": 0
-          },
-          {
-            "desc": "",
-            "go": "app/FinalActivityPanel",
-            "redirect": "module",
-            "mintmark": [],
-            "id": 4911,
-            "image_id": 4911,
-            "label": 0,
-            "mon_id": 0,
-            "type": 0
-          },
-          {
-            "desc": "",
-            "go": "app/FinalActivityPanel",
-            "redirect": "module",
-            "mintmark": [],
-            "id": 837,
-            "image_id": 1400837,
-            "label": 0,
-            "mon_id": 4000,
+            "mon_id": 3940,
             "type": 1
           },
           {
@@ -1480,10 +1458,10 @@
             "go": "app/FinalActivityPanel",
             "redirect": "module",
             "mintmark": [],
-            "id": 838,
-            "image_id": 1400838,
+            "id": 844,
+            "image_id": 1400844,
             "label": 0,
-            "mon_id": 4853,
+            "mon_id": 4912,
             "type": 1
           },
           {
@@ -1491,19 +1469,8 @@
             "go": "app/FinalActivityPanel",
             "redirect": "module",
             "mintmark": [],
-            "id": 839,
-            "image_id": 1400839,
-            "label": 0,
-            "mon_id": 4909,
-            "type": 1
-          },
-          {
-            "desc": "",
-            "go": "app/FinalActivityPanel",
-            "redirect": "module",
-            "mintmark": [],
-            "id": 840,
-            "image_id": 1400840,
+            "id": 845,
+            "image_id": 1400845,
             "label": 0,
             "mon_id": 4911,
             "type": 1
@@ -1513,10 +1480,10 @@
             "go": "app/FinalActivityPanel",
             "redirect": "module",
             "mintmark": [],
-            "id": 841,
-            "image_id": 1400841,
+            "id": 846,
+            "image_id": 1400846,
             "label": 0,
-            "mon_id": 4760,
+            "mon_id": 4911,
             "type": 1
           },
           {
@@ -1524,10 +1491,10 @@
             "go": "app/FinalActivityPanel",
             "redirect": "module",
             "mintmark": [],
-            "id": 842,
-            "image_id": 1400842,
+            "id": 847,
+            "image_id": 1400846,
             "label": 0,
-            "mon_id": 4909,
+            "mon_id": 4911,
             "type": 1
           }
         ]
@@ -30559,7 +30526,7 @@
       {
         "def_name": "妙时天女",
         "features": "来自“东之圈”星球赤洲星的大佛，拥有黑白两面。白面掌管吉时佳节的欢庆，是一位善神，黑面又称“厉世天母”，掌控祭祀与狂欢。",
-        "target": "114042",
+        "target": "114095",
         "id": 4872
       },
       {
@@ -30795,6 +30762,24 @@
         "features": "艾欧丽娅星光蜕变，凝练冰霜与自然之风，温柔坚定守护挚伴，与你共赴未来星海。",
         "target": "150128",
         "id": 4911
+      },
+      {
+        "def_name": "生之焰·灰蛾",
+        "features": "在苦难中成长的复仇者，灰蛾在与大家同行后化恨为护，以生命守护挚绊。",
+        "target": "114091",
+        "id": 4912
+      },
+      {
+        "def_name": "夏哆",
+        "features": "遗留在众星博物馆中的一名小管理员，自从经历了那次的“波动”后，身体就变成了这副模样。",
+        "target": "400025",
+        "id": 4913
+      },
+      {
+        "def_name": "奇灵画像",
+        "features": "狡猾的家伙，居然伪装成画像来偷袭探险的正义伙伴，必须狠狠修理一番！",
+        "target": "400025",
+        "id": 4914
       }
     ],
     "rec_mintmark": {
