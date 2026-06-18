@@ -140,6 +140,13 @@
         "max": 99999999,
         "name": "礼盒类道具",
         "url": "Assets/Art/Ui/assets/item/doodle/icon/"
+      },
+      {
+        "db_cat_id": 1,
+        "id": 27,
+        "max": 99999999,
+        "name": "群星牌卡册",
+        "url": "Assets/Art/Ui/assets/item/doodle/icon/"
       }
     ]
   }

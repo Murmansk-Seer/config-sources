@@ -12,9 +12,9 @@
         "item_type": 0,
         "life_time": 0,
         "max": 200,
-        "name": "0619占位物品31",
+        "name": "至臻黄金之血",
         "price": 0,
-        "rarity": 0,
+        "rarity": 4,
         "skin_id": 0,
         "sort": 29,
         "target_id": 0,
@@ -449,7 +449,7 @@
         "item_type": 0,
         "life_time": 0,
         "max": 9999999,
-        "name": "0619占位物品12",
+        "name": "闪耀晶币",
         "price": 0,
         "rarity": 0,
         "skin_id": 0,
@@ -472,7 +472,7 @@
         "item_type": 0,
         "life_time": 0,
         "max": 9999999,
-        "name": "0619占位物品11",
+        "name": "闪耀硬币",
         "price": 0,
         "rarity": 0,
         "skin_id": 0,
@@ -495,7 +495,7 @@
         "item_type": 0,
         "life_time": 0,
         "max": 1,
-        "name": "0619占位物品10",
+        "name": "璀璨巨星",
         "price": 0,
         "rarity": 0,
         "skin_id": 0,
@@ -518,7 +518,7 @@
         "item_type": 0,
         "life_time": 0,
         "max": 1,
-        "name": "0619占位物品9",
+        "name": "全民偶像",
         "price": 0,
         "rarity": 0,
         "skin_id": 0,
@@ -541,7 +541,7 @@
         "item_type": 0,
         "life_time": 0,
         "max": 1,
-        "name": "0619占位物品8",
+        "name": "明日之星",
         "price": 0,
         "rarity": 0,
         "skin_id": 0,
@@ -564,7 +564,7 @@
         "item_type": 0,
         "life_time": 0,
         "max": 9999999,
-        "name": "0619占位物品7",
+        "name": "灵籁币",
         "price": 0,
         "rarity": 0,
         "skin_id": 0,
@@ -1976,7 +1976,7 @@
         "use_end": "",
         "cat_id": 17,
         "hide_num": 0,
-        "purpose": 0,
+        "purpose": 4,
         "wd": 1
       },
       {
@@ -1999,7 +1999,7 @@
         "use_end": "",
         "cat_id": 17,
         "hide_num": 0,
-        "purpose": 0,
+        "purpose": 4,
         "wd": 1
       },
       {
@@ -2022,7 +2022,7 @@
         "use_end": "",
         "cat_id": 17,
         "hide_num": 0,
-        "purpose": 0,
+        "purpose": 4,
         "wd": 1
       },
       {
@@ -19088,7 +19088,7 @@
         "use_end": "",
         "cat_id": 17,
         "hide_num": 0,
-        "purpose": 0,
+        "purpose": 4,
         "wd": 1
       },
       {
@@ -19295,7 +19295,7 @@
         "use_end": "",
         "cat_id": 17,
         "hide_num": 0,
-        "purpose": 0,
+        "purpose": 4,
         "wd": 1
       },
       {
@@ -19525,7 +19525,7 @@
         "use_end": "",
         "cat_id": 17,
         "hide_num": 0,
-        "purpose": 0,
+        "purpose": 4,
         "wd": 1
       },
       {
@@ -19548,7 +19548,7 @@
         "use_end": "",
         "cat_id": 17,
         "hide_num": 0,
-        "purpose": 0,
+        "purpose": 4,
         "wd": 1
       },
       {
@@ -20790,7 +20790,7 @@
         "use_end": "",
         "cat_id": 17,
         "hide_num": 0,
-        "purpose": 0,
+        "purpose": 4,
         "wd": 1
       },
       {
@@ -20813,7 +20813,7 @@
         "use_end": "",
         "cat_id": 17,
         "hide_num": 0,
-        "purpose": 0,
+        "purpose": 4,
         "wd": 1
       },
       {

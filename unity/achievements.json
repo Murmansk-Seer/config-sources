@@ -8526,6 +8526,20 @@
                     "id": 13,
                     "proicon": 1498,
                     "spe_name_bonus": 595
+                  },
+                  {
+                    "abtext": "",
+                    "ach_name": "创造之化身",
+                    "desc": "通关S-西曼德妮【地狱难度】关卡获得",
+                    "threshold": "14",
+                    "title": "创造之化身",
+                    "title_color": "0xFFFFFF",
+                    "ability_title": 0,
+                    "achievement_point": 10,
+                    "hide": 0,
+                    "id": 14,
+                    "proicon": 1500,
+                    "spe_name_bonus": 597
                   }
                 ],
                 "id": 172,
@@ -8752,6 +8766,48 @@
                     "id": 1,
                     "proicon": 1476,
                     "spe_name_bonus": 578
+                  },
+                  {
+                    "abtext": "",
+                    "ach_name": "s1赛季群星牌专家",
+                    "desc": "s1赛季群星牌首次达到专家段位",
+                    "threshold": "2",
+                    "title": "",
+                    "title_color": "",
+                    "ability_title": 0,
+                    "achievement_point": 0,
+                    "hide": 0,
+                    "id": 2,
+                    "proicon": 1501,
+                    "spe_name_bonus": 0
+                  },
+                  {
+                    "abtext": "",
+                    "ach_name": "s1赛季群星牌传奇",
+                    "desc": "s1赛季群星牌首次达到传奇段位",
+                    "threshold": "3",
+                    "title": "",
+                    "title_color": "",
+                    "ability_title": 0,
+                    "achievement_point": 0,
+                    "hide": 0,
+                    "id": 3,
+                    "proicon": 1502,
+                    "spe_name_bonus": 0
+                  },
+                  {
+                    "abtext": "",
+                    "ach_name": "s1赛季群星牌群星之巅",
+                    "desc": "s1赛季群星牌首次达到群星之巅段位",
+                    "threshold": "4",
+                    "title": "",
+                    "title_color": "",
+                    "ability_title": 0,
+                    "achievement_point": 0,
+                    "hide": 0,
+                    "id": 4,
+                    "proicon": 1503,
+                    "spe_name_bonus": 0
                   }
                 ],
                 "id": 175,
