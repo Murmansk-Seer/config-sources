@@ -213,9 +213,9 @@ Desc:    刻印信息  tips的获得途径文字
 
 <Hotspot><!-- 本周热点 -->
 <item intro="全新精灵上线，快来看看吧！">
-      <place type= "0" ID="4912" ImageID= "4912" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
-	  <place type= "0" ID="4913" ImageID= "4913" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
-	  <place type= "0" ID="4914" ImageID= "4914" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
+      <place type= "0" ID="4915" ImageID= "4915" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
+	  <!-- <place type= "0" ID="4913" ImageID= "4913" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
+	  <!-- <place type= "0" ID="4914" ImageID= "4914" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "0" ID="4910" ImageID= "4910" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "0" ID="4911" ImageID= "4911" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "0" ID="4806" ImageID= "4806" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
@@ -255,11 +255,11 @@ Desc:    刻印信息  tips的获得途径文字
       <place type= "0" ID="4641" ImageID= "4641" Label= "0"  Redirect="map|module" Go="1679;app/ValleyExpeditionHatchMainPanel"/>-->
 
 
-      <place type= "1" ID="843" monID="3940" ImageID= "1400843" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
-      <place type= "1" ID="844" monID="4912" ImageID= "1400844" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
-	  <place type= "1" ID="845" monID="4911" ImageID= "1400845" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
-	  <place type= "1" ID="846" monID="4911" ImageID= "1400846" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
-      <place type= "1" ID="847" monID="4911" ImageID= "1400846" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
+      <place type= "1" ID="848" monID="4915" ImageID= "1400848" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
+      <place type= "1" ID="849" monID="4908" ImageID= "1400849" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
+	  <!-- <place type= "1" ID="845" monID="4911" ImageID= "1400845" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
+	  <!-- <place type= "1" ID="846" monID="4911" ImageID= "1400846" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
+      <!-- <place type= "1" ID="847" monID="4911" ImageID= "1400846" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "1" ID="842" monID="4909" ImageID= "1400842" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "1" ID="747" monID="4676" ImageID= "1400747" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "1" ID="748" monID="4421" ImageID= "1400748" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
@@ -2733,7 +2733,7 @@ Desc:    刻印信息  tips的获得途径文字
 	<Monster ID="2406" DefName="扎贡纳斯" Type="飞行" Height="180" Weight="70" Features="赏金猎人摩哥斯的手下悍将之一，平时主要呆在藏宝海湾之中守护摩哥斯那如山般的宝物，抹杀掉每一个想要拿走宝物的愚蠢之徒。" mapID="0"/>
 	<Monster ID="2407" DefName="斯摩" Type="暗影" Height="140" Weight="26" Features="魔灵王的第一形态，能自由自在的操控冥界之力。" mapID="0"/>
 	<Monster ID="2408" DefName="斯摩蒂德" Type="暗影" Height="200" Weight="71" Features="魔灵王的第二形态，相较于第一形态更加强大，他的冥界之力似乎能吞噬一切。" mapID="0"/>
-	<Monster ID="2409" DefName="斯摩亚蒂" Type="暗影" Height="210" Weight="90" Features="魔灵王的最终形态，强化后的他不仅仅只有外表得到了强化，似乎连他的侄子夜魔之神布莱克也不是他的对手。" mapID="0"/>
+	<Monster ID="2409" DefName="斯摩亚蒂" Type="暗影" Height="210" Weight="90" Features="魔灵王的最终形态，强化后的他不仅仅只有外表得到了强化，似乎连他的侄子夜魔之神布莱克也不是他的对手。" mapID="0"  Target="150130"/>
 	<Monster ID="2410" DefName="斗魂战甲" Type="战斗" Height="192" Weight="101" Features="来自未来的神秘斗士，有着与盖亚及其相似的外形以及不相上下的实力，关于他的一切都是一个谜！" mapID="0"/>
 	<Monster ID="2411" DefName="无间小将" Type="火 超能" Height="101" Weight="32" Features="从小就喜欢打架而且从来没输过，是魔界的孩子王！" mapID="0"/>
 	<Monster ID="2412" DefName="无间魔将" Type="火 超能" Height="161" Weight="50" Features="邪恶魔神撒旦的手下，精通火焰元素的他能够将火焰之力汇聚到拳头之中，对敌人造成成吨的伤害。" mapID="0"/>
@@ -3825,7 +3825,7 @@ Desc:    刻印信息  tips的获得途径文字
 	<Monster ID="3515" DefName="玄冥魂者·奥斯兰" Type="神秘" Height="180" Weight="70" Features="奥兰的完全体形态，身体里沉睡的冥域之魂觉醒了。他发誓要守护自己的家园，绝不退缩！" mapID="1264"/>
 	<Monster ID="3516" DefName="混沌地王莱茵哈特" Type="混沌 地面" Height="179" Weight="72" Features="当生命之盾无法阻挡亡魂！当大地之心不再纯洁不染！黑暗中，一位巨人倒下了！混沌地王莱茵哈特登场！" mapID="1265" Target="150079"/>
 	<Monster ID="3517" DefName="霍夫曼" Type="光" Height="180" Weight="80" Features="来自遥远天际的一位勇士，随身携带的天堂圣锤是他战斗中最好的作战伙伴！" mapID="103"/>
-	<Monster ID="3518" DefName="斯摩亚蒂斯" Type="暗影 邪灵" Height="200" Weight="70" Features="斯摩亚蒂的超进化形态，是宇宙中作恶多端的大坏蛋，卷土重来打开了逝者巨樽，宇宙又将陷入一场浩劫！" mapID="1265"/>
+	<Monster ID="3518" DefName="斯摩亚蒂斯" Type="暗影 邪灵" Height="200" Weight="70" Features="斯摩亚蒂的超进化形态，是宇宙中作恶多端的大坏蛋，卷土重来打开了逝者巨樽，宇宙又将陷入一场浩劫！" mapID="1265"  Target="150129"/>
 	<Monster ID="3519" DefName="沙悟净" Type="地面 暗影" Height="200" Weight="100" Features="博迪姆的超进化形态，面对敌人他不再怯懦，而是勇敢的迎接挑战！" mapID="103"/>
 	<Monster ID="3520" DefName="智慧女神·雅典娜" Type="飞行 神秘" Height="170" Weight="60" Features="雅典娜的完全体形态，是智慧与美貌的化身！圣洁不败的天神！" mapID="103"/>
 	<Monster ID="3521" DefName="拜斯" Type="冰 飞行" Height="150" Weight="50" Features="极为神秘的霰雪鸟，拥有着锋利的冰爪和强大的寒冰之力！" mapID="103" Target="295002"/>
@@ -5214,5 +5214,6 @@ Desc:    刻印信息  tips的获得途径文字
 	<Monster ID="4912" DefName="生之焰·灰蛾" Type="火 虫" Height="166" Weight="49" Features="在苦难中成长的复仇者，灰蛾在与大家同行后化恨为护，以生命守护挚绊。" Redirect="module" Go="app/FinalActivityPanel" Target="114091"/>
 	<Monster ID="4913" DefName="夏哆" Type="光 暗影" Height="119" Weight="29" Features="遗留在众星博物馆中的一名小管理员，自从经历了那次的“波动”后，身体就变成了这副模样。" Redirect="module" Go="app/FinalActivityPanel" Target="400025"/>
 	<Monster ID="4914" DefName="奇灵画像" Type="超能" Height="76" Weight="40" Features="狡猾的家伙，居然伪装成画像来偷袭探险的正义伙伴，必须狠狠修理一番！" Redirect="module" Go="app/FinalActivityPanel" Target="400025"/>
+	<Monster ID="4915" DefName="西曼德妮" Type="圣灵" Height="163" Weight="42" Features="阿派罗尼亚的首席先驱，以渊博的学识与才华为阿派罗尼亚奠基繁荣。" Redirect="module" Go="app/FinalActivityPanel" Target="153201/931"/>
 
 </root>

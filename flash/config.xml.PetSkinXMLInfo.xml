@@ -2876,6 +2876,14 @@ Year：该皮肤所属的年份（当前仅面向巅峰时装）
 		<SkinKind ID="1" Type="2" LifeTime="0"/>
 	</Skin>
 
+	<Skin ID="848" MonID="4915" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="古典艺术·西曼德妮" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114100">
+		<SkinKind ID="1" Type="2" LifeTime="0"/>
+	</Skin>
+
+	<Skin ID="849" MonID="4908" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="偶像叛客·蕊沃尔" Go="app/FinalActivityPanel" GoType="module" Jumptarget="114099">
+		<SkinKind ID="1" Type="2" LifeTime="0"/>
+	</Skin>
+
 	<!-- <Skin ID="000" MonID="000" Target="0" Occasion="1" AddWay="1" Attribute="" SkinEffectID="" SkinEffectArgs="" Type="3" Name="复制模版"> -->
 	<!-- <SkinKind ID="1" Type="2" LifeTime="0"/> -->
 	<!-- </Skin>	 -->
