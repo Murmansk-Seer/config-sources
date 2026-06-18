@@ -15228,6 +15228,42 @@
         "jump_target": 114094,
         "mon_id": 4911,
         "type": 0
+      },
+      {
+        "go": "app/FinalActivityPanel",
+        "go_type": "module",
+        "name": "古典艺术·西曼德妮",
+        "skin_kind": [
+          {
+            "id": 1,
+            "life_time": 0,
+            "skin_type": 0,
+            "type": 2,
+            "year": 0
+          }
+        ],
+        "id": 848,
+        "jump_target": 114100,
+        "mon_id": 4915,
+        "type": 3
+      },
+      {
+        "go": "app/FinalActivityPanel",
+        "go_type": "module",
+        "name": "偶像叛客·蕊沃尔",
+        "skin_kind": [
+          {
+            "id": 1,
+            "life_time": 0,
+            "skin_type": 0,
+            "type": 2,
+            "year": 0
+          }
+        ],
+        "id": 849,
+        "jump_target": 114099,
+        "mon_id": 4908,
+        "type": 3
       }
     ]
   }

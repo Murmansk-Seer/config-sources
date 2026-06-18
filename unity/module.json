@@ -5416,7 +5416,14 @@
       "curr_app_do": 0,
       "id": 894,
       "is_full_screen": 0,
-      "module_name": "versePetSell",
+      "module_name": "starAiouSkin",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 895,
+      "is_full_screen": 0,
+      "module_name": "RweSkinPanel",
       "res_config": []
     },
     {
@@ -5619,11 +5626,11 @@
       "curr_app_do": 1,
       "id": 1049,
       "is_full_screen": 1,
-      "module_name": "AutoCardLvPop",
+      "module_name": "autocardBP",
       "res_config": []
     },
     {
-      "curr_app_do": 1,
+      "curr_app_do": 2,
       "id": 1050,
       "is_full_screen": 0,
       "module_name": "autocardSeasonSettlePop",
@@ -5641,6 +5648,13 @@
       "id": 1052,
       "is_full_screen": 0,
       "module_name": "autoCardActivitycanglan",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 0,
+      "id": 1053,
+      "is_full_screen": 0,
+      "module_name": "autocardItemAward",
       "res_config": []
     },
     {
@@ -5683,6 +5697,62 @@
       "id": 1065,
       "is_full_screen": 1,
       "module_name": "guntower",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1066,
+      "is_full_screen": 1,
+      "module_name": "getxmdnskin",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1070,
+      "is_full_screen": 0,
+      "module_name": "autocardCollectionHreo",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1071,
+      "is_full_screen": 0,
+      "module_name": "autocardHandbookEntrancePanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1072,
+      "is_full_screen": 1,
+      "module_name": "autoCardDiduo",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1073,
+      "is_full_screen": 1,
+      "module_name": "autoCardDiduo",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1074,
+      "is_full_screen": 1,
+      "module_name": "autocardSubscribe",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1075,
+      "is_full_screen": 1,
+      "module_name": "autoCardBattleActivity",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1076,
+      "is_full_screen": 1,
+      "module_name": "atuocardPublicity",
       "res_config": []
     },
     {
@@ -5774,6 +5844,48 @@
       "id": 1112,
       "is_full_screen": 1,
       "module_name": "UnreachableDreamSkinMegaPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1113,
+      "is_full_screen": 1,
+      "module_name": "goldentrailActivity",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1114,
+      "is_full_screen": 1,
+      "module_name": "masterMind",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1115,
+      "is_full_screen": 1,
+      "module_name": "goldenChurchUp",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1116,
+      "is_full_screen": 1,
+      "module_name": "simoyadisMegaPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1117,
+      "is_full_screen": 1,
+      "module_name": "simoyadMainPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1118,
+      "is_full_screen": 1,
+      "module_name": "rayGaiaPetSkinRe2026",
       "res_config": []
     }
   ]

@@ -4819,6 +4819,22 @@
         "sort": 5
       },
       {
+        "class_name": "*",
+        "dec": "事象观测",
+        "des": "若自身没有异常状态记录，则对手进入异常状态时自身记录该异常状态；若自身没有技能类型记录，则自身使用技能后记录该技能类型",
+        "frame": [],
+        "num_des": "",
+        "sp_des": [],
+        "sp_icon": [],
+        "sp_tips": [],
+        "tips": "事象观测",
+        "id": 185,
+        "is_show_num": 0,
+        "show_monster": 0,
+        "show_time": 0,
+        "sort": 1
+      },
+      {
         "class_name": "SignBuffView_1000",
         "dec": "折叠icon",
         "des": "",
