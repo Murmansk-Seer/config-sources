@@ -213,7 +213,7 @@ Desc:    刻印信息  tips的获得途径文字
 
 <Hotspot><!-- 本周热点 -->
 <item intro="全新精灵上线，快来看看吧！">
-      <place type= "0" ID="4915" ImageID= "4915" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
+      <place type= "0" ID="4916" ImageID= "4916" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/>
 	  <!-- <place type= "0" ID="4913" ImageID= "4913" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "0" ID="4914" ImageID= "4914" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "0" ID="4910" ImageID= "4910" Label= "0"  Redirect="module" Go="app/FinalActivityPanel"/> -->
@@ -255,8 +255,8 @@ Desc:    刻印信息  tips的获得途径文字
       <place type= "0" ID="4641" ImageID= "4641" Label= "0"  Redirect="map|module" Go="1679;app/ValleyExpeditionHatchMainPanel"/>-->
 
 
-      <place type= "1" ID="848" monID="4915" ImageID= "1400848" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
-      <place type= "1" ID="849" monID="4908" ImageID= "1400849" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
+      <place type= "1" ID="850" monID="4147" ImageID= "1400850" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
+      <place type= "1" ID="851" monID="4709" ImageID= "1400851" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/>
 	  <!-- <place type= "1" ID="845" monID="4911" ImageID= "1400845" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
 	  <!-- <place type= "1" ID="846" monID="4911" ImageID= "1400846" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
       <!-- <place type= "1" ID="847" monID="4911" ImageID= "1400846" Label= "0" Redirect="module" Go="app/FinalActivityPanel"/> -->
@@ -3848,7 +3848,7 @@ Desc:    刻印信息  tips的获得途径文字
 	<Monster ID="3538" DefName="丹尼" Type="冰 龙" Height="100" Weight="40" Features="丹尼是今年圣诞节的专属节日精灵，是稀有的冰龙后代。" mapID="1271"/>
 	<Monster ID="3539" DefName="混沌布莱克" Type="混沌 暗影" Height="190" Weight="75" Features="即使混沌占据身体，但正义的精神不会倒下！纵然黑暗吞噬灵魂，但永恒的心灵不会腐朽！身处黑暗，心向光明！他是光明守护者！他是布莱克！" mapID="1270" jumptarget="206" Target="150056"/>
 	<Monster ID="3540" DefName="鲁肃" Type="水 战斗" Height="180" Weight="70" Features="三国时期的豪杰，穿越时空降临赛尔号！是一位著名的谋略家！" mapID="103"/>
-	<Monster ID="3541" DefName="魔灵王·斯摩亚蒂" Type="混沌 邪灵" Height="180" Weight="70" Features="斯摩亚蒂的完全体形态，掌握了逝者巨樽全部的力量！是一个十分恐怖的家伙！" mapID="1273"/>
+	<Monster ID="3541" DefName="魔灵王·斯摩亚蒂" Type="混沌 邪灵" Height="180" Weight="70" Features="斯摩亚蒂的完全体形态，掌握了逝者巨樽全部的力量！是一个十分恐怖的家伙！" mapID="1273" Target="150131"/>
 	<Monster ID="3542" DefName="瑞冬·萌布布种子" Type="草" Height="60" Weight="30" Features="元旦节的吉祥物，三萌宠也穿着新装陪大家一起庆贺新年咯~" mapID="1154"/>
 	<Monster ID="3543" DefName="瑞冬·萌火猴" Type="火" Height="60" Weight="30" Features="元旦节的吉祥物，三萌宠也穿着新装陪大家一起庆贺新年咯~" mapID="1154"/>
 	<Monster ID="3544" DefName="瑞冬·萌伊优" Type="水" Height="60" Weight="30" Features="元旦节的吉祥物，三萌宠也穿着新装陪大家一起庆贺新年咯~" mapID="1154"/>
@@ -3905,7 +3905,7 @@ Desc:    刻印信息  tips的获得途径文字
 	<Monster ID="3595" DefName="泰拉图斯" Type="草 战斗" Height="150" Weight="80" Features="茂密的蕨齿密林，隐藏暴戾的杀气！变异的巨型独角仙，拥有着绝对的破坏力！" mapID="1286" Target="140001"/>
 	<Monster ID="3596" DefName="泰图" Type="草" Height="10" Weight="5" Features="生活在蕨齿密林中的一种野生昆虫，以腐叶土或朽木形成的腐殖质为食。" mapID="1286"/>
 	<Monster ID="3597" DefName="托雷戴尔" Type="机械 次元" Height="200" Weight="80" Features="神秘的时空机甲一族，穿梭于次元，捍卫宇宙的和平！如今再次来到这个宇宙，什么样的危机在等着他呢？" mapID="1286"/>
-	<Monster ID="3598" DefName="戈拉" Type="机械" Height="100" Weight="30" Features="突然间出现在灵龟之渊的野生精灵，我们发现，它似乎和玄武之间存在着某种莫名的联系...." mapID="1278"/>
+	<Monster ID="3598" DefName="戈拉" Type="机械" Height="100" Weight="30" Features="突然间出现在灵龟之渊的野生精灵，我们发现，它似乎和玄武之间存在着某种莫名的联系...." mapID="1278" Target="400026"/>
 	<Monster ID="3599" DefName="卡杉德拉" Type="火 战斗" Height="200" Weight="90" Features="酷似英卡洛斯的身躯，挥舞象征毁灭的熔岩之刃，他到底和英卡洛斯有何关联...." mapID="1287"/>
 	<Monster ID="3600" DefName="纳纳" Type="远古 草" Height="120" Weight="40" Features="饱受践踏的绿色生灵，于此刻终将奋起反抗。蕨齿密林的精灵代表，她将协助我们击退虫群！" mapID="1287" Target="140001"/>
 	<Monster ID="3601" DefName="王牌术师" Type="超能 神秘" Height="150" Weight="65" Features="永远把自己隐藏在黑色的斗篷和帽子里，似乎从来没有人见到过他的真面目，最擅长操控卡牌！" mapID="103"/>
@@ -4362,7 +4362,7 @@ Desc:    刻印信息  tips的获得途径文字
 	<Monster ID="4058" DefName="魏武帝·曹操" Type="远古 神秘" Height="191" Weight="78" Features="曹操的超进化形态，显帝王之威、冠天下之绝！" Redirect="map|module" Go="103;app/SuperEvolutionOfCaoCaoMainPanel"/>
 	<Monster ID="4059" DefName="岚" Type="自然" Height="175" Weight="67" Features="丢失记忆的迷途者，成长于和煦的自然之风，在疾风中轻盈跃动、挥动着风之利刺！" Redirect="map|module" Go="1435;app/S34LanMainPanel"/>
 	<Monster ID="4060" DefName="露姆" Type="光 超能" Height="900" Weight="30" Features="正午阳光下复苏摇曳的仙境生物，蕴含着无垠之界最纯净的能量！" Redirect="map" Go="1435"/>
-	<Monster ID="4061" DefName="法莉" Type="圣灵 超能" Height="162" Weight="46" Features="一名正直而伟大的守护者，她的气息蔓延在仙境的各个角落，带来了无限的生机与希望！" Redirect="map|module" Go="1436;app/S35FaLiMainPanel"/>
+	<Monster ID="4061" DefName="法莉" Type="圣灵 超能" Height="162" Weight="46" Features="一名正直而伟大的守护者，她的气息蔓延在仙境的各个角落，带来了无限的生机与希望！" Redirect="map|module" Go="1436;app/S35FaLiMainPanel" Target="150132"/>
 	<Monster ID="4062" DefName="莱妮斯" Type="草 战斗" Height="900" Weight="30" Features="在仙境中孕育而生，常年生活在寒风岭，身上隐隐散发出一丝奇特的气息......" Redirect="map" Go="1436"/>
 	<Monster ID="4063" DefName="箩比" Type="光 暗影" Height="900" Weight="30" Features="马戏团中的开心果，可爱的外表和蠢萌的表情总是让人捧腹不止！" Redirect="module" Go="app/GetMengqiMainPanel"/>
 	<Monster ID="4064" DefName="清·炫羽" Type="光 飞行" Height="173" Weight="49" Features="炫羽的超进化形态，轻柔的白羽下隐藏着急骤的攻势！" Redirect="map" Go="103"/>
@@ -5215,5 +5215,6 @@ Desc:    刻印信息  tips的获得途径文字
 	<Monster ID="4913" DefName="夏哆" Type="光 暗影" Height="119" Weight="29" Features="遗留在众星博物馆中的一名小管理员，自从经历了那次的“波动”后，身体就变成了这副模样。" Redirect="module" Go="app/FinalActivityPanel" Target="400025"/>
 	<Monster ID="4914" DefName="奇灵画像" Type="超能" Height="76" Weight="40" Features="狡猾的家伙，居然伪装成画像来偷袭探险的正义伙伴，必须狠狠修理一番！" Redirect="module" Go="app/FinalActivityPanel" Target="400025"/>
 	<Monster ID="4915" DefName="西曼德妮" Type="圣灵" Height="163" Weight="42" Features="阿派罗尼亚的首席先驱，以渊博的学识与才华为阿派罗尼亚奠基繁荣。" Redirect="module" Go="app/FinalActivityPanel" Target="153201/931"/>
+	<Monster ID="4916" DefName="若兰" Type="冰 飞行" Height="1082" Weight="61" Features="λ组织的信使若兰，永远温文尔雅，永远疏离。" Redirect="module" Go="app/FinalActivityPanel" Target="153201/933"/>
 
 </root>
