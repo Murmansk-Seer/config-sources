@@ -2343,7 +2343,21 @@
 	<Effect id="2504" argsNum="0" info="无视对手的正先制等级，命中时此效果本次在场失效" analyze="[sprite name=iconComp]无视对手的正[color=#52a5f2]先制[/color]等级，命中时此效果本次在场失效"/>
 	<Effect id="2505" argsNum="4" info="令对手{0}，自身每有{1}点{2}值，每次在场限{3}次" analyze="[sprite name=iconHit]令对手[color=#57c975]{0}[/color]，自身每有{1}点{2}值，每次在场限{3}次" param="1,0,0|2,2,2"/>
 	<Effect id="2506" argsNum="0" info="消耗自身本场战斗系别中的火系，之后本场战斗自身获得的渐烬改为2层天烬海" analyze="[sprite name=iconHit]消耗自身本场战斗系别中的火系，之后本场战斗自身获得的[color=#f35555]渐烬[/color]改为2层[color=#f35555]天烬海[/color]"/>
-
+	<Effect id="2507" argsNum="0" info="对方同时拥有血月、寒月时，令血月、寒月本场战斗不再转移" analyze="[sprite name=iconHit]对方同时拥有[color=#f35555]血月[/color]、[color=#f35555]寒月[/color]时，令[color=#f35555]血月[/color]、[color=#f35555]寒月[/color]本场战斗不再转移"/>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
  </root>
  <!--
   	<ParamType id="0" params="攻击|防御|特攻|特防|速度|命中" />
