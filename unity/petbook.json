@@ -1414,8 +1414,8 @@
             "go": "app/FinalActivityPanel",
             "redirect": "module",
             "mintmark": [],
-            "id": 4915,
-            "image_id": 4915,
+            "id": 4916,
+            "image_id": 4916,
             "label": 0,
             "mon_id": 0,
             "type": 0
@@ -1425,10 +1425,10 @@
             "go": "app/FinalActivityPanel",
             "redirect": "module",
             "mintmark": [],
-            "id": 848,
-            "image_id": 1400848,
+            "id": 850,
+            "image_id": 1400850,
             "label": 0,
-            "mon_id": 4915,
+            "mon_id": 4147,
             "type": 1
           },
           {
@@ -1436,10 +1436,10 @@
             "go": "app/FinalActivityPanel",
             "redirect": "module",
             "mintmark": [],
-            "id": 849,
-            "image_id": 1400849,
+            "id": 851,
+            "image_id": 1400851,
             "label": 0,
-            "mon_id": 4908,
+            "mon_id": 4709,
             "type": 1
           }
         ]
@@ -22533,7 +22533,7 @@
       {
         "def_name": "魔灵王·斯摩亚蒂",
         "features": "斯摩亚蒂的完全体形态，掌握了逝者巨樽全部的力量！是一个十分恐怖的家伙！",
-        "target": "",
+        "target": "150131",
         "id": 3541
       },
       {
@@ -22875,7 +22875,7 @@
       {
         "def_name": "戈拉",
         "features": "突然间出现在灵龟之渊的野生精灵，我们发现，它似乎和玄武之间存在着某种莫名的联系....",
-        "target": "",
+        "target": "400026",
         "id": 3598
       },
       {
@@ -25617,7 +25617,7 @@
       {
         "def_name": "法莉",
         "features": "一名正直而伟大的守护者，她的气息蔓延在仙境的各个角落，带来了无限的生机与希望！",
-        "target": "",
+        "target": "150132",
         "id": 4061
       },
       {
@@ -30731,6 +30731,12 @@
         "features": "阿派罗尼亚的首席先驱，以渊博的学识与才华为阿派罗尼亚奠基繁荣。",
         "target": "153201/931",
         "id": 4915
+      },
+      {
+        "def_name": "若兰",
+        "features": "λ组织的信使若兰，永远温文尔雅，永远疏离。",
+        "target": "153201/933",
+        "id": 4916
       }
     ],
     "rec_mintmark": {

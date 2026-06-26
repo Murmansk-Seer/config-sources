@@ -5427,6 +5427,13 @@
       "res_config": []
     },
     {
+      "curr_app_do": 0,
+      "id": 896,
+      "is_full_screen": 0,
+      "module_name": "17yearKeyin",
+      "res_config": []
+    },
+    {
       "curr_app_do": 1,
       "id": 1021,
       "is_full_screen": 1,
@@ -5886,6 +5893,55 @@
       "id": 1118,
       "is_full_screen": 1,
       "module_name": "rayGaiaPetSkinRe2026",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1119,
+      "is_full_screen": 1,
+      "module_name": "simoyadKingMega",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1120,
+      "is_full_screen": 1,
+      "module_name": "simoyadKingMega",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1121,
+      "is_full_screen": 1,
+      "module_name": "giftFarFrom",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1122,
+      "is_full_screen": 1,
+      "module_name": "getFL",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1123,
+      "is_full_screen": 0,
+      "module_name": "seerShipChooseGame",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1124,
+      "is_full_screen": 0,
+      "module_name": "xuanwuRenascorActivitycenter",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1125,
+      "is_full_screen": 1,
+      "module_name": "gettxjsmain",
       "res_config": []
     }
   ]

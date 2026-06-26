@@ -15264,6 +15264,42 @@
         "jump_target": 114099,
         "mon_id": 4908,
         "type": 3
+      },
+      {
+        "go": "app/FinalActivityPanel",
+        "go_type": "module",
+        "name": "森语·月冕",
+        "skin_kind": [
+          {
+            "id": 1,
+            "life_time": 0,
+            "skin_type": 0,
+            "type": 2,
+            "year": 0
+          }
+        ],
+        "id": 850,
+        "jump_target": 114017,
+        "mon_id": 4147,
+        "type": 2
+      },
+      {
+        "go": "app/FinalActivityPanel",
+        "go_type": "module",
+        "name": "吉尼亚斯",
+        "skin_kind": [
+          {
+            "id": 1,
+            "life_time": 0,
+            "skin_type": 0,
+            "type": 2,
+            "year": 0
+          }
+        ],
+        "id": 851,
+        "jump_target": 2,
+        "mon_id": 4709,
+        "type": 0
       }
     ]
   }
