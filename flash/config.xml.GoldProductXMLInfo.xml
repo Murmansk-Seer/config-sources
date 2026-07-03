@@ -23954,6 +23954,23 @@
 	<item vip="1" icon="" productType="-1" malldiscount="0" productID="262570" type="0" itemID="1728243" price="40" name="付费扫荡地狱关卡（若兰）"></item>
 	<item vip="1" icon="" productType="-1" malldiscount="0" productID="262571" type="0" itemID="1728244" price="2" name="购买获得若兰因子"></item>
 	<item vip="1" icon="" productType="-1" malldiscount="0" productID="262572" type="0" itemID="1728245" price="10" name="获取《赛尔的一日舰长》游戏次数"></item>
-	<item vip="1" icon="" productType="-1" malldiscount="0" productID="262573" type="0" itemID="1728247" price="1" name="0703占位商品"></item>
-	<item vip="1" icon="" productType="-1" malldiscount="0" productID="262574" type="0" itemID="1728248" price="10" name="0703占位商品1"></item>
+	<item vip="1" icon="" productType="-1" malldiscount="0" productID="262573" type="0" itemID="1728247" price="1" name="获得大暗黑天能力突破单价"></item>
+	<item vip="1" icon="" productType="-1" malldiscount="0" productID="262574" type="0" itemID="1728248" price="10" name="购买游戏次数"></item>
+	<item vip="1" icon="" productType="-1" malldiscount="0" productID="262575" type="0" itemID="1728250" price="598" name="至尊获得精灵【影行者】"></item>
+	<item vip="1" icon="" productType="-1" malldiscount="0" productID="262576" type="0" itemID="1728251" price="30" name="购买每日挑战次数（影行者）"></item>
+	<item vip="1" icon="" productType="-1" malldiscount="0" productID="262577" type="0" itemID="1728252" price="20" name="付费扫荡简单关卡（影行者）"></item>
+	<item vip="1" icon="" productType="-1" malldiscount="0" productID="262578" type="0" itemID="1728253" price="30" name="付费扫荡困难关卡（影行者）"></item>
+	<item vip="1" icon="" productType="-1" malldiscount="0" productID="262579" type="0" itemID="1728254" price="40" name="付费扫荡地狱关卡（影行者）"></item>
+	<item vip="1" icon="" productType="-1" malldiscount="0" productID="262580" type="0" itemID="1728255" price="2" name="购买获得影行者因子"></item>
+	<item vip="1" icon="" productType="-1" malldiscount="0" productID="262581" type="0" itemID="1728256" price="1790" name="购买新二代刻印宝石组合礼包"></item>
+	<item vip="1" icon="" productType="-1" malldiscount="0" productID="262582" type="0" itemID="1728257" price="398" name="购买秘咒宝石I"></item>
+	<item vip="1" icon="" productType="-1" malldiscount="0" productID="262583" type="0" itemID="1728258" price="398" name="购买失力宝石I"></item>
+	<item vip="1" icon="" productType="-1" malldiscount="0" productID="262584" type="0" itemID="1728259" price="398" name="购买活力保留宝石I"></item>
+	<item vip="1" icon="" productType="-1" malldiscount="0" productID="262585" type="0" itemID="1728260" price="398" name="购买护盾回溯宝石I"></item>
+	<item vip="1" icon="" productType="-1" malldiscount="0" productID="262586" type="0" itemID="1728261" price="398" name="购买护罩回溯宝石I"></item>
+	<item vip="1" icon="" productType="-1" malldiscount="0" productID="262587" type="0" itemID="1728262" price="80" name="石之砂普通礼包"></item>
+	<item vip="1" icon="" productType="-1" malldiscount="0" productID="262588" type="0" itemID="1728263" price="218" name="石之砂稀有礼包"></item>
+	<item vip="1" icon="" productType="-1" malldiscount="0" productID="262589" type="0" itemID="1728264" price="398" name="石之砂豪华礼包"></item>
+	<item vip="1" icon="" productType="-1" malldiscount="0" productID="262590" type="0" itemID="1728265" price="500" name="石之砂至尊礼包"></item>
+	<item vip="1" icon="" productType="-1" malldiscount="0" productID="262591" type="0" itemID="1728267" price="1" name="购买海沫星贝"></item>
 </root>

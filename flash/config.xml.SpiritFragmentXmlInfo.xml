@@ -582,4 +582,6 @@
 	<Fragment ID="2400581" show="1" Name="若兰因子" MonsterID="4916" Rarity="2" PetLimit="1" PetConsume="400" NewSeIdx="6410" effectId="2109" NewseConsume="200" MoveID="38436" MovesConsume="100" NeedmonID="0" NewMsglogId="2606250600" SeMsglog="2606250601" EffectMsglog="2606250602"/>
     <Fragment ID="2400582" show="1" Name="环·木心因子" MonsterID="4054" Rarity="2" PetLimit="1" PetConsume="400" NewSeIdx="5573" effectId="1302" NewseConsume="200" MoveID="34229" MovesConsume="100" NeedmonID="0" NewMsglogId="" SeMsglog="" EffectMsglog=""/>
     <Fragment ID="2400583" show="1" Name="环·回响因子" MonsterID="4043" Rarity="2" PetLimit="1" PetConsume="400" NewSeIdx="5567" effectId="1296" NewseConsume="200" MoveID="34180" MovesConsume="100" NeedmonID="0" NewMsglogId="" SeMsglog="" EffectMsglog=""/>
+    <Fragment ID="2400584" show="1" Name="影行者因子" MonsterID="4917" Rarity="2" PetLimit="1" PetConsume="400" NewSeIdx="6415" effectId="2113" NewseConsume="200" MoveID="38440" MovesConsume="100" NeedmonID="0" NewMsglogId="2607020500" SeMsglog="2607020501" EffectMsglog="2607020502"/>
+    
 </Root>
