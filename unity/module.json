@@ -5943,6 +5943,55 @@
       "is_full_screen": 1,
       "module_name": "gettxjsmain",
       "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1126,
+      "is_full_screen": 1,
+      "module_name": "numbergame",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1127,
+      "is_full_screen": 1,
+      "module_name": "dayDream",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1128,
+      "is_full_screen": 0,
+      "module_name": "minstonesaleActivity",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1129,
+      "is_full_screen": 0,
+      "module_name": "daanheitianMainPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1130,
+      "is_full_screen": 0,
+      "module_name": "daanheitianMainPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1131,
+      "is_full_screen": 1,
+      "module_name": "getSgglr",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1132,
+      "is_full_screen": 1,
+      "module_name": "getSgglr",
+      "res_config": []
     }
   ]
 }

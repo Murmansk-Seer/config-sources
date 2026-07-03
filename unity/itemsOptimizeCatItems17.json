@@ -8,6 +8,29 @@
         "exchange_out_id": "",
         "exchange_type": 0,
         "hide": 0,
+        "id": 1728266,
+        "item_type": 0,
+        "life_time": 0,
+        "max": 9999,
+        "name": "海沫星贝",
+        "price": 0,
+        "rarity": 5,
+        "skin_id": 0,
+        "sort": 29,
+        "target_id": 0,
+        "use_end": "",
+        "cat_id": 17,
+        "hide_num": 0,
+        "purpose": 0,
+        "wd": 1
+      },
+      {
+        "bean": 0,
+        "exchange_id": 0,
+        "exchange_out_cnt": "",
+        "exchange_out_id": "",
+        "exchange_type": 0,
+        "hide": 0,
         "id": 1728249,
         "item_type": 0,
         "life_time": 0,
@@ -25644,7 +25667,7 @@
         "cat_id": 17,
         "hide_num": 0,
         "purpose": 2,
-        "wd": 0
+        "wd": 1
       },
       {
         "bean": 0,
@@ -25667,7 +25690,7 @@
         "cat_id": 17,
         "hide_num": 0,
         "purpose": 2,
-        "wd": 0
+        "wd": 1
       },
       {
         "bean": 0,
@@ -25690,7 +25713,7 @@
         "cat_id": 17,
         "hide_num": 0,
         "purpose": 2,
-        "wd": 0
+        "wd": 1
       },
       {
         "bean": 0,
@@ -25713,7 +25736,7 @@
         "cat_id": 17,
         "hide_num": 0,
         "purpose": 2,
-        "wd": 0
+        "wd": 1
       },
       {
         "bean": 0,
@@ -25736,7 +25759,7 @@
         "cat_id": 17,
         "hide_num": 0,
         "purpose": 2,
-        "wd": 0
+        "wd": 1
       },
       {
         "bean": 0,
@@ -25759,7 +25782,7 @@
         "cat_id": 17,
         "hide_num": 0,
         "purpose": 2,
-        "wd": 0
+        "wd": 1
       },
       {
         "bean": 0,
@@ -25782,7 +25805,7 @@
         "cat_id": 17,
         "hide_num": 0,
         "purpose": 2,
-        "wd": 0
+        "wd": 1
       },
       {
         "bean": 0,
@@ -25805,7 +25828,7 @@
         "cat_id": 17,
         "hide_num": 0,
         "purpose": 2,
-        "wd": 0
+        "wd": 1
       },
       {
         "bean": 0,
@@ -25828,7 +25851,7 @@
         "cat_id": 17,
         "hide_num": 0,
         "purpose": 2,
-        "wd": 0
+        "wd": 1
       },
       {
         "bean": 0,
@@ -25851,7 +25874,7 @@
         "cat_id": 17,
         "hide_num": 0,
         "purpose": 2,
-        "wd": 0
+        "wd": 1
       },
       {
         "bean": 0,
