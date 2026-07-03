@@ -13208,6 +13208,18 @@
         "pet_id": 4147
       },
       {
+        "move_id": 38440,
+        "move_name1": "影猎",
+        "move_name2": "截杀破",
+        "pet_id": 4917
+      },
+      {
+        "move_id": 38443,
+        "move_name1": "真我",
+        "move_name2": "觐见",
+        "pet_id": 4918
+      },
+      {
         "move_id": 31143,
         "move_name1": "神灵",
         "move_name2": "救世光",

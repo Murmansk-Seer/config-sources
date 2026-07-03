@@ -14906,8 +14906,8 @@
         "type": 3
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "凛夜将至·柯尔德",
         "skin_kind": [
           {
@@ -14919,13 +14919,13 @@
           }
         ],
         "id": 830,
-        "jump_target": 114071,
+        "jump_target": 0,
         "mon_id": 3886,
         "type": 3
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "荣光之约·蒙鲁特",
         "skin_kind": [
           {
@@ -14937,13 +14937,13 @@
           }
         ],
         "id": 831,
-        "jump_target": 2,
+        "jump_target": 0,
         "mon_id": 4629,
         "type": 3
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "莱卡的守望·潘克多斯",
         "skin_kind": [
           {
@@ -14955,13 +14955,13 @@
           }
         ],
         "id": 832,
-        "jump_target": 114073,
+        "jump_target": 0,
         "mon_id": 4344,
         "type": 18
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "莱卡的守望·斯克鲁恩",
         "skin_kind": [
           {
@@ -14973,13 +14973,13 @@
           }
         ],
         "id": 833,
-        "jump_target": 114073,
+        "jump_target": 0,
         "mon_id": 4463,
         "type": 18
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "莱卡的守望·加尔鲁特",
         "skin_kind": [
           {
@@ -14991,13 +14991,13 @@
           }
         ],
         "id": 834,
-        "jump_target": 114073,
+        "jump_target": 0,
         "mon_id": 4606,
         "type": 18
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "卡通玩具·萨瑞卡",
         "skin_kind": [
           {
@@ -15009,13 +15009,13 @@
           }
         ],
         "id": 835,
-        "jump_target": 114076,
+        "jump_target": 0,
         "mon_id": 3637,
         "type": 3
       },
       {
         "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go_type": "",
         "name": "派鲁基达",
         "skin_kind": [
           {
@@ -15027,13 +15027,13 @@
           }
         ],
         "id": 836,
-        "jump_target": 2,
+        "jump_target": 0,
         "mon_id": 4834,
         "type": 0
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "于生命中得见·薇尔诗",
         "skin_kind": [
           {
@@ -15045,13 +15045,13 @@
           }
         ],
         "id": 837,
-        "jump_target": 114084,
+        "jump_target": 0,
         "mon_id": 4000,
         "type": 20
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "超算魅影·梅赫维特",
         "skin_kind": [
           {
@@ -15063,13 +15063,13 @@
           }
         ],
         "id": 838,
-        "jump_target": 114086,
+        "jump_target": 0,
         "mon_id": 4853,
         "type": 4
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "审判天使·钢傀",
         "skin_kind": [
           {
@@ -15081,13 +15081,13 @@
           }
         ],
         "id": 839,
-        "jump_target": 114087,
+        "jump_target": 0,
         "mon_id": 4909,
         "type": 4
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "星际领航员·艾欧丽娅",
         "skin_kind": [
           {
@@ -15099,7 +15099,7 @@
           }
         ],
         "id": 840,
-        "jump_target": 114090,
+        "jump_target": 0,
         "mon_id": 4911,
         "type": 3
       },
@@ -15122,8 +15122,8 @@
         "type": 2
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "限制解除·钢傀",
         "skin_kind": [
           {
@@ -15135,13 +15135,13 @@
           }
         ],
         "id": 842,
-        "jump_target": 114078,
+        "jump_target": 0,
         "mon_id": 4909,
         "type": 2
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "傲世飞将·吕布",
         "skin_kind": [
           {
@@ -15153,13 +15153,13 @@
           }
         ],
         "id": 843,
-        "jump_target": 2,
+        "jump_target": 0,
         "mon_id": 3940,
         "type": 3
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "无法抵达的梦·灰蛾",
         "skin_kind": [
           {
@@ -15171,13 +15171,13 @@
           }
         ],
         "id": 844,
-        "jump_target": 114092,
+        "jump_target": 0,
         "mon_id": 4912,
         "type": 4
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "星冕纱华·艾欧丽娅",
         "skin_kind": [
           {
@@ -15189,13 +15189,13 @@
           }
         ],
         "id": 845,
-        "jump_target": 114093,
+        "jump_target": 0,
         "mon_id": 4911,
         "type": 4
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "阿娅",
         "skin_kind": [
           {
@@ -15207,13 +15207,13 @@
           }
         ],
         "id": 846,
-        "jump_target": 114094,
+        "jump_target": 0,
         "mon_id": 4911,
         "type": 0
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "艾丽娅",
         "skin_kind": [
           {
@@ -15225,13 +15225,13 @@
           }
         ],
         "id": 847,
-        "jump_target": 114094,
+        "jump_target": 0,
         "mon_id": 4911,
         "type": 0
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "古典艺术·西曼德妮",
         "skin_kind": [
           {
@@ -15243,13 +15243,13 @@
           }
         ],
         "id": 848,
-        "jump_target": 114100,
+        "jump_target": 0,
         "mon_id": 4915,
         "type": 3
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "偶像叛客·蕊沃尔",
         "skin_kind": [
           {
@@ -15261,7 +15261,7 @@
           }
         ],
         "id": 849,
-        "jump_target": 114099,
+        "jump_target": 0,
         "mon_id": 4908,
         "type": 3
       },

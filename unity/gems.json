@@ -4505,6 +4505,501 @@
           }
         ],
         "upgrade_gem_id": 0
+      },
+      {
+        "category": 119,
+        "decompose_prob": 3000,
+        "des": "使用时，下次附加概率高于70%/65%/60%/55%/50%的异常状态附加概率提升5%/10%/15%/20%/25%，若对手对此异常状态的抗性不高于5%/10%/15%/20%/25%则额外忽略5%/10%/15%/20%/25%（仅限PVP）",
+        "equit_lv1_cnt1": 0,
+        "id": 1800291,
+        "lv": 1,
+        "name": "秘咒宝石Ⅰ",
+        "skill_effects": [
+          {
+            "effect": {
+              "effect_id": 2511,
+              "param": []
+            }
+          }
+        ],
+        "upgrade_gem_id": 1800292
+      },
+      {
+        "category": 119,
+        "decompose_prob": 3000,
+        "des": "",
+        "equit_lv1_cnt1": 10000,
+        "id": 1800292,
+        "lv": 2,
+        "name": "秘咒宝石Ⅱ",
+        "skill_effects": [
+          {
+            "effect": {
+              "effect_id": 2512,
+              "param": []
+            }
+          }
+        ],
+        "upgrade_gem_id": 1800293
+      },
+      {
+        "category": 119,
+        "decompose_prob": 3000,
+        "des": "",
+        "equit_lv1_cnt1": 30000,
+        "id": 1800293,
+        "lv": 3,
+        "name": "秘咒宝石Ⅲ",
+        "skill_effects": [
+          {
+            "effect": {
+              "effect_id": 2513,
+              "param": []
+            }
+          }
+        ],
+        "upgrade_gem_id": 1800294
+      },
+      {
+        "category": 119,
+        "decompose_prob": 3000,
+        "des": "",
+        "equit_lv1_cnt1": 60000,
+        "id": 1800294,
+        "lv": 4,
+        "name": "秘咒宝石Ⅳ",
+        "skill_effects": [
+          {
+            "effect": {
+              "effect_id": 2514,
+              "param": []
+            }
+          }
+        ],
+        "upgrade_gem_id": 1800295
+      },
+      {
+        "category": 119,
+        "decompose_prob": 3000,
+        "des": "",
+        "equit_lv1_cnt1": 100000,
+        "id": 1800295,
+        "lv": 5,
+        "name": "秘咒宝石Ⅴ",
+        "skill_effects": [
+          {
+            "effect": {
+              "effect_id": 2515,
+              "param": []
+            }
+          }
+        ],
+        "upgrade_gem_id": 0
+      },
+      {
+        "category": 120,
+        "decompose_prob": 3000,
+        "des": "对手每处于1级能力下降状态，当回合对手造成的攻击伤害减少1%/2%/2%/3%/4%，最高20%/25%/30%/35%/40%（仅限PVP）",
+        "equit_lv1_cnt1": 0,
+        "id": 1800296,
+        "lv": 1,
+        "name": "失力宝石Ⅰ",
+        "skill_effects": [
+          {
+            "effect": {
+              "effect_id": 2516,
+              "param": [
+                1,
+                20
+              ]
+            }
+          }
+        ],
+        "upgrade_gem_id": 1800297
+      },
+      {
+        "category": 120,
+        "decompose_prob": 3000,
+        "des": "",
+        "equit_lv1_cnt1": 10000,
+        "id": 1800297,
+        "lv": 2,
+        "name": "失力宝石Ⅱ",
+        "skill_effects": [
+          {
+            "effect": {
+              "effect_id": 2516,
+              "param": [
+                2,
+                25
+              ]
+            }
+          }
+        ],
+        "upgrade_gem_id": 1800298
+      },
+      {
+        "category": 120,
+        "decompose_prob": 3000,
+        "des": "",
+        "equit_lv1_cnt1": 30000,
+        "id": 1800298,
+        "lv": 3,
+        "name": "失力宝石Ⅲ",
+        "skill_effects": [
+          {
+            "effect": {
+              "effect_id": 2516,
+              "param": [
+                2,
+                30
+              ]
+            }
+          }
+        ],
+        "upgrade_gem_id": 1800299
+      },
+      {
+        "category": 120,
+        "decompose_prob": 3000,
+        "des": "",
+        "equit_lv1_cnt1": 60000,
+        "id": 1800299,
+        "lv": 4,
+        "name": "失力宝石Ⅳ",
+        "skill_effects": [
+          {
+            "effect": {
+              "effect_id": 2516,
+              "param": [
+                3,
+                35
+              ]
+            }
+          }
+        ],
+        "upgrade_gem_id": 1800300
+      },
+      {
+        "category": 120,
+        "decompose_prob": 3000,
+        "des": "",
+        "equit_lv1_cnt1": 100000,
+        "id": 1800300,
+        "lv": 5,
+        "name": "失力宝石Ⅴ",
+        "skill_effects": [
+          {
+            "effect": {
+              "effect_id": 2516,
+              "param": [
+                4,
+                40
+              ]
+            }
+          }
+        ],
+        "upgrade_gem_id": 0
+      },
+      {
+        "category": 121,
+        "decompose_prob": 3000,
+        "des": "自身每次在场的前1/1/1/1/2回合，此技能PP值被清除时50%/70%/100%/100%/100%保留1/1/1/2/2点PP值（仅限PVP）",
+        "equit_lv1_cnt1": 0,
+        "id": 1800301,
+        "lv": 1,
+        "name": "活力保留宝石Ⅰ",
+        "skill_effects": [
+          {
+            "effect": {
+              "effect_id": 2517,
+              "param": []
+            }
+          }
+        ],
+        "upgrade_gem_id": 1800302
+      },
+      {
+        "category": 121,
+        "decompose_prob": 3000,
+        "des": "",
+        "equit_lv1_cnt1": 10000,
+        "id": 1800302,
+        "lv": 2,
+        "name": "活力保留宝石Ⅱ",
+        "skill_effects": [
+          {
+            "effect": {
+              "effect_id": 2518,
+              "param": []
+            }
+          }
+        ],
+        "upgrade_gem_id": 1800303
+      },
+      {
+        "category": 121,
+        "decompose_prob": 3000,
+        "des": "",
+        "equit_lv1_cnt1": 30000,
+        "id": 1800303,
+        "lv": 3,
+        "name": "活力保留宝石Ⅲ",
+        "skill_effects": [
+          {
+            "effect": {
+              "effect_id": 2519,
+              "param": []
+            }
+          }
+        ],
+        "upgrade_gem_id": 1800304
+      },
+      {
+        "category": 121,
+        "decompose_prob": 3000,
+        "des": "",
+        "equit_lv1_cnt1": 60000,
+        "id": 1800304,
+        "lv": 4,
+        "name": "活力保留宝石Ⅳ",
+        "skill_effects": [
+          {
+            "effect": {
+              "effect_id": 2520,
+              "param": []
+            }
+          }
+        ],
+        "upgrade_gem_id": 1800305
+      },
+      {
+        "category": 121,
+        "decompose_prob": 3000,
+        "des": "",
+        "equit_lv1_cnt1": 100000,
+        "id": 1800305,
+        "lv": 5,
+        "name": "活力保留宝石Ⅴ",
+        "skill_effects": [
+          {
+            "effect": {
+              "effect_id": 2521,
+              "param": []
+            }
+          }
+        ],
+        "upgrade_gem_id": 0
+      },
+      {
+        "category": 122,
+        "decompose_prob": 3000,
+        "des": "获得自身上回合失去护盾的5%/10%/15%/20%/25%，最高40/60/80/100/120点（仅限PVP）",
+        "equit_lv1_cnt1": 0,
+        "id": 1800306,
+        "lv": 1,
+        "name": "护盾回溯宝石Ⅰ",
+        "skill_effects": [
+          {
+            "effect": {
+              "effect_id": 2522,
+              "param": [
+                5,
+                40
+              ]
+            }
+          }
+        ],
+        "upgrade_gem_id": 1800307
+      },
+      {
+        "category": 122,
+        "decompose_prob": 3000,
+        "des": "",
+        "equit_lv1_cnt1": 10000,
+        "id": 1800307,
+        "lv": 2,
+        "name": "护盾回溯宝石Ⅱ",
+        "skill_effects": [
+          {
+            "effect": {
+              "effect_id": 2522,
+              "param": [
+                10,
+                60
+              ]
+            }
+          }
+        ],
+        "upgrade_gem_id": 1800308
+      },
+      {
+        "category": 122,
+        "decompose_prob": 3000,
+        "des": "",
+        "equit_lv1_cnt1": 30000,
+        "id": 1800308,
+        "lv": 3,
+        "name": "护盾回溯宝石Ⅲ",
+        "skill_effects": [
+          {
+            "effect": {
+              "effect_id": 2522,
+              "param": [
+                15,
+                80
+              ]
+            }
+          }
+        ],
+        "upgrade_gem_id": 1800309
+      },
+      {
+        "category": 122,
+        "decompose_prob": 3000,
+        "des": "",
+        "equit_lv1_cnt1": 60000,
+        "id": 1800309,
+        "lv": 4,
+        "name": "护盾回溯宝石Ⅳ",
+        "skill_effects": [
+          {
+            "effect": {
+              "effect_id": 2522,
+              "param": [
+                20,
+                100
+              ]
+            }
+          }
+        ],
+        "upgrade_gem_id": 1800310
+      },
+      {
+        "category": 122,
+        "decompose_prob": 3000,
+        "des": "",
+        "equit_lv1_cnt1": 100000,
+        "id": 1800310,
+        "lv": 5,
+        "name": "护盾回溯宝石Ⅴ",
+        "skill_effects": [
+          {
+            "effect": {
+              "effect_id": 2522,
+              "param": [
+                25,
+                120
+              ]
+            }
+          }
+        ],
+        "upgrade_gem_id": 0
+      },
+      {
+        "category": 123,
+        "decompose_prob": 3000,
+        "des": "获得自身上回合失去护罩的5%/10%/15%/20%/25%，最高40/60/80/100/120点（仅限PVP）",
+        "equit_lv1_cnt1": 0,
+        "id": 1800311,
+        "lv": 1,
+        "name": "护罩回溯宝石Ⅰ",
+        "skill_effects": [
+          {
+            "effect": {
+              "effect_id": 2523,
+              "param": [
+                5,
+                40
+              ]
+            }
+          }
+        ],
+        "upgrade_gem_id": 1800312
+      },
+      {
+        "category": 123,
+        "decompose_prob": 3000,
+        "des": "",
+        "equit_lv1_cnt1": 10000,
+        "id": 1800312,
+        "lv": 2,
+        "name": "护罩回溯宝石Ⅱ",
+        "skill_effects": [
+          {
+            "effect": {
+              "effect_id": 2523,
+              "param": [
+                10,
+                60
+              ]
+            }
+          }
+        ],
+        "upgrade_gem_id": 1800313
+      },
+      {
+        "category": 123,
+        "decompose_prob": 3000,
+        "des": "",
+        "equit_lv1_cnt1": 30000,
+        "id": 1800313,
+        "lv": 3,
+        "name": "护罩回溯宝石Ⅲ",
+        "skill_effects": [
+          {
+            "effect": {
+              "effect_id": 2523,
+              "param": [
+                15,
+                80
+              ]
+            }
+          }
+        ],
+        "upgrade_gem_id": 1800314
+      },
+      {
+        "category": 123,
+        "decompose_prob": 3000,
+        "des": "",
+        "equit_lv1_cnt1": 60000,
+        "id": 1800314,
+        "lv": 4,
+        "name": "护罩回溯宝石Ⅳ",
+        "skill_effects": [
+          {
+            "effect": {
+              "effect_id": 2523,
+              "param": [
+                20,
+                100
+              ]
+            }
+          }
+        ],
+        "upgrade_gem_id": 1800315
+      },
+      {
+        "category": 123,
+        "decompose_prob": 3000,
+        "des": "",
+        "equit_lv1_cnt1": 100000,
+        "id": 1800315,
+        "lv": 5,
+        "name": "护罩回溯宝石Ⅴ",
+        "skill_effects": [
+          {
+            "effect": {
+              "effect_id": 2523,
+              "param": [
+                25,
+                120
+              ]
+            }
+          }
+        ],
+        "upgrade_gem_id": 0
       }
     ]
   }
