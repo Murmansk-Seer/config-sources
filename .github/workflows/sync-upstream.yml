@@ -10,6 +10,9 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    env:
+      SOLARIS_VERSION: 106.4.0
+      CONFIG_PACKAGE_BASE_URL: https://newseer.61.com/Assets/StandaloneWindows64/ConfigPackage/
 
     steps:
       - name: Checkout fork
@@ -24,8 +27,7 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git remote add upstream https://github.com/SeerAPI/config-sources.git || git remote set-url upstream https://github.com/SeerAPI/config-sources.git
           git fetch upstream main
-          if git merge -X theirs -m "Sync upstream config-sources 同步上游配置源" upstream/main; then
-            git push origin main
+          if git merge -X theirs -m "Sync upstream config-sources" upstream/main; then
             exit 0
           fi
 
@@ -53,4 +55,29 @@ jobs:
           fi
 
           git commit --no-edit
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+      - name: Set up uv
+        uses: astral-sh/setup-uv@v7
+
+      - name: Install Unity parser
+        run: |
+          uv pip install --system "seerapi-solaris==${SOLARIS_VERSION}" UnityPy
+
+      - name: Refresh official Unity gems
+        run: |
+          python .github/scripts/refresh_unity_gems.py
+
+      - name: Commit and push changes
+        run: |
+          set -e
+          git add unity/.version unity/gems.json
+          if ! git diff --cached --quiet; then
+            timestamp=$(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S CST')
+            git commit -m "Refresh official Unity gems $timestamp"
+          fi
           git push origin main
