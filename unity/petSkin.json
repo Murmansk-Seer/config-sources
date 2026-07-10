@@ -15266,8 +15266,8 @@
         "type": 3
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "森语·月冕",
         "skin_kind": [
           {
@@ -15279,13 +15279,13 @@
           }
         ],
         "id": 850,
-        "jump_target": 114017,
+        "jump_target": 0,
         "mon_id": 4147,
         "type": 2
       },
       {
-        "go": "app/FinalActivityPanel",
-        "go_type": "module",
+        "go": "",
+        "go_type": "",
         "name": "吉尼亚斯",
         "skin_kind": [
           {
@@ -15297,9 +15297,45 @@
           }
         ],
         "id": 851,
-        "jump_target": 2,
+        "jump_target": 0,
         "mon_id": 4709,
         "type": 0
+      },
+      {
+        "go": "app/FinalActivityPanel",
+        "go_type": "module",
+        "name": "风起流沙·阿莱克托",
+        "skin_kind": [
+          {
+            "id": 1,
+            "life_time": 0,
+            "skin_type": 0,
+            "type": 2,
+            "year": 0
+          }
+        ],
+        "id": 852,
+        "jump_target": 2,
+        "mon_id": 4200,
+        "type": 3
+      },
+      {
+        "go": "app/FinalActivityPanel",
+        "go_type": "module",
+        "name": "珍珠泡泡·星礼",
+        "skin_kind": [
+          {
+            "id": 1,
+            "life_time": 0,
+            "skin_type": 0,
+            "type": 2,
+            "year": 0
+          }
+        ],
+        "id": 853,
+        "jump_target": 114106,
+        "mon_id": 4840,
+        "type": 3
       }
     ]
   }
