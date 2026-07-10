@@ -131963,6 +131963,44 @@
         "hide": 0
       },
       {
+        "des": "天堂极龙兽专属全能刻印",
+        "effect_des": "攻击4/40,防御2/20,特防2/20,速度3/35,体力11/110",
+        "arg": [],
+        "base_attri_value": [
+          4,
+          2,
+          0,
+          2,
+          3,
+          9
+        ],
+        "extra_attri_value": [],
+        "max_attri_value": [
+          40,
+          20,
+          0,
+          20,
+          35,
+          110
+        ],
+        "monster_id": [
+          4921
+        ],
+        "move_id": [],
+        "grade": 5,
+        "id": 42715,
+        "level": 100,
+        "max": 99,
+        "mintmark_class": 0,
+        "quality": 5,
+        "rare": 1,
+        "rarity": 0,
+        "total_consume": 0,
+        "type": 3,
+        "connect": 0,
+        "hide": 0
+      },
+      {
         "des": "十年·筑梦",
         "effect_des": "体力8/87,攻击4/48,防御2/28,特防2/28,速度3/39",
         "arg": [],

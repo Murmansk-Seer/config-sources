@@ -5435,6 +5435,13 @@
     },
     {
       "curr_app_do": 1,
+      "id": 897,
+      "is_full_screen": 1,
+      "module_name": "summer26",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
       "id": 1021,
       "is_full_screen": 1,
       "module_name": "zuma",
@@ -5991,6 +5998,55 @@
       "id": 1132,
       "is_full_screen": 1,
       "module_name": "getSgglr",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1133,
+      "is_full_screen": 0,
+      "module_name": "oceanCleanupPlan",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1134,
+      "is_full_screen": 0,
+      "module_name": "dragonOfParadiseSalePanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1135,
+      "is_full_screen": 1,
+      "module_name": "AbyssFisheryActivity",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1136,
+      "is_full_screen": 1,
+      "module_name": "oceanfish",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1137,
+      "is_full_screen": 1,
+      "module_name": "seaFoamShop",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1138,
+      "is_full_screen": 1,
+      "module_name": "xingliSkin",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1139,
+      "is_full_screen": 1,
+      "module_name": "AbyssFisheryGameMain",
       "res_config": []
     }
   ]
