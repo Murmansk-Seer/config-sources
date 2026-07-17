@@ -615,9 +615,9 @@
     {
       "Go": 410,
       "args": "",
-      "beginning": "2026_04_17 10:00:00",
+      "beginning": "2026_07_17 10:00:00",
       "channel": 0,
-      "ending": "2026_04_30 10:00:00",
+      "ending": "2026_07_31 10:00:00",
       "helptips": 0,
       "iOSreviewshow": 1,
       "id": 41,
@@ -1969,7 +1969,7 @@
       "name": "summerHolidaySign",
       "redbadge": 74,
       "signType": 2,
-      "sorting": 5,
+      "sorting": 8,
       "type": 1
     },
     {
@@ -4746,9 +4746,9 @@
     {
       "Go": 781,
       "args": "",
-      "beginning": "2026_04_17 10:00:00",
+      "beginning": "2026_07_17 10:00:00",
       "channel": 0,
-      "ending": "2026_07_17 00:00:00",
+      "ending": "2026_10_16 00:00:00",
       "helptips": 0,
       "iOSreviewshow": 0,
       "id": 295,
@@ -6879,7 +6879,7 @@
       "id": 421,
       "isShow": 0,
       "labelName": "17周年",
-      "name": "\r\nzhounianbanner0508",
+      "name": "\nzhounianbanner0508",
       "redbadge": 283,
       "signType": 0,
       "sorting": 7,
@@ -7917,7 +7917,7 @@
       "isShow": 1,
       "labelName": "打群星牌赚钱",
       "name": "qxpugc0618",
-      "redbadge": 336,
+      "redbadge": 355,
       "signType": 0,
       "sorting": 1,
       "type": 9
@@ -8038,7 +8038,7 @@
       "name": "ocaenPlan",
       "redbadge": 342,
       "signType": 0,
-      "sorting": 2,
+      "sorting": 9,
       "type": 1
     },
     {
@@ -8152,7 +8152,7 @@
       "helptips": 0,
       "iOSreviewshow": 1,
       "id": 500,
-      "isShow": 1,
+      "isShow": 0,
       "labelName": "圣光格劳瑞",
       "name": "getSgglr",
       "redbadge": 0,
@@ -8174,7 +8174,7 @@
       "name": "dragonOfParadiseSalePanel",
       "redbadge": 351,
       "signType": 0,
-      "sorting": 3,
+      "sorting": 4,
       "type": 1
     },
     {
@@ -8227,6 +8227,74 @@
       "signType": 0,
       "sorting": 6,
       "type": 9
+    },
+    {
+      "Go": 1136,
+      "args": "",
+      "beginning": "2026_07_17 10:00:00",
+      "channel": 0,
+      "ending": "2026_08_07 10:00:00",
+      "helptips": 0,
+      "iOSreviewshow": 1,
+      "id": 505,
+      "isShow": 1,
+      "labelName": "深海捕鱼团",
+      "name": "oceanfishActivity",
+      "redbadge": 353,
+      "signType": 0,
+      "sorting": 2,
+      "type": 1
+    },
+    {
+      "Go": 1141,
+      "args": "",
+      "beginning": "",
+      "channel": 0,
+      "ending": "",
+      "helptips": 0,
+      "iOSreviewshow": 1,
+      "id": 506,
+      "isShow": 1,
+      "labelName": "地葬界神",
+      "name": "getdzjsmain",
+      "redbadge": 0,
+      "signType": 0,
+      "sorting": 7,
+      "type": 1
+    },
+    {
+      "Go": 1142,
+      "args": "",
+      "beginning": "2026_07_10 10:00:00",
+      "channel": 0,
+      "ending": "2026_08_07 10:00:00",
+      "helptips": 0,
+      "iOSreviewshow": 1,
+      "id": 507,
+      "isShow": 1,
+      "labelName": "龙渊镇座",
+      "name": "gertrudeSkin",
+      "redbadge": 354,
+      "signType": 0,
+      "sorting": 3,
+      "type": 1
+    },
+    {
+      "Go": 1144,
+      "args": "",
+      "beginning": "2026_07_17 10:00:00",
+      "channel": 0,
+      "ending": "2026_10_16 00:00:00",
+      "helptips": 0,
+      "iOSreviewshow": 1,
+      "id": 508,
+      "isShow": 1,
+      "labelName": "星际通行证",
+      "name": "BattlePassPanel",
+      "redbadge": 356,
+      "signType": 0,
+      "sorting": 6,
+      "type": 1
     }
   ]
 }
