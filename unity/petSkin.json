@@ -15408,6 +15408,42 @@
         "jump_target": 410000,
         "mon_id": 3488,
         "type": 3
+      },
+      {
+        "go": "app/FinalActivityPanel",
+        "go_type": "module",
+        "name": "深渊诡影·克劳里菲",
+        "skin_kind": [
+          {
+            "id": 1,
+            "life_time": 0,
+            "skin_type": 0,
+            "type": 2,
+            "year": 0
+          }
+        ],
+        "id": 858,
+        "jump_target": 114108,
+        "mon_id": 4633,
+        "type": 3
+      },
+      {
+        "go": "app/FinalActivityPanel",
+        "go_type": "module",
+        "name": "波塞冬",
+        "skin_kind": [
+          {
+            "id": 1,
+            "life_time": 0,
+            "skin_type": 0,
+            "type": 2,
+            "year": 0
+          }
+        ],
+        "id": 859,
+        "jump_target": 2,
+        "mon_id": 3506,
+        "type": 0
       }
     ]
   }

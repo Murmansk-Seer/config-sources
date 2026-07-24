@@ -5442,6 +5442,13 @@
     },
     {
       "curr_app_do": 1,
+      "id": 898,
+      "is_full_screen": 1,
+      "module_name": "getGLW",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
       "id": 1021,
       "is_full_screen": 1,
       "module_name": "zuma",
@@ -6089,6 +6096,48 @@
       "id": 1145,
       "is_full_screen": 0,
       "module_name": "oceantreasureActivity",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1146,
+      "is_full_screen": 0,
+      "module_name": "claudiusSkinPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1180,
+      "is_full_screen": 0,
+      "module_name": "peakJihadCostMode",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1181,
+      "is_full_screen": 1,
+      "module_name": "filmgame",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1182,
+      "is_full_screen": 1,
+      "module_name": "jellyfishJumpActivityCenterPanel",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1183,
+      "is_full_screen": 1,
+      "module_name": "autocardXuanwu",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1184,
+      "is_full_screen": 1,
+      "module_name": "autocardYoyo",
       "res_config": []
     }
   ]
