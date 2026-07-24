@@ -1020,6 +1020,47 @@
         "id": 25,
         "new_eff_id": 2511,
         "old_eff_id": 1007
+      },
+      {
+        "advances": {
+          "adv_effect": {
+            "des": "",
+            "id": 2121
+          },
+          "ex_move": {
+            "extra_moves": 38473
+          },
+          "race": {
+            "new_race": [
+              175,
+              151,
+              122,
+              80,
+              122,
+              140
+            ],
+            "old_race": [
+              170,
+              142,
+              114,
+              70,
+              114,
+              135
+            ]
+          },
+          "sp_move": {
+            "sp_moves": [
+              29412,
+              38471,
+              38472
+            ]
+          },
+          "adv_type": 0,
+          "monster_id": 4004
+        },
+        "id": 26,
+        "new_eff_id": 2532,
+        "old_eff_id": 1596
       }
     ]
   }

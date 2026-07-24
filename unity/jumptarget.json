@@ -1480,8 +1480,8 @@
     {
       "id": 114108,
       "name": "",
-      "paras": "",
-      "target": 0,
+      "paras": "512",
+      "target": 110,
       "type": 1
     },
     {
@@ -1508,15 +1508,15 @@
     {
       "id": 114112,
       "name": "",
-      "paras": "",
-      "target": 0,
+      "paras": "510",
+      "target": 110,
       "type": 1
     },
     {
       "id": 114113,
       "name": "",
-      "paras": "",
-      "target": 0,
+      "paras": "509",
+      "target": 110,
       "type": 1
     },
     {
@@ -2749,6 +2749,13 @@
       "name": "main",
       "paras": "",
       "target": 1141,
+      "type": 1
+    },
+    {
+      "id": 150136,
+      "name": "main",
+      "paras": "",
+      "target": 1143,
       "type": 1
     },
     {
