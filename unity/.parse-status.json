@@ -2,6 +2,12 @@
   "schema_version": 1,
   "retained_previous_outputs": [
     {
+      "source_filename": "elvenkingtrial_exchange.bytes",
+      "output_filename": "elvenKingTrialExchange.json",
+      "status": "retained_previous",
+      "error": "ElvenKingTrialExchangeParser: UnicodeDecodeError: 'utf-8' codec can't decode byte 0xb3 in position 45: invalid start byte"
+    },
+    {
       "source_filename": "product_diamond.bytes",
       "output_filename": "productDiamond.json",
       "status": "retained_previous",
