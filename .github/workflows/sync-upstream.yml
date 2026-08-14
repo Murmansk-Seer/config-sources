@@ -17,7 +17,6 @@ jobs:
     permissions:
       contents: write
     env:
-      SOLARIS_VERSION: 106.4.0
       CONFIG_PACKAGE_BASE_URL: https://newseer.61.com/Assets/StandaloneWindows64/ConfigPackage/
 
     steps:
@@ -129,7 +128,7 @@ jobs:
       - name: Install Unity parser
         if: steps.check.outputs.skip != 'true'
         run: |
-          uv pip install --system "seerapi-solaris==${SOLARIS_VERSION}" UnityPy
+          uv pip install --system --upgrade seerapi-solaris UnityPy
 
       - name: Refresh official Unity gems
         if: steps.check.outputs.skip != 'true'
