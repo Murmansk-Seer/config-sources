@@ -12,6 +12,12 @@
       "output_filename": "productDiamond.json",
       "status": "retained_previous",
       "error": "ProductDiamondParser: UnicodeDecodeError: 'utf-8' codec can't decode byte 0xb4 in position 3: invalid start byte"
+    },
+    {
+      "source_filename": "signIcon_fight.bytes",
+      "output_filename": "signIconFight.json",
+      "status": "retained_previous",
+      "error": "SignIconFightParser: UnicodeDecodeError: 'utf-8' codec can't decode byte 0xa5 in position 0: invalid start byte"
     }
   ]
 }
