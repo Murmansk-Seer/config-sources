@@ -1,165 +1,133 @@
 name: Sync Upstream
-
-on:
+'on':
   schedule:
-    - cron: "20 19 * * *"
+  - cron: 19 * * * *
   workflow_dispatch:
     inputs:
-      force:
+      dry_run:
+        description: Compare without pushing
         type: boolean
-        description: "Force sync even when official ConfigPackage and upstream are unchanged"
-        required: false
         default: false
-
+      force:
+        description: Force official gems refresh after safe sync
+        type: boolean
+        default: false
+permissions:
+  contents: write
+concurrency:
+  group: sync-upstream-${{ github.repository }}
+  cancel-in-progress: false
 jobs:
   sync:
+    uses: Murmansk-Seer/.github/.github/workflows/sync-identical-reusable.yml@d3b692a474211875145305609c63205a287e738f
+    with:
+      implementation_ref: d3b692a474211875145305609c63205a287e738f
+      dry_run: ${{ inputs.dry_run == true }}
+  refresh:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     env:
       CONFIG_PACKAGE_BASE_URL: https://newseer.61.com/Assets/StandaloneWindows64/ConfigPackage/
-
     steps:
-      - name: Checkout fork
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
+    - name: Checkout fork
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+    - name: Check source changes
+      id: check
+      env:
+        FORCE: ${{ github.event_name == 'workflow_dispatch' && inputs.force == true }}
+      run: |
+        set -e
+        git remote add upstream https://github.com/SeerAPI/config-sources.git || git remote set-url upstream https://github.com/SeerAPI/config-sources.git
+        git fetch upstream main
 
-      - name: Check source changes
-        id: check
-        env:
-          FORCE: ${{ github.event_name == 'workflow_dispatch' && inputs.force == true }}
-        run: |
-          set -e
-          git remote add upstream https://github.com/SeerAPI/config-sources.git || git remote set-url upstream https://github.com/SeerAPI/config-sources.git
-          git fetch upstream main
+        official_version="$(
+          python - <<'PY'
+        from urllib.parse import urljoin
+        from urllib.request import Request, urlopen
+        import os
+        import time
 
-          official_version="$(
-            python - <<'PY'
-          from urllib.parse import urljoin
-          from urllib.request import Request, urlopen
-          import os
-          import time
+        base_url = os.environ.get(
+            "CONFIG_PACKAGE_BASE_URL",
+            "https://newseer.61.com/Assets/StandaloneWindows64/ConfigPackage/",
+        ).rstrip("/") + "/"
+        url = urljoin(base_url, "PackageManifest_ConfigPackage.version")
+        request = Request(
+            f"{url}?t={int(time.time())}",
+            headers={"User-Agent": "IronsBot-config-sources/1.0"},
+        )
+        with urlopen(request, timeout=60) as response:
+            print(response.read().decode().strip())
+        PY
+        )"
+        local_version="$(cat unity/.version 2>/dev/null || true)"
 
-          base_url = os.environ.get(
-              "CONFIG_PACKAGE_BASE_URL",
-              "https://newseer.61.com/Assets/StandaloneWindows64/ConfigPackage/",
-          ).rstrip("/") + "/"
-          url = urljoin(base_url, "PackageManifest_ConfigPackage.version")
-          request = Request(
-              f"{url}?t={int(time.time())}",
-              headers={"User-Agent": "IronsBot-config-sources/1.0"},
-          )
-          with urlopen(request, timeout=60) as response:
-              print(response.read().decode().strip())
-          PY
-          )"
-          local_version="$(cat unity/.version 2>/dev/null || true)"
+        if git merge-base --is-ancestor upstream/main HEAD; then
+          upstream_changed=false
+        else
+          upstream_changed=true
+        fi
 
-          if git merge-base --is-ancestor upstream/main HEAD; then
-            upstream_changed=false
-          else
-            upstream_changed=true
-          fi
+        echo "official_version=${official_version}" >> "$GITHUB_OUTPUT"
+        echo "local_version=${local_version}" >> "$GITHUB_OUTPUT"
+        echo "upstream_changed=${upstream_changed}" >> "$GITHUB_OUTPUT"
 
-          echo "official_version=${official_version}" >> "$GITHUB_OUTPUT"
-          echo "local_version=${local_version}" >> "$GITHUB_OUTPUT"
-          echo "upstream_changed=${upstream_changed}" >> "$GITHUB_OUTPUT"
-
-          if [ "${FORCE}" != "true" ] && [ "${official_version}" = "${local_version}" ] && [ "${upstream_changed}" = "false" ]; then
-            echo "skip=true" >> "$GITHUB_OUTPUT"
-            echo "Official ConfigPackage and upstream config-sources are unchanged. Skipping sync."
-          else
-            echo "skip=false" >> "$GITHUB_OUTPUT"
-            echo "Sync required: force=${FORCE}, official=${official_version}, local=${local_version}, upstream_changed=${upstream_changed}"
-          fi
-
-      - name: Skip unchanged sync
-        if: steps.check.outputs.skip == 'true'
-        run: echo "No official or upstream updates; workflow succeeded without rebuilding."
-
-      - name: Merge upstream main
-        if: steps.check.outputs.skip != 'true'
-        run: |
-          set -e
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git remote add upstream https://github.com/SeerAPI/config-sources.git || git remote set-url upstream https://github.com/SeerAPI/config-sources.git
-          git fetch upstream main
-          if git merge -X theirs -m "Sync upstream config-sources" upstream/main; then
-            exit 0
-          fi
-
-          conflicts="$(git diff --name-only --diff-filter=U)"
-          if [ -z "$conflicts" ]; then
-            echo "Merge failed without unresolved file conflicts."
-            git status --short
-            exit 1
-          fi
-
-          echo "$conflicts" | while IFS= read -r file; do
-            [ -z "$file" ] && continue
-            echo "Taking upstream version for conflicted file: $file"
-            if git checkout --theirs -- "$file" 2>/dev/null; then
-              git add -- "$file"
-            else
-              git rm -f --ignore-unmatch -- "$file"
-            fi
-          done
-
-          if git diff --name-only --diff-filter=U | grep -q .; then
-            echo "Unresolved conflicts remain:"
-            git diff --name-only --diff-filter=U
-            exit 1
-          fi
-
-          git commit --no-edit
-
-      - name: Set up Python
-        if: steps.check.outputs.skip != 'true'
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.10"
-
-      - name: Set up uv
-        if: steps.check.outputs.skip != 'true'
-        uses: astral-sh/setup-uv@v7
-
-      - name: Install Unity parser
-        if: steps.check.outputs.skip != 'true'
-        run: |
-          uv pip install --system --upgrade seerapi-solaris UnityPy
-
-      - name: Refresh official Unity gems
-        if: steps.check.outputs.skip != 'true'
-        run: |
-          python .github/scripts/refresh_unity_gems.py
-
-      - name: Commit and push changes
-        if: steps.check.outputs.skip != 'true'
-        run: |
-          set -e
-          git add unity/.version unity/gems.json
-          if ! git diff --cached --quiet; then
-            timestamp=$(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S CST')
-            git commit -m "Refresh official Unity gems $timestamp"
-          fi
-          git push origin main
-
-      - name: Check downstream dispatch token
-        if: steps.check.outputs.skip != 'true'
-        env:
-          CROSS_REPO_TOKEN: ${{ secrets.PAT }}
-        run: |
-          if [ -z "${CROSS_REPO_TOKEN}" ]; then
-            echo "::error::Missing PAT secret; cannot dispatch the api-data build."
-            exit 1
-          fi
-
-      - name: Dispatch api-data build
-        if: steps.check.outputs.skip != 'true'
-        uses: peter-evans/repository-dispatch@v4
-        with:
-          token: ${{ secrets.PAT }}
-          repository: Murmansk-Seer/api-data
-          event-type: config-source-update
+        if [ "${FORCE}" != "true" ] && [ "${official_version}" = "${local_version}" ] && [ "${upstream_changed}" = "false" ]; then
+          echo "skip=true" >> "$GITHUB_OUTPUT"
+          echo "Official ConfigPackage and upstream config-sources are unchanged. Skipping sync."
+        else
+          echo "skip=false" >> "$GITHUB_OUTPUT"
+          echo "Sync required: force=${FORCE}, official=${official_version}, local=${local_version}, upstream_changed=${upstream_changed}"
+        fi
+    - name: Skip unchanged sync
+      if: steps.check.outputs.skip == 'true'
+      run: echo "No official or upstream updates; workflow succeeded without rebuilding."
+    - name: Set up Python
+      if: steps.check.outputs.skip != 'true'
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+    - name: Set up uv
+      if: steps.check.outputs.skip != 'true'
+      uses: astral-sh/setup-uv@v7
+    - name: Install Unity parser
+      if: steps.check.outputs.skip != 'true'
+      run: |
+        uv pip install --system --upgrade seerapi-solaris UnityPy
+    - name: Refresh official Unity gems
+      if: steps.check.outputs.skip != 'true'
+      run: |
+        python .github/scripts/refresh_unity_gems.py
+    - name: Commit and push changes
+      if: steps.check.outputs.skip != 'true'
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        set -e
+        git add unity/.version unity/gems.json
+        if ! git diff --cached --quiet; then
+          timestamp=$(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S CST')
+          git commit -m "Refresh official Unity gems $timestamp"
+        fi
+        git push origin main
+    - name: Check downstream dispatch token
+      if: steps.check.outputs.skip != 'true'
+      env:
+        CROSS_REPO_TOKEN: ${{ secrets.PAT }}
+      run: |
+        if [ -z "${CROSS_REPO_TOKEN}" ]; then
+          echo "::error::Missing PAT secret; cannot dispatch the api-data build."
+          exit 1
+        fi
+    - name: Dispatch api-data build
+      if: steps.check.outputs.skip != 'true'
+      uses: peter-evans/repository-dispatch@v4
+      with:
+        token: ${{ secrets.PAT }}
+        repository: Murmansk-Seer/api-data
+        event-type: config-source-update
+    needs: sync
+    if: ${{ !inputs.dry_run && (needs.sync.outputs.status == 'current' || needs.sync.outputs.status == 'merged') }}
