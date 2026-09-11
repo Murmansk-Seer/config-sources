@@ -2,6 +2,18 @@
   "schema_version": 1,
   "retained_previous_outputs": [
     {
+      "source_filename": "autocardBuff.bytes",
+      "output_filename": "autocardBuff.json",
+      "status": "retained_previous",
+      "error": "AutocardBuffParser: UnicodeDecodeError: 'utf-8' codec can't decode byte 0xb6 in position 0: invalid start byte"
+    },
+    {
+      "source_filename": "autocardSkin.bytes",
+      "output_filename": "autocardSkin.json",
+      "status": "retained_previous",
+      "error": "AutocardSkinParser: IndexError: reading 34535 bytes from index 109 exceeds buffer length 1998"
+    },
+    {
       "source_filename": "elvenkingtrial_exchange.bytes",
       "output_filename": "elvenKingTrialExchange.json",
       "status": "retained_previous",
