@@ -20,6 +20,12 @@
       "error": "ElvenKingTrialExchangeParser: UnicodeDecodeError: 'utf-8' codec can't decode byte 0xb3 in position 45: invalid start byte"
     },
     {
+      "source_filename": "language.bytes",
+      "output_filename": "language.json",
+      "status": "retained_previous",
+      "error": "LanguageParser: UnicodeDecodeError: 'utf-8' codec can't decode byte 0xa0 in position 0: invalid start byte"
+    },
+    {
       "source_filename": "product_diamond.bytes",
       "output_filename": "productDiamond.json",
       "status": "retained_previous",
