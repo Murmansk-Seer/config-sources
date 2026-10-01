@@ -34,6 +34,9 @@ jobs:
       uses: actions/checkout@v4
       with:
         fetch-depth: 0
+        ref: main
+    - name: Record refresh revision
+      run: echo "REFRESH_BASE=$(git rev-parse HEAD)" >> "$GITHUB_ENV"
     - name: Check source changes
       id: check
       env:
@@ -48,6 +51,7 @@ jobs:
         from urllib.parse import urljoin
         from urllib.request import Request, urlopen
         import os
+        import sys
         import time
 
         base_url = os.environ.get(
@@ -59,8 +63,16 @@ jobs:
             f"{url}?t={int(time.time())}",
             headers={"User-Agent": "IronsBot-config-sources/1.0"},
         )
-        with urlopen(request, timeout=60) as response:
-            print(response.read().decode().strip())
+        for attempt in range(1, 4):
+            try:
+                with urlopen(request, timeout=60) as response:
+                    print(response.read().decode().strip())
+                break
+            except (OSError, TimeoutError) as error:
+                print(f"::warning::Version request attempt {attempt}/3 failed: {error}", file=sys.stderr)
+                if attempt == 3:
+                    raise
+                time.sleep(attempt * 2)
         PY
         )"
         local_version="$(cat unity/.version 2>/dev/null || true)"
@@ -112,7 +124,23 @@ jobs:
           timestamp=$(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S CST')
           git commit -m "Refresh official Unity gems $timestamp"
         fi
-        git push origin main
+        for attempt in 1 2 3; do
+          if git fetch origin main; then
+            remote=$(git rev-parse FETCH_HEAD)
+            if [ "$remote" = "$(git rev-parse HEAD)" ]; then exit 0; fi
+            if ! git diff --quiet "$REFRESH_BASE" "$remote"; then
+              echo "::error::Remote content changed during refresh; rerun from latest main."
+              exit 1
+            fi
+            git merge --no-edit "$remote"
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+          fi
+          echo "::warning::Refresh push attempt ${attempt}/3 failed."
+          if [ "$attempt" -lt 3 ]; then sleep $((attempt * 2)); fi
+        done
+        exit 1
     - name: Check downstream dispatch token
       if: steps.check.outputs.skip != 'true'
       env:
