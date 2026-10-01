@@ -175,6 +175,13 @@ def main() -> None:
     base_url = CONFIG_PACKAGE_BASE_URL.rstrip("/") + "/"
     version_url = urljoin(base_url, f"PackageManifest_{PACKAGE_NAME}.version")
     version = _download_bytes(f"{version_url}?t={int(time.time())}").decode().strip()
+    if len(version) != 14 or not version.isdecimal():
+        raise ValueError("Invalid official ConfigPackage version")
+    if VERSION_FILE.exists():
+        current = VERSION_FILE.read_text(encoding="utf-8").strip()
+        if current.isdecimal() and int(version) < int(current):
+            print(f"Ignoring stale official ConfigPackage {version}; keeping {current}")
+            return
 
     manifest_url = urljoin(base_url, f"PackageManifest_{PACKAGE_NAME}_{version}.bytes")
     manifest_data = _download_bytes(manifest_url)

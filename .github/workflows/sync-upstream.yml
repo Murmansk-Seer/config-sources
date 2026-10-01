@@ -25,6 +25,7 @@ jobs:
       dry_run: ${{ inputs.dry_run == true }}
   refresh:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     permissions:
       contents: write
     env:
@@ -46,35 +47,13 @@ jobs:
         git remote add upstream https://github.com/SeerAPI/config-sources.git || git remote set-url upstream https://github.com/SeerAPI/config-sources.git
         git fetch upstream main
 
-        official_version="$(
-          python - <<'PY'
-        from urllib.parse import urljoin
-        from urllib.request import Request, urlopen
-        import os
-        import sys
-        import time
-
-        base_url = os.environ.get(
-            "CONFIG_PACKAGE_BASE_URL",
-            "https://newseer.61.com/Assets/StandaloneWindows64/ConfigPackage/",
-        ).rstrip("/") + "/"
-        url = urljoin(base_url, "PackageManifest_ConfigPackage.version")
-        request = Request(
-            f"{url}?t={int(time.time())}",
-            headers={"User-Agent": "IronsBot-config-sources/1.0"},
-        )
-        for attempt in range(1, 4):
-            try:
-                with urlopen(request, timeout=60) as response:
-                    print(response.read().decode().strip())
-                break
-            except (OSError, TimeoutError) as error:
-                print(f"::warning::Version request attempt {attempt}/3 failed: {error}", file=sys.stderr)
-                if attempt == 3:
-                    raise
-                time.sleep(attempt * 2)
-        PY
-        )"
+        official_version="$(curl -fsSL --connect-timeout 15 --max-time 60 \
+          --retry 2 --retry-all-errors --retry-delay 2 \
+          "${CONFIG_PACKAGE_BASE_URL%/}/PackageManifest_ConfigPackage.version?t=$(date +%s)")"
+        if ! [[ "$official_version" =~ ^[0-9]{14}$ ]]; then
+          echo "::error::Invalid official ConfigPackage version"
+          exit 1
+        fi
         local_version="$(cat unity/.version 2>/dev/null || true)"
 
         if git merge-base --is-ancestor upstream/main HEAD; then
@@ -87,7 +66,7 @@ jobs:
         echo "local_version=${local_version}" >> "$GITHUB_OUTPUT"
         echo "upstream_changed=${upstream_changed}" >> "$GITHUB_OUTPUT"
 
-        if [ "${FORCE}" != "true" ] && [ "${official_version}" = "${local_version}" ] && [ "${upstream_changed}" = "false" ]; then
+        if [ "${FORCE}" != "true" ] && [[ "$local_version" =~ ^[0-9]{14}$ ]] && [ "${official_version}" -le "${local_version}" ] && [ "${upstream_changed}" = "false" ]; then
           echo "skip=true" >> "$GITHUB_OUTPUT"
           echo "Official ConfigPackage and upstream config-sources are unchanged. Skipping sync."
         else
