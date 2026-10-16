@@ -20,6 +20,12 @@
       "error": "ElvenKingTrialExchangeParser: UnicodeDecodeError: 'utf-8' codec can't decode byte 0xb3 in position 45: invalid start byte"
     },
     {
+      "source_filename": "JackPotShop.bytes",
+      "output_filename": "jackPotShop.json",
+      "status": "retained_previous",
+      "error": "JackPotShopParser: UnicodeDecodeError: 'utf-8' codec can't decode byte 0x83 in position 19: invalid start byte"
+    },
+    {
       "source_filename": "language.bytes",
       "output_filename": "language.json",
       "status": "retained_previous",
