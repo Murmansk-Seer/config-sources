@@ -24,6 +24,11 @@ jobs:
       implementation_ref: 217c4bd9e52d59623602371523ab377cd81dbf17
       dry_run: ${{ inputs.dry_run == true }}
   refresh:
+    outputs:
+      updated: ${{ steps.refresh_result.outputs.updated }}
+      version: ${{ steps.check.outputs.official_version }}
+      source: ${{ steps.refresh_result.outputs.source }}
+      dispatch: ${{ steps.dispatch.outcome }}
     runs-on: ubuntu-latest
     timeout-minutes: 15
     permissions:
@@ -120,6 +125,16 @@ jobs:
           if [ "$attempt" -lt 3 ]; then sleep $((attempt * 2)); fi
         done
         exit 1
+    - name: Record actual refresh result
+      id: refresh_result
+      if: steps.check.outputs.skip != 'true'
+      run: |
+        if git diff --quiet "$REFRESH_BASE" HEAD -- unity/.version unity/gems.json; then
+          echo "updated=false" >> "$GITHUB_OUTPUT"
+        else
+          echo "updated=true" >> "$GITHUB_OUTPUT"
+        fi
+        echo "source=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
     - name: Check downstream dispatch token
       if: steps.check.outputs.skip != 'true'
       env:
@@ -130,6 +145,7 @@ jobs:
           exit 1
         fi
     - name: Dispatch api-data build
+      id: dispatch
       if: steps.check.outputs.skip != 'true'
       uses: peter-evans/repository-dispatch@v4
       with:
@@ -138,3 +154,26 @@ jobs:
         event-type: config-source-update
     needs: sync
     if: ${{ !inputs.dry_run && (needs.sync.outputs.status == 'current' || needs.sync.outputs.status == 'merged') }}
+  report:
+    if: ${{ always() }}
+    needs: [sync, refresh]
+    runs-on: ubuntu-latest
+    outputs:
+      label: ${{ steps.report.outputs.label }}
+      failed: ${{ steps.report.outputs.failed }}
+    steps:
+    - id: report
+      uses: Murmansk-Seer/.github/.github/actions/report-update@dadd404c9c0119e0326e1e4fb8fcdf3ef6330dab
+      with:
+        jobs: ${{ toJSON(needs) }}
+        evidence: '{"updated":${{ needs.sync.outputs.status == ''merged'' || needs.refresh.outputs.updated == ''true'' }},"dry_run":${{ inputs.dry_run == true }},"sync_status":"${{ needs.sync.outputs.status }}","config_version":"${{ needs.refresh.outputs.version }}","source":"${{ needs.refresh.outputs.source }}","dispatch":"${{ needs.refresh.outputs.dispatch }}"}'
+  result:
+    if: ${{ always() }}
+    needs: report
+    name: ${{ needs.report.outputs.label || '失败 · 状态报告未完成' }}
+    runs-on: ubuntu-latest
+    steps:
+    - env:
+        FAILED: ${{ needs.report.outputs.failed }}
+        REPORT_RESULT: ${{ needs.report.result }}
+      run: test "$FAILED" != true && test "$REPORT_RESULT" = success
