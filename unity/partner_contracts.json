@@ -583,7 +583,7 @@
       "assets/game/configs/bytes/partner.bytes",
       "assets/game/configs/bytes/partnerEffectUpgrade.bytes"
     ],
-    "config_package_version": "20261016152146",
+    "config_package_version": "20261022220257",
     "package": "ConfigPackage"
   },
   "upgrades": [
