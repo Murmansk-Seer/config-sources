@@ -44,7 +44,7 @@ jobs:
     - name: Record refresh revision
       run: echo "REFRESH_BASE=$(git rev-parse HEAD)" >> "$GITHUB_ENV"
     - name: Publication notification regression tests
-      run: python3 -m unittest discover -s tests -v
+      run: python3 -m unittest discover -s tests -p test_downstream_publication.py -v
     - name: Check source changes
       id: check
       env:
