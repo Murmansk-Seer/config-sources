@@ -5595,6 +5595,20 @@
       "res_config": []
     },
     {
+      "curr_app_do": 0,
+      "id": 920,
+      "is_full_screen": 0,
+      "module_name": "findDifferentGameEntry",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 921,
+      "is_full_screen": 1,
+      "module_name": "findDifferentGame",
+      "res_config": []
+    },
+    {
       "curr_app_do": 1,
       "id": 1021,
       "is_full_screen": 1,
@@ -6810,6 +6824,13 @@
       "id": 1259,
       "is_full_screen": 1,
       "module_name": "lingyaoqianyouSkinSell2nd",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1260,
+      "is_full_screen": 1,
+      "module_name": "fourSpiritsActivity",
       "res_config": []
     }
   ]

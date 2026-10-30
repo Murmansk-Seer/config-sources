@@ -638288,6 +638288,148 @@
         "vip": 0
       },
       {
+        "def_name": "瑟尼瑟斯",
+        "extra_moves": {
+          "adv_move": [],
+          "move": [
+            {
+              "id": 38623,
+              "learning_lv": 76,
+              "rec": 0,
+              "tag": 0
+            }
+          ],
+          "sp_move": []
+        },
+        "learnable_moves": {
+          "adv_move": [],
+          "move": [
+            {
+              "id": 10250,
+              "learning_lv": 1,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 20270,
+              "learning_lv": 5,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 11695,
+              "learning_lv": 9,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 20651,
+              "learning_lv": 13,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 21306,
+              "learning_lv": 17,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 38621,
+              "learning_lv": 21,
+              "rec": 1,
+              "tag": 1
+            },
+            {
+              "id": 20797,
+              "learning_lv": 25,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 21307,
+              "learning_lv": 29,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 11997,
+              "learning_lv": 33,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 30720,
+              "learning_lv": 37,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 25466,
+              "learning_lv": 41,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 30721,
+              "learning_lv": 45,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 29500,
+              "learning_lv": 49,
+              "rec": 1,
+              "tag": 2
+            },
+            {
+              "id": 30722,
+              "learning_lv": 53,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 29501,
+              "learning_lv": 57,
+              "rec": 1,
+              "tag": 3
+            },
+            {
+              "id": 38622,
+              "learning_lv": 61,
+              "rec": 1,
+              "tag": 4
+            }
+          ],
+          "sp_move": []
+        },
+        "move": null,
+        "show_extra_moves": null,
+        "sp_extra_moves": null,
+        "atk": 151,
+        "character_attr_param": 0,
+        "combo": 0,
+        "def": 108,
+        "evolv_flag": 0,
+        "evolves_to": 0,
+        "evolving_lv": 0,
+        "free_forbidden": 1,
+        "gender": 0,
+        "hp": 152,
+        "id": 4924,
+        "is_fly_pet": 0,
+        "is_ride_pet": 0,
+        "pet_class": 3585,
+        "real_id": 0,
+        "sp_atk": 70,
+        "sp_def": 108,
+        "spd": 136,
+        "support": 0,
+        "transform": 0,
+        "type": 85,
+        "vip": 0
+      },
+      {
         "def_name": "米罗博士",
         "extra_moves": {
           "adv_move": [],
@@ -642889,6 +643031,358 @@
         "support": 0,
         "transform": 0,
         "type": 71,
+        "vip": 0
+      },
+      {
+        "def_name": "塔尼瓦",
+        "extra_moves": {
+          "adv_move": [],
+          "move": [
+            {
+              "id": 38611,
+              "learning_lv": 76,
+              "rec": 0,
+              "tag": 0
+            }
+          ],
+          "sp_move": []
+        },
+        "learnable_moves": {
+          "adv_move": [],
+          "move": [
+            {
+              "id": 10611,
+              "learning_lv": 1,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 21119,
+              "learning_lv": 5,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 11904,
+              "learning_lv": 9,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 11088,
+              "learning_lv": 13,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 22870,
+              "learning_lv": 17,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 38609,
+              "learning_lv": 21,
+              "rec": 1,
+              "tag": 1
+            },
+            {
+              "id": 15250,
+              "learning_lv": 25,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 20156,
+              "learning_lv": 29,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 15247,
+              "learning_lv": 33,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 31103,
+              "learning_lv": 37,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 25659,
+              "learning_lv": 41,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 31104,
+              "learning_lv": 45,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 29492,
+              "learning_lv": 49,
+              "rec": 1,
+              "tag": 2
+            },
+            {
+              "id": 31105,
+              "learning_lv": 53,
+              "rec": 0,
+              "tag": 0
+            },
+            {
+              "id": 29493,
+              "learning_lv": 57,
+              "rec": 1,
+              "tag": 3
+            },
+            {
+              "id": 38610,
+              "learning_lv": 61,
+              "rec": 1,
+              "tag": 4
+            }
+          ],
+          "sp_move": []
+        },
+        "move": null,
+        "show_extra_moves": null,
+        "sp_extra_moves": null,
+        "atk": 146,
+        "character_attr_param": 0,
+        "combo": 0,
+        "def": 110,
+        "evolv_flag": 0,
+        "evolves_to": 0,
+        "evolving_lv": 0,
+        "free_forbidden": 1,
+        "gender": 0,
+        "hp": 168,
+        "id": 4960,
+        "is_fly_pet": 0,
+        "is_ride_pet": 0,
+        "pet_class": 3621,
+        "real_id": 0,
+        "sp_atk": 70,
+        "sp_def": 110,
+        "spd": 131,
+        "support": 0,
+        "transform": 0,
+        "type": 73,
+        "vip": 0
+      },
+      {
+        "def_name": "赤彩焰驹",
+        "extra_moves": {
+          "adv_move": [],
+          "move": [
+            {
+              "id": 38614,
+              "learning_lv": 76,
+              "rec": 0,
+              "tag": 0
+            }
+          ],
+          "sp_move": []
+        },
+        "learnable_moves": {
+          "adv_move": [],
+          "move": [
+            {
+              "id": 38612,
+              "learning_lv": 1,
+              "rec": 1,
+              "tag": 1
+            },
+            {
+              "id": 29494,
+              "learning_lv": 5,
+              "rec": 1,
+              "tag": 2
+            },
+            {
+              "id": 29495,
+              "learning_lv": 9,
+              "rec": 1,
+              "tag": 3
+            },
+            {
+              "id": 38613,
+              "learning_lv": 13,
+              "rec": 1,
+              "tag": 4
+            }
+          ],
+          "sp_move": []
+        },
+        "move": null,
+        "show_extra_moves": null,
+        "sp_extra_moves": null,
+        "atk": 145,
+        "character_attr_param": 0,
+        "combo": 0,
+        "def": 100,
+        "evolv_flag": 0,
+        "evolves_to": 0,
+        "evolving_lv": 0,
+        "free_forbidden": 1,
+        "gender": 0,
+        "hp": 160,
+        "id": 4961,
+        "is_fly_pet": 0,
+        "is_ride_pet": 0,
+        "pet_class": 3622,
+        "real_id": 0,
+        "sp_atk": 70,
+        "sp_def": 105,
+        "spd": 120,
+        "support": 0,
+        "transform": 0,
+        "type": 29,
+        "vip": 0
+      },
+      {
+        "def_name": "中原号",
+        "extra_moves": {
+          "adv_move": [],
+          "move": [
+            {
+              "id": 38617,
+              "learning_lv": 76,
+              "rec": 0,
+              "tag": 0
+            }
+          ],
+          "sp_move": []
+        },
+        "learnable_moves": {
+          "adv_move": [],
+          "move": [
+            {
+              "id": 38615,
+              "learning_lv": 1,
+              "rec": 1,
+              "tag": 1
+            },
+            {
+              "id": 29496,
+              "learning_lv": 5,
+              "rec": 1,
+              "tag": 2
+            },
+            {
+              "id": 29497,
+              "learning_lv": 9,
+              "rec": 1,
+              "tag": 3
+            },
+            {
+              "id": 38616,
+              "learning_lv": 13,
+              "rec": 1,
+              "tag": 4
+            }
+          ],
+          "sp_move": []
+        },
+        "move": null,
+        "show_extra_moves": null,
+        "sp_extra_moves": null,
+        "atk": 147,
+        "character_attr_param": 0,
+        "combo": 0,
+        "def": 110,
+        "evolv_flag": 0,
+        "evolves_to": 0,
+        "evolving_lv": 0,
+        "free_forbidden": 1,
+        "gender": 0,
+        "hp": 177,
+        "id": 4962,
+        "is_fly_pet": 0,
+        "is_ride_pet": 0,
+        "pet_class": 3623,
+        "real_id": 0,
+        "sp_atk": 70,
+        "sp_def": 110,
+        "spd": 131,
+        "support": 0,
+        "transform": 0,
+        "type": 129,
+        "vip": 0
+      },
+      {
+        "def_name": "云舆瑞兽",
+        "extra_moves": {
+          "adv_move": [],
+          "move": [
+            {
+              "id": 38620,
+              "learning_lv": 76,
+              "rec": 0,
+              "tag": 0
+            }
+          ],
+          "sp_move": []
+        },
+        "learnable_moves": {
+          "adv_move": [],
+          "move": [
+            {
+              "id": 38618,
+              "learning_lv": 1,
+              "rec": 1,
+              "tag": 1
+            },
+            {
+              "id": 29498,
+              "learning_lv": 5,
+              "rec": 1,
+              "tag": 2
+            },
+            {
+              "id": 29499,
+              "learning_lv": 9,
+              "rec": 1,
+              "tag": 3
+            },
+            {
+              "id": 38619,
+              "learning_lv": 13,
+              "rec": 1,
+              "tag": 4
+            }
+          ],
+          "sp_move": []
+        },
+        "move": null,
+        "show_extra_moves": null,
+        "sp_extra_moves": null,
+        "atk": 70,
+        "character_attr_param": 4,
+        "combo": 0,
+        "def": 115,
+        "evolv_flag": 0,
+        "evolves_to": 0,
+        "evolving_lv": 0,
+        "free_forbidden": 1,
+        "gender": 0,
+        "hp": 170,
+        "id": 4963,
+        "is_fly_pet": 0,
+        "is_ride_pet": 0,
+        "pet_class": 3624,
+        "real_id": 0,
+        "sp_atk": 150,
+        "sp_def": 110,
+        "spd": 130,
+        "support": 0,
+        "transform": 0,
+        "type": 83,
         "vip": 0
       },
       {
@@ -746092,6 +746586,66 @@
         "is_ride_pet": 0,
         "pet_class": 0,
         "real_id": 1804,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "spd": 0,
+        "support": 0,
+        "transform": 0,
+        "type": 0,
+        "vip": 0
+      },
+      {
+        "def_name": "灵祈万象·武心婵",
+        "extra_moves": null,
+        "learnable_moves": null,
+        "move": null,
+        "show_extra_moves": null,
+        "sp_extra_moves": null,
+        "atk": 0,
+        "character_attr_param": 0,
+        "combo": 0,
+        "def": 0,
+        "evolv_flag": 0,
+        "evolves_to": 0,
+        "evolving_lv": 0,
+        "free_forbidden": 0,
+        "gender": 0,
+        "hp": 0,
+        "id": 1400886,
+        "is_fly_pet": 0,
+        "is_ride_pet": 0,
+        "pet_class": 0,
+        "real_id": 0,
+        "sp_atk": 0,
+        "sp_def": 0,
+        "spd": 0,
+        "support": 0,
+        "transform": 0,
+        "type": 0,
+        "vip": 0
+      },
+      {
+        "def_name": "圣贯宙合·赵云",
+        "extra_moves": null,
+        "learnable_moves": null,
+        "move": null,
+        "show_extra_moves": null,
+        "sp_extra_moves": null,
+        "atk": 0,
+        "character_attr_param": 0,
+        "combo": 0,
+        "def": 0,
+        "evolv_flag": 0,
+        "evolves_to": 0,
+        "evolving_lv": 0,
+        "free_forbidden": 0,
+        "gender": 0,
+        "hp": 0,
+        "id": 1400887,
+        "is_fly_pet": 0,
+        "is_ride_pet": 0,
+        "pet_class": 0,
+        "real_id": 0,
         "sp_atk": 0,
         "sp_def": 0,
         "spd": 0,
