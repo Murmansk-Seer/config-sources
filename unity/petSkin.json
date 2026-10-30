@@ -15797,7 +15797,7 @@
             "life_time": 0,
             "skin_type": 0,
             "type": 2,
-            "year": 0
+            "year": 2026
           }
         ],
         "id": 879,
@@ -15867,7 +15867,7 @@
           {
             "id": 1,
             "life_time": 0,
-            "skin_type": 0,
+            "skin_type": 28,
             "type": 2,
             "year": 0
           }
@@ -15885,7 +15885,7 @@
           {
             "id": 1,
             "life_time": 0,
-            "skin_type": 0,
+            "skin_type": 28,
             "type": 2,
             "year": 0
           }
@@ -15912,6 +15912,42 @@
         "jump_target": 2,
         "mon_id": 4215,
         "type": 0
+      },
+      {
+        "go": "app/FinalActivityPanel",
+        "go_type": "module",
+        "name": "灵祈万象·武心婵",
+        "skin_kind": [
+          {
+            "id": 1,
+            "life_time": 0,
+            "skin_type": 28,
+            "type": 2,
+            "year": 0
+          }
+        ],
+        "id": 886,
+        "jump_target": 114178,
+        "mon_id": 4500,
+        "type": 18
+      },
+      {
+        "go": "app/FinalActivityPanel",
+        "go_type": "module",
+        "name": "圣贯宙合·赵云",
+        "skin_kind": [
+          {
+            "id": 1,
+            "life_time": 0,
+            "skin_type": 28,
+            "type": 2,
+            "year": 0
+          }
+        ],
+        "id": 887,
+        "jump_target": 114178,
+        "mon_id": 4421,
+        "type": 18
       }
     ]
   }

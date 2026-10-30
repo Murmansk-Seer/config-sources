@@ -443,13 +443,13 @@
           4928,
           4938,
           4945,
-          0,
+          4924,
           0
         ],
-        "cur_month": 10,
+        "cur_month": 11,
         "cur_year": 2026,
         "id": 11,
-        "monster_id": 4945
+        "monster_id": 4924
       }
     ]
   }
