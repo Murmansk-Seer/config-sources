@@ -76,7 +76,7 @@
         "monster_id": 4240,
         "move_id": 35186,
         "moves_consume": 100,
-        "needmon_id": 4213,
+        "needmon_id": 0,
         "new_se_idx": 5730,
         "new_se_consume": 200,
         "pet_consume": 400,
@@ -8469,6 +8469,20 @@
         "pet_limit": 1,
         "rarity": 2,
         "effect_id": 2154,
+        "show": 1
+      },
+      {
+        "id": 2400610,
+        "monster_id": 4960,
+        "move_id": 38611,
+        "moves_consume": 100,
+        "needmon_id": 0,
+        "new_se_idx": 6460,
+        "new_se_consume": 200,
+        "pet_consume": 400,
+        "pet_limit": 1,
+        "rarity": 2,
+        "effect_id": 2157,
         "show": 1
       }
     ]
