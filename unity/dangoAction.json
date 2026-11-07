@@ -1,0 +1,3188 @@
+{
+  "data": [
+    {
+      "action": "happy",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "苏摩苏摩苏摩~",
+      "id": 1,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "sad",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "饿饿，饭饭！",
+      "id": 2,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "sad",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "肚肚，不妙，打雷……",
+      "id": 3,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "摸摸，还要！",
+      "id": 4,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "贴贴，不够！",
+      "id": 5,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "抱抱，暖和！",
+      "id": 6,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 2,
+      "dango_id": null,
+      "describ": "泥嚎！",
+      "id": 9,
+      "limit_dango": 0,
+      "limit_type": 2,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 2,
+      "dango_id": null,
+      "describ": "苏摩苏摩！",
+      "id": 10,
+      "limit_dango": 0,
+      "limit_type": 2,
+      "value": 30
+    },
+    {
+      "action": "sad",
+      "action_team": 2,
+      "dango_id": [
+        28
+      ],
+      "describ": "不！！！！",
+      "id": 11,
+      "limit_dango": 48,
+      "limit_type": 2,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "旅行，和你……",
+      "id": 12,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "亮晶晶…喜欢…",
+      "id": 13,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "呼啊…困困…",
+      "id": 14,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "游泳…想要…噗噜噗噜…",
+      "id": 15,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "圆圆的…我…",
+      "id": 16,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "爬呀爬…",
+      "id": 17,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "光…暖暖…",
+      "id": 18,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "梦到…甜甜…",
+      "id": 19,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "sad",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "朋友…在哪？",
+      "id": 20,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "sad",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "肚子…咕~咕~",
+      "id": 21,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "软乎乎…",
+      "id": 22,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "sad",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "转转…晕了…",
+      "id": 23,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "影子…追追…",
+      "id": 24,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "叶子…摇摇…",
+      "id": 25,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "sad",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "饿…了…",
+      "id": 26,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "饱饱…满足…",
+      "id": 27,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "咦？什么…",
+      "id": 28,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "风…好舒服…",
+      "id": 29,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "sad",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "自己…玩…",
+      "id": 30,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "噗咻…滚滚…",
+      "id": 31,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "弹弹…跳跳…",
+      "id": 32,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "水珠…亮亮…",
+      "id": 33,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "sad",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "睡…不着…",
+      "id": 34,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "角落…安全…",
+      "id": 35,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "世界…好大…",
+      "id": 36,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "sad",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "小小的…我…",
+      "id": 37,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "咕扭…咕扭…",
+      "id": 38,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "太阳…拜拜…",
+      "id": 39,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "月亮…晚安…",
+      "id": 40,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "微风…呼呼…",
+      "id": 41,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "我是…谁？",
+      "id": 42,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "颜色…好看…",
+      "id": 43,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "滑滑…溜溜…",
+      "id": 44,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "藏好…了吗？",
+      "id": 45,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "找不到…我…",
+      "id": 46,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "嘿嘿…傻笑…",
+      "id": 47,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "发呆…时间…",
+      "id": 48,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "泡泡…飞走了…",
+      "id": 49,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "泥巴…快乐…",
+      "id": 50,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "凉凉…喜欢…",
+      "id": 51,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "天气，好好！",
+      "id": 52,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "云朵…像团子…",
+      "id": 53,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "一片…两片…",
+      "id": 54,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "sad",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "数不清…啦…",
+      "id": 55,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "味道…香香…",
+      "id": 56,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "跟着…光走…",
+      "id": 57,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "sad",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "迷路…不怕…",
+      "id": 58,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "慢慢…生活…",
+      "id": 59,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "sad",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "噗…放气了…",
+      "id": 60,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "今天…什么颜色？",
+      "id": 61,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "扭来…扭去…",
+      "id": 62,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "秘密…基地…",
+      "id": 63,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "sad",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "高高的…地方…想去…",
+      "id": 64,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "sad",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "怕怕…",
+      "id": 65,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "水滴…朋友…",
+      "id": 66,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "世界上…另一个我…",
+      "id": 67,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "唱歌…哼哼…",
+      "id": 68,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "树叶…想吃",
+      "id": 69,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "节奏…噗通噗通…",
+      "id": 70,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "困了…但不想睡…",
+      "id": 71,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "等待…谁呢？",
+      "id": 72,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "星星…好多…",
+      "id": 73,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "许愿…更多…吃的…",
+      "id": 74,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "sad",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "黏住了…救命…",
+      "id": 75,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "自己…黏自己…",
+      "id": 76,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "我是…胶水…",
+      "id": 77,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "分裂…小团子？",
+      "id": 78,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "sad",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "不要…分开…",
+      "id": 79,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "抱抱…自己…",
+      "id": 80,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "暖和和…",
+      "id": 81,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "节日…是什么？",
+      "id": 82,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "快乐…简单…",
+      "id": 83,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "悲伤…噗…没了…",
+      "id": 84,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "sad",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "心情…只有三秒…",
+      "id": 85,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "刚才…想什么？",
+      "id": 86,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "算了…不想了…",
+      "id": 87,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "前进…蠕动…",
+      "id": 88,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "后退…也是蠕动…",
+      "id": 89,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "左边…看看…",
+      "id": 90,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "右边…看看…",
+      "id": 91,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "上面…有东西？",
+      "id": 92,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "下面…是家…",
+      "id": 93,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "探险…结束…",
+      "id": 94,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "回家…睡觉…",
+      "id": 95,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "明天…见…",
+      "id": 96,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "明天…是啥？",
+      "id": 97,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "重复…每一天…",
+      "id": 98,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "开心…每一天…",
+      "id": 99,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "生长…一点点…",
+      "id": 100,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "变大…变强…",
+      "id": 101,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "还是…软软的…",
+      "id": 102,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "骄傲…挺胸…",
+      "id": 103,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "sad",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "噗噜…滑倒了…",
+      "id": 104,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "没关系…再来…",
+      "id": 105,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "世界…爱着我…",
+      "id": 106,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "你…也爱着我？",
+      "id": 107,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "呀！是谁？",
+      "id": 108,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "嘻嘻…痒痒…",
+      "id": 109,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "朋友，亲亲！",
+      "id": 110,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "玩，想要",
+      "id": 111,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "抱抱！",
+      "id": 112,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "举高高！",
+      "id": 113,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "喜欢…这个！",
+      "id": 114,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "再来…一次！",
+      "id": 115,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "哇啊！开心！",
+      "id": 116,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "热热，暖暖~",
+      "id": 117,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "暖暖…的手…",
+      "id": 118,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "戳戳…反弹！",
+      "id": 119,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "别停…嘛…",
+      "id": 120,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "惊喜！Mua！",
+      "id": 121,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "抓住…你了！",
+      "id": 122,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "蹭蹭…",
+      "id": 123,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "陪你…玩哦…",
+      "id": 124,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "能量…充满！",
+      "id": 125,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "噗噜噜~！",
+      "id": 126,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "咕啾！",
+      "id": 127,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "变大了！",
+      "id": 128,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "啵啵啵啵！",
+      "id": 129,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "变成…星星…",
+      "id": 130,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "亲亲…开始！",
+      "id": 131,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "眼睛…星星！",
+      "id": 132,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "幸福…满了…",
+      "id": 133,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "独家…按摩…",
+      "id": 134,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "这里…也痒痒…",
+      "id": 135,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "嘿嘿嘿…",
+      "id": 136,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "哇哈哈哈！",
+      "id": 137,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "开心…到融化…",
+      "id": 138,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "不要…停…",
+      "id": 139,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "焦点…是我！",
+      "id": 140,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "爱你，哦！",
+      "id": 141,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "最…喜欢你了！",
+      "id": 142,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "魔法…发动！",
+      "id": 143,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "闪耀！咕啾！",
+      "id": 144,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "噗咻！起飞！",
+      "id": 145,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "摸摸，舒服！",
+      "id": 146,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "拍拍…好舒服…",
+      "id": 147,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "你好，你好~",
+      "id": 148,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "软软，喜欢~",
+      "id": 149,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "快乐，泡泡！",
+      "id": 150,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "揉揉，喜欢！",
+      "id": 151,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "吐泡泡，给你！",
+      "id": 152,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "sad",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "晃晃，晕晕……",
+      "id": 153,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "心情，飞飞！",
+      "id": 154,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "幸运，闪闪！",
+      "id": 155,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "秘密…告诉你…",
+      "id": 156,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "其实…我很聪明！",
+      "id": 157,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "滑滑，喜欢！",
+      "id": 158,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "咕噜咕噜…",
+      "id": 159,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "呼呀！",
+      "id": 160,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "被发现了！",
+      "id": 161,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "sad",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "装死…失败…",
+      "id": 162,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "陪我再…玩一会…",
+      "id": 163,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "你的手…魔法！",
+      "id": 164,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "烦恼…噗…飞走！",
+      "id": 165,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "一起…发呆吧！",
+      "id": 166,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "嘿嘿…呼呼…",
+      "id": 167,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "幸运…我们！",
+      "id": 168,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "幸运…分给你！",
+      "id": 169,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "噗噗…吐泡泡…",
+      "id": 170,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "泡泡…送给你！",
+      "id": 171,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "黏上…你了！",
+      "id": 172,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "甩不掉…哦！",
+      "id": 173,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "新游戏…开始！",
+      "id": 174,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "追逐…你的手指！",
+      "id": 175,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "胜利！是我！",
+      "id": 176,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "安慰…抱抱…",
+      "id": 177,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "感觉…好点了吗？",
+      "id": 178,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "苏摩！…治愈术！",
+      "id": 179,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "舒服…苏摩…",
+      "id": 180,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "轻轻…摇晃…",
+      "id": 181,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "摇篮…时光…",
+      "id": 182,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "差点…睡着…",
+      "id": 183,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "还，想玩！",
+      "id": 184,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "精力…无限！",
+      "id": 185,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "挑战！不怕！",
+      "id": 186,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "保护…你！",
+      "id": 187,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "小小，我……大大，你！",
+      "id": 188,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "勇气…满满！",
+      "id": 189,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "咕扭…钻出来！",
+      "id": 190,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "吓你…一跳！",
+      "id": 191,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "玩笑…成功！",
+      "id": 192,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "朋友……苏摩！",
+      "id": 193,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "永远…在一起…",
+      "id": 194,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "想要，更多……",
+      "id": 195,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "主人！好棒！",
+      "id": 196,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "主人！好酷！",
+      "id": 197,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "主人！好厉害！",
+      "id": 198,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "主人！最棒！",
+      "id": 199,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "主人！第一！",
+      "id": 200,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 1,
+      "dango_id": [
+        2
+      ],
+      "describ": "布鲁，想你~",
+      "id": 201,
+      "limit_dango": 1,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 1,
+      "dango_id": [
+        1
+      ],
+      "describ": "格林，抱抱~",
+      "id": 202,
+      "limit_dango": 2,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 1,
+      "dango_id": [
+        5
+      ],
+      "describ": "千里，击涛！",
+      "id": 203,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 1,
+      "dango_id": [
+        10
+      ],
+      "describ": "盖亚，对决！",
+      "id": 204,
+      "limit_dango": 11,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 1,
+      "dango_id": [
+        11
+      ],
+      "describ": "红红的，喜欢！",
+      "id": 205,
+      "limit_dango": 14,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "千里，击涛！",
+      "id": 206,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "千里，击涛！",
+      "id": 207,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "千里，击涛！",
+      "id": 208,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "千里，击涛！",
+      "id": 209,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "千里，击涛！",
+      "id": 210,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "千里，击涛！",
+      "id": 211,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "千里，击涛！",
+      "id": 212,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "千里，击涛！",
+      "id": 213,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 1,
+      "dango_id": [
+        25
+      ],
+      "describ": "赛尔，喜欢……",
+      "id": 214,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 1,
+      "dango_id": [
+        36
+      ],
+      "describ": "喜欢，赛尔",
+      "id": 215,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 1,
+      "dango_id": [
+        34
+      ],
+      "describ": "想要，和你",
+      "id": 216,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 1,
+      "dango_id": [
+        35
+      ],
+      "describ": "你，记忆，模样……",
+      "id": 217,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "sad",
+      "action_team": 1,
+      "dango_id": [
+        50
+      ],
+      "describ": "妈妈，我还要！",
+      "id": 218,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "action_team": 1,
+      "dango_id": [
+        30
+      ],
+      "describ": "世界，毁灭！",
+      "id": 219,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "action_team": 1,
+      "dango_id": [
+        30
+      ],
+      "describ": "吞噬，宇宙！",
+      "id": 220,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "action_team": 1,
+      "dango_id": [
+        30
+      ],
+      "describ": "混沌，永恒！",
+      "id": 221,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "sad",
+      "action_team": 2,
+      "dango_id": [
+        27
+      ],
+      "describ": "天蛇，我很抱歉……",
+      "id": 222,
+      "limit_dango": 55,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "power",
+      "action_team": 2,
+      "dango_id": [
+        54
+      ],
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "id": 223,
+      "limit_dango": 1,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "power",
+      "action_team": 2,
+      "dango_id": [
+        54
+      ],
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "id": 224,
+      "limit_dango": 2,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "power",
+      "action_team": 2,
+      "dango_id": [
+        54
+      ],
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "id": 225,
+      "limit_dango": 3,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "power",
+      "action_team": 2,
+      "dango_id": [
+        54
+      ],
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "id": 226,
+      "limit_dango": 4,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "power",
+      "action_team": 2,
+      "dango_id": [
+        54
+      ],
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "id": 227,
+      "limit_dango": 5,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "power",
+      "action_team": 2,
+      "dango_id": [
+        54
+      ],
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "id": 228,
+      "limit_dango": 6,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "power",
+      "action_team": 2,
+      "dango_id": [
+        54
+      ],
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "id": 229,
+      "limit_dango": 7,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "power",
+      "action_team": 2,
+      "dango_id": [
+        54
+      ],
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "id": 230,
+      "limit_dango": 8,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "power",
+      "action_team": 2,
+      "dango_id": [
+        54
+      ],
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "id": 231,
+      "limit_dango": 9,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "power",
+      "action_team": 2,
+      "dango_id": [
+        54
+      ],
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "id": 232,
+      "limit_dango": 10,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "power",
+      "action_team": 2,
+      "dango_id": [
+        54
+      ],
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "id": 233,
+      "limit_dango": 11,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "power",
+      "action_team": 2,
+      "dango_id": [
+        54
+      ],
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "id": 234,
+      "limit_dango": 12,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "power",
+      "action_team": 2,
+      "dango_id": [
+        54
+      ],
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "id": 235,
+      "limit_dango": 13,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "power",
+      "action_team": 2,
+      "dango_id": [
+        54
+      ],
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "id": 236,
+      "limit_dango": 14,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "power",
+      "action_team": 2,
+      "dango_id": [
+        54
+      ],
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "id": 237,
+      "limit_dango": 15,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "power",
+      "action_team": 2,
+      "dango_id": [
+        54
+      ],
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "id": 238,
+      "limit_dango": 16,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "power",
+      "action_team": 2,
+      "dango_id": [
+        54
+      ],
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "id": 239,
+      "limit_dango": 17,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "power",
+      "action_team": 2,
+      "dango_id": [
+        54
+      ],
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "id": 240,
+      "limit_dango": 18,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "power",
+      "action_team": 2,
+      "dango_id": [
+        54
+      ],
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "id": 241,
+      "limit_dango": 19,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "power",
+      "action_team": 2,
+      "dango_id": [
+        54
+      ],
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "id": 242,
+      "limit_dango": 20,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "power",
+      "action_team": 2,
+      "dango_id": [
+        54
+      ],
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "id": 243,
+      "limit_dango": 21,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "power",
+      "action_team": 2,
+      "dango_id": [
+        54
+      ],
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "id": 244,
+      "limit_dango": 22,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "power",
+      "action_team": 2,
+      "dango_id": [
+        54
+      ],
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "id": 245,
+      "limit_dango": 23,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "power",
+      "action_team": 2,
+      "dango_id": [
+        54
+      ],
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "id": 246,
+      "limit_dango": 24,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "power",
+      "action_team": 2,
+      "dango_id": [
+        54
+      ],
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "id": 247,
+      "limit_dango": 25,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "power",
+      "action_team": 2,
+      "dango_id": [
+        54
+      ],
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "id": 248,
+      "limit_dango": 26,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "power",
+      "action_team": 2,
+      "dango_id": [
+        54
+      ],
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "id": 249,
+      "limit_dango": 27,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "power",
+      "action_team": 2,
+      "dango_id": [
+        54
+      ],
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "id": 250,
+      "limit_dango": 28,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "power",
+      "action_team": 2,
+      "dango_id": [
+        54
+      ],
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "id": 251,
+      "limit_dango": 29,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "power",
+      "action_team": 2,
+      "dango_id": [
+        54
+      ],
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "id": 252,
+      "limit_dango": 30,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "power",
+      "action_team": 2,
+      "dango_id": [
+        54
+      ],
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "id": 253,
+      "limit_dango": 31,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "power",
+      "action_team": 2,
+      "dango_id": [
+        54
+      ],
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "id": 254,
+      "limit_dango": 34,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "power",
+      "action_team": 2,
+      "dango_id": [
+        54
+      ],
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "id": 255,
+      "limit_dango": 35,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "power",
+      "action_team": 2,
+      "dango_id": [
+        54
+      ],
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "id": 256,
+      "limit_dango": 36,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "power",
+      "action_team": 2,
+      "dango_id": [
+        54
+      ],
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "id": 257,
+      "limit_dango": 37,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "power",
+      "action_team": 2,
+      "dango_id": [
+        54
+      ],
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "id": 258,
+      "limit_dango": 38,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "power",
+      "action_team": 2,
+      "dango_id": [
+        54
+      ],
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "id": 259,
+      "limit_dango": 39,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "power",
+      "action_team": 2,
+      "dango_id": [
+        54
+      ],
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "id": 260,
+      "limit_dango": 40,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "power",
+      "action_team": 2,
+      "dango_id": [
+        54
+      ],
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "id": 261,
+      "limit_dango": 41,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "power",
+      "action_team": 2,
+      "dango_id": [
+        54
+      ],
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "id": 262,
+      "limit_dango": 42,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "power",
+      "action_team": 2,
+      "dango_id": [
+        54
+      ],
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "id": 263,
+      "limit_dango": 43,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "power",
+      "action_team": 2,
+      "dango_id": [
+        54
+      ],
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "id": 264,
+      "limit_dango": 44,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "power",
+      "action_team": 2,
+      "dango_id": [
+        54
+      ],
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "id": 265,
+      "limit_dango": 45,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "power",
+      "action_team": 2,
+      "dango_id": [
+        54
+      ],
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "id": 266,
+      "limit_dango": 46,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "power",
+      "action_team": 2,
+      "dango_id": [
+        54
+      ],
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "id": 267,
+      "limit_dango": 47,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "power",
+      "action_team": 2,
+      "dango_id": [
+        54
+      ],
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "id": 268,
+      "limit_dango": 48,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "power",
+      "action_team": 2,
+      "dango_id": [
+        54
+      ],
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "id": 269,
+      "limit_dango": 49,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "power",
+      "action_team": 2,
+      "dango_id": [
+        54
+      ],
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "id": 270,
+      "limit_dango": 50,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "power",
+      "action_team": 2,
+      "dango_id": [
+        54
+      ],
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "id": 271,
+      "limit_dango": 51,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "power",
+      "action_team": 2,
+      "dango_id": [
+        54
+      ],
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "id": 272,
+      "limit_dango": 52,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "power",
+      "action_team": 2,
+      "dango_id": [
+        54
+      ],
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "id": 273,
+      "limit_dango": 53,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "power",
+      "action_team": 2,
+      "dango_id": [
+        54
+      ],
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "id": 274,
+      "limit_dango": 54,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "power",
+      "action_team": 2,
+      "dango_id": [
+        54
+      ],
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "id": 275,
+      "limit_dango": 55,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "power",
+      "action_team": 2,
+      "dango_id": [
+        54
+      ],
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "id": 276,
+      "limit_dango": 56,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "power",
+      "action_team": 2,
+      "dango_id": [
+        54
+      ],
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "id": 277,
+      "limit_dango": 57,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "power",
+      "action_team": 2,
+      "dango_id": [
+        54
+      ],
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "id": 278,
+      "limit_dango": 58,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "power",
+      "action_team": 2,
+      "dango_id": [
+        54
+      ],
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "id": 279,
+      "limit_dango": 59,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "power",
+      "action_team": 2,
+      "dango_id": [
+        54
+      ],
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "id": 280,
+      "limit_dango": 60,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "power",
+      "action_team": 2,
+      "dango_id": [
+        54
+      ],
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "id": 281,
+      "limit_dango": 61,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "power",
+      "action_team": 2,
+      "dango_id": [
+        54
+      ],
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "id": 282,
+      "limit_dango": 62,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "power",
+      "action_team": 2,
+      "dango_id": [
+        54
+      ],
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "id": 283,
+      "limit_dango": 63,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "power",
+      "action_team": 2,
+      "dango_id": [
+        54
+      ],
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "id": 284,
+      "limit_dango": 64,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "power",
+      "action_team": 2,
+      "dango_id": [
+        54
+      ],
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "id": 285,
+      "limit_dango": 65,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "power",
+      "action_team": 2,
+      "dango_id": [
+        54
+      ],
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "id": 286,
+      "limit_dango": 66,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "power",
+      "action_team": 2,
+      "dango_id": [
+        54
+      ],
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "id": 287,
+      "limit_dango": 67,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "power",
+      "action_team": 2,
+      "dango_id": [
+        54
+      ],
+      "describ": "千里，击涛！千里，击涛！千里，击涛！",
+      "id": 288,
+      "limit_dango": 68,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "sad",
+      "action_team": 3,
+      "dango_id": null,
+      "describ": "不许！击涛！",
+      "id": 289,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "sad",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "不许！击涛！",
+      "id": 290,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "sad",
+      "action_team": 1,
+      "dango_id": null,
+      "describ": "不许！击涛！",
+      "id": 291,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 2,
+      "dango_id": [
+        57
+      ],
+      "describ": "超越！变革！",
+      "id": 292,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "",
+      "action_team": 2,
+      "dango_id": [
+        56
+      ],
+      "describ": "群星……魔法……",
+      "id": 293,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 2,
+      "dango_id": [
+        34
+      ],
+      "describ": "胶囊，钻钻！",
+      "id": 294,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "pain",
+      "action_team": 2,
+      "dango_id": [
+        25
+      ],
+      "describ": "救救！",
+      "id": 295,
+      "limit_dango": 63,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 2,
+      "dango_id": [
+        63
+      ],
+      "describ": "贴贴~~贴贴~",
+      "id": 296,
+      "limit_dango": 25,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 1,
+      "dango_id": [
+        64
+      ],
+      "describ": "赛尔，喜欢……",
+      "id": 297,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "power",
+      "action_team": 1,
+      "dango_id": [
+        61
+      ],
+      "describ": "我要，进化！",
+      "id": 298,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "power",
+      "action_team": 1,
+      "dango_id": [
+        65
+      ],
+      "describ": "反弹",
+      "id": 299,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "happy",
+      "action_team": 1,
+      "dango_id": [
+        66
+      ],
+      "describ": "莫伊，来咯！",
+      "id": 300,
+      "limit_dango": 0,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "pain",
+      "action_team": 2,
+      "dango_id": [
+        67
+      ],
+      "describ": "别，过来",
+      "id": 301,
+      "limit_dango": 68,
+      "limit_type": 1,
+      "value": 30
+    },
+    {
+      "action": "pain",
+      "action_team": 2,
+      "dango_id": [
+        68
+      ],
+      "describ": "你，走开！",
+      "id": 302,
+      "limit_dango": 67,
+      "limit_type": 1,
+      "value": 30
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "data": [
+    {
+      "benefit1": 0,
+      "benefit2": 0,
+      "benefit3": 0,
+      "dango_task": [
+        1,
+        2,
+        3
+      ],
+      "describe1": "金色奇迹产出20/每小时",
+      "describe2": "",
+      "describe3": "",
+      "id": 1,
+      "minor_num": 1,
+      "reward": 1000,
+      "task_num": 0
+    },
+    {
+      "benefit1": 1,
+      "benefit2": 0,
+      "benefit3": 0,
+      "dango_task": [
+        4,
+        6
+      ],
+      "describe1": "特权：自动领取掉落的金色奇迹",
+      "describe2": "金色奇迹产出40/每小时",
+      "describe3": "",
+      "id": 2,
+      "minor_num": 1,
+      "reward": 1000,
+      "task_num": 1
+    },
+    {
+      "benefit1": 1,
+      "benefit2": 0,
+      "benefit3": 0,
+      "dango_task": [
+        7,
+        8,
+        9
+      ],
+      "describe1": "同时养成苏摩数量+1",
+      "describe2": "金色奇迹产出60/每小时",
+      "describe3": "",
+      "id": 3,
+      "minor_num": 2,
+      "reward": 2000,
+      "task_num": 2
+    },
+    {
+      "benefit1": 1,
+      "benefit2": 1,
+      "benefit3": 0,
+      "dango_task": [
+        10,
+        11
+      ],
+      "describe1": "特权：离线后苏摩也会获得成长值",
+      "describe2": "金色奇迹产出80/每小时",
+      "describe3": "",
+      "id": 4,
+      "minor_num": 2,
+      "reward": 2000,
+      "task_num": 4
+    },
+    {
+      "benefit1": 1,
+      "benefit2": 1,
+      "benefit3": 0,
+      "dango_task": [
+        13,
+        14,
+        15
+      ],
+      "describe1": "同时养成苏摩数量+1",
+      "describe2": "金色奇迹产出100/每小时",
+      "describe3": "",
+      "id": 5,
+      "minor_num": 3,
+      "reward": 2000,
+      "task_num": 6
+    },
+    {
+      "benefit1": 1,
+      "benefit2": 1,
+      "benefit3": 0,
+      "dango_task": null,
+      "describe1": "同时养成苏摩数量+1",
+      "describe2": "金色奇迹产出120/每小时",
+      "describe3": "",
+      "id": 6,
+      "minor_num": 4,
+      "reward": 2000,
+      "task_num": 8
+    }
+  ]
+}

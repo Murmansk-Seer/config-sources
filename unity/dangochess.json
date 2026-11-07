@@ -1,0 +1,324 @@
+{
+  "data": [
+    {
+      "guide_card": "203;403",
+      "cardid": "203,403",
+      "chapterid": 1,
+      "dango_id": 4,
+      "firstreward": "1_2500005_8",
+      "id": 1,
+      "stageid": 1,
+      "starttime": "2026-02-13 10:00:00"
+    },
+    {
+      "guide_card": "303;201",
+      "cardid": "303,403,201",
+      "chapterid": 1,
+      "dango_id": 6,
+      "firstreward": "1_1727739_150",
+      "id": 2,
+      "stageid": 2,
+      "starttime": "2026-02-13 10:00:00"
+    },
+    {
+      "guide_card": "401;402",
+      "cardid": "401,402,402,403",
+      "chapterid": 1,
+      "dango_id": 24,
+      "firstreward": "2_42667_1",
+      "id": 3,
+      "stageid": 3,
+      "starttime": "2026-02-13 10:00:00"
+    },
+    {
+      "guide_card": "303;401",
+      "cardid": "301,302,303,401,402,403",
+      "chapterid": 1,
+      "dango_id": 25,
+      "firstreward": "1_1727738_200",
+      "id": 4,
+      "stageid": 4,
+      "starttime": "2026-02-13 10:00:00"
+    },
+    {
+      "guide_card": "302;202",
+      "cardid": "301,302,302,201,202.203",
+      "chapterid": 1,
+      "dango_id": 10,
+      "firstreward": "1_1727739_150",
+      "id": 5,
+      "stageid": 5,
+      "starttime": "2026-02-13 10:00:00"
+    },
+    {
+      "guide_card": "402;301",
+      "cardid": "201,301,301,401,402",
+      "chapterid": 1,
+      "dango_id": 11,
+      "firstreward": "2_42668_1",
+      "id": 6,
+      "stageid": 6,
+      "starttime": "2026-02-13 10:00:00"
+    },
+    {
+      "guide_card": "301;304",
+      "cardid": "301,304,402,403,403",
+      "chapterid": 1,
+      "dango_id": 27,
+      "firstreward": "1_1727738_200",
+      "id": 7,
+      "stageid": 7,
+      "starttime": "2026-02-13 10:00:00"
+    },
+    {
+      "guide_card": "401;301",
+      "cardid": "301,301,301,301,401,402",
+      "chapterid": 1,
+      "dango_id": 29,
+      "firstreward": "2_42663_1",
+      "id": 8,
+      "stageid": 8,
+      "starttime": "2026-02-13 10:00:00"
+    },
+    {
+      "guide_card": "302;402",
+      "cardid": "302,302,402,402",
+      "chapterid": 2,
+      "dango_id": 5,
+      "firstreward": "1_2500005_8",
+      "id": 9,
+      "stageid": 1,
+      "starttime": "2026-02-13 10:00:00"
+    },
+    {
+      "guide_card": "403;201",
+      "cardid": "201,201,301,302,402,403",
+      "chapterid": 2,
+      "dango_id": 7,
+      "firstreward": "1_1727739_150",
+      "id": 10,
+      "stageid": 2,
+      "starttime": "2026-02-13 10:00:00"
+    },
+    {
+      "guide_card": "404;302",
+      "cardid": "201,202,203,302,401,404",
+      "chapterid": 2,
+      "dango_id": 8,
+      "firstreward": "2_42669_1",
+      "id": 11,
+      "stageid": 3,
+      "starttime": "2026-02-13 10:00:00"
+    },
+    {
+      "guide_card": "204;303",
+      "cardid": "204,302,303,401,401",
+      "chapterid": 2,
+      "dango_id": 22,
+      "firstreward": "1_1727738_200",
+      "id": 12,
+      "stageid": 4,
+      "starttime": "2026-02-13 10:00:00"
+    },
+    {
+      "guide_card": "202;202",
+      "cardid": "202,202,202,301,402",
+      "chapterid": 2,
+      "dango_id": 28,
+      "firstreward": "1_1727739_150",
+      "id": 13,
+      "stageid": 5,
+      "starttime": "2026-02-13 10:00:00"
+    },
+    {
+      "guide_card": "302;202",
+      "cardid": "201,202,302,302,303,402",
+      "chapterid": 2,
+      "dango_id": 9,
+      "firstreward": "2_42670_1",
+      "id": 14,
+      "stageid": 6,
+      "starttime": "2026-02-13 10:00:00"
+    },
+    {
+      "guide_card": "303;402",
+      "cardid": "201,202,302,303,402,402",
+      "chapterid": 2,
+      "dango_id": 23,
+      "firstreward": "1_1727738_200",
+      "id": 15,
+      "stageid": 7,
+      "starttime": "2026-02-13 10:00:00"
+    },
+    {
+      "guide_card": "202;302",
+      "cardid": "201,202,301,302,302,401,402",
+      "chapterid": 2,
+      "dango_id": 30,
+      "firstreward": "2_42664_1",
+      "id": 16,
+      "stageid": 8,
+      "starttime": "2026-02-13 10:00:00"
+    },
+    {
+      "guide_card": "303;301",
+      "cardid": "301,303",
+      "chapterid": 3,
+      "dango_id": 31,
+      "firstreward": "1_2500005_8",
+      "id": 17,
+      "stageid": 1,
+      "starttime": "2026-02-20 00:00:00"
+    },
+    {
+      "guide_card": "202;301",
+      "cardid": "201,202,301",
+      "chapterid": 3,
+      "dango_id": 32,
+      "firstreward": "1_1727739_150",
+      "id": 18,
+      "stageid": 2,
+      "starttime": "2026-02-20 00:00:00"
+    },
+    {
+      "guide_card": "301;301",
+      "cardid": "301,301,301,301,301",
+      "chapterid": 3,
+      "dango_id": 56,
+      "firstreward": "2_42665_1",
+      "id": 19,
+      "stageid": 3,
+      "starttime": "2026-02-20 00:00:00"
+    },
+    {
+      "guide_card": "201;201",
+      "cardid": "201,201,302,305",
+      "chapterid": 3,
+      "dango_id": 33,
+      "firstreward": "1_1727738_200",
+      "id": 20,
+      "stageid": 4,
+      "starttime": "2026-02-20 00:00:00"
+    },
+    {
+      "guide_card": "304;401",
+      "cardid": "202,304,401,402,402",
+      "chapterid": 3,
+      "dango_id": 34,
+      "firstreward": "1_1727739_150",
+      "id": 21,
+      "stageid": 5,
+      "starttime": "2026-02-20 00:00:00"
+    },
+    {
+      "guide_card": "203;403",
+      "cardid": "202,203,302,304,401,403",
+      "chapterid": 3,
+      "dango_id": 35,
+      "firstreward": "2_42666_1",
+      "id": 22,
+      "stageid": 6,
+      "starttime": "2026-02-20 00:00:00"
+    },
+    {
+      "guide_card": "203;203",
+      "cardid": "201,202,203,203,203,204",
+      "chapterid": 3,
+      "dango_id": 36,
+      "firstreward": "1_1727738_200",
+      "id": 23,
+      "stageid": 7,
+      "starttime": "2026-02-20 00:00:00"
+    },
+    {
+      "guide_card": "203;301",
+      "cardid": "202,203,301,303,402,404",
+      "chapterid": 3,
+      "dango_id": 37,
+      "firstreward": "2_42661_1",
+      "id": 24,
+      "stageid": 8,
+      "starttime": "2026-02-20 00:00:00"
+    },
+    {
+      "guide_card": "301;201",
+      "cardid": "201,301,402,404",
+      "chapterid": 4,
+      "dango_id": 53,
+      "firstreward": "1_2500005_8",
+      "id": 25,
+      "stageid": 1,
+      "starttime": "2026-02-20 00:00:00"
+    },
+    {
+      "guide_card": "402;303",
+      "cardid": "201,202,303,402",
+      "chapterid": 4,
+      "dango_id": 38,
+      "firstreward": "1_1727738_50",
+      "id": 26,
+      "stageid": 2,
+      "starttime": "2026-02-20 00:00:00"
+    },
+    {
+      "guide_card": "301;201",
+      "cardid": "201,202,301,401,401",
+      "chapterid": 4,
+      "dango_id": 45,
+      "firstreward": "1_1727739_50",
+      "id": 27,
+      "stageid": 3,
+      "starttime": "2026-02-20 00:00:00"
+    },
+    {
+      "guide_card": "203;401",
+      "cardid": "201,202,203,401",
+      "chapterid": 4,
+      "dango_id": 52,
+      "firstreward": "1_1727738_50",
+      "id": 28,
+      "stageid": 4,
+      "starttime": "2026-02-20 00:00:00"
+    },
+    {
+      "guide_card": "302;301",
+      "cardid": "201,301,302,401,402",
+      "chapterid": 4,
+      "dango_id": 54,
+      "firstreward": "1_1727739_50",
+      "id": 29,
+      "stageid": 5,
+      "starttime": "2026-02-20 00:00:00"
+    },
+    {
+      "guide_card": "202;201",
+      "cardid": "201,202,202,202,401,402",
+      "chapterid": 4,
+      "dango_id": 48,
+      "firstreward": "2_42662_1",
+      "id": 30,
+      "stageid": 6,
+      "starttime": "2026-02-20 00:00:00"
+    },
+    {
+      "guide_card": "301;403",
+      "cardid": "202,203,301,301,302,401,402,403",
+      "chapterid": 4,
+      "dango_id": 57,
+      "firstreward": "1_1727738_100",
+      "id": 31,
+      "stageid": 7,
+      "starttime": "2026-02-20 00:00:00"
+    },
+    {
+      "guide_card": "304;201",
+      "cardid": "201,201,304,402",
+      "chapterid": 4,
+      "dango_id": 49,
+      "firstreward": "1_1727739_100",
+      "id": 32,
+      "stageid": 8,
+      "starttime": "2026-02-20 00:00:00"
+    }
+  ]
+}

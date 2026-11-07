@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "gene_id": 1,
+      "id": 1,
+      "name": "可爱基因",
+      "skinbaby": "",
+      "skinteen": "",
+      "value": 3
+    },
+    {
+      "gene_id": 2,
+      "id": 2,
+      "name": "正义基因",
+      "skinbaby": "",
+      "skinteen": "",
+      "value": 3
+    },
+    {
+      "gene_id": 3,
+      "id": 3,
+      "name": "邪恶基因",
+      "skinbaby": "",
+      "skinteen": "",
+      "value": 3
+    },
+    {
+      "gene_id": 4,
+      "id": 4,
+      "name": "庆典基因",
+      "skinbaby": "",
+      "skinteen": "",
+      "value": 3
+    },
+    {
+      "gene_id": 5,
+      "id": 5,
+      "name": "王者基因",
+      "skinbaby": "",
+      "skinteen": "",
+      "value": 3
+    },
+    {
+      "gene_id": 6,
+      "id": 6,
+      "name": "黑色基因",
+      "skinbaby": "baby_3",
+      "skinteen": "teen_3",
+      "value": 1
+    },
+    {
+      "gene_id": 7,
+      "id": 7,
+      "name": "白色基因",
+      "skinbaby": "baby_2",
+      "skinteen": "teen_2",
+      "value": 1
+    },
+    {
+      "gene_id": 8,
+      "id": 8,
+      "name": "蓝色基因",
+      "skinbaby": "baby_8",
+      "skinteen": "teen_8",
+      "value": 1
+    },
+    {
+      "gene_id": 9,
+      "id": 9,
+      "name": "绿色基因",
+      "skinbaby": "baby_5",
+      "skinteen": "teen_5",
+      "value": 1
+    },
+    {
+      "gene_id": 10,
+      "id": 10,
+      "name": "黄色基因",
+      "skinbaby": "baby_7",
+      "skinteen": "teen_7",
+      "value": 1
+    },
+    {
+      "gene_id": 11,
+      "id": 11,
+      "name": "紫色基因",
+      "skinbaby": "baby_6",
+      "skinteen": "teen_6",
+      "value": 1
+    },
+    {
+      "gene_id": 12,
+      "id": 12,
+      "name": "红色基因",
+      "skinbaby": "baby_4",
+      "skinteen": "teen_4",
+      "value": 1
+    },
+    {
+      "gene_id": 13,
+      "id": 13,
+      "name": "原始基因",
+      "skinbaby": "",
+      "skinteen": "",
+      "value": 1
+    },
+    {
+      "gene_id": 14,
+      "id": 14,
+      "name": "突变基因",
+      "skinbaby": "",
+      "skinteen": "",
+      "value": 1
+    },
+    {
+      "gene_id": 15,
+      "id": 15,
+      "name": "宝宝基因",
+      "skinbaby": "",
+      "skinteen": "",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "limit_cost": 1000,
+      "name": "经典小屋",
+      "room_id": 500001
+    },
+    {
+      "id": 2,
+      "limit_cost": 1000,
+      "name": "塞西利亚小屋",
+      "room_id": 500002
+    },
+    {
+      "id": 3,
+      "limit_cost": 1000,
+      "name": "克洛斯小屋",
+      "room_id": 500003
+    },
+    {
+      "id": 4,
+      "limit_cost": 1000,
+      "name": "太空站小屋",
+      "room_id": 500004
+    },
+    {
+      "id": 5,
+      "limit_cost": 1000,
+      "name": "阿尔法小屋",
+      "room_id": 500005
+    },
+    {
+      "id": 6,
+      "limit_cost": 1000,
+      "name": "贝塔小屋",
+      "room_id": 500007
+    },
+    {
+      "id": 7,
+      "limit_cost": 1000,
+      "name": "火山小屋",
+      "room_id": 500009
+    },
+    {
+      "id": 8,
+      "limit_cost": 1000,
+      "name": "云霄小屋",
+      "room_id": 500011
+    },
+    {
+      "id": 9,
+      "limit_cost": 1000,
+      "name": "赫尔卡小屋",
+      "room_id": 500013
+    },
+    {
+      "id": 10,
+      "limit_cost": 1000,
+      "name": "露希欧小屋",
+      "room_id": 500015
+    }
+  ]
+}

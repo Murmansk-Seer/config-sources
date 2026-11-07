@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "dango_gold": 20,
+      "dango_num_max": 3,
+      "dango_num_mix": 1,
+      "id": 1
+    },
+    {
+      "dango_gold": 40,
+      "dango_num_max": 9,
+      "dango_num_mix": 4,
+      "id": 2
+    },
+    {
+      "dango_gold": 60,
+      "dango_num_max": 18,
+      "dango_num_mix": 10,
+      "id": 3
+    },
+    {
+      "dango_gold": 80,
+      "dango_num_max": 42,
+      "dango_num_mix": 19,
+      "id": 4
+    },
+    {
+      "dango_gold": 100,
+      "dango_num_max": 70,
+      "dango_num_mix": 43,
+      "id": 5
+    },
+    {
+      "dango_gold": 120,
+      "dango_num_max": 100,
+      "dango_num_mix": 71,
+      "id": 6
+    }
+  ]
+}

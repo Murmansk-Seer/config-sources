@@ -5,8 +5,10 @@ from __future__ import annotations
 
 from dataclasses import dataclass
 import io
+import hashlib
 import json
 import os
+import re
 import struct
 import time
 from pathlib import Path
@@ -15,6 +17,8 @@ from urllib.parse import urljoin
 from urllib.request import Request, urlopen
 
 from solaris.parse.parsers.gems import GemsParser
+from solaris.parse import import_parser_classes
+from seerapi_models.somua import SOMUA_RESOURCES
 
 PACKAGE_NAME = "ConfigPackage"
 CONFIG_BUNDLE_NAME = "pgame_configs_bytes"
@@ -183,24 +187,41 @@ def main() -> None:
             print(f"Ignoring stale official ConfigPackage {version}; keeping {current}")
             return
 
+    revision = os.environ.get("SEERAPI_TOOLING_REVISION", "")
+    if re.fullmatch(r"[0-9a-f]{40}", revision) is None:
+        raise ValueError("A full SEERAPI_TOOLING_REVISION commit SHA is required")
     manifest_url = urljoin(base_url, f"PackageManifest_{PACKAGE_NAME}_{version}.bytes")
     manifest_data = _download_bytes(manifest_url)
     bundle = _find_config_bundle(manifest_data)
     bundle_url = urljoin(base_url, bundle.file_hash)
     bundle_data = _download_bytes(bundle_url)
-    gems_bytes = _extract_text_asset(bundle_data, GEMS_BYTES_NAME)
-
-    parsed = GemsParser().parse(gems_bytes)
+    if len(bundle_data) != bundle.file_size or hashlib.md5(bundle_data).hexdigest() != bundle.file_hash:
+        raise ValueError("Official ConfigPackage bundle digest/size mismatch")
+    outputs = parse_official_tables(bundle_data)
     UNITY_DIR.mkdir(parents=True, exist_ok=True)
-    OUTPUT_FILE.write_text(
-        json.dumps(parsed, ensure_ascii=False, indent=2),
-        encoding="utf-8",
-    )
+    # Validate all tables before writing; failed builds never reach commit/push.
+    for filename, parsed in outputs.items():
+        (UNITY_DIR / filename).write_text(
+            json.dumps(parsed, ensure_ascii=False, indent=2), encoding="utf-8"
+        )
     VERSION_FILE.write_text(version, encoding="utf-8")
+    (UNITY_DIR / ".parser-revision").write_text(revision + "\n", encoding="utf-8")
+    (UNITY_DIR / ".somua-version").write_text(version + "\n", encoding="utf-8")
     print(
         f"Refreshed {OUTPUT_FILE.relative_to(ROOT)} from official ConfigPackage "
-        f"{version}; gems={len(parsed['gems']['gem'])}"
+        f"{version}; tables={len(outputs)}"
     )
+
+
+def parse_official_tables(bundle_data: bytes) -> dict:
+    parsers = {cls.parsed_config_filename(): cls for cls in import_parser_classes()}
+    if len(SOMUA_RESOURCES) != 27:
+        raise ValueError("Incomplete Somua parser installation")
+    result = {"gems.json": GemsParser().parse(_extract_text_asset(bundle_data, GEMS_BYTES_NAME))}
+    for filename in SOMUA_RESOURCES:
+        parser = parsers[filename]()
+        result[filename] = parser.parse(_extract_text_asset(bundle_data, parser.source_config_filename()))
+    return result
 
 
 if __name__ == "__main__":
