@@ -47,17 +47,17 @@ class DownstreamPublicationTests(unittest.TestCase):
         failed = subprocess.CompletedProcess([], 1, '', 'HTTP 503 unavailable')
         with patch.object(CHECK.subprocess, 'run', return_value=failed):
             with self.assertRaises(RuntimeError):
-                CHECK.read_remote_file('publication')
+                CHECK.read_remote_file('publication', 'f' * 40)
 
     def test_http_404_is_an_unpublished_source(self):
         missing = subprocess.CompletedProcess([], 1, '', 'gh: Not Found (HTTP 404)')
         with patch.object(CHECK.subprocess, 'run', return_value=missing):
-            self.assertIsNone(CHECK.read_remote_file('publication'))
+            self.assertIsNone(CHECK.read_remote_file('publication', 'f' * 40))
 
     def test_remote_content_is_decoded(self):
         value = json.dumps({'content': base64.b64encode(b'publication').decode()})
         with patch.object(CHECK.subprocess, 'run', return_value=subprocess.CompletedProcess([], 0, value, '')):
-            self.assertEqual(CHECK.read_remote_file('publication'), 'publication')
+            self.assertEqual(CHECK.read_remote_file('publication', 'f' * 40), 'publication')
 
     def test_workflow_dispatch_is_not_gated_by_gems_refresh(self):
         workflow = (ROOT / '.github/workflows/sync-upstream.yml').read_text()

@@ -24,9 +24,31 @@ def notification_required(source: str, publication: dict | None, receipt: str | 
     )
 
 
-def read_remote_file(path: str) -> str | None:
+def read_state_revision() -> str:
     result = subprocess.run(
-        ['gh', 'api', f'repos/Murmansk-Seer/api-data/contents/{path}?ref=main'],
+        ['gh', 'api', 'repos/Murmansk-Seer/api-data/git/ref/heads/pipeline-state'],
+        text=True, capture_output=True, check=False,
+    )
+    if result.returncode:
+        if 'HTTP 404' in result.stderr:
+            raise RuntimeError(
+                'api-data pipeline-state is missing; publish its verified seed '
+                'before enabling reconciliation'
+            )
+        raise RuntimeError(f'api-data state lookup failed: {result.stderr}')
+    content = json.loads(result.stdout)
+    try:
+        revision = content['object']['sha']
+    except (KeyError, TypeError) as error:
+        raise ValueError('invalid api-data pipeline-state reference') from error
+    if not isinstance(revision, str) or not re.fullmatch(r'[0-9a-f]{40}', revision):
+        raise ValueError('invalid api-data pipeline-state revision')
+    return revision
+
+
+def read_remote_file(path: str, revision: str) -> str | None:
+    result = subprocess.run(
+        ['gh', 'api', f'repos/Murmansk-Seer/api-data/contents/{path}?ref={revision}'],
         text=True, capture_output=True, check=False,
     )
     if result.returncode:
@@ -42,11 +64,13 @@ def main() -> None:
     parser.add_argument('--github-output', type=Path, required=True)
     args = parser.parse_args()
     source = subprocess.check_output(['git', 'rev-parse', 'HEAD'], text=True).strip()
-    raw = read_remote_file('.build-state/publication.json')
+    # Resolve once: a concurrent state publisher must not mix two receipts.
+    revision = read_state_revision()
+    raw = read_remote_file('.build-state/publication.json', revision)
     publication = json.loads(raw) if raw is not None else None
     if publication is not None and not isinstance(publication, dict):
         raise ValueError('invalid api-data publication record')
-    receipt = read_remote_file('.build-state/notified-fingerprint')
+    receipt = read_remote_file('.build-state/notified-fingerprint', revision)
     required = notification_required(source, publication, receipt)
     with args.github_output.open('a', encoding='utf-8') as stream:
         stream.write(f'source={source}\nrequired={str(required).lower()}\n')
