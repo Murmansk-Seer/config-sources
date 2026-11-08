@@ -19,9 +19,9 @@ concurrency:
   cancel-in-progress: false
 jobs:
   sync:
-    uses: Murmansk-Seer/.github/.github/workflows/sync-identical-reusable.yml@8e85fa7d99684cfc71f77c897069f6ed15bac6d1
+    uses: Murmansk-Seer/.github/.github/workflows/sync-identical-reusable.yml@1c1590a056835f0c1728d5fa628cef3570a3b7fa
     with:
-      implementation_ref: 8e85fa7d99684cfc71f77c897069f6ed15bac6d1
+      implementation_ref: 1c1590a056835f0c1728d5fa628cef3570a3b7fa
       dry_run: ${{ inputs.dry_run == true }}
   refresh:
     outputs:
@@ -180,7 +180,7 @@ jobs:
       failed: ${{ steps.report.outputs.failed }}
     steps:
     - id: report
-      uses: Murmansk-Seer/.github/.github/actions/report-update@dadd404c9c0119e0326e1e4fb8fcdf3ef6330dab
+      uses: Murmansk-Seer/.github/.github/actions/report-update@f83131a6f07754a48611946af1494e3b516b4571
       with:
         jobs: ${{ toJSON(needs) }}
         evidence: '{"updated":${{ needs.sync.outputs.status == ''merged'' || needs.refresh.outputs.updated == ''true'' }},"dry_run":${{ inputs.dry_run == true }},"sync_status":"${{ needs.sync.outputs.status }}","config_version":"${{ needs.refresh.outputs.version }}","source":"${{ needs.refresh.outputs.source }}","dispatch":"${{ needs.refresh.outputs.dispatch }}"}'
