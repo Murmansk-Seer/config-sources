@@ -95301,7 +95301,7 @@
           "max_pp": 5,
           "mon_id": 4677,
           "must_hit": 1,
-          "name": "简",
+          "name": "魂·天忤太虚",
           "power": 0,
           "priority": 0,
           "side_effect": [
@@ -95331,7 +95331,7 @@
           "max_pp": 5,
           "mon_id": 4677,
           "must_hit": 1,
-          "name": "极",
+          "name": "魂·天忤太虚",
           "power": 0,
           "priority": 0,
           "side_effect": [
@@ -95361,7 +95361,7 @@
           "max_pp": 5,
           "mon_id": 4706,
           "must_hit": 1,
-          "name": "希",
+          "name": "终梦·赫星黎明",
           "power": 0,
           "priority": 1,
           "side_effect": [
@@ -95394,7 +95394,7 @@
           "max_pp": 5,
           "mon_id": 4706,
           "must_hit": 1,
-          "name": "希",
+          "name": "终梦·赫星黎明",
           "power": 160,
           "priority": 1,
           "side_effect": [
@@ -551485,6 +551485,384 @@
         {
           "accuracy": 95,
           "atk_num": 0,
+          "atk_type": 3,
+          "category": 4,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 29508,
+          "max_pp": 5,
+          "mon_id": 0,
+          "must_hit": 1,
+          "name": "烟幕蔽日",
+          "power": 0,
+          "priority": 0,
+          "side_effect": [
+            191,
+            847,
+            1614,
+            163
+          ],
+          "side_effect_arg": [
+            4,
+            300,
+            4,
+            100,
+            2,
+            1,
+            4
+          ],
+          "soercemove": 0,
+          "type": 8,
+          "info": "开始免疫并反弹异常状态了；为自身附加护盾；对手使用攻击技能则使对手烧伤；对手使用属性技能则随机附加异常状态",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 95,
+          "atk_num": 0,
+          "atk_type": 3,
+          "category": 4,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 29509,
+          "max_pp": 5,
+          "mon_id": 0,
+          "must_hit": 1,
+          "name": "沙暴之力",
+          "power": 0,
+          "priority": 0,
+          "side_effect": [
+            1168,
+            597,
+            843
+          ],
+          "side_effect_arg": [
+            1,
+            4,
+            3,
+            2,
+            2
+          ],
+          "soercemove": 0,
+          "type": 8,
+          "info": "全属性都提升了，双方任意一方处于异常状态时强化效果翻倍；开始吸取对手的体力了；出手变得更快了",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 95,
+          "atk_num": 0,
+          "atk_type": 3,
+          "category": 4,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 29510,
+          "max_pp": 5,
+          "mon_id": 0,
+          "must_hit": 1,
+          "name": "怀光护体",
+          "power": 0,
+          "priority": 0,
+          "side_effect": [
+            191,
+            1392,
+            1269
+          ],
+          "side_effect_arg": [
+            4,
+            3,
+            4
+          ],
+          "soercemove": 0,
+          "type": 8,
+          "info": "开始免疫并反弹异常状态了；解除自身能力下降状态并消除对手回合类效果；对手使用攻击技能则吸取对手体力",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 95,
+          "atk_num": 0,
+          "atk_type": 3,
+          "category": 4,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 29511,
+          "max_pp": 5,
+          "mon_id": 0,
+          "must_hit": 1,
+          "name": "梦幻聚能",
+          "power": 0,
+          "priority": 0,
+          "side_effect": [
+            962,
+            704,
+            843
+          ],
+          "side_effect_arg": [
+            1,
+            300,
+            300,
+            1,
+            1
+          ],
+          "soercemove": 0,
+          "type": 8,
+          "info": "全属性都提升了，自身不处于能力提升状态时强化效果翻倍；恢复了体力；出手变得更快了",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 95,
+          "atk_num": 0,
+          "atk_type": 3,
+          "category": 4,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 29512,
+          "max_pp": 5,
+          "mon_id": 0,
+          "must_hit": 1,
+          "name": "简装出行",
+          "power": 0,
+          "priority": 0,
+          "side_effect": [
+            48,
+            847,
+            52
+          ],
+          "side_effect_arg": [
+            4,
+            300,
+            2
+          ],
+          "soercemove": 0,
+          "type": 8,
+          "info": "开始免疫异常状态了；为自身附加护盾；先出手时使对手技能失效",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 95,
+          "atk_num": 0,
+          "atk_type": 3,
+          "category": 4,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 29513,
+          "max_pp": 5,
+          "mon_id": 0,
+          "must_hit": 1,
+          "name": "必达家书",
+          "power": 0,
+          "priority": 0,
+          "side_effect": [
+            1283,
+            707,
+            843
+          ],
+          "side_effect_arg": [
+            1,
+            4,
+            4,
+            3,
+            1,
+            1
+          ],
+          "soercemove": 0,
+          "type": 8,
+          "info": "全属性都提升了，先出手时强化效果翻倍；开始恢复体力了；出手变得更快了",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 95,
+          "atk_num": 0,
+          "atk_type": 3,
+          "category": 4,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 29514,
+          "max_pp": 5,
+          "mon_id": 0,
+          "must_hit": 1,
+          "name": "盗火之计",
+          "power": 0,
+          "priority": 0,
+          "side_effect": [
+            191
+          ],
+          "side_effect_arg": [
+            1,
+            4,
+            3,
+            2,
+            2,
+            2
+          ],
+          "soercemove": 0,
+          "type": 8,
+          "info": "开始免疫受到的异常状态了",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 95,
+          "atk_num": 0,
+          "atk_type": 3,
+          "category": 4,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 29515,
+          "max_pp": 5,
+          "mon_id": 0,
+          "must_hit": 1,
+          "name": "血饵",
+          "power": 0,
+          "priority": 0,
+          "side_effect": [
+            893
+          ],
+          "side_effect_arg": [
+            1,
+            4,
+            3,
+            2,
+            2,
+            2
+          ],
+          "soercemove": 0,
+          "type": 8,
+          "info": "全属性提升了",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 95,
+          "atk_num": 0,
+          "atk_type": 3,
+          "category": 4,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 29516,
+          "max_pp": 5,
+          "mon_id": 0,
+          "must_hit": 1,
+          "name": "熔岩柱",
+          "power": 0,
+          "priority": 0,
+          "side_effect": [
+            191
+          ],
+          "side_effect_arg": [
+            1,
+            4,
+            3,
+            2,
+            2,
+            2
+          ],
+          "soercemove": 0,
+          "type": 8,
+          "info": "开始免疫受到的异常状态了",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 95,
+          "atk_num": 0,
+          "atk_type": 3,
+          "category": 4,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 29517,
+          "max_pp": 5,
+          "mon_id": 0,
+          "must_hit": 1,
+          "name": "怒怨献祭",
+          "power": 0,
+          "priority": 0,
+          "side_effect": [
+            893
+          ],
+          "side_effect_arg": [
+            1,
+            4,
+            3,
+            2,
+            2,
+            2
+          ],
+          "soercemove": 0,
+          "type": 8,
+          "info": "全属性提升了",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 95,
+          "atk_num": 0,
+          "atk_type": 3,
+          "category": 4,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 29518,
+          "max_pp": 5,
+          "mon_id": 0,
+          "must_hit": 1,
+          "name": "黑曜石心",
+          "power": 0,
+          "priority": 0,
+          "side_effect": [
+            191
+          ],
+          "side_effect_arg": [
+            1,
+            4,
+            3,
+            2,
+            2,
+            2
+          ],
+          "soercemove": 0,
+          "type": 8,
+          "info": "开始免疫受到的异常状态了",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 95,
+          "atk_num": 0,
+          "atk_type": 3,
+          "category": 4,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 29519,
+          "max_pp": 5,
+          "mon_id": 0,
+          "must_hit": 1,
+          "name": "灵魂潮汐",
+          "power": 0,
+          "priority": 0,
+          "side_effect": [
+            893
+          ],
+          "side_effect_arg": [
+            1,
+            4,
+            3,
+            2,
+            2,
+            2
+          ],
+          "soercemove": 0,
+          "type": 8,
+          "info": "全属性提升了",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 95,
+          "atk_num": 0,
           "atk_type": 0,
           "category": 1,
           "crit_rate": 0,
@@ -800085,6 +800463,449 @@
           ],
           "soercemove": 0,
           "type": 223,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 97,
+          "atk_num": 0,
+          "atk_type": 0,
+          "category": 1,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 38638,
+          "max_pp": 5,
+          "mon_id": 0,
+          "must_hit": 0,
+          "name": "灼影先袭",
+          "power": 85,
+          "priority": 3,
+          "side_effect": [
+            743,
+            200,
+            1461
+          ],
+          "side_effect_arg": [
+            2,
+            1,
+            100,
+            6,
+            3
+          ],
+          "soercemove": 0,
+          "type": 101,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 97,
+          "atk_num": 0,
+          "atk_type": 0,
+          "category": 1,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 38639,
+          "max_pp": 5,
+          "mon_id": 0,
+          "must_hit": 1,
+          "name": "沙斗术",
+          "power": 150,
+          "priority": 0,
+          "side_effect": [
+            1009,
+            878,
+            2321
+          ],
+          "side_effect_arg": [
+            1,
+            2,
+            20,
+            300,
+            2
+          ],
+          "soercemove": 0,
+          "type": 101,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 95,
+          "atk_num": 0,
+          "atk_type": 0,
+          "category": 1,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 38640,
+          "max_pp": 5,
+          "mon_id": 0,
+          "must_hit": 1,
+          "name": "翻腾之震怒",
+          "power": 160,
+          "priority": 0,
+          "side_effect": [
+            467,
+            500,
+            984,
+            1933
+          ],
+          "side_effect_arg": [
+            2,
+            300,
+            3,
+            100,
+            14
+          ],
+          "soercemove": 0,
+          "type": 101,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 97,
+          "atk_num": 0,
+          "atk_type": 0,
+          "category": 2,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 38641,
+          "max_pp": 10,
+          "mon_id": 0,
+          "must_hit": 0,
+          "name": "空闪",
+          "power": 85,
+          "priority": 3,
+          "side_effect": [
+            1254,
+            1664
+          ],
+          "side_effect_arg": [
+            90
+          ],
+          "soercemove": 0,
+          "type": 17,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 97,
+          "atk_num": 0,
+          "atk_type": 0,
+          "category": 2,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 38642,
+          "max_pp": 5,
+          "mon_id": 0,
+          "must_hit": 1,
+          "name": "奇特位移",
+          "power": 150,
+          "priority": 0,
+          "side_effect": [
+            426
+          ],
+          "side_effect_arg": [
+            2,
+            50
+          ],
+          "soercemove": 0,
+          "type": 17,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 95,
+          "atk_num": 0,
+          "atk_type": 0,
+          "category": 2,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 38643,
+          "max_pp": 5,
+          "mon_id": 0,
+          "must_hit": 1,
+          "name": "空盈幻光",
+          "power": 160,
+          "priority": 0,
+          "side_effect": [
+            548,
+            1625,
+            1451
+          ],
+          "side_effect_arg": [
+            200,
+            300,
+            100,
+            1,
+            200,
+            3
+          ],
+          "soercemove": 0,
+          "type": 17,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 97,
+          "atk_num": 0,
+          "atk_type": 0,
+          "category": 1,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 38644,
+          "max_pp": 5,
+          "mon_id": 0,
+          "must_hit": 0,
+          "name": "风铃",
+          "power": 85,
+          "priority": 2,
+          "side_effect": [
+            1127,
+            405
+          ],
+          "side_effect_arg": [
+            1,
+            250
+          ],
+          "soercemove": 0,
+          "type": 53,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 97,
+          "atk_num": 0,
+          "atk_type": 0,
+          "category": 1,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 38645,
+          "max_pp": 5,
+          "mon_id": 0,
+          "must_hit": 1,
+          "name": "答复",
+          "power": 150,
+          "priority": 0,
+          "side_effect": [
+            733,
+            1045
+          ],
+          "side_effect_arg": [
+            8,
+            3
+          ],
+          "soercemove": 0,
+          "type": 53,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 95,
+          "atk_num": 0,
+          "atk_type": 0,
+          "category": 1,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 38646,
+          "max_pp": 5,
+          "mon_id": 0,
+          "must_hit": 1,
+          "name": "时间漫旅",
+          "power": 160,
+          "priority": 0,
+          "side_effect": [
+            789,
+            1089
+          ],
+          "side_effect_arg": [
+            1,
+            2,
+            1
+          ],
+          "soercemove": 0,
+          "type": 53,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 95,
+          "atk_num": 0,
+          "atk_type": 0,
+          "category": 2,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 38647,
+          "max_pp": 5,
+          "mon_id": 0,
+          "must_hit": 1,
+          "name": "先祖鱼钩",
+          "power": 140,
+          "priority": 0,
+          "side_effect": [
+            789,
+            1089
+          ],
+          "side_effect_arg": [
+            1,
+            2,
+            1
+          ],
+          "soercemove": 0,
+          "type": 8,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 95,
+          "atk_num": 0,
+          "atk_type": 0,
+          "category": 1,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 38648,
+          "max_pp": 5,
+          "mon_id": 0,
+          "must_hit": 1,
+          "name": "窃心一击",
+          "power": 150,
+          "priority": 0,
+          "side_effect": [
+            789,
+            1089
+          ],
+          "side_effect_arg": [
+            1,
+            2,
+            1
+          ],
+          "soercemove": 0,
+          "type": 8,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 95,
+          "atk_num": 0,
+          "atk_type": 0,
+          "category": 2,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 38649,
+          "max_pp": 5,
+          "mon_id": 0,
+          "must_hit": 1,
+          "name": "妒火",
+          "power": 140,
+          "priority": 0,
+          "side_effect": [
+            789,
+            1089
+          ],
+          "side_effect_arg": [
+            1,
+            2,
+            1
+          ],
+          "soercemove": 0,
+          "type": 8,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 95,
+          "atk_num": 0,
+          "atk_type": 0,
+          "category": 1,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 38650,
+          "max_pp": 5,
+          "mon_id": 0,
+          "must_hit": 1,
+          "name": "炽烈爆发",
+          "power": 150,
+          "priority": 0,
+          "side_effect": [
+            789,
+            1089
+          ],
+          "side_effect_arg": [
+            1,
+            2,
+            1
+          ],
+          "soercemove": 0,
+          "type": 8,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 95,
+          "atk_num": 0,
+          "atk_type": 0,
+          "category": 2,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 38651,
+          "max_pp": 5,
+          "mon_id": 0,
+          "must_hit": 1,
+          "name": "死亡惊涛",
+          "power": 140,
+          "priority": 0,
+          "side_effect": [
+            789,
+            1089
+          ],
+          "side_effect_arg": [
+            1,
+            2,
+            1
+          ],
+          "soercemove": 0,
+          "type": 8,
+          "info": "",
+          "ordinary": 0
+        },
+        {
+          "accuracy": 95,
+          "atk_num": 0,
+          "atk_type": 0,
+          "category": 1,
+          "crit_rate": 0,
+          "friend_side_effect": [],
+          "friend_side_effect_arg": [],
+          "id": 38652,
+          "max_pp": 5,
+          "mon_id": 0,
+          "must_hit": 1,
+          "name": "冥界之门",
+          "power": 150,
+          "priority": 0,
+          "side_effect": [
+            789,
+            1089
+          ],
+          "side_effect_arg": [
+            1,
+            2,
+            1
+          ],
+          "soercemove": 0,
+          "type": 8,
           "info": "",
           "ordinary": 0
         },

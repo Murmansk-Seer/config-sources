@@ -6930,6 +6930,55 @@
       "is_full_screen": 0,
       "module_name": "shengguanglingshengjump",
       "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1320,
+      "is_full_screen": 1,
+      "module_name": "transTycoonCover",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1321,
+      "is_full_screen": 1,
+      "module_name": "getxlwqt",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1322,
+      "is_full_screen": 1,
+      "module_name": "getxlwqt",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1323,
+      "is_full_screen": 1,
+      "module_name": "2026YearEndLiveReservation",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1324,
+      "is_full_screen": 1,
+      "module_name": "travelGameEntry",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1325,
+      "is_full_screen": 1,
+      "module_name": "year2027heiva",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1326,
+      "is_full_screen": 1,
+      "module_name": "rubberHoseGameEntry",
+      "res_config": []
     }
   ]
 }
