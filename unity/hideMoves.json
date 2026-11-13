@@ -13550,6 +13550,24 @@
         "pet_id": 3311
       },
       {
+        "move_id": 38640,
+        "move_name1": "翻腾",
+        "move_name2": "之震怒",
+        "pet_id": 4965
+      },
+      {
+        "move_id": 38643,
+        "move_name1": "空盈",
+        "move_name2": "幻光",
+        "pet_id": 4966
+      },
+      {
+        "move_id": 38646,
+        "move_name1": "时间",
+        "move_name2": "漫旅",
+        "pet_id": 4967
+      },
+      {
         "move_id": 31143,
         "move_name1": "神灵",
         "move_name2": "救世光",
@@ -13559,79 +13577,79 @@
         "move_id": 37946,
         "move_name1": "雷神",
         "move_name2": "天明闪",
-        "pet_id": 5818
+        "pet_id": 15818
       },
       {
         "move_id": 37951,
         "move_name1": "战神",
         "move_name2": "破天闪",
-        "pet_id": 5819
+        "pet_id": 15819
       },
       {
         "move_id": 37954,
         "move_name1": "雷神",
         "move_name2": "万霆闪",
-        "pet_id": 5795
+        "pet_id": 15795
       },
       {
         "move_id": 37957,
         "move_name1": "天崩",
         "move_name2": "万界破",
-        "pet_id": 5796
+        "pet_id": 15796
       },
       {
         "move_id": 19783,
         "move_name1": "",
         "move_name2": "",
-        "pet_id": 5440
+        "pet_id": 15440
       },
       {
         "move_id": 35620,
         "move_name1": "",
         "move_name2": "",
-        "pet_id": 5605
+        "pet_id": 15605
       },
       {
         "move_id": 37283,
         "move_name1": "",
         "move_name2": "",
-        "pet_id": 5786
+        "pet_id": 15786
       },
       {
         "move_id": 37286,
         "move_name1": "",
         "move_name2": "",
-        "pet_id": 5787
+        "pet_id": 15787
       },
       {
         "move_id": 37289,
         "move_name1": "",
         "move_name2": "",
-        "pet_id": 5788
+        "pet_id": 15788
       },
       {
         "move_id": 33404,
         "move_name1": "",
         "move_name2": "",
-        "pet_id": 5823
+        "pet_id": 15823
       },
       {
         "move_id": 40013,
         "move_name1": "",
         "move_name2": "",
-        "pet_id": 5800
+        "pet_id": 15800
       },
       {
         "move_id": 37908,
         "move_name1": "雷神",
         "move_name2": "天明闪",
-        "pet_id": 5830
+        "pet_id": 15830
       },
       {
         "move_id": 37911,
         "move_name1": "战神",
         "move_name2": "破天闪",
-        "pet_id": 5831
+        "pet_id": 15831
       }
     ]
   }

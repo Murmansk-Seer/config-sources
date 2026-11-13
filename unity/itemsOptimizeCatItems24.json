@@ -3,6 +3,46 @@
     "items": [
       {
         "hide": 0,
+        "id": 2400615,
+        "max": 999,
+        "name": "普卡因子",
+        "sort": 32,
+        "cat_id": 24,
+        "purpose": 0,
+        "wd": 1
+      },
+      {
+        "hide": 0,
+        "id": 2400614,
+        "max": 999,
+        "name": "牧魂祭司因子",
+        "sort": 32,
+        "cat_id": 24,
+        "purpose": 0,
+        "wd": 1
+      },
+      {
+        "hide": 0,
+        "id": 2400613,
+        "max": 999,
+        "name": "亚伦德因子",
+        "sort": 32,
+        "cat_id": 24,
+        "purpose": 0,
+        "wd": 1
+      },
+      {
+        "hide": 0,
+        "id": 2400612,
+        "max": 9999,
+        "name": "沙罗摩奥因子",
+        "sort": 32,
+        "cat_id": 24,
+        "purpose": 0,
+        "wd": 1
+      },
+      {
+        "hide": 0,
         "id": 2400611,
         "max": 9999,
         "name": "伊娜因子",

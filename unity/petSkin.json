@@ -16002,6 +16002,24 @@
         "jump_target": 2,
         "mon_id": 4663,
         "type": 3
+      },
+      {
+        "go": "app/FinalActivityPanel",
+        "go_type": "module",
+        "name": "日蚀·终末大天使",
+        "skin_kind": [
+          {
+            "id": 1,
+            "life_time": 0,
+            "skin_type": 0,
+            "type": 2,
+            "year": 0
+          }
+        ],
+        "id": 891,
+        "jump_target": 114017,
+        "mon_id": 4355,
+        "type": 2
       }
     ]
   }
