@@ -205,7 +205,7 @@
       "group": 3,
       "id": 21,
       "period": 1,
-      "rewardinfo": "1_1400162_1800",
+      "rewardinfo": "1_1400162_3600",
       "season": 0,
       "tasktype": 8,
       "value": 1
@@ -215,7 +215,7 @@
       "group": 3,
       "id": 22,
       "period": 1,
-      "rewardinfo": "1_1400162_3600",
+      "rewardinfo": "1_1400162_7200",
       "season": 0,
       "tasktype": 1,
       "value": 3
@@ -225,7 +225,7 @@
       "group": 3,
       "id": 23,
       "period": 1,
-      "rewardinfo": "1_1728448_1",
+      "rewardinfo": "1_1728448_3",
       "season": 0,
       "tasktype": 9,
       "value": 3
@@ -245,7 +245,7 @@
       "group": 3,
       "id": 25,
       "period": 2,
-      "rewardinfo": "1_1400162_12000",
+      "rewardinfo": "1_1400162_24000",
       "season": 0,
       "tasktype": 9,
       "value": 20
@@ -255,7 +255,7 @@
       "group": 3,
       "id": 26,
       "period": 2,
-      "rewardinfo": "1_1400162_12000",
+      "rewardinfo": "1_1400162_24000",
       "season": 0,
       "tasktype": 4,
       "value": 10
@@ -265,7 +265,7 @@
       "group": 3,
       "id": 27,
       "period": 2,
-      "rewardinfo": "1_1728448_1",
+      "rewardinfo": "1_1728448_10",
       "season": 0,
       "tasktype": 8,
       "value": 5
@@ -481,7 +481,7 @@
       "value": 15
     },
     {
-      "describe": "生涯最高段位到达-王者",
+      "describe": "生涯最高段位到达-苏摩大师",
       "group": 3,
       "id": 49,
       "period": 0,
