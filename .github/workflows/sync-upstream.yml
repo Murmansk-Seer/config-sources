@@ -9,7 +9,7 @@ name: Sync Upstream
         type: boolean
         default: false
       force:
-        description: Force official gems refresh after safe sync
+        description: Force complete official Unity snapshot after safe sync
         type: boolean
         default: false
 permissions:
@@ -35,7 +35,7 @@ jobs:
       contents: write
     env:
       CONFIG_PACKAGE_BASE_URL: https://newseer.61.com/Assets/StandaloneWindows64/ConfigPackage/
-      SEERAPI_TOOLING_REVISION: 4a6395907ddd755b580b18d62bcc0bd113b49493
+      SEERAPI_TOOLING_REVISION: bddb5c98a0e8aee615ad39eec36d2c436434a5db
     steps:
     - name: Checkout fork
       uses: actions/checkout@v4
@@ -46,6 +46,17 @@ jobs:
       run: echo "REFRESH_BASE=$(git rev-parse HEAD)" >> "$GITHUB_ENV"
     - name: Publication notification regression tests
       run: python3 -m unittest discover -s tests -p 'test_*publication.py' -v
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+    - name: Set up uv
+      uses: astral-sh/setup-uv@v7
+    - name: Install Unity parser
+      run: |
+        uv pip install --system UnityPy \
+          "seerapi-models @ git+https://github.com/Murmansk-Seer/seerapi.git@${SEERAPI_TOOLING_REVISION}#subdirectory=packages/seerapi-models" \
+          "seerapi-solaris @ git+https://github.com/Murmansk-Seer/seerapi.git@${SEERAPI_TOOLING_REVISION}#subdirectory=packages/solaris"
     - name: Check source changes
       id: check
       env:
@@ -56,9 +67,7 @@ jobs:
         git remote add upstream https://github.com/SeerAPI/config-sources.git || git remote set-url upstream https://github.com/SeerAPI/config-sources.git
         git fetch upstream main
 
-        official_version="$(curl -fsSL --connect-timeout 15 --max-time 60 \
-          --retry 2 --retry-all-errors --retry-delay 2 \
-          "${CONFIG_PACKAGE_BASE_URL%/}/PackageManifest_ConfigPackage.version?t=$(date +%s)")"
+        official_version="$(python .github/scripts/refresh_unity_gems.py --version-only)"
         if ! [[ "$official_version" =~ ^[0-9]{14}$ ]]; then
           echo "::error::Invalid official ConfigPackage version"
           exit 1
@@ -87,24 +96,10 @@ jobs:
     - name: Skip unchanged sync
       if: steps.check.outputs.skip == 'true'
       run: echo "No official or upstream updates; workflow succeeded without rebuilding."
-    - name: Set up Python
-      if: steps.check.outputs.skip != 'true'
-      uses: actions/setup-python@v5
-      with:
-        python-version: '3.10'
-    - name: Set up uv
-      if: steps.check.outputs.skip != 'true'
-      uses: astral-sh/setup-uv@v7
-    - name: Install Unity parser
-      if: steps.check.outputs.skip != 'true'
-      run: |
-        uv pip install --system UnityPy \
-          "seerapi-models @ git+https://github.com/Murmansk-Seer/seerapi.git@${SEERAPI_TOOLING_REVISION}#subdirectory=packages/seerapi-models" \
-          "seerapi-solaris @ git+https://github.com/Murmansk-Seer/seerapi.git@${SEERAPI_TOOLING_REVISION}#subdirectory=packages/solaris"
     - name: Verify complete Unity export regression tests
       if: steps.check.outputs.skip != 'true'
       run: python -m unittest discover -s tests -v
-    - name: Refresh official Unity gems
+    - name: Refresh complete official Unity snapshot
       if: steps.check.outputs.skip != 'true'
       run: |
         python .github/scripts/refresh_unity_gems.py
@@ -114,11 +109,10 @@ jobs:
         git config user.name "github-actions[bot]"
         git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
         set -e
-        git add unity/.version unity/gems.json
-        git add unity/Somua*.json unity/dango*.json unity/.parser-revision unity/.somua-version
+        git add unity/
         if ! git diff --cached --quiet; then
           timestamp=$(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S CST')
-          git commit -m "Refresh official Unity gems $timestamp"
+          git commit -m "Refresh complete official Unity snapshot $timestamp"
         fi
         for attempt in 1 2 3; do
           if git fetch origin main; then
