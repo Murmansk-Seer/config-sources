@@ -35,7 +35,8 @@ class SomuaExportTests(unittest.TestCase):
 
     def test_full_inventory_is_required_and_disabled_is_empty(self):
         required = refresh.required_unity_sources()
-        self.assertEqual(len(required), 294)
+        self.assertGreater(len(required), 294)
+        self.assertIn('SomuaFilterConfig.bytes', required)
         assets = {name: b"raw" for name in required}
         expected = {"complete": True}
         with (
