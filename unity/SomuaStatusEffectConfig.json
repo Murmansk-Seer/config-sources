@@ -2,6 +2,7 @@
   "data": [
     {
       "fx_on_get": "",
+      "fx_on_load": "",
       "fx_on_trig": "",
       "icon": 0,
       "id": 7001,
@@ -14,6 +15,7 @@
     },
     {
       "fx_on_get": "",
+      "fx_on_load": "",
       "fx_on_trig": "",
       "icon": 0,
       "id": 7002,
@@ -26,6 +28,7 @@
     },
     {
       "fx_on_get": "",
+      "fx_on_load": "",
       "fx_on_trig": "",
       "icon": 0,
       "id": 7003,
@@ -38,6 +41,7 @@
     },
     {
       "fx_on_get": "",
+      "fx_on_load": "",
       "fx_on_trig": "",
       "icon": 0,
       "id": 7004,
@@ -50,6 +54,7 @@
     },
     {
       "fx_on_get": "",
+      "fx_on_load": "",
       "fx_on_trig": "",
       "icon": 0,
       "id": 7005,
@@ -62,6 +67,7 @@
     },
     {
       "fx_on_get": "",
+      "fx_on_load": "",
       "fx_on_trig": "",
       "icon": 0,
       "id": 7006,
@@ -74,6 +80,7 @@
     },
     {
       "fx_on_get": "",
+      "fx_on_load": "",
       "fx_on_trig": "",
       "icon": 0,
       "id": 7007,
@@ -86,6 +93,7 @@
     },
     {
       "fx_on_get": "",
+      "fx_on_load": "",
       "fx_on_trig": "",
       "icon": 0,
       "id": 7008,
@@ -98,6 +106,7 @@
     },
     {
       "fx_on_get": "",
+      "fx_on_load": "",
       "fx_on_trig": "",
       "icon": 0,
       "id": 7009,
@@ -110,6 +119,7 @@
     },
     {
       "fx_on_get": "",
+      "fx_on_load": "",
       "fx_on_trig": "",
       "icon": 0,
       "id": 7010,
@@ -122,6 +132,7 @@
     },
     {
       "fx_on_get": "",
+      "fx_on_load": "",
       "fx_on_trig": "",
       "icon": 0,
       "id": 7011,
@@ -134,6 +145,7 @@
     },
     {
       "fx_on_get": "",
+      "fx_on_load": "",
       "fx_on_trig": "",
       "icon": 0,
       "id": 7012,
@@ -146,6 +158,7 @@
     },
     {
       "fx_on_get": "",
+      "fx_on_load": "",
       "fx_on_trig": "",
       "icon": 0,
       "id": 7013,
@@ -158,6 +171,7 @@
     },
     {
       "fx_on_get": "",
+      "fx_on_load": "fx_sleeping",
       "fx_on_trig": "",
       "icon": 0,
       "id": 7014,
@@ -170,6 +184,7 @@
     },
     {
       "fx_on_get": "",
+      "fx_on_load": "",
       "fx_on_trig": "",
       "icon": 0,
       "id": 7015,
@@ -182,6 +197,7 @@
     },
     {
       "fx_on_get": "",
+      "fx_on_load": "",
       "fx_on_trig": "",
       "icon": 0,
       "id": 7016,
@@ -194,6 +210,7 @@
     },
     {
       "fx_on_get": "",
+      "fx_on_load": "",
       "fx_on_trig": "",
       "icon": 0,
       "id": 7017,
@@ -206,6 +223,7 @@
     },
     {
       "fx_on_get": "",
+      "fx_on_load": "",
       "fx_on_trig": "",
       "icon": 0,
       "id": 7018,
@@ -218,6 +236,7 @@
     },
     {
       "fx_on_get": "",
+      "fx_on_load": "",
       "fx_on_trig": "",
       "icon": 0,
       "id": 7019,
@@ -230,6 +249,7 @@
     },
     {
       "fx_on_get": "",
+      "fx_on_load": "",
       "fx_on_trig": "",
       "icon": 0,
       "id": 7020,
@@ -242,6 +262,7 @@
     },
     {
       "fx_on_get": "",
+      "fx_on_load": "",
       "fx_on_trig": "",
       "icon": 0,
       "id": 7021,
@@ -254,6 +275,7 @@
     },
     {
       "fx_on_get": "",
+      "fx_on_load": "",
       "fx_on_trig": "",
       "icon": 0,
       "id": 7022,
@@ -266,6 +288,7 @@
     },
     {
       "fx_on_get": "",
+      "fx_on_load": "",
       "fx_on_trig": "",
       "icon": 0,
       "id": 7023,
@@ -278,6 +301,7 @@
     },
     {
       "fx_on_get": "",
+      "fx_on_load": "",
       "fx_on_trig": "",
       "icon": 0,
       "id": 7024,
