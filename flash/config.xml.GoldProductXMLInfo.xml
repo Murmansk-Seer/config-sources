@@ -24278,4 +24278,11 @@
 	<item icon="" itemID="1728651" price="80" vip="1" type="0" productType="-1" malldiscount="0" productID="262894" name="钻石替代乐享币购买原核碎片"></item>
 	<item icon="" itemID="1728652" price="40" vip="1" type="0" productType="-1" malldiscount="0" productID="262895" name="钻石替代乐享币购买悲悯神石"></item>
 	<item icon="" itemID="1728653" price="20" vip="1" type="0" productType="-1" malldiscount="0" productID="262896" name="钻石替代乐享币购买特性重组剂"></item>
+	<item icon="" itemID="1728660" price="598" vip="1" type="0" productType="-1" malldiscount="0" productID="262897" name="至尊获得精灵【托罗阿】"></item>
+	<item icon="" itemID="1728661" price="30" vip="1" type="0" productType="-1" malldiscount="0" productID="262898" name="购买每日挑战次数（托罗阿）"></item>
+	<item icon="" itemID="1728662" price="20" vip="1" type="0" productType="-1" malldiscount="0" productID="262899" name="付费扫荡简单关卡（托罗阿）"></item>
+	<item icon="" itemID="1728663" price="30" vip="1" type="0" productType="-1" malldiscount="0" productID="262900" name="付费扫荡困难关卡（托罗阿）"></item>
+	<item icon="" itemID="1728664" price="40" vip="1" type="0" productType="-1" malldiscount="0" productID="262901" name="付费扫荡地狱关卡（托罗阿）"></item>
+	<item icon="" itemID="1728665" price="2" vip="1" type="0" productType="-1" malldiscount="0" productID="262902" name="购买获得托罗阿因子"></item>
+	<item icon="" itemID="1728666" price="798" vip="1" type="0" productType="-1" malldiscount="0" productID="262903" name="购买精灵【黄月英】"></item>
 </root>
