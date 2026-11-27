@@ -13580,6 +13580,24 @@
         "pet_id": 4969
       },
       {
+        "move_id": 38661,
+        "move_name1": "广域",
+        "move_name2": "风压",
+        "pet_id": 4970
+      },
+      {
+        "move_id": 38664,
+        "move_name1": "洞观",
+        "move_name2": "玄机变",
+        "pet_id": 4971
+      },
+      {
+        "move_id": 38667,
+        "move_name1": "游影",
+        "move_name2": "摹心",
+        "pet_id": 4972
+      },
+      {
         "move_id": 31143,
         "move_name1": "神灵",
         "move_name2": "救世光",

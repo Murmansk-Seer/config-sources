@@ -7049,6 +7049,55 @@
       "is_full_screen": 1,
       "module_name": "VIPHappyStoreActivity",
       "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1335,
+      "is_full_screen": 1,
+      "module_name": "seerStealth",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1336,
+      "is_full_screen": 0,
+      "module_name": "sendmailActivity",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1337,
+      "is_full_screen": 1,
+      "module_name": "getblglrmain",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1338,
+      "is_full_screen": 1,
+      "module_name": "petSaleHyy",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1339,
+      "is_full_screen": 1,
+      "module_name": "memoryHit",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1340,
+      "is_full_screen": 1,
+      "module_name": "gethjjsmain",
+      "res_config": []
+    },
+    {
+      "curr_app_do": 1,
+      "id": 1341,
+      "is_full_screen": 1,
+      "module_name": "swordcoralActivity",
+      "res_config": []
     }
   ]
 }
