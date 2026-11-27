@@ -4023,7 +4023,7 @@
           {
             "id": 1,
             "life_time": 0,
-            "skin_type": 0,
+            "skin_type": 29,
             "type": 2,
             "year": 0
           }
@@ -5031,7 +5031,7 @@
           {
             "id": 1,
             "life_time": 0,
-            "skin_type": 0,
+            "skin_type": 29,
             "type": 2,
             "year": 0
           }
@@ -6543,7 +6543,7 @@
           {
             "id": 1,
             "life_time": 0,
-            "skin_type": 0,
+            "skin_type": 29,
             "type": 2,
             "year": 0
           }
@@ -7029,7 +7029,7 @@
           {
             "id": 1,
             "life_time": 0,
-            "skin_type": 0,
+            "skin_type": 29,
             "type": 2,
             "year": 0
           }
@@ -9693,7 +9693,7 @@
           {
             "id": 1,
             "life_time": 0,
-            "skin_type": 0,
+            "skin_type": 29,
             "type": 2,
             "year": 0
           }
@@ -10107,7 +10107,7 @@
           {
             "id": 1,
             "life_time": 0,
-            "skin_type": 0,
+            "skin_type": 29,
             "type": 2,
             "year": 0
           }
@@ -10629,7 +10629,7 @@
           {
             "id": 1,
             "life_time": 0,
-            "skin_type": 0,
+            "skin_type": 29,
             "type": 2,
             "year": 0
           }
@@ -10647,13 +10647,13 @@
           {
             "id": 1,
             "life_time": 0,
-            "skin_type": 0,
+            "skin_type": 29,
             "type": 2,
             "year": 0
           }
         ],
         "id": 593,
-        "jump_target": 0,
+        "jump_target": 114192,
         "mon_id": 4275,
         "type": 16
       },
@@ -10665,13 +10665,13 @@
           {
             "id": 1,
             "life_time": 0,
-            "skin_type": 0,
+            "skin_type": 29,
             "type": 2,
             "year": 0
           }
         ],
         "id": 594,
-        "jump_target": 0,
+        "jump_target": 114192,
         "mon_id": 4498,
         "type": 16
       },
@@ -10683,13 +10683,13 @@
           {
             "id": 1,
             "life_time": 0,
-            "skin_type": 0,
+            "skin_type": 29,
             "type": 2,
             "year": 0
           }
         ],
         "id": 595,
-        "jump_target": 0,
+        "jump_target": 114192,
         "mon_id": 3964,
         "type": 16
       },
@@ -10701,13 +10701,13 @@
           {
             "id": 1,
             "life_time": 0,
-            "skin_type": 0,
+            "skin_type": 29,
             "type": 2,
             "year": 0
           }
         ],
         "id": 596,
-        "jump_target": 0,
+        "jump_target": 114192,
         "mon_id": 4422,
         "type": 16
       },
@@ -16047,7 +16047,7 @@
           {
             "id": 1,
             "life_time": 0,
-            "skin_type": 0,
+            "skin_type": 29,
             "type": 2,
             "year": 0
           }
